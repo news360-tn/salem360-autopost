@@ -81,6 +81,17 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 <!-- recent-changes:start (updated automatically by .github/workflows/context.yml - do not edit by hand) -->
 | Date | Commit | Change |
 |---|---|---|
+| 2026-11-12 | `8aa5a19` | bridge: create the News tab (31 column names) when the new Log Sheet does not have it - pick failed 12 Nov with getLastRow of null |
+| 2026-11-12 | `b010b6f` | Salem 360 live (owner 12 Nov) |
+| 2026-11-12 | `9d070d1` | Cloudinary clean-up: this page's files older than 3 days deleted every hour (at 50% of the free limit reels older than 26 h too); a deleted prebuilt reel is uploaded again; rasipalan pictures in the page folder. keys-check: test-only workflow (manual), prints OK/FAIL per secret |
+| 2026-11-12 | `e442e33` | salem 360: local news for the district - Tamil papers only (Dinamalar, Dinamani + Dinakaran / OneIndia where fresh), district towns and searches, power-cut searches, writer rules, town hashtags; whole district; tests updated |
+| 2026-11-12 | `c615fd8` | salem 360: Sheet and Drive folder ids set (its own Sheet and folder) |
+| 2026-11-12 | `f86be8f` | salem 360: Instagram handle salem360.official |
+| 2026-11-12 | `6aa060d` | reel end card: 'Source: <paper> (<date>)' instead of 'ஆதாரம்' (owner 12 Nov) |
+| 2026-11-12 | `aa8be26` | salem 360: own hashtags (page, area, news, Tamil tag, rain/power-cut topic tags); Coimbatore town tags removed; source line stays at the end of every caption |
+| 2026-11-12 | `bdbad9a` | salem 360 comments: only critical comments (fake-news / doubt claim, complaint, abuse) are e-mailed; emoji and normal comments recorded as ignored; comment check every 2 hours |
+| 2026-11-12 | `ca4a578` | salem 360: own reel look (style per page), own footer and logo, page town in the end card and ticker; one picture per reel, 12 news a day; still NOT live |
+| 2026-11-12 | `fcb72c7` | 12 news a day (4+4+4) and one picture per reel |
 | 2026-11-12 | `9c55576` | Salem 360: logo added (kit/logo_salem.png), reel and poster use the Salem logo; still NOT live |
 | 2026-11-12 | `79338ae` | Salem 360: page identity set (salem, #Salem360, சேலம் 360), Coimbatore Sheet/Drive ids blanked, rasipalan entry for salem, README; NOT live (no LIVE file, no secrets) |
 | 2026-11-12 | `5e904e7` | Salem 360: initial code copied from the Coimbatore 360 pattern - page identity set, NOT live (no LIVE file, no secrets, workflows to be disabled) |
