@@ -22,7 +22,7 @@ import allnews      # noqa: E402
 IST = datetime.timezone(datetime.timedelta(hours=5, minutes=30))
 STATE = HERE / "archive" / "pick_state.json"
 URLS = HERE / "results" / "pick_urls.txt"
-AUTO_TOP = int(os.environ.get("PICK_AUTO_TOP", "8"))      # owner 2 Nov: 12 -> 8
+AUTO_TOP = int(os.environ.get("PICK_AUTO_TOP", "4"))      # owner 2 Nov: 12 -> 8
 WAIT_MIN = int(os.environ.get("PICK_WAIT_MIN", "60"))
 LEFT_HOURS = 24
 AD = re.compile(r"தள்ளுபடி|ஆஃபர்|ஆபர்|அள்ளுங்க|அள்ளுவோம்|விற்பனை தொடக்கம்|ஷோரூம்|புதிய கிளை திறப்பு|சிறப்பு விற்பனை")      # advertorials, not news

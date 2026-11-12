@@ -33,7 +33,7 @@ jobs:
       BRIDGE_URL: ${{ secrets.BRIDGE_URL }}
       BRIDGE_KEY: ${{ secrets.BRIDGE_KEY }}
       CITY_ONLY: "0"
-      PICK_AUTO_TOP: ${{ github.event.schedule == '30 0 * * *' && '8' || '6' }}      # owner 2 Nov: 8 + 6 + 6 = 20 news a day
+      PICK_AUTO_TOP: ${{ github.event.schedule == '30 0 * * *' && '4' || '4' }}      # 12 Nov: 4 + 4 + 4 = 12 news a day
       PICK_EMAIL: "0"      # owner 2 Nov: "do not ask me to confirm" - no list e-mail, the top news are written at once
       PICK_WAIT_MIN: "60"
       PICK_REQUIRE_EMAIL: "0"
