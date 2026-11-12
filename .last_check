@@ -1,4 +1,4 @@
-20:58:24 automatic images step failed (posting goes on): bridge autoPending: TypeError: Cannot read properties of null (reading 'getLastRow')
+21:03:36 automatic images step failed (posting goes on): bridge autoPending: TypeError: Cannot read properties of null (reading 'getLastRow')
 Traceback (most recent call last):
   File "/home/runner/work/salem360-autopost/salem360-autopost/poster/post.py", line 2094, in <module>
     main()
