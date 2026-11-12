@@ -2,3 +2,129 @@ bridge 'recent' failed: {'ok': False, 'error': "TypeError: Cannot read propertie
 writer exit 1 (try 1)
 bridge 'recent' failed: {'ok': False, 'error': "TypeError: Cannot read properties of null (reading 'getLastRow')"}
 writer exit 1 (try 2)
+writing [N]: கலெக்டர் ஆபீசில் மின்தடை லிப்டில் சிக்கி 5 பேர் தவிப்பு
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
+fail gemini/gemini-3.6-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=60)
+poor answer - skipped for 30 min: gemini/gemini-3.6-flash
+fail gemini/gemini-3.5-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=60)
+poor answer - skipped for 30 min: gemini/gemini-3.5-flash
+fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 503: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing 
+fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 503: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing 
+switching away from gemini/gemini-3-flash-preview for 10 min
+fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {"error":{"message":"Rate limit reached for model `openai/gpt-oss-120b` in organization `o
+dead for this round: groq/openai/gpt-oss-120b
+ok groq/qwen/qwen3.8-27b (4s)
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
+fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {"error":{"message":"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m
+fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {"error":{"message":"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m
+switching away from groq/qwen/qwen3.8-27b for 10 min
+free fact-check unavailable, using Claude: no free model answered: groq qwen/qwen3.8-27b 429: {"error":{"message":"Rate limit reached for model
+ok anthropic/claude-haiku-5-5
+factcheck by anthropic/claude-haiku-5-5: 8 problems
+  reel_script says the person with breathing difficulty 'ஓய்வு பெற்றார்' (retired/left), but the article says they rested for a while after which they took a sigh of relief; 'retired' changes the meaning
+  reel_script says the lift stopped 'நடுவழியில்' (midway), which the article does not state
+  reel_script says the 5 people were 'லிப்டில் சிக்கிக்கொண்டனர்' and 'லிப்டில் இருந்த 5 பேரும் வெளியே வந்தனர்' — consistent, but reel_script omits the article's key fact that the maintenance person arrived quickly and the power returned after 15 minutes is fine; however the reel_script states the maintenance person 'விரைந்து அங்கு வந்தார்' which is acceptable
+  caption says the 5 people 'பாதுகாப்பாக' / 'அனைவரும் பாதுகாப்பாக உள்ளனர்' — the article does not say they were safe overall, only that one person suffered breathing difficulty and rested
+  caption says the person with breathing difficulty 'ஓய்வு பெற்று' (retired after rest), the same mistranslation of the rest/recovery as an exit from work
+  slides_spec slide 3 says '5 பேரும் பாதுகாப்பாக வெளியே வந்தனர்' (all 5 safely came out), an added claim about safety not stated in the article
+  slides_spec slide 1 says 'இன்று காலை 10 மணிக்கு மின்தடை' and the reel says the incident happened 'காலை 10 மணிக்கு' while the article says the lift was moving at 10:00 when the power cut occurred; the 'மின்தடை' timing is slightly reshaped but the article supports it
+  caption's 'ℹ️ மக்கள் கவனத்திற்கு' note is an invented public-advisory claim not in the article
+attempt 1 groq/qwen/qwen3.8-27b: 8 problems
+  fact-check: reel_script says the person with breathing difficulty 'ஓய்வு பெற்றார்' (retired/left), but the article says they rested for a while after which they took a sigh of relief; 'retired' changes the meaning
+  fact-check: reel_script says the lift stopped 'நடுவழியில்' (midway), which the article does not state
+  fact-check: reel_script says the 5 people were 'லிப்டில் சிக்கிக்கொண்டனர்' and 'லிப்டில் இருந்த 5 பேரும் வெளியே வந்தனர்' — consistent, but reel_script omits the article's key fact that the maintenance person arrived quickly and the power returned after 15 minutes is fine; however the reel_script states the maintenance person 'விரைந்து அங்கு வந்தார்' which is acceptable
+  fact-check: caption says the 5 people 'பாதுகாப்பாக' / 'அனைவரும் பாதுகாப்பாக உள்ளனர்' — the article does not say they were safe overall, only that one person suffered breathing difficulty and rested
+  fact-check: caption says the person with breathing difficulty 'ஓய்வு பெற்று' (retired after rest), the same mistranslation of the rest/recovery as an exit from work
+  fact-check: slides_spec slide 3 says '5 பேரும் பாதுகாப்பாக வெளியே வந்தனர்' (all 5 safely came out), an added claim about safety not stated in the article
+  fact-check: slides_spec slide 1 says 'இன்று காலை 10 மணிக்கு மின்தடை' and the reel says the incident happened 'காலை 10 மணிக்கு' while the article says the lift was moving at 10:00 when the power cut occurred; the 'மின்தடை' timing is slightly reshaped but the article supports it
+  fact-check: caption's 'ℹ️ மக்கள் கவனத்திற்கு' note is an invented public-advisory claim not in the article
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
+free models unavailable: no free model answered: None
+ok anthropic/claude-haiku-5-5
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
+free fact-check unavailable, using Claude: no free model answered: None
+ok anthropic/claude-haiku-5-5
+factcheck by anthropic/claude-haiku-5-5: 5 problems
+  Caption and reel_script describe the lift as stopping 'நடுவில்' (in the middle) / the lift was 'going to the ground floor' — article says it was descending from 4th floor to ground floor, which the draft mostly matches, but slides_spec states 'லிப்ட் நடுவில் நின்றது' (stopped midway), an unsupported detail not in the article
+  Reel_script says the 5 people 'தவித்தனர்' and the caption says 'சிக்கித் தவிப்பு' but the caption's 'ஒரு பெண் உள்பட 5 பேர்' is fine; however the reel_script states the lift was going down 'சென்று கொண்டிருந்தது' while slides say 'செல்லும்போது' — consistent, no issue
+  The reel_script says 'ஊழியர்கள் உடனே' (employees immediately), 'உடனே' is an added detail not stated in the article
+  The reel_script states the person with breathing difficulty 'சிறிது நேர ஓய்வுக்குப் பின் நிம்மதி அடைந்தார்' — the article says 'நிம்மதி பெருமூச்சு விட்டார்', which is acceptable, but the reel_script's wording 'பாதிக்கப்பட்ட ஒருவர்' is fine; no problem
+  Slide 'லிப்ட் நடுவில் நின்றது' and the claim of the lift being stuck midway is an invented location detail not present in the article
+claude rewrite 1 anthropic/claude-haiku-5-5: 5 problems
+  fact-check: Caption and reel_script describe the lift as stopping 'நடுவில்' (in the middle) / the lift was 'going to the ground floor' — article says it was descending from 4th floor to ground floor, which the draft mostly matches, but slides_spec states 'லிப்ட் நடுவில் நின்றது' (stopped midway), an unsupported detail not in the article
+  fact-check: Reel_script says the 5 people 'தவித்தனர்' and the caption says 'சிக்கித் தவிப்பு' but the caption's 'ஒரு பெண் உள்பட 5 பேர்' is fine; however the reel_script states the lift was going down 'சென்று கொண்டிருந்தது' while slides say 'செல்லும்போது' — consistent, no issue
+  fact-check: The reel_script says 'ஊழியர்கள் உடனே' (employees immediately), 'உடனே' is an added detail not stated in the article
+  fact-check: The reel_script states the person with breathing difficulty 'சிறிது நேர ஓய்வுக்குப் பின் நிம்மதி அடைந்தார்' — the article says 'நிம்மதி பெருமூச்சு விட்டார்', which is acceptable, but the reel_script's wording 'பாதிக்கப்பட்ட ஒருவர்' is fine; no problem
+  fact-check: Slide 'லிப்ட் நடுவில் நின்றது' and the claim of the lift being stuck midway is an invented location detail not present in the article
+ok anthropic/claude-haiku-5-5
+claude rewrite 2 anthropic/claude-haiku-5-5: 1 problems
+  slide 4 must have 2-3 lines
+ok anthropic/claude-haiku-5-5
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
+free fact-check unavailable, using Claude: no free model answered: None
+ok anthropic/claude-haiku-5-5
+factcheck by anthropic/claude-haiku-5-5: 12 problems
+  reel_script and slides_spec say 'இன்று நவம்பர் 12ஆம் தேதி' / the article says 'இன்று (நவ.,12)'; the year 2026 is not stated in the reel but this is minor and consistent
+  reel_script says the lift was 'வந்துகொண்டிருந்தது' from 4th floor and then says 'தரைத்தளத்துக்கு' — consistent with article, no issue
+  reel_script says the 5 people were trapped 'லிப்டில் 5 பேர் சிக்கித் தவித்தனர்' and that the 5 'வெளியே வந்தனர்' — consistent, no issue
+  reel_script omits the detail that the lift maintenance person arrived 'விரைந்து' — included, no omission
+  caption states the lift stopped 'மின்தடை ஏற்பட்டதால்' at 10 a.m.; article says the power cut happened while lift was descending around 10:00 — consistent
+  The reel_script's 'ஒரு பெண் உள்பட 5 பேர்' and the caption's 'ஒரு பெண் உள்பட 5 பேர்' are consistent with the article
+  slides_spec 'hl2' states '15 நிமிடத்தில் மீட்பு' — article says power returned in 15 minutes and people came out; acceptable
+  slides_spec 'உடல்நிலை' slide lines mix two facts into one sentence: 'மூச்சுத்திணறலால் பாதிக்கப்பட்ட ஒருவர் சற்று ஓய்வுக்கு பின்' is an incomplete clause with no clear meaning (missing the verb 'நிம்மதி பெருமூச்சு விட்டார்')
+  slides_spec 'உடல்நிலை' slide mixes the breathing-affected person with the unrelated fact about 500+ employees, which is a different fact placed in the same slide section
+  reel_script omits that the person affected by breathing difficulty recovered and 'நிம்மதி' (relief) — the reel says 'நிம்மதி அடைந்தார்', which is present; no omission
+  The 'மீட்பு' slide says 'லிப்ட்டில் இருந்த 5 பேரும் வெளியே வந்தனர்' — accurate
+  slides_spec omits the 'ஊழியர்கள்' detail in the 'என்ன நடந்தது' slide — not required
+claude rewrite 3 anthropic/claude-haiku-5-5: 12 problems
+  fact-check: reel_script and slides_spec say 'இன்று நவம்பர் 12ஆம் தேதி' / the article says 'இன்று (நவ.,12)'; the year 2026 is not stated in the reel but this is minor and consistent
+  fact-check: reel_script says the lift was 'வந்துகொண்டிருந்தது' from 4th floor and then says 'தரைத்தளத்துக்கு' — consistent with article, no issue
+  fact-check: reel_script says the 5 people were trapped 'லிப்டில் 5 பேர் சிக்கித் தவித்தனர்' and that the 5 'வெளியே வந்தனர்' — consistent, no issue
+  fact-check: reel_script omits the detail that the lift maintenance person arrived 'விரைந்து' — included, no omission
+  fact-check: caption states the lift stopped 'மின்தடை ஏற்பட்டதால்' at 10 a.m.; article says the power cut happened while lift was descending around 10:00 — consistent
+  fact-check: The reel_script's 'ஒரு பெண் உள்பட 5 பேர்' and the caption's 'ஒரு பெண் உள்பட 5 பேர்' are consistent with the article
+  fact-check: slides_spec 'hl2' states '15 நிமிடத்தில் மீட்பு' — article says power returned in 15 minutes and people came out; acceptable
+  fact-check: slides_spec 'உடல்நிலை' slide lines mix two facts into one sentence: 'மூச்சுத்திணறலால் பாதிக்கப்பட்ட ஒருவர் சற்று ஓய்வுக்கு பின்' is an incomplete clause with no clear meaning (missing the verb 'நிம்மதி பெருமூச்சு விட்டார்')
+  fact-check: slides_spec 'உடல்நிலை' slide mixes the breathing-affected person with the unrelated fact about 500+ employees, which is a different fact placed in the same slide section
+  fact-check: reel_script omits that the person affected by breathing difficulty recovered and 'நிம்மதி' (relief) — the reel says 'நிம்மதி அடைந்தார்', which is present; no omission
+  fact-check: The 'மீட்பு' slide says 'லிப்ட்டில் இருந்த 5 பேரும் வெளியே வந்தனர்' — accurate
+  fact-check: slides_spec omits the 'ஊழியர்கள்' detail in the 'என்ன நடந்தது' slide — not required
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
+proofread skipped: no free model answered: None
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
+ok anthropic/claude-haiku-5-5
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+image match: False The image is AI-generated (evidenced by the misspelled 'LFIT' sign and distorted clothing blending a male shirt with a s
+image match check unavailable: gemini-3.5-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout
+images made: 1 for 'Five people trapped in lift at Salem Col'
+bridge: 200 {"ok":true,"added":1,"auto_queued":1,"emailed":0,"reoffered":0,"batch":"B20261112-2221","first":"RN-1"}
+posting job started at once
+earlier stories still waiting for images: []
+instagram check: 0 recent posts read from the page
+pick round: only the picked links are written (research_free/pick.py)
+manual link added: https://www.dinamalar.com/amp/news/tamil-nadu-news/5-trapped-in-electric-lift-at-collector-s-office/4374572
+candidate filter: collected=1
+to write: 1 Salem district candidates (max 1 stories)
+round: top 1 of 1 candidates
+candidates waiting: 1 Salem; time left 39 min
+try (N) manual=True: https://www.dinamalar.com/amp/news/tamil-nadu-news/5-trapped
+auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 2})
+posting job started at once
+candidate loop ended: left 0, tried={'N': 1}, done={'N': 1}, time left 35 min
+filed: 1 Salem district stories (target 1), reels only
+queue: 0 news waiting to be written
+All News sheet: {"ok":true,"added":1,"updated":0} 
+stories: 1
