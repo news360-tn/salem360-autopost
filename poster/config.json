@@ -18,7 +18,7 @@
     "rate": "+12%",
     "pitch": "+4Hz",
     "outro_voice": "en-IN-PrabhatNeural",
-    "note": "Coimbatore 360: Valluvar (free edge-tts) reads every reel; Google voices are never used"
+    "note": "Salem 360: Valluvar (free edge-tts) reads every reel; Google voices are never used"
   },
   "prime_time": {
     "enabled": false,
@@ -33,7 +33,7 @@
       ]
     ],
     "max_wait_hours": 12,
-    "note": "owner 29 Oct (Coimbatore): NO fixed posting times - every reel posts the moment it is made. (enabled=true would make non-urgent reels wait for the windows below.)"
+    "note": "owner 29 Oct (Salem): NO fixed posting times - every reel posts the moment it is made. (enabled=true would make non-urgent reels wait for the windows below.)"
   },
   "reel_punch": false,
   "reel_max_seconds": 88,
@@ -69,7 +69,30 @@
       "sports_culture": "#Sports",
       "other": "#TamilNews"
     },
-    "place_tags": {},
+    "place_tags": {
+      "ஆத்தூ": "#Attur",
+      "மேட்டூ": "#Mettur",
+      "ஓமலூ": "#Omalur",
+      "எடப்பாடி": "#Edappadi",
+      "ஏற்கா": "#Yercaud",
+      "சங்ககிரி": "#Sankagiri",
+      "வாழப்பாடி": "#Vazhapadi",
+      "கெங்கவல்லி": "#Gangavalli",
+      "தலைவாச": "#Thalaivasal",
+      "தம்மம்பட்டி": "#Thammampatti",
+      "மேச்சேரி": "#Mecheri",
+      "தாரமங்கல": "#Tharamangalam",
+      "இளம்பிள்ளை": "#Ilampillai",
+      "ஆட்டையாம்பட்டி": "#Attayampatti",
+      "பனமரத்துப்பட்டி": "#Panamarathupatti",
+      "நங்கவள்ளி": "#Nangavalli",
+      "அஸ்தம்பட்டி": "#Hasthampatti",
+      "சூரமங்கல": "#Suramangalam",
+      "அம்மாபேட்டை": "#Ammapet",
+      "கொண்டலாம்பட்டி": "#Kondalampatti",
+      "அழகாபுர": "#Alagapuram",
+      "கன்னங்குறிச்சி": "#Kannankurichi"
+    },
     "extra_tag": "#SalemDistrict",
     "search_suffix": "Salem news",
     "caption_all_facts": true,
