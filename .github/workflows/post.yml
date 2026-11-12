@@ -36,8 +36,8 @@ env:
   POLLINATIONS_API_KEY: ${{ secrets.POLLINATIONS_API_KEY }}
   GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}   # picture check: does the AI image show the news?
   SARVAM_API_KEY: ${{ secrets.SARVAM_API_KEY }}      # owner 30 Oct: free writers (skipped until the key is set)
-  FB_PAGE_ID_COIMBATORE: ${{ secrets.FB_PAGE_ID_COIMBATORE }}      # owner 2 Nov: the same posts also go to the Facebook page
-  FB_TOKEN_COIMBATORE: ${{ secrets.FB_TOKEN_COIMBATORE }}
+  FB_PAGE_ID_SALEM: ${{ secrets.FB_PAGE_ID_SALEM }}      # owner 2 Nov: the same posts also go to the Facebook page
+  FB_TOKEN_SALEM: ${{ secrets.FB_TOKEN_SALEM }}
   DAILY_CAP: "44"   # owner 31 Oct: no daily limit of our own - only Instagram's 50 a day (reels + stories); owner 2 Nov (review): the last 6 are kept for urgent news / power cuts
   CITY_ONLY: "0"      # owner 31 Oct: the whole district (top 3 per round decides)
   POST_MAX_AGE_DAYS: "0"      # owner 29 Oct 18:29: only news PUBLISHED TODAY is posted

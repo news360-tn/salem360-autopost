@@ -9,10 +9,10 @@ jobs:
     runs-on: ubuntu-24.04
     timeout-minutes: 5
     env:
-      FB_PAGE_ID_COIMBATORE: ${{ secrets.FB_PAGE_ID_COIMBATORE }}
-      FB_TOKEN_COIMBATORE: ${{ secrets.FB_TOKEN_COIMBATORE }}
+      FB_PAGE_ID_SALEM: ${{ secrets.FB_PAGE_ID_SALEM }}
+      FB_TOKEN_SALEM: ${{ secrets.FB_TOKEN_SALEM }}
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
         with: {python-version: "3.11"}
-      - run: pip install -q requests==2.32.5 && python poster/facebook.py status coimbatore | tee -a "$GITHUB_STEP_SUMMARY"
+      - run: pip install -q requests==2.32.5 && python poster/facebook.py status salem | tee -a "$GITHUB_STEP_SUMMARY"

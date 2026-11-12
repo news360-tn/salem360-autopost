@@ -20,7 +20,7 @@ import post      # noqa: E402
 DAYS = int(os.environ.get("COMMENT_DAYS", "60") or 60)      # owner 11 Nov: the old comments never answered are offered too, not only new ones
 MAX_PER_RUN = int(os.environ.get("COMMENT_MAX", "20") or 20)      # one Google Form holds up to 20 comments
 DRY = os.environ.get("DRY_RUN", "") in ("1", "true", "yes")
-HANDLES = {"namakkal": "namakkal.360", "rasipuram": "rasipuram.360", "coimbatore": "coimbatore.360"}
+HANDLES = {"salem": "salem.360"}      # the page's Instagram handle (placeholder - confirm before going live)
 
 SYSTEM = """You help the owner of a Tamil local-news Instagram page reply to viewers' comments. You NEVER post anything - the owner chooses.
 Return JSON: {"kind": one of "question" | "doubt_or_fake_claim" | "complaint" | "praise" | "info_from_viewer" | "spam_or_abuse" | "other",

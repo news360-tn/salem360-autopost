@@ -22,7 +22,7 @@ permissions:
   contents: write
   actions: write      # starts the posting job as soon as a story is saved
 concurrency:
-  group: coimbatore-pick
+  group: salem-pick
   cancel-in-progress: false
 jobs:
   pick:

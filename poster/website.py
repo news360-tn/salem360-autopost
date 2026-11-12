@@ -73,7 +73,7 @@ def payload(row, reel_link="", en=None):
         "headline_en": en.get("title_en") or row.get("headline_en", ""), "story_en": en.get("story_en", ""),
         "reel_script": row.get("reel_script", ""), "caption": row.get("caption", ""),
         "location": row.get("location", ""), "category": row.get("category", ""), "images": images_of(row),
-        "reel_link": reel_link or row.get("reel_link", "") or row.get("coimbatore_link", ""),
+        "reel_link": reel_link or row.get("reel_link", "") or row.get("salem_link", ""),
         "source": row.get("source", ""), "published": row.get("published", ""), "filed_at": filed_iso(row),
     }
 

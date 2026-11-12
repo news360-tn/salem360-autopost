@@ -509,7 +509,7 @@ def picked_status(rnd, rows):
             out[i] = f"skipped: the writer refused it - {refused[i]}"
         elif not r:
             out[i] = "not written"
-        elif r.get("coimbatore_link") or str(r.get("post_status") or "").lower().startswith("posted"):
+        elif r.get("salem_link") or str(r.get("post_status") or "").lower().startswith("posted"):
             out[i] = "posted"
         else:
             why = _never_posted(r)

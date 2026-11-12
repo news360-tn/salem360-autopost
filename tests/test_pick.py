@@ -187,7 +187,7 @@ class EndToEndOwnerPick(unittest.TestCase):
                "decided": {"how": "owner ticked 3", "ids": [pick.pid(u) for u in urls]}}
         post._PICKED = set(rnd["written"])
         posted_before = {"story_id": "RN-1", "headline_ta": "கோவை மாநகராட்சி குடிநீர் கட்டணம் உயர்வு இல்லை", "headline_en": "",
-                         "post_status": "Posted", "coimbatore_link": "https://instagram.com/p/x", "researched": "01 Nov 2026, 08:00",
+                         "post_status": "Posted", "salem_link": "https://instagram.com/p/x", "researched": "01 Nov 2026, 08:00",
                          "source": "https://other.example/a"}
         rows = []
         for k, u in enumerate(urls):

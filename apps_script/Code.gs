@@ -8,13 +8,13 @@
  *   - after posting: update the Sheet + the story's Google Doc and email the owner
  *
  * Setup (once): see README.md in the GitHub repository, section "Apps Script".
- * Script properties used: BRIDGE_KEY, IG_TOKEN_COIMBATORE, (auto) VOICE_FOLDER_ID, optional ALLOWED_SENDERS
- * E-mail subjects use the tag COIMBATORE360 (not NEWS360) so the Namakkal bridge never reads Coimbatore mails and the other way round.
+ * Script properties used: BRIDGE_KEY, IG_TOKEN_SALEM, (auto) VOICE_FOLDER_ID, optional ALLOWED_SENDERS
+ * E-mail subjects use the tag SALEM360 (not NEWS360) so the Namakkal bridge never reads Coimbatore mails and the other way round.
  */
 // ---- OWNER SETS THESE (new Google account for Coimbatore 360; never the Namakkal Sheet / folder / Gmail) ----
-var SHEET_ID = '19eZoarsIN7U8rtAI0rFa05K1HcJ8KKvmLbVkk2akb9Y';                 // id of the new "Coimbatore 360 Log" Sheet (tab "News", same 31 columns)
+var SHEET_ID = '';      // SALEM: the id of the new "Salem 360 Log" Sheet - REQUIRED (never the Coimbatore Sheet)                 // id of the new "Coimbatore 360 Log" Sheet (tab "News", same 31 columns)
 var TAB = 'News';
-var ROOT_FOLDER_ID = '1IKp3w6AoNvm0W4T3caRAQk1EtKOC4lPg';    // id of the new Drive folder "Coimbatore 360" (prompt files, Voice folder)
+var ROOT_FOLDER_ID = '';      // SALEM: the id of the new Drive folder "Salem 360" - REQUIRED    // id of the new Drive folder "Coimbatore 360" (prompt files, Voice folder)
 var OWNER_EMAIL = 'nammarasipuram2805@gmail.com';           // the owner's Gmail that receives the reports and may send stories / images
 var SHEET_LINK = 'https://docs.google.com/spreadsheets/d/' + SHEET_ID + '/edit';
 
@@ -23,17 +23,17 @@ var C = {
   story_id: 1, researched: 2, published: 3, headline_ta: 4, headline_en: 5, category: 6, location: 7,
   importance: 8, verification: 9, source: 10, other_sources: 11, review_page: 12, doc: 13, notion: 14,
   caption: 15, email_sent: 16, gmail_id: 17, review: 18, post_to: 19, reel: 20, reel_script: 21,
-  slides_spec: 22, post_status: 23, posted_at: 24, spare_link: 25, coimbatore_link: 26, reel_link: 27, notes: 28,
+  slides_spec: 22, post_status: 23, posted_at: 24, spare_link: 25, salem_link: 26, reel_link: 27, notes: 28,
   batch: 29, prompts: 30, images: 31
 };
 var NCOLS = 31;
 var CLOUD_NAME = 'vkghshc8';       // OWNER SETS: the new Cloudinary account's cloud name (same as GitHub secret CLOUDINARY_CLOUD)
-var UPLOAD_PRESET = 'coimbatore360';                 // OWNER SETS: unsigned upload preset in that account (same as GitHub secret CLOUDINARY_PRESET)
+var UPLOAD_PRESET = 'salem360';                 // OWNER SETS: unsigned upload preset in that account (same as GitHub secret CLOUDINARY_PRESET)
 var MIN_IMAGES = 1;     // Coimbatore: ONE image per reel
 var EXPIRE_HOURS = 2;   // owner request 24 Oct: after 3 hours without the owner's images, automatic images are made and the story is posted
 var COLLAB_USERNAME = '';        // Coimbatore: one page, no collaborator
-var PAGE_LABEL = { coimbatore: 'கோயம்புத்தூர் 360' };
-var PAGE_COL = { coimbatore: C.coimbatore_link };
+var PAGE_LABEL = { salem: 'சேலம் 360' };
+var PAGE_COL = { salem: C.salem_link };
 
 function json_(obj) {
   return ContentService.createTextOutput(JSON.stringify(obj)).setMimeType(ContentService.MimeType.JSON);
@@ -120,7 +120,7 @@ function rowObj_(values, rowNum) {
 }
 /** Coimbatore: there is ONE page (கோயம்புத்தூர் 360, post_to "Coimbatore 360"), no collaborator - every story posts on it (same rule as poster/post.py pages_of). */
 function targets_(postTo) {
-  return ['coimbatore'];
+  return ['salem'];
 }
 // true when the page has its carousel (unless reel-only - Coimbatore is reel-only) and its reel
 function allDone_(r) {
@@ -160,7 +160,7 @@ function token_(page) {
 }
 /** Runs weekly (trigger made by setup): keeps the 60-day Instagram token alive. */
 function refreshTokens() {
-  ['COIMBATORE'].forEach(function (p) {
+  ['SALEM'].forEach(function (p) {
     var key = 'IG_TOKEN_' + p, t = props_().getProperty(key);
     if (!t) return;
     var res = UrlFetchApp.fetch('https://graph.instagram.com/refresh_access_token?grant_type=ig_refresh_token&access_token=' +
@@ -169,7 +169,7 @@ function refreshTokens() {
     if (d.access_token) {
       props_().setProperty(key, d.access_token);
     } else {
-      GmailApp.sendEmail(OWNER_EMAIL, '[COIMBATORE360] Instagram token refresh failed – ' + p,
+      GmailApp.sendEmail(OWNER_EMAIL, '[SALEM360] Instagram token refresh failed – ' + p,
         'The Instagram token for ' + p + ' could not be refreshed:\n' + res.getContentText() +
         '\n\nPlease generate a new token in the Meta developer app and save it in Apps Script → Project Settings → Script properties (' + key + ').');
     }
@@ -210,7 +210,7 @@ function posted_(b) {
 
   if (b.dry_run) {
     appendNote_(sh, b.row, r.notes, time + ' TEST ' + kindLabel + ' ' + label + ' (not posted): ' + (b.media_urls || []).join(' '));
-    GmailApp.sendEmail(OWNER_EMAIL, '[COIMBATORE360 TEST – NOT POSTED] ' + label + ' ' + kindLabel + ' – ' + r.headline_ta,
+    GmailApp.sendEmail(OWNER_EMAIL, '[SALEM360 TEST – NOT POSTED] ' + label + ' ' + kindLabel + ' – ' + r.headline_ta,
       emailBody_(r, b, label, kindLabel, time, true));
     return { ok: true };
   }
@@ -244,7 +244,7 @@ function posted_(b) {
       appendNote_(sh, b.row, sh.getRange(b.row, C.notes).getValue(), 'Doc update failed: ' + err);
     }
   }
-  GmailApp.sendEmail(OWNER_EMAIL, '[COIMBATORE360 POSTED] ' + label + ' ' + kindLabel + ' – ' + r.headline_ta,
+  GmailApp.sendEmail(OWNER_EMAIL, '[SALEM360 POSTED] ' + label + ' ' + kindLabel + ' – ' + r.headline_ta,
     emailBody_(r, b, label, kindLabel, time, false));
   props_().deleteProperty('ERR_' + b.row + '_' + b.page + '_' + b.kind);
   return { ok: true };
@@ -295,7 +295,7 @@ function error_(b) {
   appendNote_(sh, b.row, r.notes, nowIst_() + ' ERROR ' + b.kind + ' ' + b.page + ' (try ' + n + '): ' + b.error);
   if (n >= 3) {
     sh.getRange(b.row, C.review).setValue('Hold');
-    GmailApp.sendEmail(OWNER_EMAIL, '[COIMBATORE360 PROBLEM] Could not post ' + r.story_id + ' – ' + r.headline_ta,
+    GmailApp.sendEmail(OWNER_EMAIL, '[SALEM360 PROBLEM] Could not post ' + r.story_id + ' – ' + r.headline_ta,
       'Posting failed 3 times, so this story is now on Hold.\n\nPage: ' + (PAGE_LABEL[b.page] || b.page) + '\nType: ' + b.kind +
       '\nError: ' + b.error + '\n\nSheet: ' + SHEET_LINK + ' (row ' + b.row + ')\nTo try again, clear "Hold" in the Review status column.');
   }
@@ -304,7 +304,7 @@ function error_(b) {
 
 // ------------------------------------------------------------------ reading your image reply
 /**
- * Runs every 5 minutes. Looks for your reply to a "[COIMBATORE360 IMAGES NEEDED]" email, takes the attached images
+ * Runs every 5 minutes. Looks for your reply to a "[SALEM360 IMAGES NEEDED]" email, takes the attached images
  * (a zip, or the images themselves), uploads them to Cloudinary, saves the links in the Sheet and queues the story.
  * Skip a story by writing  SKIP RN-26  in your reply (e.g. when you already posted it yourself).
  */
@@ -317,13 +317,13 @@ function processReplies() {
     var done = JSON.parse(p.getProperty('DONE_MSGS') || '[]');
     var allowed = allowedSenders_();
     try { processManual_(p, done, allowed); } catch (err0) {
-      GmailApp.sendEmail(OWNER_EMAIL, '[COIMBATORE360 PROBLEM] Manual story intake failed', String(err0));
+      GmailApp.sendEmail(OWNER_EMAIL, '[SALEM360 PROBLEM] Manual story intake failed', String(err0));
     }
     try { processReadyReels_(p, allowed); } catch (err1) {
-      GmailApp.sendEmail(OWNER_EMAIL, '[COIMBATORE360 PROBLEM] Ready-reel intake failed', String(err1));
+      GmailApp.sendEmail(OWNER_EMAIL, '[SALEM360 PROBLEM] Ready-reel intake failed', String(err1));
     }
     done = JSON.parse(p.getProperty('DONE_MSGS') || '[]');
-    var threads = GmailApp.search('subject:"COIMBATORE360 IMAGES" newer_than:5d', 0, 30);
+    var threads = GmailApp.search('subject:"SALEM360 IMAGES" newer_than:5d', 0, 30);
     threads.forEach(function (th) {
       var m = th.getFirstMessageSubject().match(/B\d{8}-\d{4}/);
       if (!m) return;
@@ -335,7 +335,7 @@ function processReplies() {
         done.push(id);
         p.setProperty('DONE_MSGS', JSON.stringify(done.slice(-200)));
         try { handleReply_(msg, m[0]); } catch (err) {
-          GmailApp.sendEmail(OWNER_EMAIL, '[COIMBATORE360 PROBLEM] Could not read your image reply', String(err) + '\n\nBatch ' + m[0]);
+          GmailApp.sendEmail(OWNER_EMAIL, '[SALEM360 PROBLEM] Could not read your image reply', String(err) + '\n\nBatch ' + m[0]);
         }
       });
     });
@@ -345,7 +345,7 @@ function processReplies() {
 }
 
 // ------------------------------------------------------------------ MANUAL STORIES (written elsewhere, e.g. with another Claude account, sent by e-mail)
-// E-mail subject must contain  COIMBATORE360 STORY . Body (or a .json/.txt attachment) = the story JSON, attachments = the images (png/jpg/zip).
+// E-mail subject must contain  SALEM360 STORY . Body (or a .json/.txt attachment) = the story JSON, attachments = the images (png/jpg/zip).
 // One story per e-mail: all images belong to it. Several stories in one e-mail ({"stories":[...]}): name the images S1_1.png, S1_2.png, S2_1.png ...
 // The story is checked, duplicates are refused, the images are uploaded and the story is QUEUED: posting (with the Instagram duplicate check and the fact gate) is automatic.
 var MANUAL_LAST = 'மேலும் செய்திகளுக்கு கோயம்புத்தூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.';
@@ -416,19 +416,19 @@ function jsonFromText_(t) {
 }
 
 function processManual_(p, done, allowed) {
-  var threads = GmailApp.search('subject:"COIMBATORE360 STORY" newer_than:3d', 0, 20);
+  var threads = GmailApp.search('subject:"SALEM360 STORY" newer_than:3d', 0, 20);
   threads.forEach(function (th) {
     th.getMessages().forEach(function (msg) {
       var id = msg.getId();
       if (done.indexOf(id) >= 0) return;
       var from = String(msg.getFrom()).replace(/^.*<|>.*$/g, '').trim().toLowerCase();
       if (allowed.indexOf(from) < 0) return;
-      if (!/COIMBATORE360 STORY/i.test(msg.getSubject())) return;
+      if (!/SALEM360 STORY/i.test(msg.getSubject())) return;
       done.push(id);
       p.setProperty('DONE_MSGS', JSON.stringify(done.slice(-200)));
       var report = [];
       try { report = manualOne_(msg); } catch (err) { report = ['Could not read the e-mail: ' + err]; }
-      GmailApp.sendEmail(OWNER_EMAIL, '[COIMBATORE360 STORY RECEIVED] ' + msg.getSubject().replace(/^(re|fwd?):\s*/i, ''),
+      GmailApp.sendEmail(OWNER_EMAIL, '[SALEM360 STORY RECEIVED] ' + msg.getSubject().replace(/^(re|fwd?):\s*/i, ''),
         report.join('\n') + '\n\nSheet: ' + SHEET_LINK);
     });
   });
@@ -491,7 +491,7 @@ function manualOne_(msg) {
 }
 
 // ------------------------------------------------------------------ READY REEL (video + caption already made, sent by e-mail)
-// Subject contains  COIMBATORE360 REEL . Attach ONE zip (or the files directly) holding ONE .md/.txt (the caption) and ONE video (.mp4/.mov).
+// Subject contains  SALEM360 REEL . Attach ONE zip (or the files directly) holding ONE .md/.txt (the caption) and ONE video (.mp4/.mov).
 // A PAGE: line at the top of the .md is accepted but ignored (there is one page: coimbatore). Nothing is rebuilt: the video is posted as it is,
 // with the caption (standard hashtag/AI-line rules), but ONLY if the same news is not already on the Instagram page (checked right before posting).
 function allFiles_(msg, report) {
@@ -529,19 +529,19 @@ function uploadVideo_(blob, story) {
 
 function processReadyReels_(p, allowed) {
   var done = JSON.parse(p.getProperty('DONE_MSGS') || '[]');
-  GmailApp.search('subject:"COIMBATORE360 REEL" -subject:RECEIVED -subject:POSTED newer_than:3d', 0, 20).forEach(function (th) {
+  GmailApp.search('subject:"SALEM360 REEL" -subject:RECEIVED -subject:POSTED newer_than:3d', 0, 20).forEach(function (th) {
     th.getMessages().forEach(function (msg) {
       var id = msg.getId();
       if (done.indexOf(id) >= 0) return;
-      // our own status e-mails ([COIMBATORE360 REEL RECEIVED], [COIMBATORE360 POSTED] ...) also contain "COIMBATORE360 REEL": never read them as reels (that made a loop)
-      if (/RECEIVED|POSTED|NEEDED|NOT ADDED|\[COIMBATORE360/i.test(msg.getSubject())) return;
+      // our own status e-mails ([SALEM360 REEL RECEIVED], [SALEM360 POSTED] ...) also contain "SALEM360 REEL": never read them as reels (that made a loop)
+      if (/RECEIVED|POSTED|NEEDED|NOT ADDED|\[SALEM360/i.test(msg.getSubject())) return;
       var from = String(msg.getFrom()).replace(/^.*<|>.*$/g, '').trim().toLowerCase();
-      if (allowed.indexOf(from) < 0 || !/COIMBATORE360 REEL/i.test(msg.getSubject())) return;
+      if (allowed.indexOf(from) < 0 || !/SALEM360 REEL/i.test(msg.getSubject())) return;
       done.push(id);
       p.setProperty('DONE_MSGS', JSON.stringify(done.slice(-200)));
       var report = [];
       try { report = readyOne_(msg); } catch (err) { report = ['Could not process the e-mail: ' + err]; }
-      GmailApp.sendEmail(OWNER_EMAIL, '[COIMBATORE360 REEL RECEIVED] ' + msg.getSubject().replace(/^(re|fwd?):\s*/i, ''),
+      GmailApp.sendEmail(OWNER_EMAIL, '[SALEM360 REEL RECEIVED] ' + msg.getSubject().replace(/^(re|fwd?):\s*/i, ''),
         report.join('\n') + '\n\nSheet: ' + SHEET_LINK);
     });
   });
@@ -788,7 +788,7 @@ function handleReply_(msg, batchId) {
     return; // e.g. the original email itself: nothing to do
   }
   if (report.length) {
-    GmailApp.sendEmail(OWNER_EMAIL, '[COIMBATORE360 IMAGES RECEIVED] ' + batchId,
+    GmailApp.sendEmail(OWNER_EMAIL, '[SALEM360 IMAGES RECEIVED] ' + batchId,
       report.join('\n') + '\n\nSheet: ' + SHEET_LINK);
   }
 }
@@ -920,7 +920,7 @@ function addStories_(b) {
   var stories = b.stories || [];
   if (!stories.length) {
     if (b.no_news) {
-      GmailApp.sendEmail(OWNER_EMAIL, '[COIMBATORE360] No new news this round - ' + nowIst_(),
+      GmailApp.sendEmail(OWNER_EMAIL, '[SALEM360] No new news this round - ' + nowIst_(),
         'The news check ran at ' + nowIst_() + ' IST and found nothing new to post.\n\n' + String(b.no_news) +
         '\n\nYou do not need to send any images now. The next check is in about 3 hours.\n\nSheet: ' + SHEET_LINK);
     }
@@ -993,14 +993,14 @@ function sendPromptEmail_(batch, items) {
     md.push('## STORY ' + it.id + ' - ' + it.ta + ' (' + it.en + ') - ' + it.prompts.length + ' images');
     it.prompts.forEach(function (pr, k) { md.push('### FILE: ' + it.id + '_' + (k + 1) + '.png\nCreate this as ONE separate single image (not a collage), with maximum clarity and sharpness:\n' + pr.trim() + '\n'); });
   });
-  var head = '# COIMBATORE360 IMAGE PROMPTS - ' + batch + '\n## INSTRUCTIONS FOR CHATGPT (copy this whole file into ChatGPT, then follow it)\nYou are an image generator. Total separate images to create: ' + total + '.\n' +
+  var head = '# SALEM360 IMAGE PROMPTS - ' + batch + '\n## INSTRUCTIONS FOR CHATGPT (copy this whole file into ChatGPT, then follow it)\nYou are an image generator. Total separate images to create: ' + total + '.\n' +
     PROMPT_RULES.replace('BATCH.zip', batch + '.zip') + '## SUMMARY\n| Story ID | Tamil headline | English headline | Images |\n|---|---|---|---|\n' + summary.join('\n') + '\n\n';
   var file = DriveApp.getFolderById(ROOT_FOLDER_ID).createFile(batch + '_ChatGPT_Image_Prompts.md', head + md.join('\n'), MimeType.PLAIN_TEXT);
   var body = 'I am waiting for your images. Nothing will be posted until you reply to this email with the zip.\n\n' +
     'IMAGE PROMPT FILE (open, download, paste into ChatGPT): ' + file.getUrl() + '\n\nTHIS CHECK:\n' + lines.join('\n') + '\nTotal images: ' + total +
     '\n\nIMPORTANT: ChatGPT must make EACH image separately (no collage, no strips) and keep the original files - the new file says so. If ChatGPT still makes a collage, send it this message: "Wrong. Delete the collage. Make ONLY image RN-xx_1 as one single full-frame photograph, nothing else. Then wait." and continue one image at a time.\n\nHOW TO REPLY:\n(1) Give the .md file to ChatGPT.\n(2) ChatGPT makes all images one by one (names like RN-26_1.png) and puts them in zips of WHOLE stories, each zip under 24 MB (more zips if needed).\n(3) REPLY to this email once for EACH zip, with that zip attached.\n(4) Leave the reply text empty.\n(5) Reply from ' + OWNER_EMAIL +
     ' - the post is built and published about 20-40 minutes after your reply, the same day.\n\nDetails, captions and sources: ' + SHEET_LINK;
-  var subj = items.length === 1 ? '[COIMBATORE360 IMAGES NEEDED] ' + items[0].id + ' ' + batch + ' - ' + items[0].ta.slice(0, 50) : '[COIMBATORE360 IMAGES NEEDED] ' + batch + ' - ' + items.length + ' stories - ' + total + ' images';
+  var subj = items.length === 1 ? '[SALEM360 IMAGES NEEDED] ' + items[0].id + ' ' + batch + ' - ' + items[0].ta.slice(0, 50) : '[SALEM360 IMAGES NEEDED] ' + batch + ' - ' + items.length + ' stories - ' + total + ' images';
   GmailApp.sendEmail(OWNER_EMAIL, subj, body);
 }
 
@@ -1042,7 +1042,7 @@ function reoffer_(b) {
 function retryMessage() {
   var msg = GmailApp.getMessageById('MESSAGE_ID_HERE');
   var report = readyOne_(msg);
-  GmailApp.sendEmail(OWNER_EMAIL, '[COIMBATORE360 RETRY REPORT] ready reels', report.join('\n') + '\n\nSheet: ' + SHEET_LINK);
+  GmailApp.sendEmail(OWNER_EMAIL, '[SALEM360 RETRY REPORT] ready reels', report.join('\n') + '\n\nSheet: ' + SHEET_LINK);
 }
 
 
@@ -1129,7 +1129,7 @@ function pickList_(b) {
     '<p>' + btn + '</p><p style="color:#888;font-size:12px">தேர்வு பக்கம் (Google Form): ' + url + '</p></div>';
   var plain = 'கோவை செய்திகள் – ' + label + ' (' + items.length + ')\nதேர்வு செய்ய: ' + url + '\n\n' +
     items.map(function (x, i) { return (i + 1) + '. ' + x.title + '\n   ' + x.summary + '\n   ' + x.source + ' ' + x.url; }).join('\n\n');
-  GmailApp.sendEmail(OWNER_EMAIL, '[COIMBATORE360 PICK] கோவை செய்திகள் – ' + label + ' (' + items.length + ') – தேர்வு செய்யவும்', plain, { htmlBody: html });
+  GmailApp.sendEmail(OWNER_EMAIL, '[SALEM360 PICK] கோவை செய்திகள் – ' + label + ' (' + items.length + ') – தேர்வு செய்யவும்', plain, { htmlBody: html });
   return { ok: true, round: b.round, items: items.length, form: url };
 }
 

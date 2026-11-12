@@ -17,7 +17,7 @@ permissions:
   contents: write
   actions: write
 concurrency:
-  group: coimbatore-powercut
+  group: salem-powercut
   cancel-in-progress: false
 jobs:
   powercut:

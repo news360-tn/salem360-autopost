@@ -23,14 +23,14 @@ on:
 permissions:
   contents: write
 concurrency:
-  group: rasipalan-coimbatore
+  group: rasipalan-salem
   cancel-in-progress: false
 jobs:
   post:
     runs-on: ubuntu-24.04
     timeout-minutes: 340      # 7:00 AM start can keep trying until 12:30
     env:
-      PAGE: coimbatore
+      PAGE: salem
       DRY_RUN: ${{ github.event_name == 'workflow_dispatch' && inputs.dry || '' }}
       RASI_DATE: ${{ github.event_name == 'workflow_dispatch' && inputs.date || '' }}
       REPOST: ${{ github.event_name == 'workflow_dispatch' && inputs.repost || '0' }}
@@ -45,8 +45,8 @@ jobs:
       CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
       CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
       ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
-      FB_PAGE_ID_COIMBATORE: ${{ secrets.FB_PAGE_ID_COIMBATORE }}      # owner 2 Nov: also on the Facebook page
-      FB_TOKEN_COIMBATORE: ${{ secrets.FB_TOKEN_COIMBATORE }}
+      FB_PAGE_ID_SALEM: ${{ secrets.FB_PAGE_ID_SALEM }}      # owner 2 Nov: also on the Facebook page
+      FB_TOKEN_SALEM: ${{ secrets.FB_TOKEN_SALEM }}
     steps:
       - uses: actions/checkout@v4
         with: {ref: main}
@@ -66,25 +66,25 @@ jobs:
             sudo "$(command -v python)" -m playwright install-deps chromium
       - name: Collect, write, check, render and post
         run: |
-          mkdir -p out/rasipalan/coimbatore
+          mkdir -p out/rasipalan/salem
           set -o pipefail
-          python rasipalan/rasi_daily.py 2>&1 | tee out/rasipalan/coimbatore/log.txt
+          python rasipalan/rasi_daily.py 2>&1 | tee out/rasipalan/salem/log.txt
       - name: Slides for review
         if: always()
         uses: actions/upload-artifact@v4
         with:
-          name: rasipalan-coimbatore
-          path: out/rasipalan/coimbatore
+          name: rasipalan-salem
+          path: out/rasipalan/salem
           if-no-files-found: ignore
       - name: Preview branch (test runs only, for checking the slides)
         if: always() && env.DRY_RUN == '1'
         run: |
-          [ -d out/rasipalan/coimbatore ] || exit 0
-          rm -f out/rasipalan/coimbatore/*.png out/rasipalan/coimbatore/*.html
+          [ -d out/rasipalan/salem ] || exit 0
+          rm -f out/rasipalan/salem/*.png out/rasipalan/salem/*.html
           git config user.name "news360-bot"; git config user.email "news360-bot@users.noreply.github.com"
-          git checkout -q --orphan rasipalan-preview-coimbatore
+          git checkout -q --orphan rasipalan-preview-salem
           git rm -rq --cached . >/dev/null
-          git add -f out/rasipalan/coimbatore && git commit -qm "preview" && git push -qf origin rasipalan-preview-coimbatore
+          git add -f out/rasipalan/salem && git commit -qm "preview" && git push -qf origin rasipalan-preview-salem
       - name: Remember today's post (no second post today)
         if: always()
         run: |

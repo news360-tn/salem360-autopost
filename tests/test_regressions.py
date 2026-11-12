@@ -459,7 +459,7 @@ class SinglePage(unittest.TestCase):
 
     def test_sheet_column_names_match_bridge(self):
         gs = (ROOT / "apps_script" / "Code.gs").read_text(encoding="utf-8")
-        self.assertIn("coimbatore_link: 26", gs)
+        self.assertIn("salem_link: 26", gs)
         self.assertNotIn("namakkal_link", gs)
         self.assertIn("IG_TOKEN_", gs)
         for namakkal_id in ("10lKyQo4rPkSyGP6kj3zvVBpm17r5fXzTa6vwdnu3y00", "1Nm6KqDoS_mz4T9UKxnvVN69EAibWz55p"):      # the Namakkal Sheet / Drive folder (same Gmail, owner 28 Oct)

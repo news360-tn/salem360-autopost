@@ -35,15 +35,15 @@ IG_HOST = "https://graph.instagram.com"
 IG_VER = os.environ.get("IG_API_VERSION", "")
 
 # ---- the page (Coimbatore 360; placeholders until the owner decides - change them HERE only)
-PAGE = "coimbatore"
-PAGES = ("coimbatore",)      # the only page (no Rasipuram page, no collab)
+PAGE = "salem"
+PAGES = ("salem",)      # the only page (no collab)
 ALL_ROWS = []      # every row of the queue (set in main) - used to spot the same news posted before
 LOGO = KIT / "logo_coimbatore.png"
-TAG = "#Coimbatore360"
-PAGE_EN = "Coimbatore 360"      # post_to value in the Sheet
+TAG = "#Salem360"
+PAGE_EN = "Salem 360"      # post_to value in the Sheet
 FOLLOW_LINE = "மேலும் செய்திகளுக்கு கோயம்புத்தூர் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்."
 SAVE_LINE = "கோயம்புத்தூர் செய்திகளைத் தவறவிடாமல் இருக்க Save செய்து Follow செய்யுங்கள் 📌"
-DISTRICTS = ("coimbatore", "kovai")      # allnews.url_district values that are our district
+DISTRICTS = ("salem",)      # allnews.url_district values that are our district
 IMPORTANCE = {"High": 0, "Medium": 1, "Low": 2}
 MAX_AGE_H = 48
 AI_LINE = "📌 படங்கள் செய்தியை விளக்க AI மூலம் உருவாக்கப்பட்ட பிரதிநிதித்துவப் படங்கள்."
@@ -156,12 +156,12 @@ def is_shutdown(row):
             or freshness.is_power_cut(row.get("headline_ta"), row.get("headline_en")))
 
 
-LABEL = {"coimbatore": "கோயம்புத்தூர் 360"}      # must match PAGE_LABEL in apps_script/Code.gs (reel_link lines are "<label>: <link>")
+LABEL = {"salem": "சேலம் 360"}      # must match PAGE_LABEL in apps_script/Code.gs (reel_link lines are "<label>: <link>")
 
 
 def pages_of(row):
     """the ONE page that posts this story: always Coimbatore 360 (post_to "Coimbatore 360"; there is no second page)"""
-    return ["coimbatore"]
+    return ["salem"]
 
 
 def collab_page(row, page):
@@ -293,7 +293,7 @@ def _skip_reason_base(row):
     if why:
         return why
     for o in ALL_ROWS:
-        went_out = o.get("coimbatore_link") or o.get("reel_link") or str(o.get("post_status") or "").lower().startswith(("posted", "partly"))
+        went_out = o.get("salem_link") or o.get("reel_link") or str(o.get("post_status") or "").lower().startswith(("posted", "partly"))
         if o.get("story_id") == row.get("story_id") or not went_out:
             continue
         if (freshness.similar(o.get("headline_ta") or "", row.get("headline_ta") or "", 0.62, o.get("researched"))
@@ -814,7 +814,7 @@ def cache_key(row, spec, caption):
 
 def cache_path(sid, page=None):
     page = page or PAGE
-    return CACHE / (f"{sid}.json" if page == "coimbatore" else f"{sid}_{page}.json")
+    return CACHE / (f"{sid}.json" if page == "salem" else f"{sid}_{page}.json")
 
 
 def load_cache(sid, key):
@@ -889,7 +889,7 @@ def pick_location(row, spec):
     Coimbatore 360: config.json has no location ids yet, so this returns ''. 31 Oct: an id is used only after the ig-probe check accepted it."""
     ok = verified_locations()
     locs = {k: v for k, v in (CONFIG.get("locations") or {}).items() if str(v).strip() in ok}
-    generic = {"coimbatore", "kovai", "கோவை", "கோயம்புத்தூர்"}
+    generic = {"salem", "சேலம்"}
     fields = [row.get("headline_ta", ""), row.get("headline_en", ""), spec.get("loc", ""), row.get("location", "")]
     for specific_only in (True, False):
         for f in fields:
@@ -1340,7 +1340,7 @@ def run_ready_reel(row, page):
     global PAGE, LOGO, TAG
     PAGE = page
     LOGO = KIT / f"logo_{PAGE}.png"
-    TAG = "#Coimbatore360"
+    TAG = "#Salem360"
     sid = row["story_id"]
     if PREBUILD:
         return []
@@ -1471,7 +1471,7 @@ def run_story_page(row, page):
             log("checked text not saved:", e)
     PAGE = page
     LOGO = KIT / f"logo_{PAGE}.png"
-    TAG = "#Coimbatore360"
+    TAG = "#Salem360"
     os.environ["PAGE_KEY"] = PAGE
     global COLLAB
     COLLAB = collab_page(row, PAGE)
@@ -1853,7 +1853,7 @@ def main():
             log("  keys:", sorted(rows[0].keys()))
         for r in rows:
             log("  ", r.get("story_id"), "review=", repr(r.get("review")), "images=", len(r.get("images") or ""),
-                "spec=", len(r.get("slides_spec") or ""), "pages=", pages_of(r), "links=", repr(r.get("coimbatore_link")), repr(r.get("reel_link")),
+                "spec=", len(r.get("slides_spec") or ""), "pages=", pages_of(r), "links=", repr(r.get("salem_link")), repr(r.get("reel_link")),
                 "age_h=", round(age_hours(r), 1), "ready=", ready(r), "set_started=", set_started(r))
         out = os.environ.get("GITHUB_OUTPUT")
         if out:

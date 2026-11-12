@@ -35,4 +35,4 @@ jobs:
       - uses: actions/setup-python@v5
         with: {python-version: "3.11"}
       - run: pip install -q requests==2.32.5 pillow==11.3.0
-      - run: python poster/comments.py coimbatore
+      - run: python poster/comments.py salem
