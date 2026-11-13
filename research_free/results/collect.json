@@ -1,0 +1,231 @@
+{
+ "log": [
+  "earlier stories still waiting for images: []",
+  "instagram check: 0 recent posts read from the page",
+  "pick round: only the picked links are written (research_free/pick.py)",
+  "manual link added: https://www.dinamani.com/all-editions/edition-dharmapuri/salem/2026/Nov/12/rs-50-crore-fraud-through-loans-taken-in-students-names",
+  "manual link added: https://www.hindutamil.in/news/crime/two-arrested-in-cow-loan-scam",
+  "manual link added: https://www.dinakaran.com/news/cow_loan_fraud",
+  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-salem/2-people-selling-arrested-60-bottles-of-wine-seized/4374758",
+  "candidate filter: collected=4",
+  "to write: 4 Salem district candidates (max 4 stories)",
+  "round: top 4 of 4 candidates",
+  "candidates waiting: 4 Salem; time left 79 min",
+  "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-sale",
+  "try (N) manual=True: https://www.dinakaran.com/news/cow_loan_fraud",
+  "try (N) manual=True: https://www.hindutamil.in/news/crime/two-arrested-in-cow-loa",
+  "auto images: 1 of 1 stories ({'fal-ai/flux/schnell': 1})",
+  "posting job started at once",
+  "try (N) manual=True: https://www.dinamani.com/all-editions/edition-dharmapuri/sal",
+  "NOT filed (N) மாணவர்களுக்கு ரூ.1000 கமிஷன் கொடுத்து பசுமாடு லோன்: duplicate after write",
+  "auto images: 1 of 1 stories ({'fal-ai/flux/schnell': 2})",
+  "NOT filed (N) மாணவா்கள் பெயரில் கடன் வாங்கி ரூ. 50 கோடி மோசடி?: duplicate after write",
+  "candidate loop ended: left 0, tried={'N': 4}, done={'N': 2}, time left 71 min",
+  "filed: 2 Salem district stories (target 4), reels only",
+  "queue: 0 news waiting to be written",
+  "All News sheet: {\"ok\":true,\"added\":4,\"updated\":0}"
+ ],
+ "llm": [
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
+  "dead for this round: gemini/gemini-3.6-flash",
+  "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
+  "dead for this round: gemini/gemini-3.6-flash",
+  "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
+  "dead for this round: gemini/gemini-3.5-flash",
+  "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
+  "dead for this round: gemini/gemini-3.5-flash",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok gemini/gemini-3-flash-preview (11s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok gemini/gemini-3-flash-preview (11s)",
+  "fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, plea",
+  "dead for this round: gemini/gemini-3-flash-preview",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
+  "dead for this round: groq/openai/gpt-oss-120b",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
+  "dead for this round: groq/qwen/qwen3.8-27b",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
+  "dead for this round: groq/qwen/qwen3.8-27b",
+  "ok gemini/gemini-3-flash-preview (13s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok anthropic/claude-haiku-5-5"
+ ],
+ "stories": [
+  {
+   "tamil_headline": "பசு மாடு கடன் மோசடி: அறக்கட்டளை பெண் நிர்வாகி உட்பட இருவர் கைது",
+   "english_headline": "Cow loan fraud in Salem: trust woman administrator and another arrested for taking loans in public names",
+   "category": "Crime & Safety",
+   "location": "Salem city, Salem district",
+   "importance": "High",
+   "scope": "",
+   "post_to": "Salem 360",
+   "slides_spec": {
+    "v": 3,
+    "cat": "மோசடி கைது",
+    "loc": "சேலம்",
+    "hl1": "சேலம்: சேலத்தில் பசு கடன் மோசடி",
+    "hl2": "இருவர் கைது",
+    "slides": [
+     {
+      "title": "என்ன நடந்தது?",
+      "lines": [
+       "பொதுமக்கள் ஆதார் ஆவணங்களை வாங்கி கடன் மோசடி",
+       "பல கோடி ரூபாய் மோசடி நடந்ததாக புகார்",
+       "பசு மாடு வாங்க கடன் பெற்றதாக வங்கி நோட்டீஸ்"
+      ]
+     },
+     {
+      "title": "யார் கைது?",
+      "lines": [
+       "அறக்கட்டளை நிர்வாகி கண்ணகி கைது",
+       "முத்துக்குமரன் என்பவரும் கைது",
+       "போலீசார் விசாரணை நடத்துகின்றனர்"
+      ]
+     },
+     {
+      "title": "அடுத்து என்ன?",
+      "lines": [
+       "தலைமறைவான மோனிஷாவை போலீசார் தேடுகின்றனர்",
+       "வங்கி அதிகாரிகளுக்குத் தொடர்பு உள்ளதா என விசாரணை",
+       "எவ்வளவு பேரின் ஆவணங்கள் பெறப்பட்டன என விசாரணை"
+      ]
+     }
+    ],
+    "carousel": false
+   },
+   "reel_script": "சேலத்தில் பொதுமக்களின் பெயரில் பசு மாடு கடன் பெற்று பல கோடி ரூபாய் மோசடி நடந்துள்ளது. அறக்கட்டளை நடத்தி வரும் கண்ணகி, முத்துக்குமரன் ஆகிய இருவரை மாநகர மத்திய குற்றப்பிரிவு போலீசார் நேற்று கைது செய்தனர். அம்மாப்பேட்டையைச் சேர்ந்த முஷ்ரப் பாஷா என்பவர் மாநகர காவல் ஆணையர் அலுவலகத்தில் புகார் அளித்தார். அறக்கட்டளைக்கு சொந்தமான பணம் வங்கிக் கணக்குக்கு வரும் என்று கூறி, பலரிடம் ஆதார் மற்றும் வங்கிக் கணக்கு புத்தகத்தை பெற்றனர். ஒவ்வொருவர் கணக்கிலும் ரூபாய் 1,000 கமிஷனாக வரவு வைக்கப்பட்டது. பின்னர் பசு மாடு வாங்க ரூபாய் 1 லட்சம் கடன் பெற்றதாக வங்கியிலிருந்து நோட்டீஸ் வந்துள்ளது. தலைமறைவான மோனிஷா உட்பட பலரை போலீசார் தேடி வருகின்றனர். வங்கி அதிகாரிகளுக்கு தொடர்பு உள்ளதா, எவ்வளவு பேரின் ஆவணங்கள் பெறப்பட்டன என்பதை போலீசார் விசாரிக்கின்றனர். மேலும் செய்திகளுக்கு சேலம் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🚨 சேலத்தில் பசு மாடு கடன் மோசடி: அறக்கட்டளை நிர்வாகி உட்பட இருவர் கைது\n\n📰 முழு விவரம்:\nபொதுமக்களிடம் ஆதார் உள்ளிட்ட ஆவணங்களைப் பெற்று, அவர்கள் பெயரில் வங்கியில் பசு மாடு வாங்கக் கடன் பெற்று பல கோடி ரூபாய் மோசடி நடந்துள்ளதாகப் புகார் எழுந்தது. அம்மாப்பேட்டையைச் சேர்ந்த முஷ்ரப் பாஷா (22 வயது) மாநகர காவல் ஆணையர் அலுவலகத்தில் புகார் அளித்தார்.\nகன்னங்குறிச்சியில் அறக்கட்டளை நடத்தி வரும் கண்ணகி, மோனிஷா உள்ளிட்டோர், அறக்கட்டளைக்குச் சொந்தமான பணம் வங்கிக் கணக்குக்கு வரும் என்றும், கமிஷனாக ரூ.1,000 வழங்கப்படும் என்றும் பலரிடம் கூறினர். நம்பிய பலர் ஆதார், வங்கிக் கணக்கு புத்தகம் ஆகியவற்றை வழங்கினர். சொன்னபடி அவர்கள் கணக்குக்கு ரூ.1,000 வரவு வைக்கப்பட்டது.\nஆனால், வங்கியிலிருந்து பசு மாடு வாங்க ரூ.1 லட்சம் கடன் கொடுக்கப்பட்டதாகவும், பணத்தைத் திரும்பச் செலுத்துமாறும் நோட்டீஸ் வந்துள்ளது.\nமத்திய குற்றப்பிரிவு போலீசார் விசாரணை செய்து, அறக்கட்டளை நடத்தும் கண்ணகி, முத்துக்குமரன் ஆகிய இருவரை நேற்று கைது செய்தனர். தலைமறைவான மோனிஷா உட்பட பலரைத் தேடி வருகின்றனர்.\nஇந்த மோசடியில் வங்கி அதிகாரிகளுக்குத் தொடர்பு உள்ளதா, எவ்வளவு பேரின் ஆவணங்களைப் பெற்று மோசடி செய்தனர் என்பது குறித்தும் விசாரணை நடைபெறுகிறது.\n\nCow loan fraud in Salem, trust administrator arrested | Salem news\n📍 சேலம் மாவட்டம் | 13 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Salem360 #Salem #SalemNews #சேலம்",
+   "prompts": "Two police officers in khaki uniform lead a woman in a cotton saree and a man in a shirt away from a government building entrance in Salem city, while a few people stand at a distance behind a metal barricade. A white police jeep is parked on the road beside the gate, and a bank-like office with plain shutters stands behind them. Daylight, clear sky. Shot from eye level at about 35 mm, wide enough to show the building, the jeep and the people, with the arrested pair seen from behind and in profile, no faces clearly visible. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.hindutamil.in/news/crime/two-arrested-in-cow-loan-scam",
+   "published": "2026-11-12T21:16:00Z",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: reel_script has 96 words; need 100-160 (the key facts once each, in at most 90 seconds; every other detail goes in the caption's 📰 முழு விவரம் block); sentence 1 (one-line story) has 12 words; make it 6-9 words (about 2-3 seconds), the details follow in the next sentences; caption misses facts of the article (put every one in 📰 முழு விவரம்): 2 ('சேலம்: பொது​மக்​களிடம் ஆதார் உள்​ளிட்ட ஆவணங்​களை பெற்று அவர்'); 2 ('இவ்​வாறு புகாரில் கூறப்​பட்​டுள்​ளது.இது​தொடர்​பாக விசா​ரணை '); 35 ('இந்த மோசடி​யில் வங்கி அதி​காரி​களுக்​குத் தொடர்பு உள்​ளதா, எ')",
+   "note": "free-model draft anthropic/claude-haiku-5-5, 12 attempt(s), 3 validator problem(s)",
+   "post_time": "right after your reply, same day",
+   "_area": "N",
+   "_score": 999,
+   "images": [
+    "https://res.cloudinary.com/bgk9wm1u/image/upload/v1794534820/salem360/mbcud2hbpfhbdrmkmhlq.jpg"
+   ]
+  },
+  {
+   "tamil_headline": "மேட்டூர் அருகே சட்டவிரோதமாக மது விற்ற 2 பேர் கைது: 60 பாட்டில்கள் பறிமுதல்",
+   "english_headline": "Two arrested near Mettur for illegal liquor sales; 60 bottles seized",
+   "category": "Crime & Safety",
+   "location": "Kolathur and Kannamoochi near Mettur, Salem district",
+   "importance": "Medium",
+   "scope": "local",
+   "post_to": "Salem 360",
+   "slides_spec": {
+    "v": 3,
+    "cat": "குற்றச் செய்தி",
+    "loc": "கொளத்தூர், மேட்டூர்",
+    "hl1": "மேட்டூர் அருகே மது விற்ற 2 பேர் கைது",
+    "hl2": "60 மதுபாட்டில்கள் பறிமுதல்",
+    "slides": [
+     {
+      "title": "எங்கே? எப்போது?",
+      "lines": [
+       "மேட்டூர் அருகே <b>கொளத்தூர்</b> மற்றும் <b>கண்ணாமூச்சி</b>",
+       "நேற்று போலீசார் நடத்திய அதிரடி சோதனை",
+       "சட்டவிரோத மது விற்பனை கண்டுபிடிப்பு"
+      ]
+     },
+     {
+      "title": "யார் கைது?",
+      "lines": [
+       "பெரியதண்டாவைச் சேர்ந்த <b>42 வயது</b> சிக்கன் வியாபாரி",
+       "கண்ணாமூச்சியைச் சேர்ந்த <b>56 வயது</b> மளிகை கடை உரிமையாளர்",
+       "இருவரையும் கொளத்தூர் போலீசார் கைது செய்தனர்"
+      ]
+     },
+     {
+      "title": "பறிமுதல் விவரம்",
+      "lines": [
+       "இருவரிடமிருந்தும் தலா <b>30 பாட்டில்கள்</b> பறிமுதல்",
+       "மொத்தம் <b>60 மதுபாட்டில்கள்</b> சிக்கின",
+       "அரசு மதுபாட்டில்களைப் பதுக்கி விற்றது அம்பலம்"
+      ]
+     }
+    ],
+    "carousel": false
+   },
+   "reel_script": "மேட்டூர் அருகே சட்டவிரோதமாக மது விற்ற 2 பேரை போலீசார் கைது செய்தனர். மேட்டூர் அருகே உள்ள கொளத்தூர் மற்றும் கண்ணாமூச்சி பகுதிகளில் இந்தச் சம்பவம் நடந்துள்ளது. கொளத்தூர் பெரியதண்டாவைச் சேர்ந்த 42 வயது சிக்கன் வியாபாரி தனது கடையில் மது விற்றது தெரியவந்தது. கொளத்தூர் போலீசார் நேற்று நடத்திய சோதனையில் அவரிடமிருந்து 30 மதுபாட்டில்கள் பறிமுதல் செய்யப்பட்டன. இதேபோல் கண்ணாமூச்சி பகுதியில் மளிகை கடை நடத்தி வரும் 56 வயது நபர் ஒருவரும் கைது செய்யப்பட்டார். அவரது கடையிலிருந்து 30 மதுபாட்டில்களைப் போலீசார் பறிமுதல் செய்தனர். இவர்கள் இருவரும் அரசு மதுபாட்டில்களைப் பதுக்கி வைத்து சட்டவிரோதமாக விற்பனை செய்து வந்துள்ளனர். மொத்தம் 60 மதுபாட்டில்களைப் பறிமுதல் செய்த போலீசார், இருவர் மீதும் வழக்குப் பதிவு செய்துள்ளனர். மேலும் செய்திகளுக்கு சேலம் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "👮 மேட்டூர் அருகே சட்டவிரோதமாக மது விற்ற 2 பேர் கைது - 60 பாட்டில்கள் பறிமுதல்\n\n📰 முழு விவரம்:\nமேட்டூர் அருகே உள்ள கொளத்தூர் மற்றும் கண்ணாமூச்சி பகுதிகளில் சட்டவிரோதமாக மது விற்பனை செய்யப்படுவதாகப் போலீசாருக்குத் தகவல் கிடைத்தது. இதையடுத்து கொளத்தூர் போலீசார் நேற்று அதிரடி சோதனை நடத்தினர். பெரியதண்டாவைச் சேர்ந்த 42 வயது சிக்கன் வியாபாரி மற்றும் கண்ணாமூச்சியைச் சேர்ந்த 56 வயது மளிகை கடை உரிமையாளர் ஆகியோர் அரசு மதுபாட்டில்களைப் பதுக்கி விற்றது கண்டுபிடிக்கப்பட்டது. இருவரிடமிருந்தும் தலா 30 பாட்டில்கள் வீதம் மொத்தம் 60 மதுபாட்டில்களைப் போலீசார் பறிமுதல் செய்தனர். சட்டவிரோத விற்பனையில் ஈடுபட்ட இருவரையும் போலீசார் கைது செய்து விசாரணை நடத்தி வருகின்றனர்.\n\n📍 இடம்: கொளத்தூர் மற்றும் கண்ணாமூச்சி, மேட்டூர் வட்டம்\n🗓️ நாள்: 12 நவம்பர் 2026\n👮 நடவடிக்கை: 2 பேர் கைது, 60 மதுபாட்டில்கள் பறிமுதல்\n\nMettur illegal liquor sales arrest | Salem news\n📍 கொளத்தூர், மேட்டூர் | 13 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Salem360 #Salem #Mettur #CrimeNews #SalemNews #சேலம்",
+   "prompts": "A Tamil Nadu police officer in khaki uniform stands beside a small roadside shop counter in a village near Mettur, Salem district, while seizing liquor bottles. Thirty quarter liquor bottles are arranged in rows on a wooden table in front of him, with the rest of the stock visible on a shelf behind the counter. Two uniformed police constables stand at the shop entrance, seen from behind, and a middle-aged shop owner in a plain shirt and veshti stands to one side with his head lowered, his face turned away from the camera. The shop is a modest concrete-walled provision store with a tin awning and a dusty, unpaved village lane in front. A few two-wheelers are parked at the edge of the lane. It is bright daylight, with soft sunlight coming in from the street. Shot at eye level with a 35 mm lens, wide enough to show the shop front, the police, and the lane. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-salem/2-people-selling-arrested-60-bottles-of-wine-seized/4374758",
+   "published": "2026-11-13T04:48:00+05:30",
+   "verification": "DRAFT (gemini/gemini-3-flash-preview) - NOT CLEAN, held from posting - problems: caption needs 5 hashtags (Instagram max), has 6",
+   "note": "free-model draft gemini/gemini-3-flash-preview, 1 attempt(s), 1 validator problem(s)",
+   "post_time": "right after your reply, same day",
+   "_area": "N",
+   "_score": 999,
+   "images": [
+    "https://res.cloudinary.com/bgk9wm1u/image/upload/v1794534859/salem360/ctbkedy16e4brtlbjg7m.jpg"
+   ]
+  }
+ ]
+}
