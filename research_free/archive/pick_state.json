@@ -14,7 +14,8 @@
    "alts": [
     "https://www.maalaimalar.com/news/tamilnadu/woman-arrested-for-milking-cow-loan-fraud-using-college-students-names"
    ],
-   "listed_at": "2026-11-13T07:10:28.014265+05:30"
+   "listed_at": "2026-11-13T07:10:28.014265+05:30",
+   "picked_at": "2026-11-13T07:16:18.159104+05:30"
   },
   "C326c588": {
    "id": "C326c588",
@@ -38,7 +39,8 @@
    "category": "குற்றம்",
    "score": 12.2,
    "power_cut": false,
-   "listed_at": "2026-11-13T07:10:28.014265+05:30"
+   "listed_at": "2026-11-13T07:10:28.014265+05:30",
+   "picked_at": "2026-11-13T07:16:18.159107+05:30"
   },
   "C2128bd3": {
    "id": "C2128bd3",
@@ -50,7 +52,8 @@
    "category": "குற்றம்",
    "score": 12.2,
    "power_cut": false,
-   "listed_at": "2026-11-13T07:10:28.014265+05:30"
+   "listed_at": "2026-11-13T07:10:28.014265+05:30",
+   "picked_at": "2026-11-13T07:16:18.159110+05:30"
   },
   "Cc21aa9e": {
    "id": "Cc21aa9e",
@@ -62,7 +65,8 @@
    "category": "குற்றம்",
    "score": 12.2,
    "power_cut": false,
-   "listed_at": "2026-11-13T07:10:28.014265+05:30"
+   "listed_at": "2026-11-13T07:10:28.014265+05:30",
+   "picked_at": "2026-11-13T07:16:18.159112+05:30"
   },
   "C37c7d35": {
    "id": "C37c7d35",
@@ -304,8 +308,22 @@
    ],
    "sent": false,
    "deadline": "2026-11-13T08:10:28.014265+05:30",
-   "decided": null,
-   "written": []
+   "decided": {
+    "how": "no submit by 08:10 AM - automatic top 4",
+    "ids": [
+     "Ce2127f8",
+     "C3f040c6",
+     "C2128bd3",
+     "Cc21aa9e"
+    ],
+    "at": "2026-11-13T07:16:18.159089+05:30"
+   },
+   "written": [
+    "C2128bd3",
+    "C3f040c6",
+    "Cc21aa9e",
+    "Ce2127f8"
+   ]
   }
  },
  "retry": {}
