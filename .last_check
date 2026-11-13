@@ -1,20 +1,19 @@
-20:23:06 bridge get 'queue' failed (try 1): HTTPSConnectionPool(host='script.google.com', port=443): Read timed out. (read timeout=120)
-20:25:29 bridge get 'recent' failed (try 1): HTTPSConnectionPool(host='script.google.com', port=443): Read timed out. (read timeout=120)
-20:25:53 SKIP RN-2 held: fact-check problems - not grounded: location 'பகுதிகள்' is not in the article
+20:37:40 bridge get 'recent' failed (try 1): HTTPSConnectionPool(host='script.google.com', port=443): Read timed out. (read timeout=120)
+20:40:00 bridge get 'recent' failed (try 2): HTTPSConnectionPool(host='script.google.com', port=443): Read timed out. (read timeout=120)
+20:40:45 SKIP RN-2 held: fact-check problems - not grounded: location 'பகுதிகள்' is not in the article
 ::warning title=Held from posting RN-2::held: fact-check problems - not grounded: location 'பகுதிகள்' is not in the article
-20:25:53 SKIP RN-7 held: fact-check problems - fact-check: reel_script says the shop owner locked the shop and that the shop and godown belong to the owner, which the article supports (owner Gunasekaran), so no issue there; fact-check: reel_script
+20:40:45 SKIP RN-7 held: fact-check problems - fact-check: reel_script says the shop owner locked the shop and that the shop and godown belong to the owner, which the article supports (owner Gunasekaran), so no issue there; fact-check: reel_script
 ::warning title=Held from posting RN-7::held: fact-check problems - fact-check: reel_script says the shop owner locked the shop and that the shop and godown belong to the owner, which the article supports (owner Gunasekaran), so no issue there; fact-check: reel_script
-20:25:55 story catch-up salem: quota 18/50, 8 recent posts, 8 live stories, owner ids ['17841420521166438', '29025309123762186']
-20:25:55 5 stories in the queue, ready to post: 3
-20:25:55   keys: ['batch', 'caption', 'category', 'doc', 'email_sent', 'gmail_id', 'headline_en', 'headline_ta', 'images', 'importance', 'location', 'notes', 'notion', 'other_sources', 'post_status', 'post_to', 'posted_at', 'prompts', 'published', 'reel', 'reel_link', 'reel_script', 'researched', 'review', 'review_page', 'row', 'salem_link', 'slides_spec', 'source', 'spare_link', 'story_id', 'verification']
-20:25:55    RN-2 review= 'Auto' images= 98 spec= 686 pages= ['salem'] links= '' '' age_h= 21.2 ready= False set_started= True
-20:25:55    RN-7 review= 'Auto' images= 98 spec= 838 pages= ['salem'] links= '' '' age_h= 9.3 ready= False set_started= True
-20:25:55    RN-11 review= 'Auto' images= 195 spec= 826 pages= ['salem'] links= '' '' age_h= 0.1 ready= True set_started= True
-20:25:55    RN-12 review= 'Auto' images= 195 spec= 744 pages= ['salem'] links= '' '' age_h= 0.1 ready= True set_started= True
-20:25:55    RN-13 review= 'Auto' images= 195 spec= 951 pages= ['salem'] links= '' '' age_h= 0.1 ready= True set_started= True
-20:25:57 publishing quota salem: 18/50
-20:25:59 instagram duplicate check salem: 8 recent posts read
-20:25:59    RN-11 waits for posting start (08:00 IST)
-20:25:59    RN-13 waits for posting start (08:00 IST)
-20:25:59    RN-12 waits for posting start (08:00 IST)
-20:25:59 prebuilding ahead of the set start: ['RN-11', 'RN-12', 'RN-13']
+20:40:48 story catch-up salem: quota 18/50, 8 recent posts, 8 live stories, owner ids ['17841420521166438', '29025309123762186']
+20:40:48 5 stories in the queue, ready to post: 3
+20:40:48   keys: ['batch', 'caption', 'category', 'doc', 'email_sent', 'gmail_id', 'headline_en', 'headline_ta', 'images', 'importance', 'location', 'notes', 'notion', 'other_sources', 'post_status', 'post_to', 'posted_at', 'prompts', 'published', 'reel', 'reel_link', 'reel_script', 'researched', 'review', 'review_page', 'row', 'salem_link', 'slides_spec', 'source', 'spare_link', 'story_id', 'verification']
+20:40:48    RN-2 review= 'Auto' images= 98 spec= 686 pages= ['salem'] links= '' '' age_h= 21.5 ready= False set_started= True
+20:40:48    RN-7 review= 'Auto' images= 98 spec= 838 pages= ['salem'] links= '' '' age_h= 9.5 ready= False set_started= True
+20:40:48    RN-11 review= 'Auto' images= 195 spec= 826 pages= ['salem'] links= '' '' age_h= 0.3 ready= True set_started= True
+20:40:48    RN-12 review= 'Auto' images= 195 spec= 744 pages= ['salem'] links= '' '' age_h= 0.3 ready= True set_started= True
+20:40:48    RN-13 review= 'Auto' images= 195 spec= 951 pages= ['salem'] links= '' '' age_h= 0.3 ready= True set_started= True
+20:40:50 publishing quota salem: 18/50
+20:40:51 instagram duplicate check salem: 8 recent posts read
+20:40:51    RN-11 waits for posting start (08:00 IST)
+20:40:51    RN-13 waits for posting start (08:00 IST)
+20:40:51    RN-12 waits for posting start (08:00 IST)
