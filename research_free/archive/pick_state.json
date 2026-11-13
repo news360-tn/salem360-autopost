@@ -254,7 +254,8 @@
    "alts": [
     "https://www.maalaimalar.com/news/tamilnadu/sangagiri-near-home-robbery-police-inquiry"
    ],
-   "listed_at": "2026-11-13T17:57:39.695950+05:30"
+   "listed_at": "2026-11-13T17:57:39.695950+05:30",
+   "picked_at": "2026-11-13T18:01:30.735050+05:30"
   },
   "C5b68b99": {
    "id": "C5b68b99",
@@ -266,7 +267,8 @@
    "category": "மாநகராட்சி",
    "score": 11.8,
    "power_cut": false,
-   "listed_at": "2026-11-13T17:57:39.695950+05:30"
+   "listed_at": "2026-11-13T17:57:39.695950+05:30",
+   "picked_at": "2026-11-13T18:01:30.735056+05:30"
   },
   "Cb35c202": {
    "id": "Cb35c202",
@@ -278,7 +280,8 @@
    "category": "பொது",
    "score": 11.2,
    "power_cut": false,
-   "listed_at": "2026-11-13T17:57:39.695950+05:30"
+   "listed_at": "2026-11-13T17:57:39.695950+05:30",
+   "picked_at": "2026-11-13T18:01:30.735062+05:30"
   },
   "Ca2bfc49": {
    "id": "Ca2bfc49",
@@ -489,8 +492,20 @@
    ],
    "sent": false,
    "deadline": "2026-11-13T18:57:39.695950+05:30",
-   "decided": null,
-   "written": []
+   "decided": {
+    "how": "no submit by 06:57 PM - automatic top 3",
+    "ids": [
+     "C382a0a9",
+     "C5b68b99",
+     "Cb35c202"
+    ],
+    "at": "2026-11-13T18:01:30.735026+05:30"
+   },
+   "written": [
+    "C382a0a9",
+    "C5b68b99",
+    "Cb35c202"
+   ]
   }
  },
  "retry": {}
