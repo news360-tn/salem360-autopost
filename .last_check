@@ -1,14 +1,16 @@
-03:15:09 SKIP RN-2 held: fact-check problems - not grounded: location 'பகுதிகள்' is not in the article
-03:15:09 SKIP RN-7 held: fact-check problems - fact-check: reel_script says the shop owner locked the shop and that the shop and godown belong to the owner, which the article supports (owner Gunasekaran), so no issue there; fact-check: reel_script
+03:29:46 bridge get 'autoPending' failed (try 1): HTTPSConnectionPool(host='script.google.com', port=443): Read timed out. (read timeout=120)
+03:32:06 bridge get 'autoPending' failed (try 2): HTTPSConnectionPool(host='script.google.com', port=443): Read timed out. (read timeout=120)
+03:32:53 SKIP RN-2 held: fact-check problems - not grounded: location 'பகுதிகள்' is not in the article
+03:32:53 SKIP RN-7 held: fact-check problems - fact-check: reel_script says the shop owner locked the shop and that the shop and godown belong to the owner, which the article supports (owner Gunasekaran), so no issue there; fact-check: reel_script
 ::warning title=Held from posting RN-7::held: fact-check problems - fact-check: reel_script says the shop owner locked the shop and that the shop and godown belong to the owner, which the article supports (owner Gunasekaran), so no issue there; fact-check: reel_script
-03:15:12 story catch-up salem: quota 27/50, 15 recent posts, 12 live stories, owner ids ['17841420521166438', '29025309123762186']
-03:15:46 story catch-up salem: post 17907730767355906 not shared (Instagram container 18134551003684039 ERROR) - tried again next run
-03:16:11 story catch-up salem: post 17883560358543407 not shared (Instagram container 18134551084684039 ERROR) - tried again next run
-03:16:11 3 stories in the queue, ready to post: 1
-03:16:11   keys: ['batch', 'caption', 'category', 'doc', 'email_sent', 'gmail_id', 'headline_en', 'headline_ta', 'images', 'importance', 'location', 'notes', 'notion', 'other_sources', 'post_status', 'post_to', 'posted_at', 'prompts', 'published', 'reel', 'reel_link', 'reel_script', 'researched', 'review', 'review_page', 'row', 'salem_link', 'slides_spec', 'source', 'spare_link', 'story_id', 'verification']
-03:16:11    RN-2 review= 'Auto' images= 98 spec= 686 pages= ['salem'] links= '' '' age_h= 28.1 ready= False set_started= True
-03:16:11    RN-7 review= 'Auto' images= 98 spec= 838 pages= ['salem'] links= '' '' age_h= 16.1 ready= False set_started= True
-03:16:11    RN-18 review= 'Auto' images= 195 spec= 725 pages= ['salem'] links= '' '' age_h= 1.3 ready= True set_started= True
-03:16:13 publishing quota salem: 27/50
-03:16:15 instagram duplicate check salem: 15 recent posts read
-03:16:15    RN-18 waits for the 12-minute gap after the last post on ['salem']
+03:32:56 story catch-up salem: quota 27/50, 15 recent posts, 12 live stories, owner ids ['17841420521166438', '29025309123762186']
+03:34:19 story catch-up salem: post 17907730767355906 not shared (Instagram container 18134553550684039 ERROR) - tried again next run
+03:34:51 story catch-up salem: post 17883560358543407 not shared (Instagram container 18134553919684039 ERROR) - tried again next run
+03:35:49 story catch-up salem: story 17878082124584217 for the post of 13 Nov 21:39 UTC (VIDEO)
+03:35:49 3 stories in the queue, ready to post: 1
+03:35:49   keys: ['batch', 'caption', 'category', 'doc', 'email_sent', 'gmail_id', 'headline_en', 'headline_ta', 'images', 'importance', 'location', 'notes', 'notion', 'other_sources', 'post_status', 'post_to', 'posted_at', 'prompts', 'published', 'reel', 'reel_link', 'reel_script', 'researched', 'review', 'review_page', 'row', 'salem_link', 'slides_spec', 'source', 'spare_link', 'story_id', 'verification']
+03:35:49    RN-2 review= 'Auto' images= 98 spec= 686 pages= ['salem'] links= '' '' age_h= 28.4 ready= False set_started= True
+03:35:49    RN-7 review= 'Auto' images= 98 spec= 838 pages= ['salem'] links= '' '' age_h= 16.4 ready= False set_started= True
+03:35:49    RN-18 review= 'Auto' images= 195 spec= 725 pages= ['salem'] links= '' '' age_h= 1.6 ready= True set_started= True
+03:35:51 publishing quota salem: 27/50
+03:35:52 instagram duplicate check salem: 15 recent posts read
