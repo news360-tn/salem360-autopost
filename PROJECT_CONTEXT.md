@@ -81,6 +81,16 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 <!-- recent-changes:start (updated automatically by .github/workflows/context.yml - do not edit by hand) -->
 | Date | Commit | Change |
 |---|---|---|
+| 2026-11-13 | `61dd4e5` | reel: same design as Coimbatore 360 (colours, shapes, fonts) - per-page themes removed; end card keeps 'Source:' (owner 12 Nov); waiting reels rebuilt |
+| 2026-11-13 | `22253f8` | powercut: notices written |
+| 2026-11-13 | `d266b7f` | pick: written and posted |
+| 2026-11-13 | `4e65d24` | powercut: notices written |
+| 2026-11-13 | `5b4aba7` | pick: picked news saved |
+| 2026-11-13 | `9c56620` | pick: picked news saved |
+| 2026-11-13 | `cec6757` | pick: list sent |
+| 2026-11-13 | `dec3e8e` | powercut: notices written |
+| 2026-11-13 | `63bc99d` | powercut: notices written |
+| 2026-11-13 | `aa0a5da` | powercut: notices written |
 | 2026-11-13 | `855fc81` | reel: new Salem 360 footer logo (same size and format as Namakkal/Rasipuram, transparent surround); waiting reels rebuilt |
 | 2026-11-13 | `1ff3d83` | powercut: notices written |
 | 2026-11-13 | `ac14d68` | stories shared |
@@ -101,14 +111,4 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 | 2026-11-12 | `a3361d6` | powercut: notices written |
 | 2026-11-12 | `7dd14b9` | powercut: notices written |
 | 2026-11-12 | `7e6f045` | TRIAL: direct reel upload ON for this new page (file instead of Cloudinary link; falls back to the link; never posts twice) |
-| 2026-11-12 | `1b1d65f` | powercut: notices written |
-| 2026-11-12 | `384f1ce` | cloudinary: keep the last 48 h only, clean once every 48 h (own workflow; hourly step removed) |
-| 2026-11-12 | `a1844ad` | powercut: notices written |
-| 2026-11-12 | `b90cbed` | post: start the next posting run after the 12-minute gap while stories wait (GitHub runs the 5-min schedule ~hourly; Coimbatore had 23 waiting, 1 posted per hour) |
-| 2026-11-12 | `8aa5a19` | bridge: create the News tab (31 column names) when the new Log Sheet does not have it - pick failed 12 Nov with getLastRow of null |
-| 2026-11-12 | `b010b6f` | Salem 360 live (owner 12 Nov) |
-| 2026-11-12 | `9d070d1` | Cloudinary clean-up: this page's files older than 3 days deleted every hour (at 50% of the free limit reels older than 26 h too); a deleted prebuilt reel is uploaded again; rasipalan pictures in the page folder. keys-check: test-only workflow (manual), prints OK/FAIL per secret |
-| 2026-11-12 | `e442e33` | salem 360: local news for the district - Tamil papers only (Dinamalar, Dinamani + Dinakaran / OneIndia where fresh), district towns and searches, power-cut searches, writer rules, town hashtags; whole district; tests updated |
-| 2026-11-12 | `c615fd8` | salem 360: Sheet and Drive folder ids set (its own Sheet and folder) |
-| 2026-11-12 | `f86be8f` | salem 360: Instagram handle salem360.official |
 <!-- recent-changes:end -->
