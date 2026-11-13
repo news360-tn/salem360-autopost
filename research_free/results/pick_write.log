@@ -1,5 +1,5 @@
-writing [N]: மாணவர்களுக்கு ரூ.1000 கமிஷன் கொடுத்து பசுமாடு லோன் பெற்று ரூ
-writing [N]: பொதுமக்கள் பெயரில் பசு லோன் மோசடி: அறக்கட்டளை பெண் நிர்வாகி 
+writing [N]: கஞ்சா கடத்திய வழக்கு வாலிபருக்கு 7 மாத சிறை
+writing [N]: உழவர் உற்பத்தியாளர் நிறுவனம் தொடங்கக்கோரி விவசாயி தர்ணா
 gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
 gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
 groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
@@ -24,235 +24,204 @@ fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {
     "code": 429,
     "message": "You exceeded your current quota, please che
 dead for this round: gemini/gemini-3.5-flash
-writing [N]: மது விற்ற 2 பேர் கைது 60 பாட்டில் பறிமுதல்
-gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
-ok gemini/gemini-3-flash-preview (11s)
-attempt 1 gemini/gemini-3-flash-preview: 5 problems
-  sentence 1 (one-line story) has 19 words; make it 6-9 words (about 2-3 seconds), the details follow in the next sentences
-  caption needs 5 hashtags (Instagram max), has 6
-  not grounded: location 'கன்னங்குறிச்சி' is not in the article
-  hl1 (the first headline on screen) must name the place 'கன்னங்குறிச்சி', e.g. 'கன்னங்குறிச்சி: ...' or 'கன்னங்குறிச்சி-இல் ...' - viewers share news of their own area
-  caption misses facts of the article (put every one in 📰 முழு விவரம்): 22 ('சேலம்: பொது​மக்​களிடம் ஆதார் உள்​ளிட்ட ஆவணங்​களை பெற்று அவர்'); 35 ('இந்த மோசடி​யில் வங்கி அதி​காரி​களுக்​குத் தொடர்பு உள்​ளதா, எ')
-gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
-ok gemini/gemini-3-flash-preview (11s)
-attempt 1 gemini/gemini-3-flash-preview: 1 problems
-  caption needs 5 hashtags (Instagram max), has 6
 fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 429: {
   "error": {
     "code": 429,
     "message": "You exceeded your current quota, plea
 dead for this round: gemini/gemini-3-flash-preview
-gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
 fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {"error":{"message":"Rate limit reached for model `openai/gpt-oss-120b` in organization `o
 dead for this round: groq/openai/gpt-oss-120b
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
 fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {"error":{"message":"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m
 dead for this round: groq/qwen/qwen3.8-27b
 free models unavailable: no free model answered: groq qwen/qwen3.8-27b 429: {"error":{"message":"Rate limit reached for model `qwen/qwen3.8-27b` 
-fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {"error":{"message":"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m
-dead for this round: groq/qwen/qwen3.8-27b
-free models unavailable: no free model answered: groq qwen/qwen3.8-27b 429: {"error":{"message":"Rate limit reached for model `qwen/qwen3.8-27b` 
-ok gemini/gemini-3-flash-preview (13s)
-attempt 1 gemini/gemini-3-flash-preview: 4 problems
-  sentence 1 (one-line story) has 16 words; make it 6-9 words (about 2-3 seconds), the details follow in the next sentences
-  caption needs 5 hashtags (Instagram max), has 6
-  hl1 (the first headline on screen) must name the place 'கண்ணங்குறிச்சி', e.g. 'கண்ணங்குறிச்சி: ...' or 'கண்ணங்குறிச்சி-இல் ...' - viewers share news of their own area
-  caption misses facts of the article (put every one in 📰 முழு விவரம்): கன்னங்குறிச்சி ('இவர் சேலம் மாநகர போலீஸ் கமிஷனர் அலுவலகத்தில் கொடுத்த புகார்'); 40 ('உதவி கமிஷனர் சரண்யாதேவி, இன்ஸ்பெக்டர் சந்திரகலா ஆகியோர் விசா'); கன்னங்குறிச்சி ('உதவி கமிஷனர் சரண்யாதேவி, இன்ஸ்பெக்டர் சந்திரகலா ஆகியோர் விசா'); 10 ('அறக்கட்டளை நடத்தி வரும் கண்ணகியின் அலுவலகத்தில் முத்துக்குமர'); 10 ('அலுவலகத்தில் பணியாற்றிய மோனிஷா உள்ளிட்ட ஊழியர்கள் 10 பேர் தல'); 4 ('அலுவலகத்தில் பணியாற்றிய மோனிஷா உள்ளிட்ட ஊழியர்கள் 10 பேர் தல')
+writing [N]: வாடகையை உயர்த்தி கேட்டு டாஸ்மாக் கடைக்கு பூட்டு
 gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
 free models unavailable: no free model answered: None
 ok anthropic/claude-haiku-5-5
-gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
-free fact-check unavailable, using Claude: no free model answered: None
-ok anthropic/claude-haiku-5-5
 claude rewrite 1 anthropic/claude-haiku-5-5: 3 problems
-  reel_script has 87 words; need 100-160 (the key facts once each, in at most 90 seconds; every other detail goes in the caption's 📰 முழு விவரம் block)
-  not grounded: location 'கன்னங்குறிச்சி' is not in the article
-  caption misses facts of the article (put every one in 📰 முழு விவரம்): 2 ('சேலம்: பொது​மக்​களிடம் ஆதார் உள்​ளிட்ட ஆவணங்​களை பெற்று அவர்'); 2 ('இவ்​வாறு புகாரில் கூறப்​பட்​டுள்​ளது.இது​தொடர்​பாக விசா​ரணை '); 35 ('இந்த மோசடி​யில் வங்கி அதி​காரி​களுக்​குத் தொடர்பு உள்​ளதா, எ')
-ok anthropic/claude-haiku-5-5
-factcheck by anthropic/claude-haiku-5-5: 4 problems
-  The reel_script and tamil_headline say 'மேட்டூர் அருகே' / 'மேட்டூரில' (near Mettur / in Mettur), but the article only gives Mettur as the dateline, and the arrests are in Kolathur; the place reference is not clearly supported.
-  The reel_script says the sale was 'தெரியவந்தது' after the search as a cause, and the reel_script says the 60-bottle total and 'சோதனை நேற்று' are fine, but the reel_script states 'அவரது கடையிலும்' for Murugesan's shop while the caption and slides say 'குவார்ட்டர்' only for Sakthivel's; the article says 30 bottles for both without specifying quarter bottles for Murugesan, so the 'குவார்ட்டர்' detail in the caption is not fully supported for the second shop.
-  The reel_script calls Sakthivel's shop 'சிக்கன் வியாபாரி' as the operator of the shop where liquor was sold, and the slide says 'சக்திவேல் கடையில்', but the article says the chicken trader's shop was checked; the slide 'முருகேசன் கடையில்' and 'இருவரும் கைது' are consistent, so no further issue there.
-  The reel_script says 'இரண்டு பேர் கைது செய்யப்பட்டனர்' and 'இந்தச் சம்பவம் தெரியவந்தது' linking the discovery to the search, which is consistent with the article; however the caption says 'தெரியவந்தது' for the sale hidden in the shop, which matches the article's wording.
-claude rewrite 1 anthropic/claude-haiku-5-5: 4 problems
-  fact-check: The reel_script and tamil_headline say 'மேட்டூர் அருகே' / 'மேட்டூரில' (near Mettur / in Mettur), but the article only gives Mettur as the dateline, and the arrests are in Kolathur; the place reference is not clearly supported.
-  fact-check: The reel_script says the sale was 'தெரியவந்தது' after the search as a cause, and the reel_script says the 60-bottle total and 'சோதனை நேற்று' are fine, but the reel_script states 'அவரது கடையிலும்' for Murugesan's shop while the caption and slides say 'குவார்ட்டர்' only for Sakthivel's; the article says 30 bottles for both without specifying quarter bottles for Murugesan, so the 'குவார்ட்டர்' detail in the caption is not fully supported for the second shop.
-  fact-check: The reel_script calls Sakthivel's shop 'சிக்கன் வியாபாரி' as the operator of the shop where liquor was sold, and the slide says 'சக்திவேல் கடையில்', but the article says the chicken trader's shop was checked; the slide 'முருகேசன் கடையில்' and 'இருவரும் கைது' are consistent, so no further issue there.
-  fact-check: The reel_script says 'இரண்டு பேர் கைது செய்யப்பட்டனர்' and 'இந்தச் சம்பவம் தெரியவந்தது' linking the discovery to the search, which is consistent with the article; however the caption says 'தெரியவந்தது' for the sale hidden in the shop, which matches the article's wording.
+  reel_script writes ages as newspaper shorthand (தண்டனையும், 5,); say it as a news reader: '12 வயது மகன் ராஜா', 'கவுசிக் (14 வயது)' -> '14 வயதான கவுசிக்'
+  source/outlet name or link appears: indian express
+  slides_spec.loc 'சேலம் மாவட்டம்' is only the district: write the town / village / area the article names (people share news of their own area)
 ok anthropic/claude-haiku-5-5
 gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
 groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
+free fact-check unavailable, using Claude: no free model answered: None
+ok anthropic/claude-haiku-5-5
+factcheck by anthropic/claude-haiku-5-5: 6 problems
+  reel_script calls Gunasekaran the shop owner (கடை உரிமையாளர்); the article only says the land belonging to him has the shop and godown, and he is the landlord receiving rent, which the draft does not state explicitly but 'கடை உரிமையாளர்' is a role claim not clearly in the article
+  reel_script says the rent was raised '7 ஆண்டுகளாக வாடகை உயர்த்தப்படவில்லை' (rent not raised for 7 years) — the article says rent has been 6,500 since 7 years ago, which is roughly consistent, but the slides/caption wording blends it with the demand, a minor shift
+  caption says 'கெங்கவல்லியைச் சேர்ந்த குணசேகரனுக்குச் சொந்தமான இடத்தில்' and the reel says rent of 6,500 ரூபாய் is paid to both shop and godown; the article says rent is paid by the TASMAC management, which the draft omits (not an error but an important missing fact about who pays)
+  caption mixes the demand with the rent amount: 'இருந்த தலா 6,500 ரூபாய் வாடகையை உயர்த்தக் கோரி' — it presents the 6,500 rent as the thing to be raised, which is consistent, but the sentence is ungrammatical/unclear in Tamil
+  slides_spec 'என்ன நடந்தது?' line 'நேற்று காலை 10 மணிக்கு டாஸ்மாக் கடைக்கு கூடுதல்' is cut off with no object (பூட்டு missing), leaving the sentence without clear meaning
+  reel_script says 'பலமுறை மனு அளித்தும் பலன் இல்லை' — the article says he gave petitions but that the rent was not raised; acceptable paraphrase, but the reel also says the police 'உறுதியளித்தனர்' correctly; no clear factual error here
+claude rewrite 1 anthropic/claude-haiku-5-5: 6 problems
+  fact-check: reel_script calls Gunasekaran the shop owner (கடை உரிமையாளர்); the article only says the land belonging to him has the shop and godown, and he is the landlord receiving rent, which the draft does not state explicitly but 'கடை உரிமையாளர்' is a role claim not clearly in the article
+  fact-check: reel_script says the rent was raised '7 ஆண்டுகளாக வாடகை உயர்த்தப்படவில்லை' (rent not raised for 7 years) — the article says rent has been 6,500 since 7 years ago, which is roughly consistent, but the slides/caption wording blends it with the demand, a minor shift
+  fact-check: caption says 'கெங்கவல்லியைச் சேர்ந்த குணசேகரனுக்குச் சொந்தமான இடத்தில்' and the reel says rent of 6,500 ரூபாய் is paid to both shop and godown; the article says rent is paid by the TASMAC management, which the draft omits (not an error but an important missing fact about who pays)
+  fact-check: caption mixes the demand with the rent amount: 'இருந்த தலா 6,500 ரூபாய் வாடகையை உயர்த்தக் கோரி' — it presents the 6,500 rent as the thing to be raised, which is consistent, but the sentence is ungrammatical/unclear in Tamil
+  fact-check: slides_spec 'என்ன நடந்தது?' line 'நேற்று காலை 10 மணிக்கு டாஸ்மாக் கடைக்கு கூடுதல்' is cut off with no object (பூட்டு missing), leaving the sentence without clear meaning
+  fact-check: reel_script says 'பலமுறை மனு அளித்தும் பலன் இல்லை' — the article says he gave petitions but that the rent was not raised; acceptable paraphrase, but the reel also says the police 'உறுதியளித்தனர்' correctly; no clear factual error here
+ok gemini/gemini-3-flash-preview (14s)
+attempt 1 gemini/gemini-3-flash-preview: 3 problems
+  sentence 1 (one-line story) has 12 words; make it 6-9 words (about 2-3 seconds), the details follow in the next sentences
+  caption needs 5 hashtags (Instagram max), has 6
+  not grounded: location 'ஆட்சியர்' is not in the article
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
+free models unavailable: no free model answered: None
+ok anthropic/claude-haiku-5-5
+claude rewrite 2 anthropic/claude-haiku-5-5: 1 problems
+  hl1 (the first headline on screen) must name the place 'சேலம் போதை பொருள் தடுப்பு சிறப்பு நீதிமன்றம்', e.g. 'சேலம் போதை பொருள் தடுப்பு சிறப்பு நீதிமன்றம்: ...' or 'சேலம் போதை பொருள் தடுப்பு சிறப்பு நீதிமன்றம்-இல் ...' - viewers share news of their own area
+ok anthropic/claude-haiku-5-5
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
 free fact-check unavailable, using Claude: no free model answered: None
 ok anthropic/claude-haiku-5-5
 factcheck by anthropic/claude-haiku-5-5: 5 problems
-  reel_script says the 4 people arrested 'yesterday' (Monisha, Ajith Kumar, Kishore Kumar) were 'already arrested' earlier — the draft says 'கைதான மோனிஷா...' (already-arrested Monisha) which conflicts with the article saying they were arrested yesterday; minor mix-up of timing
-  reel_script and caption state the complainant was 'ஏமாற்றியதாக' by Kannaki and Monisha and that Rs 1 lakh loan notice came, but the reel_script says 'அவருக்கு ஒரு லட்சம் ரூபாய் கடன் நோட்டீஸ் வந்தது' — acceptable, but the caption adds 'ஆதார் அட்டையைப் பயன்படுத்தி' for students/unemployed which matches article; no issue there
-  reel_script states 'மோனிஷா, அஜித்குமார், கிஷோர்குமார் உள்பட 4 பேர்' were arrested yesterday, while the caption says 'மோனிஷா உள்ளிட்ட 10 ஊழியர்கள் தலைமறைவாகினர்' — the article says 10 staff went absconding, so the caption's 'மோனிஷா உள்ளிட்ட 10 ஊழியர்கள்' is an inaccurate phrasing that puts Monisha inside the count of 10 absconding staff, which is ambiguous
-  reel_script gives the headline arrest count of 6 people, but the article names only Kannaki, Muthukumaran, Monisha, Ajith Kumar and Kishore Kumar (5 named); the '6 பேர்' total is in the headline but the article's arrest figure is not explicitly stated as 6
-  The article says the complaint was filed by Mushrap Basha and the Rs 33 crore was paid 'through her lawyer' with a question about whether the lawyer is a government lawyer; the reel_script and caption state it as a fact that a government lawyer is linked, while the article only says there is an allegation and it is under investigation — the draft presents an unverified accusation as established
-claude rewrite 1 anthropic/claude-haiku-5-5: 5 problems
-  fact-check: reel_script says the 4 people arrested 'yesterday' (Monisha, Ajith Kumar, Kishore Kumar) were 'already arrested' earlier — the draft says 'கைதான மோனிஷா...' (already-arrested Monisha) which conflicts with the article saying they were arrested yesterday; minor mix-up of timing
-  fact-check: reel_script and caption state the complainant was 'ஏமாற்றியதாக' by Kannaki and Monisha and that Rs 1 lakh loan notice came, but the reel_script says 'அவருக்கு ஒரு லட்சம் ரூபாய் கடன் நோட்டீஸ் வந்தது' — acceptable, but the caption adds 'ஆதார் அட்டையைப் பயன்படுத்தி' for students/unemployed which matches article; no issue there
-  fact-check: reel_script states 'மோனிஷா, அஜித்குமார், கிஷோர்குமார் உள்பட 4 பேர்' were arrested yesterday, while the caption says 'மோனிஷா உள்ளிட்ட 10 ஊழியர்கள் தலைமறைவாகினர்' — the article says 10 staff went absconding, so the caption's 'மோனிஷா உள்ளிட்ட 10 ஊழியர்கள்' is an inaccurate phrasing that puts Monisha inside the count of 10 absconding staff, which is ambiguous
-  fact-check: reel_script gives the headline arrest count of 6 people, but the article names only Kannaki, Muthukumaran, Monisha, Ajith Kumar and Kishore Kumar (5 named); the '6 பேர்' total is in the headline but the article's arrest figure is not explicitly stated as 6
-  fact-check: The article says the complaint was filed by Mushrap Basha and the Rs 33 crore was paid 'through her lawyer' with a question about whether the lawyer is a government lawyer; the reel_script and caption state it as a fact that a government lawyer is linked, while the article only says there is an allegation and it is under investigation — the draft presents an unverified accusation as established
+  reel_script says the rent is 6,500 rupees for the shop and the godown, which the article only states per property (தலா can be read as each), so the amount is correct but the phrasing 'தலா 6,500 ரூபாய் வாடகை வழங்கப்படுகிறது' is fine; however the reel_script states the rent has not been raised for 7 years while the article says the rent has been paid at the same level for 7 years, so this is consistent, no problem there
+  reel_script omits that the protest was held because the owner demanded a rent increase, which is the stated cause; the headline and slides mention it but the reel_script only says the 'தவித்தனர்' and rent facts without linking the demand clearly
+  reel_script sentence 'பலமுறை மனு அளித்தும் வாடகை உயர்த்தப்படவில்லை என அவர் கூறினார்' repeats the 7-year claim in a way that is redundant, not a factual error
+  caption says 'பலமுறை மனு அளித்தும் வாடகையை உயர்த்தவில்லை' which is accurate to the article
+  reel_script and caption describe the shop as owned by Gunasekaran's property, which matches the article (அவருக்கு சொந்தமான இடத்தில்)
+claude rewrite 2 anthropic/claude-haiku-5-5: 5 problems
+  fact-check: reel_script says the rent is 6,500 rupees for the shop and the godown, which the article only states per property (தலா can be read as each), so the amount is correct but the phrasing 'தலா 6,500 ரூபாய் வாடகை வழங்கப்படுகிறது' is fine; however the reel_script states the rent has not been raised for 7 years while the article says the rent has been paid at the same level for 7 years, so this is consistent, no problem there
+  fact-check: reel_script omits that the protest was held because the owner demanded a rent increase, which is the stated cause; the headline and slides mention it but the reel_script only says the 'தவித்தனர்' and rent facts without linking the demand clearly
+  fact-check: reel_script sentence 'பலமுறை மனு அளித்தும் வாடகை உயர்த்தப்படவில்லை என அவர் கூறினார்' repeats the 7-year claim in a way that is redundant, not a factual error
+  fact-check: caption says 'பலமுறை மனு அளித்தும் வாடகையை உயர்த்தவில்லை' which is accurate to the article
+  fact-check: reel_script and caption describe the shop as owned by Gunasekaran's property, which matches the article (அவருக்கு சொந்தமான இடத்தில்)
 ok anthropic/claude-haiku-5-5
-gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
-free fact-check unavailable, using Claude: no free model answered: None
+claude rewrite 1 anthropic/claude-haiku-5-5: 1 problems
+  hl1 (the first headline on screen) must name the place 'சேலம் கலெக்டர் அலுவலகம்', e.g. 'சேலம் கலெக்டர் அலுவலகம்: ...' or 'சேலம் கலெக்டர் அலுவலகம்-இல் ...' - viewers share news of their own area
 ok anthropic/claude-haiku-5-5
-claude rewrite 2 anthropic/claude-haiku-5-5: 3 problems
-  reel_script has 96 words; need 100-160 (the key facts once each, in at most 90 seconds; every other detail goes in the caption's 📰 முழு விவரம் block)
-  sentence 1 (one-line story) has 12 words; make it 6-9 words (about 2-3 seconds), the details follow in the next sentences
-  caption misses facts of the article (put every one in 📰 முழு விவரம்): 2 ('சேலம்: பொது​மக்​களிடம் ஆதார் உள்​ளிட்ட ஆவணங்​களை பெற்று அவர்'); 2 ('இவ்​வாறு புகாரில் கூறப்​பட்​டுள்​ளது.இது​தொடர்​பாக விசா​ரணை '); 35 ('இந்த மோசடி​யில் வங்கி அதி​காரி​களுக்​குத் தொடர்பு உள்​ளதா, எ')
-ok anthropic/claude-haiku-5-5
-factcheck by anthropic/claude-haiku-5-5: 3 problems
-  The article never states that the liquor was sold in Kolathur as a place of the offence, only that Kolathur police conducted the inspection; the draft's headline and reel_script say 'கொளத்தூரில் மது விற்ற' as if the sales happened in Kolathur (the article says Chicken trader Shakthivel is from Periyathandavai, which is not identified as the sale location), which is a place claim not clearly supported.
-  The caption and reel_script claim the 'நவ. 12' date as the time of the raid ('நேற்று (நவ. 12)'), but the article only says 'நேற்று' (yesterday) without giving a date; the date is an invented detail.
-  The caption states '60 மதுபாட்டில்கள்' were seized in total, which is the sum of 30+30 and is consistent, but the article lists the amounts as 30 quarter bottles for Shakthivel and 30 bottles for Murugesan, so the headline/reel claim '60 பாட்டில்கள்' is not an error; however the caption's phrase 'அரசு மதுபாட்டில்களை பதுக்கி வைத்து விற்பனை செய்தது தெரியவந்தது' is fine. The clearly invented detail is the date in the caption.
-claude rewrite 2 anthropic/claude-haiku-5-5: 3 problems
-  fact-check: The article never states that the liquor was sold in Kolathur as a place of the offence, only that Kolathur police conducted the inspection; the draft's headline and reel_script say 'கொளத்தூரில் மது விற்ற' as if the sales happened in Kolathur (the article says Chicken trader Shakthivel is from Periyathandavai, which is not identified as the sale location), which is a place claim not clearly supported.
-  fact-check: The caption and reel_script claim the 'நவ. 12' date as the time of the raid ('நேற்று (நவ. 12)'), but the article only says 'நேற்று' (yesterday) without giving a date; the date is an invented detail.
-  fact-check: The caption states '60 மதுபாட்டில்கள்' were seized in total, which is the sum of 30+30 and is consistent, but the article lists the amounts as 30 quarter bottles for Shakthivel and 30 bottles for Murugesan, so the headline/reel claim '60 பாட்டில்கள்' is not an error; however the caption's phrase 'அரசு மதுபாட்டில்களை பதுக்கி வைத்து விற்பனை செய்தது தெரியவந்தது' is fine. The clearly invented detail is the date in the caption.
-ok anthropic/claude-haiku-5-5
-claude rewrite 2 anthropic/claude-haiku-5-5: 2 problems
-  hl1 (the first headline on screen) must name the place 'சேலம் மாநகரம்', e.g. 'சேலம் மாநகரம்: ...' or 'சேலம் மாநகரம்-இல் ...' - viewers share news of their own area
-  caption misses facts of the article (put every one in 📰 முழு விவரம்): 22 ('சேலம் அம்மாபேட்டை பகுதியை சேர்ந்தவர் முஷ்ரப் பாஷா (22).'); அம்மாபேட்டை ('சேலம் அம்மாபேட்டை பகுதியை சேர்ந்தவர் முஷ்ரப் பாஷா (22).'); 1 ('ஆனால் தற்போது வங்கியில் நான் ரூ.1 லட்சம் கடன் வாங்கியதாக நோட'); 40 ('உதவி கமிஷனர் சரண்யாதேவி, இன்ஸ்பெக்டர் சந்திரகலா ஆகியோர் விசா'); 10 ('அறக்கட்டளை நடத்தி வரும் கண்ணகியின் அலுவலகத்தில் முத்துக்குமர'); 1 ('இதில் மாடு வாங்கி வளர்க்கும் வகையில் மாடு லோனுக்கு ரூ.1 லட்ச')
-ok anthropic/claude-haiku-5-5
-gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
-free fact-check unavailable, using Claude: no free model answered: None
-ok anthropic/claude-haiku-5-5
-claude rewrite 3 anthropic/claude-haiku-5-5: 5 problems
-  reel_script has 94 words; need 100-160 (the key facts once each, in at most 90 seconds; every other detail goes in the caption's 📰 முழு விவரம் block)
-  sentence 1 (one-line story) has 12 words; make it 6-9 words (about 2-3 seconds), the details follow in the next sentences
-  not grounded: location 'கன்னங்குறிச்சி' is not in the article
-  hl1 (the first headline on screen) must name the place 'கன்னங்குறிச்சி', e.g. 'கன்னங்குறிச்சி: ...' or 'கன்னங்குறிச்சி-இல் ...' - viewers share news of their own area
-  caption misses facts of the article (put every one in 📰 முழு விவரம்): 35 ('இந்த மோசடி​யில் வங்கி அதி​காரி​களுக்​குத் தொடர்பு உள்​ளதா, எ')
+claude rewrite 3 anthropic/claude-haiku-5-5: 1 problems
+  reel_script writes ages as newspaper shorthand (தண்டனையும், 5,); say it as a news reader: '12 வயது மகன் ராஜா', 'கவுசிக் (14 வயது)' -> '14 வயதான கவுசிக்'
 gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
 groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
 proofread skipped: no free model answered: None
 gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
 ok anthropic/claude-haiku-5-5
-factcheck by anthropic/claude-haiku-5-5: 5 problems
-  The article says Mettur in the dateline and the places are Kolathur and Periyathandavai, but the reel_script and headline invent no extra place; however the caption's English line 'near Mettur' is acceptable. No problem found in place names.
-  Reel_script says 'சக்திவேல், 42 வயது, தனது கடையில்' — article says the shop belongs to Sakthivel; acceptable. The slides say 'சக்திவேலிடம் 30 குவார்ட்டர் பாட்டில்கள்' ('from Sakthivel 30 quarter bottles') — consistent with article.
-  Reel_script says 'மொத்தம் 60 பாட்டில்கள் பறிமுதல் செய்யப்பட்டன' — 30+30=60 is consistent with the article, not a new fact.
-  The article does not state that Periyathandavai or Kanna Moochi shop locations are in Mettur taluk specifically; the headline 'மேட்டூர் அருகே' ('near Mettur') is a mild inference from the dateline, not an explicit claim of distance.
-  The caption states '(42 வயது)' and '(56 வயது)' and 'பெரியதண்டாவை சேர்ந்த சிக்கன் வியாபாரி சக்திவேல்' correctly, and 'சோதனை நடத்தப்பட்டு 30 குவார்ட்டர் பாட்டில்கள் பறிமுதல்' is consistent with the article.
-claude rewrite 3 anthropic/claude-haiku-5-5: 5 problems
-  fact-check: The article says Mettur in the dateline and the places are Kolathur and Periyathandavai, but the reel_script and headline invent no extra place; however the caption's English line 'near Mettur' is acceptable. No problem found in place names.
-  fact-check: Reel_script says 'சக்திவேல், 42 வயது, தனது கடையில்' — article says the shop belongs to Sakthivel; acceptable. The slides say 'சக்திவேலிடம் 30 குவார்ட்டர் பாட்டில்கள்' ('from Sakthivel 30 quarter bottles') — consistent with article.
-  fact-check: Reel_script says 'மொத்தம் 60 பாட்டில்கள் பறிமுதல் செய்யப்பட்டன' — 30+30=60 is consistent with the article, not a new fact.
-  fact-check: The article does not state that Periyathandavai or Kanna Moochi shop locations are in Mettur taluk specifically; the headline 'மேட்டூர் அருகே' ('near Mettur') is a mild inference from the dateline, not an explicit claim of distance.
-  fact-check: The caption states '(42 வயது)' and '(56 வயது)' and 'பெரியதண்டாவை சேர்ந்த சிக்கன் வியாபாரி சக்திவேல்' correctly, and 'சோதனை நடத்தப்பட்டு 30 குவார்ட்டர் பாட்டில்கள் பறிமுதல்' is consistent with the article.
-gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
-proofread skipped: no free model answered: None
-gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
-ok anthropic/claude-haiku-5-5
-gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-real photo: vision check unavailable: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-3.6-flash:ge
-real photo: vision check out of free quota
+real photo: no picture on the source page -> AI pictures
 imagegen: cloudflare black-forest-labs/flux-1-schnell 429: {"errors":[{"message":"AiError: AiError: you have used up your daily free allocation of 10,000 neurons, please upgrade to Cloudflare's Workers Paid plan if you would like 
 ok anthropic/claude-haiku-5-5
-ok anthropic/claude-haiku-5-5
 gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
 groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
 free fact-check unavailable, using Claude: no free model answered: None
 ok anthropic/claude-haiku-5-5
-factcheck by anthropic/claude-haiku-5-5: 8 problems
-  Headline and reel_script say 'மாணவர்கள் பெயரில்' and 'மாடு லோன்' as the main victims, but the article says loans were taken from college students and jobless people; fine, but the reel_script says 'ரூ.50 கோடி மோசடி நடந்துள்ளது' while the article says 'ரூ.50 கோடி அளவிற்கு மோசடி நடந்துள்ளதாக கூறப்படுகிறது' (reported, not confirmed) - reel presents it as fact
-  Reel_script and slides say '6 பேர் கைது' but the article reports 2 arrested (Kannagi and Muthukumaran) plus 4 more (Monisha, Ajith Kumar, Kishore Kumar and one more) totalling 6; the article does not state 6 total, so the count is an unsupported claim
-  Reel_script says கண்ணகி and முத்துக்குமரன் were arrested and 10+ staff fled, but the article says Monisha and others fled and 4 were arrested the day before; reel omits that the 4 arrests (Monisha, Ajith Kumar, Kishore Kumar) occurred, and the claim that 6 were arrested conflicts with the stated arrests
-  Reel_script omits the key fact that the government lawyer link / Rs.33 crore deposited via the lawyer allegation, an important element of the article
-  Caption says 'மாநகர போலீஸ் கமிஷனர் அலுவலகத்தில் புகார் அளித்தார்' and the caption states Kannagi is 40 years old, which matches; however the caption says 'சேலம் மாநகரில் மாணவர்கள், வேலையில்லாதவர்களின் ஆதார் அட்டையைப் பயன்படுத்தி' which is accurate, but the caption says 'ஒவ்வொருவருக்கும் ரூ.1000 கமிஷன்' attributed to complaint 'பணம் மாற்றச் சொல்லி ரூ.1000 தந்ததாக' which mixes the complainant's own experience with the scheme
-  Caption says 'Kannagi, Monisha ... பணம் மாற்றச் சொல்லி ரூ.1000 தந்ததாக அவர் கூறினார்' is accurate, but the caption's Tamil sentence 'கைதான கண்ணகி, தனது வக்கீல் மூலம் ரூ.33 கோடி வங்கிக் கணக்கில் செலுத்தப்பட்டதாகக் புகாரில் தெரிவித்தார்' is ungrammatical ('கூறினார்' form mixed with 'புகாரில்' and 'தெரிவித்தார்'), making the meaning unclear
-  Slide 'புகார் எப்படி?' says 'பணம் மாற்றச் சொல்லி ரூ.1000 தந்ததாக அவர் கூறினார்' which mixes the complainant's account with the general scheme description; also 'சேலம் அம்மாபேட்டை முஷ்ரப் பாஷா (22)' is accurate
-  Slide 'விசாரணை நிலை' says '10க்கும் மேற்பட்ட ஊழியர்கள் தலைமறைவானார்கள்' with verb 'தலைமறைவானார்கள்' used for plural subject mixed with 'கண்ணகி கைது' in one list; minor grammatical inconsistency with the article's 'தலைமறைவாகினர்' and the article says 10 staff fled before 4 were arrested, while the slide omits this sequence
-claude rewrite 3 anthropic/claude-haiku-5-5: 8 problems
-  fact-check: Headline and reel_script say 'மாணவர்கள் பெயரில்' and 'மாடு லோன்' as the main victims, but the article says loans were taken from college students and jobless people; fine, but the reel_script says 'ரூ.50 கோடி மோசடி நடந்துள்ளது' while the article says 'ரூ.50 கோடி அளவிற்கு மோசடி நடந்துள்ளதாக கூறப்படுகிறது' (reported, not confirmed) - reel presents it as fact
-  fact-check: Reel_script and slides say '6 பேர் கைது' but the article reports 2 arrested (Kannagi and Muthukumaran) plus 4 more (Monisha, Ajith Kumar, Kishore Kumar and one more) totalling 6; the article does not state 6 total, so the count is an unsupported claim
-  fact-check: Reel_script says கண்ணகி and முத்துக்குமரன் were arrested and 10+ staff fled, but the article says Monisha and others fled and 4 were arrested the day before; reel omits that the 4 arrests (Monisha, Ajith Kumar, Kishore Kumar) occurred, and the claim that 6 were arrested conflicts with the stated arrests
-  fact-check: Reel_script omits the key fact that the government lawyer link / Rs.33 crore deposited via the lawyer allegation, an important element of the article
-  fact-check: Caption says 'மாநகர போலீஸ் கமிஷனர் அலுவலகத்தில் புகார் அளித்தார்' and the caption states Kannagi is 40 years old, which matches; however the caption says 'சேலம் மாநகரில் மாணவர்கள், வேலையில்லாதவர்களின் ஆதார் அட்டையைப் பயன்படுத்தி' which is accurate, but the caption says 'ஒவ்வொருவருக்கும் ரூ.1000 கமிஷன்' attributed to complaint 'பணம் மாற்றச் சொல்லி ரூ.1000 தந்ததாக' which mixes the complainant's own experience with the scheme
-  fact-check: Caption says 'Kannagi, Monisha ... பணம் மாற்றச் சொல்லி ரூ.1000 தந்ததாக அவர் கூறினார்' is accurate, but the caption's Tamil sentence 'கைதான கண்ணகி, தனது வக்கீல் மூலம் ரூ.33 கோடி வங்கிக் கணக்கில் செலுத்தப்பட்டதாகக் புகாரில் தெரிவித்தார்' is ungrammatical ('கூறினார்' form mixed with 'புகாரில்' and 'தெரிவித்தார்'), making the meaning unclear
-  fact-check: Slide 'புகார் எப்படி?' says 'பணம் மாற்றச் சொல்லி ரூ.1000 தந்ததாக அவர் கூறினார்' which mixes the complainant's account with the general scheme description; also 'சேலம் அம்மாபேட்டை முஷ்ரப் பாஷா (22)' is accurate
-  fact-check: Slide 'விசாரணை நிலை' says '10க்கும் மேற்பட்ட ஊழியர்கள் தலைமறைவானார்கள்' with verb 'தலைமறைவானார்கள்' used for plural subject mixed with 'கண்ணகி கைது' in one list; minor grammatical inconsistency with the article's 'தலைமறைவாகினர்' and the article says 10 staff fled before 4 were arrested, while the slide omits this sequence
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
+free fact-check unavailable, using Claude: no free model answered: None
+ok anthropic/claude-haiku-5-5
+factcheck by anthropic/claude-haiku-5-5: 5 problems
+  reel_script says the shop owner locked the shop and that the shop and godown belong to the owner, which the article supports (owner Gunasekaran), so no issue there; however, reel_script calls Gunasekaran the 'உரிமையாளர்' of the shop, while the article says he owns the land, not the Tasmac shop itself, which is run through the Tasmac administration
+  reel_script states the rent is paid to Gunasekaran's premises via Tasmac administration correctly, but the slide 'ஏன் போராட்டம்?' says rent has not been raised for 7 years, while the article says the rent has been paid at the same rate for 7 years and the owner complained that it was not raised, which is consistent; no problem there
+  slides_spec 'இப்போது நிலை' says 'குடிமகன்கள் நீண்ட நேரம் காத்திருக்க நேர்ந்தது' (customers had to wait a long time), which is not stated in the article; the article only says they were 'தவித்தனர்' (struggled) and does not mention a long wait
+  slides_spec and reel_script say the protest was 'நேற்று காலை 10 மணி முதல்' (from 10 am yesterday) and that the shop was not opened, which matches the article
+  caption attributes the police talks and the rent claim correctly; caption does not contain other invented facts
+claude rewrite 3 anthropic/claude-haiku-5-5: 5 problems
+  fact-check: reel_script says the shop owner locked the shop and that the shop and godown belong to the owner, which the article supports (owner Gunasekaran), so no issue there; however, reel_script calls Gunasekaran the 'உரிமையாளர்' of the shop, while the article says he owns the land, not the Tasmac shop itself, which is run through the Tasmac administration
+  fact-check: reel_script states the rent is paid to Gunasekaran's premises via Tasmac administration correctly, but the slide 'ஏன் போராட்டம்?' says rent has not been raised for 7 years, while the article says the rent has been paid at the same rate for 7 years and the owner complained that it was not raised, which is consistent; no problem there
+  fact-check: slides_spec 'இப்போது நிலை' says 'குடிமகன்கள் நீண்ட நேரம் காத்திருக்க நேர்ந்தது' (customers had to wait a long time), which is not stated in the article; the article only says they were 'தவித்தனர்' (struggled) and does not mention a long wait
+  fact-check: slides_spec and reel_script say the protest was 'நேற்று காலை 10 மணி முதல்' (from 10 am yesterday) and that the shop was not opened, which matches the article
+  fact-check: caption attributes the police talks and the rent claim correctly; caption does not contain other invented facts
 gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
 groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
 proofread skipped: no free model answered: None
 gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
 ok anthropic/claude-haiku-5-5
+factcheck by anthropic/claude-haiku-5-5: 6 problems
+  reel_script says 'பெத்தநாயக்கன்பாளையம் அருகே' (near Pethanaickenpalayam) while the article says the farmer is from Periya Krishnapuram in Pethanaickenpalayam; this is a minor place framing difference but the article states he is from Pethanaickenpalayam itself
+  reel_script and caption say the farmers have been requesting for one and a half years from the department and district administration, but the caption says 'அனுமதி கேட்டு வருகின்றனர்' (plural 'they') while the article attributes the request to the farmer and the group implicitly; the subject is the farmers collectively, which is a slight shift from the individual farmer
+  caption says the department and district administration were asked for permission, but the article says 'கால்நடை பராமரிப்பு துறை மற்றும் மாவட்ட நிர்வாகத்திடம்' which matches; however the caption and reel_script say the farmer 'ஈடுபட்டார்' at the Collectorate and 'Salem Collectorate' in English hashtags is fine, no problem there
+  reel_script omits that the farmer's complaint was that officials were 'அலைக்கழிக்கின்றனர்' only in the article; reel_script does include this, so no omission, but the slide 'அதிகாரிகள் அலைக்கழிப்பதாக விவசாயி குற்றச்சாட்டு' is accurate
+  slides_spec 'ஏன் தர்ணா?' line 'கருமந்துறை சுற்றுப்பகுதியில் 300க்கும் மேற்பட்ட பழங்குடியின' is an incomplete sentence with no clear meaning (missing 'விவசாயிகள்')
+  reel_script sentence 'பால் மூலம் மதிப்பு கூட்டு பொருட்களைத் தயாரித்து விற்க பல விவசாயிகள் விருப்பம் தெரிவித்துள்ளனர். இதற்காக உழவர் உற்பத்தியாளர் நிறுவனம் அமைத்துத் தர வேண்டும் என்று...' mixes the demand and the request sequence in a way that is acceptable, but the tamil_headline 'உழவர் உற்பத்தியாளர் நிறுவனம் கோரி' is grammatically awkward with no clear object
+claude rewrite 2 anthropic/claude-haiku-5-5: 6 problems
+  fact-check: reel_script says 'பெத்தநாயக்கன்பாளையம் அருகே' (near Pethanaickenpalayam) while the article says the farmer is from Periya Krishnapuram in Pethanaickenpalayam; this is a minor place framing difference but the article states he is from Pethanaickenpalayam itself
+  fact-check: reel_script and caption say the farmers have been requesting for one and a half years from the department and district administration, but the caption says 'அனுமதி கேட்டு வருகின்றனர்' (plural 'they') while the article attributes the request to the farmer and the group implicitly; the subject is the farmers collectively, which is a slight shift from the individual farmer
+  fact-check: caption says the department and district administration were asked for permission, but the article says 'கால்நடை பராமரிப்பு துறை மற்றும் மாவட்ட நிர்வாகத்திடம்' which matches; however the caption and reel_script say the farmer 'ஈடுபட்டார்' at the Collectorate and 'Salem Collectorate' in English hashtags is fine, no problem there
+  fact-check: reel_script omits that the farmer's complaint was that officials were 'அலைக்கழிக்கின்றனர்' only in the article; reel_script does include this, so no omission, but the slide 'அதிகாரிகள் அலைக்கழிப்பதாக விவசாயி குற்றச்சாட்டு' is accurate
+  fact-check: slides_spec 'ஏன் தர்ணா?' line 'கருமந்துறை சுற்றுப்பகுதியில் 300க்கும் மேற்பட்ட பழங்குடியின' is an incomplete sentence with no clear meaning (missing 'விவசாயிகள்')
+  fact-check: reel_script sentence 'பால் மூலம் மதிப்பு கூட்டு பொருட்களைத் தயாரித்து விற்க பல விவசாயிகள் விருப்பம் தெரிவித்துள்ளனர். இதற்காக உழவர் உற்பத்தியாளர் நிறுவனம் அமைத்துத் தர வேண்டும் என்று...' mixes the demand and the request sequence in a way that is acceptable, but the tamil_headline 'உழவர் உற்பத்தியாளர் நிறுவனம் கோரி' is grammatically awkward with no clear object
+ok anthropic/claude-haiku-5-5
+ok anthropic/claude-haiku-5-5
+claude rewrite 3 anthropic/claude-haiku-5-5: 2 problems
+  sentence 1 (one-line story) has 15 words; make it 6-9 words (about 2-3 seconds), the details follow in the next sentences
+  hl1 (the first headline on screen) must name the place 'பெத்தநாயக்கன்பாளையம்', e.g. 'பெத்தநாயக்கன்பாளையம்: ...' or 'பெத்தநாயக்கன்பாளையம்-இல் ...' - viewers share news of their own area
 gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
 groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
+proofread skipped: no free model answered: None
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
 ok anthropic/claude-haiku-5-5
 imagegen: HTTPSConnectionPool(host='ai.api.nvidia.com', port=443): Read timed out. (read timeout=150) 504 timeout
 imagegen: black-forest-labs/flux.1-dev 500: Internal Server Error
-imagegen: HTTPSConnectionPool(host='ai.api.nvidia.com', port=443): Read timed out. (read timeout=150) 504 timeout
-image match check unavailable: gemini-3.5-flash: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/g
-images made: 1 for 'Cow loan fraud in Salem: trust woman adm'
-bridge: 200 {"ok":true,"added":1,"auto_queued":1,"emailed":0,"reoffered":0,"batch":"B20261113-0723","first":"RN-3"}
-posting job started at once
-writing [N]: மாணவா்கள் பெயரில் கடன் வாங்கி ரூ. 50 கோடி மோசடி?
+imagegen: black-forest-labs/flux.1-dev 500: Internal Server Error
 gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
-free models unavailable: no free model answered: None
-real photo: vision check resting (free quota busy)
-ok anthropic/claude-haiku-5-5
-claude rewrite 1 anthropic/claude-haiku-5-5: 3 problems
-  numbers not found in the article: 1000
-  hl1 (the first headline on screen) must name the place 'கன்னங்குறிச்சி', e.g. 'கன்னங்குறிச்சி: ...' or 'கன்னங்குறிச்சி-இல் ...' - viewers share news of their own area
-  caption misses facts of the article (put every one in 📰 முழு விவரம்): 2 ('50 கோடிவரை மோசடி செய்ததாக, அறக்கட்டளை நடத்தி வந்த பெண் நிா்வ')
-ok anthropic/claude-haiku-5-5
-claude rewrite 2 anthropic/claude-haiku-5-5: 2 problems
-  reel_script has 170 words; need 100-160 (the key facts once each, in at most 90 seconds; every other detail goes in the caption's 📰 முழு விவரம் block)
-  numbers not found in the article: 1000
-image match check unavailable: gemini-3.5-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout
-images made: 1 for 'Two arrested near Mettur for illegal liq'
-bridge: 200 {"ok":true,"added":1,"auto_queued":1,"emailed":0,"reoffered":0,"batch":"B20261113-0724","first":"RN-4"}
-ok anthropic/claude-haiku-5-5
-claude rewrite 3 anthropic/claude-haiku-5-5: 2 problems
-  reel_script has 92 words; need 100-160 (the key facts once each, in at most 90 seconds; every other detail goes in the caption's 📰 முழு விவரம் block)
-  hl1 (the first headline on screen) must name the place 'கன்னங்குறிச்சி', e.g. 'கன்னங்குறிச்சி: ...' or 'கன்னங்குறிச்சி-இல் ...' - viewers share news of their own area
+image match check unavailable: gemini-3.5-flash: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/g
+images made: 1 for 'Youth jailed 7 months, fined Rs 5,000 fo'
+bridge: 200 {"ok":true,"added":1,"auto_queued":1,"emailed":0,"reoffered":0,"batch":"B20261113-1103","first":"RN-5"}
+posting job started at once
+real photo: no picture on the source page -> AI pictures
+writing [N]: மாணவர்களை பயன்படுத்தி ‘மெகா’ மோசடி டிரஸ்டில் பணியாற்றிய மேலு
 gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
 groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
+free models unavailable: no free model answered: None
+ok anthropic/claude-haiku-5-5
+claude rewrite 1 anthropic/claude-haiku-5-5: 2 problems
+  sentence 1 (one-line story) has 13 words; make it 6-9 words (about 2-3 seconds), the details follow in the next sentences
+  hl1 (the first headline on screen) must name the place 'சேலம் மாநகரம்', e.g. 'சேலம் மாநகரம்: ...' or 'சேலம் மாநகரம்-இல் ...' - viewers share news of their own area
+ok anthropic/claude-haiku-5-5
+claude rewrite 2 anthropic/claude-haiku-5-5: 1 problems
+  caption misses facts of the article (put every one in 📰 முழு விவரம்): 45 ('சேலம், சின்னதிருப்பதியை சேர்ந்த குமரன் மனைவி கண்ணகி, 45.'); சின்னதிருப்பதி ('சேலம், சின்னதிருப்பதியை சேர்ந்த குமரன் மனைவி கண்ணகி, 45.'); 28, ('பீல்டு ஆபீசரான, கன்னங்குறிச்சியை சேர்ந்த மோனிஷா, 28, உள்ளிட்'); கன்னங்குறிச்சி ('பீல்டு ஆபீசரான, கன்னங்குறிச்சியை சேர்ந்த மோனிஷா, 28, உள்ளிட்'); 23, ('அதனால் மோனிஷா, ஊழியர்களான, வேடுகத்தாம்பட்டி அரவிந்த், 23, ஓம'); 27, ('அதனால் மோனிஷா, ஊழியர்களான, வேடுகத்தாம்பட்டி அரவிந்த், 23, ஓம')
+ok anthropic/claude-haiku-5-5
+claude rewrite 3 anthropic/claude-haiku-5-5: 5 problems
+  slide 3 line 3 longer than 60 characters
+  sentence 1 (one-line story) has 12 words; make it 6-9 words (about 2-3 seconds), the details follow in the next sentences
+  caption needs 5 hashtags (Instagram max), has 9
+  hl1 (the first headline on screen) must name the place 'சேலம் மாநகரம்', e.g. 'சேலம் மாநகரம்: ...' or 'சேலம் மாநகரம்-இல் ...' - viewers share news of their own area
+  caption misses facts of the article (put every one in 📰 முழு விவரம்): ஓமலூர் ('அதனால் மோனிஷா, ஊழியர்களான, வேடுகத்தாம்பட்டி அரவிந்த், 23, ஓம')
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
 proofread skipped: no free model answered: None
 gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
 ok anthropic/claude-haiku-5-5
-gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
-ok anthropic/claude-haiku-5-5
+imagegen: black-forest-labs/flux.1-dev 500: Internal Server Error
+imagegen: black-forest-labs/flux.1-dev 500: Internal Server Error
+image match check unavailable: gemini-3.5-flash: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/g
+images made: 1 for 'Farmer from Pethanaickenpalayam stages d'
+bridge: 200 {"ok":true,"added":1,"auto_queued":1,"emailed":0,"reoffered":0,"batch":"B20261113-1106","first":"RN-6"}
+real photo: no picture on the source page -> AI pictures
+imagegen: black-forest-labs/flux.1-dev 500: Internal Server Error
+imagegen: black-forest-labs/flux.1-dev 500: Internal Server Error
+image match check unavailable: gemini-3.5-flash: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/g
+images made: 1 for 'Owner locks Tasmac shop in Kengavalli de'
+bridge: 200 {"ok":true,"added":1,"auto_queued":1,"emailed":0,"reoffered":0,"batch":"B20261113-1109","first":"RN-7"}
 earlier stories still waiting for images: []
-instagram check: 0 recent posts read from the page
+instagram check: 3 recent posts read from the page
 pick round: only the picked links are written (research_free/pick.py)
-manual link added: https://www.dinamani.com/all-editions/edition-dharmapuri/salem/2026/Nov/12/rs-50-crore-fraud-through-loans-taken-in-students-names
-manual link added: https://www.hindutamil.in/news/crime/two-arrested-in-cow-loan-scam
-manual link added: https://www.dinakaran.com/news/cow_loan_fraud
-manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-salem/2-people-selling-arrested-60-bottles-of-wine-seized/4374758
+manual link added: https://www.dinamalar.com/news/tamil-nadu-news/4-more-arrested-for-working-in-mega-fraud-trust-using-students/4374628
+manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-salem/youth-gets-7-month-jail-term-for-smuggling-ganja/4374747
+manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-salem/lock-the-tasmac-store-by-asking-for-a-higher-rent/4374750
+manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-salem/farmers-stage-dharna-to-launch-farmer-producer-organization/4374753
 candidate filter: collected=4
 to write: 4 Salem district candidates (max 4 stories)
 round: top 4 of 4 candidates
 candidates waiting: 4 Salem; time left 79 min
 try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-sale
-try (N) manual=True: https://www.dinakaran.com/news/cow_loan_fraud
-try (N) manual=True: https://www.hindutamil.in/news/crime/two-arrested-in-cow-loa
+try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-sale
+try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-sale
 auto images: 1 of 1 stories ({'fal-ai/flux/schnell': 1})
 posting job started at once
-try (N) manual=True: https://www.dinamani.com/all-editions/edition-dharmapuri/sal
-NOT filed (N) மாணவர்களுக்கு ரூ.1000 கமிஷன் கொடுத்து பசுமாடு லோன்: duplicate after write
+try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-news/4-more-arrest
 auto images: 1 of 1 stories ({'fal-ai/flux/schnell': 2})
-NOT filed (N) மாணவா்கள் பெயரில் கடன் வாங்கி ரூ. 50 கோடி மோசடி?: duplicate after write
-candidate loop ended: left 0, tried={'N': 4}, done={'N': 2}, time left 71 min
-filed: 2 Salem district stories (target 4), reels only
+auto images: 1 of 1 stories ({'fal-ai/flux/schnell': 3})
+NOT filed (N) மாணவர்களை பயன்படுத்தி ‘மெகா’ மோசடி டிரஸ்டில் பணியா: duplicate after write
+candidate loop ended: left 0, tried={'N': 4}, done={'N': 3}, time left 68 min
+filed: 3 Salem district stories (target 4), reels only
 queue: 0 news waiting to be written
 All News sheet: {"ok":true,"added":4,"updated":0} 
-stories: 2
+stories: 3

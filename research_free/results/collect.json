@@ -1,27 +1,27 @@
 {
  "log": [
   "earlier stories still waiting for images: []",
-  "instagram check: 0 recent posts read from the page",
+  "instagram check: 3 recent posts read from the page",
   "pick round: only the picked links are written (research_free/pick.py)",
-  "manual link added: https://www.dinamani.com/all-editions/edition-dharmapuri/salem/2026/Nov/12/rs-50-crore-fraud-through-loans-taken-in-students-names",
-  "manual link added: https://www.hindutamil.in/news/crime/two-arrested-in-cow-loan-scam",
-  "manual link added: https://www.dinakaran.com/news/cow_loan_fraud",
-  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-salem/2-people-selling-arrested-60-bottles-of-wine-seized/4374758",
+  "manual link added: https://www.dinamalar.com/news/tamil-nadu-news/4-more-arrested-for-working-in-mega-fraud-trust-using-students/4374628",
+  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-salem/youth-gets-7-month-jail-term-for-smuggling-ganja/4374747",
+  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-salem/lock-the-tasmac-store-by-asking-for-a-higher-rent/4374750",
+  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-salem/farmers-stage-dharna-to-launch-farmer-producer-organization/4374753",
   "candidate filter: collected=4",
   "to write: 4 Salem district candidates (max 4 stories)",
   "round: top 4 of 4 candidates",
   "candidates waiting: 4 Salem; time left 79 min",
   "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-sale",
-  "try (N) manual=True: https://www.dinakaran.com/news/cow_loan_fraud",
-  "try (N) manual=True: https://www.hindutamil.in/news/crime/two-arrested-in-cow-loa",
+  "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-sale",
+  "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-sale",
   "auto images: 1 of 1 stories ({'fal-ai/flux/schnell': 1})",
   "posting job started at once",
-  "try (N) manual=True: https://www.dinamani.com/all-editions/edition-dharmapuri/sal",
-  "NOT filed (N) மாணவர்களுக்கு ரூ.1000 கமிஷன் கொடுத்து பசுமாடு லோன்: duplicate after write",
+  "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-news/4-more-arrest",
   "auto images: 1 of 1 stories ({'fal-ai/flux/schnell': 2})",
-  "NOT filed (N) மாணவா்கள் பெயரில் கடன் வாங்கி ரூ. 50 கோடி மோசடி?: duplicate after write",
-  "candidate loop ended: left 0, tried={'N': 4}, done={'N': 2}, time left 71 min",
-  "filed: 2 Salem district stories (target 4), reels only",
+  "auto images: 1 of 1 stories ({'fal-ai/flux/schnell': 3})",
+  "NOT filed (N) மாணவர்களை பயன்படுத்தி ‘மெகா’ மோசடி டிரஸ்டில் பணியா: duplicate after write",
+  "candidate loop ended: left 0, tried={'N': 4}, done={'N': 3}, time left 68 min",
+  "filed: 3 Salem district stories (target 4), reels only",
   "queue: 0 news waiting to be written",
   "All News sheet: {\"ok\":true,\"added\":4,\"updated\":0}"
  ],
@@ -38,31 +38,12 @@
   "dead for this round: gemini/gemini-3.5-flash",
   "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
   "dead for this round: gemini/gemini-3.5-flash",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok gemini/gemini-3-flash-preview (11s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok gemini/gemini-3-flash-preview (11s)",
   "fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, plea",
   "dead for this round: gemini/gemini-3-flash-preview",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
   "dead for this round: groq/openai/gpt-oss-120b",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
   "dead for this round: groq/qwen/qwen3.8-27b",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
-  "dead for this round: groq/qwen/qwen3.8-27b",
-  "ok gemini/gemini-3-flash-preview (13s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "ok anthropic/claude-haiku-5-5",
@@ -70,23 +51,20 @@
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
+  "ok gemini/gemini-3-flash-preview (14s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
   "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "ok anthropic/claude-haiku-5-5",
   "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
@@ -94,12 +72,9 @@
   "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "ok anthropic/claude-haiku-5-5",
@@ -111,120 +86,192 @@
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "ok anthropic/claude-haiku-5-5"
  ],
  "stories": [
   {
-   "tamil_headline": "பசு மாடு கடன் மோசடி: அறக்கட்டளை பெண் நிர்வாகி உட்பட இருவர் கைது",
-   "english_headline": "Cow loan fraud in Salem: trust woman administrator and another arrested for taking loans in public names",
+   "tamil_headline": "கஞ்சா கடத்திய வழக்கு: வாலிபருக்கு 7 மாத சிறை, ரூ.5,000 அபராதம்",
+   "english_headline": "Youth jailed 7 months, fined Rs 5,000 for smuggling 1.8 kg ganja in Salem special court case",
    "category": "Crime & Safety",
-   "location": "Salem city, Salem district",
-   "importance": "High",
-   "scope": "",
-   "post_to": "Salem 360",
-   "slides_spec": {
-    "v": 3,
-    "cat": "மோசடி கைது",
-    "loc": "சேலம்",
-    "hl1": "சேலம்: சேலத்தில் பசு கடன் மோசடி",
-    "hl2": "இருவர் கைது",
-    "slides": [
-     {
-      "title": "என்ன நடந்தது?",
-      "lines": [
-       "பொதுமக்கள் ஆதார் ஆவணங்களை வாங்கி கடன் மோசடி",
-       "பல கோடி ரூபாய் மோசடி நடந்ததாக புகார்",
-       "பசு மாடு வாங்க கடன் பெற்றதாக வங்கி நோட்டீஸ்"
-      ]
-     },
-     {
-      "title": "யார் கைது?",
-      "lines": [
-       "அறக்கட்டளை நிர்வாகி கண்ணகி கைது",
-       "முத்துக்குமரன் என்பவரும் கைது",
-       "போலீசார் விசாரணை நடத்துகின்றனர்"
-      ]
-     },
-     {
-      "title": "அடுத்து என்ன?",
-      "lines": [
-       "தலைமறைவான மோனிஷாவை போலீசார் தேடுகின்றனர்",
-       "வங்கி அதிகாரிகளுக்குத் தொடர்பு உள்ளதா என விசாரணை",
-       "எவ்வளவு பேரின் ஆவணங்கள் பெறப்பட்டன என விசாரணை"
-      ]
-     }
-    ],
-    "carousel": false
-   },
-   "reel_script": "சேலத்தில் பொதுமக்களின் பெயரில் பசு மாடு கடன் பெற்று பல கோடி ரூபாய் மோசடி நடந்துள்ளது. அறக்கட்டளை நடத்தி வரும் கண்ணகி, முத்துக்குமரன் ஆகிய இருவரை மாநகர மத்திய குற்றப்பிரிவு போலீசார் நேற்று கைது செய்தனர். அம்மாப்பேட்டையைச் சேர்ந்த முஷ்ரப் பாஷா என்பவர் மாநகர காவல் ஆணையர் அலுவலகத்தில் புகார் அளித்தார். அறக்கட்டளைக்கு சொந்தமான பணம் வங்கிக் கணக்குக்கு வரும் என்று கூறி, பலரிடம் ஆதார் மற்றும் வங்கிக் கணக்கு புத்தகத்தை பெற்றனர். ஒவ்வொருவர் கணக்கிலும் ரூபாய் 1,000 கமிஷனாக வரவு வைக்கப்பட்டது. பின்னர் பசு மாடு வாங்க ரூபாய் 1 லட்சம் கடன் பெற்றதாக வங்கியிலிருந்து நோட்டீஸ் வந்துள்ளது. தலைமறைவான மோனிஷா உட்பட பலரை போலீசார் தேடி வருகின்றனர். வங்கி அதிகாரிகளுக்கு தொடர்பு உள்ளதா, எவ்வளவு பேரின் ஆவணங்கள் பெறப்பட்டன என்பதை போலீசார் விசாரிக்கின்றனர். மேலும் செய்திகளுக்கு சேலம் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🚨 சேலத்தில் பசு மாடு கடன் மோசடி: அறக்கட்டளை நிர்வாகி உட்பட இருவர் கைது\n\n📰 முழு விவரம்:\nபொதுமக்களிடம் ஆதார் உள்ளிட்ட ஆவணங்களைப் பெற்று, அவர்கள் பெயரில் வங்கியில் பசு மாடு வாங்கக் கடன் பெற்று பல கோடி ரூபாய் மோசடி நடந்துள்ளதாகப் புகார் எழுந்தது. அம்மாப்பேட்டையைச் சேர்ந்த முஷ்ரப் பாஷா (22 வயது) மாநகர காவல் ஆணையர் அலுவலகத்தில் புகார் அளித்தார்.\nகன்னங்குறிச்சியில் அறக்கட்டளை நடத்தி வரும் கண்ணகி, மோனிஷா உள்ளிட்டோர், அறக்கட்டளைக்குச் சொந்தமான பணம் வங்கிக் கணக்குக்கு வரும் என்றும், கமிஷனாக ரூ.1,000 வழங்கப்படும் என்றும் பலரிடம் கூறினர். நம்பிய பலர் ஆதார், வங்கிக் கணக்கு புத்தகம் ஆகியவற்றை வழங்கினர். சொன்னபடி அவர்கள் கணக்குக்கு ரூ.1,000 வரவு வைக்கப்பட்டது.\nஆனால், வங்கியிலிருந்து பசு மாடு வாங்க ரூ.1 லட்சம் கடன் கொடுக்கப்பட்டதாகவும், பணத்தைத் திரும்பச் செலுத்துமாறும் நோட்டீஸ் வந்துள்ளது.\nமத்திய குற்றப்பிரிவு போலீசார் விசாரணை செய்து, அறக்கட்டளை நடத்தும் கண்ணகி, முத்துக்குமரன் ஆகிய இருவரை நேற்று கைது செய்தனர். தலைமறைவான மோனிஷா உட்பட பலரைத் தேடி வருகின்றனர்.\nஇந்த மோசடியில் வங்கி அதிகாரிகளுக்குத் தொடர்பு உள்ளதா, எவ்வளவு பேரின் ஆவணங்களைப் பெற்று மோசடி செய்தனர் என்பது குறித்தும் விசாரணை நடைபெறுகிறது.\n\nCow loan fraud in Salem, trust administrator arrested | Salem news\n📍 சேலம் மாவட்டம் | 13 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Salem360 #Salem #SalemNews #சேலம்",
-   "prompts": "Two police officers in khaki uniform lead a woman in a cotton saree and a man in a shirt away from a government building entrance in Salem city, while a few people stand at a distance behind a metal barricade. A white police jeep is parked on the road beside the gate, and a bank-like office with plain shutters stands behind them. Daylight, clear sky. Shot from eye level at about 35 mm, wide enough to show the building, the jeep and the people, with the arrested pair seen from behind and in profile, no faces clearly visible. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.hindutamil.in/news/crime/two-arrested-in-cow-loan-scam",
-   "published": "2026-11-12T21:16:00Z",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: reel_script has 96 words; need 100-160 (the key facts once each, in at most 90 seconds; every other detail goes in the caption's 📰 முழு விவரம் block); sentence 1 (one-line story) has 12 words; make it 6-9 words (about 2-3 seconds), the details follow in the next sentences; caption misses facts of the article (put every one in 📰 முழு விவரம்): 2 ('சேலம்: பொது​மக்​களிடம் ஆதார் உள்​ளிட்ட ஆவணங்​களை பெற்று அவர்'); 2 ('இவ்​வாறு புகாரில் கூறப்​பட்​டுள்​ளது.இது​தொடர்​பாக விசா​ரணை '); 35 ('இந்த மோசடி​யில் வங்கி அதி​காரி​களுக்​குத் தொடர்பு உள்​ளதா, எ')",
-   "note": "free-model draft anthropic/claude-haiku-5-5, 12 attempt(s), 3 validator problem(s)",
-   "post_time": "right after your reply, same day",
-   "_area": "N",
-   "_score": 999,
-   "images": [
-    "https://res.cloudinary.com/bgk9wm1u/image/upload/v1794534820/salem360/mbcud2hbpfhbdrmkmhlq.jpg"
-   ]
-  },
-  {
-   "tamil_headline": "மேட்டூர் அருகே சட்டவிரோதமாக மது விற்ற 2 பேர் கைது: 60 பாட்டில்கள் பறிமுதல்",
-   "english_headline": "Two arrested near Mettur for illegal liquor sales; 60 bottles seized",
-   "category": "Crime & Safety",
-   "location": "Kolathur and Kannamoochi near Mettur, Salem district",
+   "location": "Salem special court for narcotics (போதை பொருள் தடுப்பு சிறப்பு நீதிமன்றம்), Salem district",
    "importance": "Medium",
    "scope": "local",
    "post_to": "Salem 360",
    "slides_spec": {
     "v": 3,
-    "cat": "குற்றச் செய்தி",
-    "loc": "கொளத்தூர், மேட்டூர்",
-    "hl1": "மேட்டூர் அருகே மது விற்ற 2 பேர் கைது",
-    "hl2": "60 மதுபாட்டில்கள் பறிமுதல்",
+    "cat": "கஞ்சா வழக்கு",
+    "loc": "சேலம் போதை பொருள் தடுப்பு சிறப்பு நீதிமன்றம்",
+    "hl1": "சேலம் போதை பொருள் தடுப்பு சிறப்பு",
+    "hl2": "7 மாத சிறை, ரூ.5,000 அபராதம்",
     "slides": [
      {
-      "title": "எங்கே? எப்போது?",
+      "title": "என்ன நடந்தது?",
       "lines": [
-       "மேட்டூர் அருகே <b>கொளத்தூர்</b> மற்றும் <b>கண்ணாமூச்சி</b>",
-       "நேற்று போலீசார் நடத்திய அதிரடி சோதனை",
-       "சட்டவிரோத மது விற்பனை கண்டுபிடிப்பு"
+       "காட்பாடி ரயில் நிலையத்தில் <b>1.8 கிலோ</b> கஞ்சா பிடிபட்டது",
+       "2022 பிப்ரவரி <b>7</b>ஆம் தேதி ரயிலில் நடந்த சோதனையில் சிக்கியது",
+       "வேலூர் போதை பொருள் தடுப்பு நுண்ணறிவு பிரிவு போலீசார் சோதனை"
       ]
      },
      {
-      "title": "யார் கைது?",
+      "title": "யார் குற்றவாளி?",
       "lines": [
-       "பெரியதண்டாவைச் சேர்ந்த <b>42 வயது</b> சிக்கன் வியாபாரி",
-       "கண்ணாமூச்சியைச் சேர்ந்த <b>56 வயது</b> மளிகை கடை உரிமையாளர்",
-       "இருவரையும் கொளத்தூர் போலீசார் கைது செய்தனர்"
+       "அசாம் மாநிலத்தைச் சேர்ந்த <b>25 வயது</b> வாலிபர்",
+       "கஞ்சாவை விற்பதற்காக கடத்தி வந்தது விசாரணையில் தெரியவந்தது",
+       "போலீசார் கைது செய்து கஞ்சாவைப் பறிமுதல் செய்தனர்"
       ]
      },
      {
-      "title": "பறிமுதல் விவரம்",
+      "title": "தீர்ப்பு என்ன?",
       "lines": [
-       "இருவரிடமிருந்தும் தலா <b>30 பாட்டில்கள்</b> பறிமுதல்",
-       "மொத்தம் <b>60 மதுபாட்டில்கள்</b> சிக்கின",
-       "அரசு மதுபாட்டில்களைப் பதுக்கி விற்றது அம்பலம்"
+       "சேலம் போதை பொருள் தடுப்பு சிறப்பு நீதிமன்றம் தீர்ப்பளித்தது",
+       "<b>7 மாத</b> சிறை தண்டனை விதிக்கப்பட்டது",
+       "<b>ரூ.5,000</b> அபராதமும் விதிக்கப்பட்டது"
       ]
      }
     ],
     "carousel": false
    },
-   "reel_script": "மேட்டூர் அருகே சட்டவிரோதமாக மது விற்ற 2 பேரை போலீசார் கைது செய்தனர். மேட்டூர் அருகே உள்ள கொளத்தூர் மற்றும் கண்ணாமூச்சி பகுதிகளில் இந்தச் சம்பவம் நடந்துள்ளது. கொளத்தூர் பெரியதண்டாவைச் சேர்ந்த 42 வயது சிக்கன் வியாபாரி தனது கடையில் மது விற்றது தெரியவந்தது. கொளத்தூர் போலீசார் நேற்று நடத்திய சோதனையில் அவரிடமிருந்து 30 மதுபாட்டில்கள் பறிமுதல் செய்யப்பட்டன. இதேபோல் கண்ணாமூச்சி பகுதியில் மளிகை கடை நடத்தி வரும் 56 வயது நபர் ஒருவரும் கைது செய்யப்பட்டார். அவரது கடையிலிருந்து 30 மதுபாட்டில்களைப் போலீசார் பறிமுதல் செய்தனர். இவர்கள் இருவரும் அரசு மதுபாட்டில்களைப் பதுக்கி வைத்து சட்டவிரோதமாக விற்பனை செய்து வந்துள்ளனர். மொத்தம் 60 மதுபாட்டில்களைப் பறிமுதல் செய்த போலீசார், இருவர் மீதும் வழக்குப் பதிவு செய்துள்ளனர். மேலும் செய்திகளுக்கு சேலம் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "👮 மேட்டூர் அருகே சட்டவிரோதமாக மது விற்ற 2 பேர் கைது - 60 பாட்டில்கள் பறிமுதல்\n\n📰 முழு விவரம்:\nமேட்டூர் அருகே உள்ள கொளத்தூர் மற்றும் கண்ணாமூச்சி பகுதிகளில் சட்டவிரோதமாக மது விற்பனை செய்யப்படுவதாகப் போலீசாருக்குத் தகவல் கிடைத்தது. இதையடுத்து கொளத்தூர் போலீசார் நேற்று அதிரடி சோதனை நடத்தினர். பெரியதண்டாவைச் சேர்ந்த 42 வயது சிக்கன் வியாபாரி மற்றும் கண்ணாமூச்சியைச் சேர்ந்த 56 வயது மளிகை கடை உரிமையாளர் ஆகியோர் அரசு மதுபாட்டில்களைப் பதுக்கி விற்றது கண்டுபிடிக்கப்பட்டது. இருவரிடமிருந்தும் தலா 30 பாட்டில்கள் வீதம் மொத்தம் 60 மதுபாட்டில்களைப் போலீசார் பறிமுதல் செய்தனர். சட்டவிரோத விற்பனையில் ஈடுபட்ட இருவரையும் போலீசார் கைது செய்து விசாரணை நடத்தி வருகின்றனர்.\n\n📍 இடம்: கொளத்தூர் மற்றும் கண்ணாமூச்சி, மேட்டூர் வட்டம்\n🗓️ நாள்: 12 நவம்பர் 2026\n👮 நடவடிக்கை: 2 பேர் கைது, 60 மதுபாட்டில்கள் பறிமுதல்\n\nMettur illegal liquor sales arrest | Salem news\n📍 கொளத்தூர், மேட்டூர் | 13 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Salem360 #Salem #Mettur #CrimeNews #SalemNews #சேலம்",
-   "prompts": "A Tamil Nadu police officer in khaki uniform stands beside a small roadside shop counter in a village near Mettur, Salem district, while seizing liquor bottles. Thirty quarter liquor bottles are arranged in rows on a wooden table in front of him, with the rest of the stock visible on a shelf behind the counter. Two uniformed police constables stand at the shop entrance, seen from behind, and a middle-aged shop owner in a plain shirt and veshti stands to one side with his head lowered, his face turned away from the camera. The shop is a modest concrete-walled provision store with a tin awning and a dusty, unpaved village lane in front. A few two-wheelers are parked at the edge of the lane. It is bright daylight, with soft sunlight coming in from the street. Shot at eye level with a 35 mm lens, wide enough to show the shop front, the police, and the lane. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-salem/2-people-selling-arrested-60-bottles-of-wine-seized/4374758",
-   "published": "2026-11-13T04:48:00+05:30",
-   "verification": "DRAFT (gemini/gemini-3-flash-preview) - NOT CLEAN, held from posting - problems: caption needs 5 hashtags (Instagram max), has 6",
-   "note": "free-model draft gemini/gemini-3-flash-preview, 1 attempt(s), 1 validator problem(s)",
+   "reel_script": "கஞ்சா கடத்திய வாலிபருக்கு 7 மாத சிறை தண்டனை விதிக்கப்பட்டுள்ளது. 2022 பிப்ரவரி 7ஆம் தேதி காட்பாடி ரயில் நிலையத்தில் ரயிலில் நடந்த சோதனையில் 1.8 கிலோ கஞ்சா பிடிபட்டது. வேலூர் போதை பொருள் தடுப்பு நுண்ணறிவு பிரிவு போலீசார் இந்தச் சோதனையை நடத்தினர். டாடா நகர் - எர்ணாகுளம் எக்ஸ்பிரஸ் ரயிலில் ஒருவரது பையைச் சோதனை செய்தபோது கஞ்சா இருந்தது. விசாரணையில் அசாம் மாநிலம் கோச்சாரைச் சேர்ந்த 25 வயது அஜ்மல் உசைன் பாற்புய்யா என்பது தெரியவந்தது. கஞ்சாவை விற்பதற்காக அவர் கடத்தி வந்தது விசாரணையில் உறுதியானது. போலீசார் அவரைக் கைது செய்து கஞ்சாவைப் பறிமுதல் செய்தனர். இந்த வழக்கு சேலம் போதை பொருள் தடுப்பு சிறப்பு நீதிமன்றத்தில் நடந்தது. நீதிபதி ராமகிருஷ்ணன் நேற்று தீர்ப்பளித்தார். அஜ்மல் உசைன் பாற்புய்யாவுக்கு 7 மாத சிறை தண்டனையும், 5,000 ரூபாய் அபராதமும் விதிக்கப்பட்டது. மேலும் செய்திகளுக்கு சேலம் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "⚖️ சேலம் நீதிமன்றம்: கஞ்சா கடத்திய வாலிபருக்கு 7 மாத சிறை, ரூ.5,000 அபராதம்\n\n📰 முழு விவரம்:\n2022 பிப்ரவரி 7ஆம் தேதி காட்பாடி ரயில் நிலையத்தில், டாடா நகர் - எர்ணாகுளம் எக்ஸ்பிரஸ் ரயிலில் வேலூர் போதை பொருள் தடுப்பு நுண்ணறிவு பிரிவு போலீசார் சோதனை நடத்தினர். ஒருவரது பையில் 1.8 கிலோ கஞ்சா இருந்தது.\nவிசாரணையில், அசாம் மாநிலம் கோச்சார், வித்யாரத்தண்பூரைச் சேர்ந்த 25 வயது அஜ்மல் உசைன் பாற்புய்யா கஞ்சாவை விற்பதற்காகக் கடத்தி வந்தது தெரியவந்தது. போலீசார் அவரைக் கைது செய்து கஞ்சாவைப் பறிமுதல் செய்தனர்.\nஇந்த வழக்கு சேலம் போதை பொருள் தடுப்பு சிறப்பு நீதிமன்றத்தில் நடந்தது. நீதிபதி ராமகிருஷ்ணன் நேற்று அஜ்மல் உசைன் பாற்புய்யாவுக்கு 7 மாத சிறை தண்டனையும், 5,000 ரூபாய் அபராதமும் விதித்து உத்தரவிட்டார்.\n\nSalem court jails youth 7 months for ganja smuggling | Salem news\n📍 சேலம் போதை பொருள் தடுப்பு சிறப்பு நீதிமன்றம், சேலம் மாவட்டம் | 13 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Salem360 #Salem #SalemNews #சேலம்",
+   "prompts": "A judge in a black robe sits at a raised wooden bench in a Salem special narcotics court, delivering a verdict as a young man in a plain shirt stands before the bench, seen from behind. The courtroom has high ceilings, ceiling fans, wooden benches, and tall windows letting in daylight. Two policemen in khaki stand near the accused, and black-coated lawyers sit at tables below. A few court staff hold files. Daylight from the windows, neutral mood. Eye-level camera, 35 mm, wide enough to show the whole courtroom with the bench and the accused in frame. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-salem/youth-gets-7-month-jail-term-for-smuggling-ganja/4374747",
+   "published": "2026-11-13T04:41:00+05:30",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: reel_script writes ages as newspaper shorthand (தண்டனையும், 5,); say it as a news reader: '12 வயது மகன் ராஜா', 'கவுசிக் (14 வயது)' -> '14 வயதான கவுசிக்'",
+   "note": "free-model draft anthropic/claude-haiku-5-5, 13 attempt(s), 1 validator problem(s)",
    "post_time": "right after your reply, same day",
    "_area": "N",
    "_score": 999,
    "images": [
-    "https://res.cloudinary.com/bgk9wm1u/image/upload/v1794534859/salem360/ctbkedy16e4brtlbjg7m.jpg"
+    "https://res.cloudinary.com/bgk9wm1u/image/upload/v1794547990/salem360/vgrggly9wjgsdswgakk8.jpg"
+   ]
+  },
+  {
+   "tamil_headline": "பெத்தநாயக்கன்பாளையம் விவசாயி கலெக்டர் அலுவலகத்தில் தர்ணா",
+   "english_headline": "Farmer from Pethanaickenpalayam stages dharna at Salem Collectorate seeking farmer producer company",
+   "category": "Government & Services",
+   "location": "Salem Collectorate, Salem district",
+   "importance": "Medium",
+   "scope": "district",
+   "post_to": "Salem 360",
+   "slides_spec": {
+    "v": 3,
+    "cat": "அரசு சேவை",
+    "loc": "சேலம் கலெக்டர் அலுவலகம்",
+    "hl1": "உழவர் நிறுவனத்துக்கு விவசாயி தர்ணா",
+    "hl2": "ஒன்றரை ஆண்டாக அனுமதி கேட்டு",
+    "slides": [
+     {
+      "title": "என்ன நடந்தது?",
+      "lines": [
+       "பெத்தநாயக்கன்பாளையம் தினேஷ்குமார் (40 வயது), தர்ணா",
+       "சேலம் கலெக்டர் அலுவலக வளாகத்தில் நேற்று காலை",
+       "போலீசார் சமாதானப்படுத்தி விசாரித்தனர்"
+      ]
+     },
+     {
+      "title": "ஏன் தர்ணா?",
+      "lines": [
+       "கருமந்துறை பகுதியில் <b>300க்கும் மேற்பட்ட</b> பழங்குடியின",
+       "பாலை தனியாரிடம் விற்கின்றனர்",
+       "மதிப்பு கூட்டு பொருட்கள் தயாரிக்க விருப்பம்"
+      ]
+     },
+     {
+      "title": "கோரிக்கை",
+      "lines": [
+       "உழவர் உற்பத்தியாளர் நிறுவனம் அமைத்துத் தர கோரிக்கை",
+       "<b>ஒன்றரை ஆண்டாக</b> அனுமதி கேட்டு வருவதாகக் கூறுகிறார்",
+       "அதிகாரிகள் அலைக்கழிப்பதாகக் குற்றச்சாட்டு"
+      ]
+     }
+    ],
+    "carousel": false
+   },
+   "reel_script": "சேலம் கலெக்டர் அலுவலகத்தில் விவசாயி ஒருவர் தர்ணாவில் ஈடுபட்டார். பெத்தநாயக்கன்பாளையம், பெரிய கிருஷ்ணாபுரத்தைச் சேர்ந்த தினேஷ்குமார் (40 வயது), நேற்று காலை அலுவலக வளாகத்தில் தர்ணா நடத்தினார். பாதுகாப்புப் பணியில் இருந்த போலீசார் அவரை சமாதானப்படுத்தி விசாரித்தனர். கருமந்துறை மற்றும் அதன் சுற்றுப்பகுதியில் 300க்கும் மேற்பட்ட பழங்குடியின விவசாயிகள் கறவை மாடுகள் மூலம் பால் உற்பத்தி செய்து தனியாரிடம் விற்கின்றனர். பலர் பாலில் இருந்து மதிப்புக்கூட்டு பொருட்களைத் தயாரித்து விற்க விருப்பம் தெரிவித்துள்ளனர். இதற்காக உழவர் உற்பத்தியாளர் நிறுவனம் அமைத்துத் தர வேண்டும் என்று தினேஷ்குமார் கோரியுள்ளார். இதற்காக ஒன்றரை ஆண்டாக கால்நடை பராமரிப்புத் துறையிடமும் மாவட்ட நிர்வாகத்திடமும் அனுமதி கேட்டு வருவதாகக் கூறினார். அதிகாரிகள் அலைக்கழிப்பதாகவும் குற்றம்சாட்டினார். அதிகாரிகளின் கவனத்தை ஈர்க்கவே தர்ணாவில் ஈடுபட்டதாக அவர் தெரிவித்தார். பின்னர் போலீசார் அறிவுரை கூறி, அவரை அதிகாரிகளிடம் அனுப்பி வைத்தனர். மேலும் செய்திகளுக்கு சேலம் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🧑‍🌾 உழவர் உற்பத்தியாளர் நிறுவனம் கேட்டு சேலம் கலெக்டர் அலுவலகத்தில் விவசாயி தர்ணா\n\n📰 முழு விவரம்:\nபெத்தநாயக்கன்பாளையம், பெரிய கிருஷ்ணாபுரத்தைச் சேர்ந்த தினேஷ்குமார் (40 வயது), நேற்று காலை சேலம் கலெக்டர் அலுவலக வளாகத்தில் தர்ணாவில் ஈடுபட்டார். போலீசார் அவரை சமாதானப்படுத்தி விசாரித்தனர்.\nகருமந்துறை மற்றும் சுற்றுப்பகுதியில் 300க்கும் மேற்பட்ட பழங்குடியின விவசாயிகள் பால் உற்பத்தி செய்து தனியாரிடம் விற்கின்றனர். பால் மூலம் மதிப்புக்கூட்டு பொருட்கள் தயாரிக்க பலர் விருப்பம் தெரிவித்துள்ளனர்.\nஇதற்காக உழவர் உற்பத்தியாளர் நிறுவனம் அமைத்துத் தர ஒன்றரை ஆண்டாக கால்நடை பராமரிப்புத் துறையிடமும் மாவட்ட நிர்வாகத்திடமும் அனுமதி கேட்டு வருவதாகத் தினேஷ்குமார் கூறினார். அதிகாரிகள் அலைக்கழிப்பதாகவும் குற்றம்சாட்டினார்.\nஅதிகாரிகளின் கவனத்தை ஈர்க்கவே தர்ணாவில் ஈடுபட்டதாகத் தெரிவித்தார். பின்னர் போலீசார் அறிவுரை கூறி, அவரை அதிகாரிகளிடம் அனுப்பி வைத்தனர்.\n\nSalem farmer dharna at Collectorate for farmer producer company | Salem news\n📍 சேலம் கலெக்டர் அலுவலகம், சேலம் மாவட்டம் | 13 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Salem360 #Salem #SalemNews #சேலம்",
+   "prompts": "A farmer in a white shirt and veshti sits cross-legged on the ground in a dharna at the Salem Collectorate campus, holding a placard above his head while two Tamil Nadu police constables in khaki uniforms stand nearby, calmly watching him. The setting is the open compound in front of the Salem district Collectorate office, a government building with plain cream and grey walls, tall windows and a pillared entrance, with a few parked two-wheelers and a government vehicle at the edge of the frame. Several onlookers, office staff in shirts and trousers, and a woman in a cotton saree stand at a distance near the building steps. It is bright morning daylight with soft clear sky. Camera at eye level, 35 mm lens, wide enough to show the full compound and the Collectorate building behind the group, the farmer shown from behind or slightly to the side, faces turned away or too far to identify. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-salem/farmers-stage-dharna-to-launch-farmer-producer-organization/4374753",
+   "published": "2026-11-13T04:46:00+05:30",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: hl1 (the first headline on screen) must name the place 'சேலம் கலெக்டர் அலுவலகம்', e.g. 'சேலம் கலெக்டர் அலுவலகம்: ...' or 'சேலம் கலெக்டர் அலுவலகம்-இல் ...' - viewers share news of their own area",
+   "note": "free-model draft anthropic/claude-haiku-5-5, 11 attempt(s), 1 validator problem(s)",
+   "post_time": "right after your reply, same day",
+   "_area": "N",
+   "_score": 999,
+   "images": [
+    "https://res.cloudinary.com/bgk9wm1u/image/upload/v1794548172/salem360/vii0gegii6ok1ishvzyh.jpg"
+   ]
+  },
+  {
+   "tamil_headline": "வாடகை உயர்வு கேட்டு கெங்கவல்லியில் டாஸ்மாக் கடைக்கு பூட்டு",
+   "english_headline": "Owner locks Tasmac shop in Kengavalli demanding higher rent; police talks end protest at 12:50 PM",
+   "category": "Crime & Safety",
+   "location": "Kengavalli town, Salem district",
+   "importance": "Medium",
+   "scope": "local",
+   "post_to": "Salem 360",
+   "slides_spec": {
+    "v": 3,
+    "cat": "டாஸ்மாக் போராட்டம்",
+    "loc": "கெங்கவல்லி",
+    "hl1": "கெங்கவல்லியில் டாஸ்மாக் கடைக்கு பூட்டு",
+    "hl2": "வாடகை உயர்வு கேட்டு",
+    "slides": [
+     {
+      "title": "என்ன நடந்தது?",
+      "lines": [
+       "கெங்கவல்லியில் டாஸ்மாக் கடைக்கு <b>பூட்டு</b> போடப்பட்டது",
+       "இடத்தின் உரிமையாளர் குணசேகரன் போராட்டம் நடத்தினார்",
+       "நேற்று காலை <b>10 மணி</b> முதல் கடை திறக்கப்படவில்லை"
+      ]
+     },
+     {
+      "title": "ஏன் போராட்டம்?",
+      "lines": [
+       "கடை, குடோனுக்கு தலா <b>6,500 ரூபாய்</b> வாடகை தரப்படுகிறது",
+       "7 ஆண்டுகளாக வாடகை உயர்த்தப்படவில்லை",
+       "பலமுறை மனு அளித்தும் பலன் இல்லை"
+      ]
+     },
+     {
+      "title": "போலீஸ்",
+      "lines": [
+       "போலீசார் பேச்சு நடத்தினர்",
+       "அதிகாரிகளிடம் தெரிவித்து நடவடிக்கை என உறுதி",
+       "மதியம் <b>12:50 மணிக்கு</b> போராட்டம் கைவிடப்பட்டது"
+      ]
+     },
+     {
+      "title": "இப்போது நிலை",
+      "lines": [
+       "பின்னர் ஊழியர்கள் கடையைத் திறந்தனர்",
+       "மதுபானம் விற்பனை தொடங்கியது",
+       "குடிமகன்கள் நீண்ட நேரம் காத்திருக்க நேர்ந்தது"
+      ]
+     }
+    ],
+    "carousel": false
+   },
+   "reel_script": "கெங்கவல்லியில் டாஸ்மாக் கடைக்கு உரிமையாளர் பூட்டு போட்டு போராட்டம் நடத்தினார். நேற்று காலை 10 மணிக்கு கெங்கவல்லியைச் சேர்ந்த குணசேகரன் கடையைத் திறக்க விடாமல் கூடுதலாக பூட்டு போட்டார். அவருக்குச் சொந்தமான இடத்தில் டாஸ்மாக் கடையும் குடோனும் உள்ளன. அதற்கு டாஸ்மாக் நிர்வாகம் மூலம் வாடகை வழங்கப்படுகிறது. கடையைத் திறக்க முடியாமல் பணியாளர்களும் மதுபானம் வாங்க வந்தவர்களும் தவித்தனர். தகவல் அறிந்து வந்த போலீசார் அவரிடம் பேச்சு நடத்தினர். கடை, குடோனுக்கு தலா 6,500 ரூபாய் வாடகை 7 ஆண்டுகளாக வழங்கப்படுவதாக குணசேகரன் கூறினார். வாடகையை உயர்த்தக் கோரி பலமுறை மனு அளித்தும் பலன் இல்லை என்றார். அதிகாரிகளிடம் தெரிவித்து நடவடிக்கை எடுக்கப்படும் என போலீசார் உறுதியளித்தனர். இதையடுத்து மதியம் 12:50 மணிக்கு குணசேகரன் போராட்டத்தைக் கைவிட்டார். பின்னர் டாஸ்மாக் ஊழியர்கள் கடையைத் திறந்து மதுபானம் விற்றனர். மேலும் செய்திகளுக்கு சேலம் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🍾 கெங்கவல்லியில் டாஸ்மாக் கடைக்கு பூட்டு; வாடகை உயர்வு கேட்டு போராட்டம்\n\n📰 முழு விவரம்:\nகெங்கவல்லியைச் சேர்ந்த குணசேகரனுக்குச் சொந்தமான இடத்தில் டாஸ்மாக் கடையும் குடோனும் உள்ளன. நேற்று காலை 10 மணிக்கு அவர் கடையைத் திறக்க விடாமல் கூடுதல் பூட்டு போட்டு போராட்டத்தில் ஈடுபட்டார். கடையை திறக்க முடியாமல் பணியாளர்களும் மதுபானம் வாங்க வந்தவர்களும் தவித்தனர்.\nதகவல் அறிந்து வந்த போலீசார் பேச்சு நடத்தினர். கடை, குடோனுக்கு தலா 6,500 ரூபாய் வாடகை 7 ஆண்டுகளாக வழங்கப்படுவதாகவும், பலமுறை மனு அளித்தும் வாடகையை உயர்த்தவில்லை என்றும் குணசேகரன் கூறினார்.\nஅதிகாரிகளிடம் தெரிவித்து நடவடிக்கை எடுக்கப்படும் என போலீசார் உறுதியளித்தனர். இதனால் மதியம் 12:50 மணிக்கு போராட்டம் கைவிடப்பட்டது. பின்னர் டாஸ்மாக் ஊழியர்கள் கடையைத் திறந்து மதுபானம் விற்றனர்.\n\nKengavalli Tasmac shop locked over rent demand | Salem news\n📍 கெங்கவல்லி, சேலம் மாவட்டம் | 13 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Salem360 #Salem #Kengavalli #SalemNews #சேலம்",
+   "prompts": "A man in a plain shirt and veshti stands with his back to the camera beside a closed Tasmac liquor shutter in a Kengavalli town street, a heavy padlock hanging on the metal shutter while a few customers wait a few metres away and a Tamil Nadu police constable in khaki stands nearby in conversation with the group. The surrounding place is a narrow Tamil Nadu town street with low concrete shop fronts, a parked two-wheeler, a few autorickshaws and a dusty roadside, with other shops around but no readable signs visible. Several people in shirts, trousers and sarees stand in small groups, seen from behind or far away, their body language showing waiting and tension. It is late morning around midday, with bright daylight and a clear sky. Camera at eye level, 35 mm lens, wide enough to show the shop front, the street and the people. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-salem/lock-the-tasmac-store-by-asking-for-a-higher-rent/4374750",
+   "published": "2026-11-13T04:44:00+05:30",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: fact-check: reel_script says the shop owner locked the shop and that the shop and godown belong to the owner, which the article supports (owner Gunasekaran), so no issue there; however, reel_script calls Gunasekaran the 'உரிமையாளர்' of the shop, while the article says he owns the land, not the Tasmac shop itself, which is run through the Tasmac administration; fact-check: reel_script states the rent is paid to Gunasekaran's premises via Tasmac administration correctly, but the slide 'ஏன் போராட்டம்?' says rent has not been raised for 7 years, while the article says the rent has been paid at the same rate for 7 years and the owner complained that it was not raised, which is consistent; no problem there; fact-check: slides_spec 'இப்போது நிலை' says 'குடிமகன்கள் நீண்ட நேரம் காத்திருக்க நேர்ந்தது' (customers had to wait a long time), which is not stated in the article; the article only says they were 'தவித்தனர்' (struggled) and does not mention a long wait; fact-check: slides_spec and reel_script say the protest was 'நேற்று காலை 10 மணி முதல்' (from 10 am yesterday) and that the shop was not opened, which matches the article; fact-check: caption attributes the police talks and the rent claim correctly; caption does not contain other invented facts",
+   "note": "free-model draft anthropic/claude-haiku-5-5, 13 attempt(s), 5 validator problem(s)",
+   "post_time": "right after your reply, same day",
+   "_area": "N",
+   "_score": 999,
+   "images": [
+    "https://res.cloudinary.com/bgk9wm1u/image/upload/v1794548344/salem360/txz2vvk8px9oqy7biysh.jpg"
    ]
   }
  ]
