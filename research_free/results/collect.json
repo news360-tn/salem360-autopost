@@ -1,295 +1,302 @@
 {
  "log": [
   "earlier stories still waiting for images: []",
-  "instagram check: 5 recent posts read from the page",
+  "instagram check: 8 recent posts read from the page",
   "pick round: only the picked links are written (research_free/pick.py)",
-  "manual link added: https://www.dinakaran.com/news/salem-sankari-broad-daylight-lorry-driver-jewellery-robbery",
-  "manual link added: https://tamil.oneindia.com/news/krishnagiri/hosur-allocated-park-land-salem-man-duped-after-buying-it-for-2-crore-how-was-it-exposed-845109.html",
-  "manual link added: https://www.dinakaran.com/news/deemed-maternal-uncles-rule-crimes-against-women-children-increase-6-months-edappadi-palaniswami",
+  "manual link added: https://tamil.oneindia.com/news/coimbatore/tiruppur-industrialist-died-in-road-accident-845081.html",
+  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-viluppuram/salem-sister-brother-killed-as-bike-rams-into-lorry-on-villupuram-bypass/4375357",
+  "manual link added: https://tamil.oneindia.com/news/chennai/cm-vijay-inaugurated-childrens-day-celebration-at-kolathur-constituency-by-giving-cake-844953.html",
   "candidate filter: collected=3",
   "to write: 3 Salem district candidates (max 3 stories)",
   "round: top 3 of 3 candidates",
   "candidates waiting: 3 Salem; time left 79 min",
-  "try (N) manual=True: https://www.dinakaran.com/news/deemed-maternal-uncles-rule-c",
-  "try (N) manual=True: https://tamil.oneindia.com/news/krishnagiri/hosur-allocated-",
-  "try (N) manual=True: https://www.dinakaran.com/news/salem-sankari-broad-daylight-",
+  "try (N) manual=True: https://tamil.oneindia.com/news/chennai/cm-vijay-inaugurated",
+  "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-vilu",
+  "try (N) manual=True: https://tamil.oneindia.com/news/coimbatore/tiruppur-industri",
   "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 2})",
   "posting job started at once",
-  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 4})",
-  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 6})",
-  "candidate loop ended: left 0, tried={'N': 3}, done={'N': 3}, time left 73 min",
+  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 5})",
+  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 7})",
+  "candidate loop ended: left 0, tried={'N': 3}, done={'N': 3}, time left 75 min",
   "filed: 3 Salem district stories (target 3), reels only",
   "queue: 0 news waiting to be written",
-  "All News sheet: {\"ok\":true,\"added\":3,\"updated\":0}"
+  "All News sheet: <!DOCTYPE html><html><head><script nonce=\"oJOQxT0OEvzyW1JPIPBgeQ\">window['ppConfig'] = {productName:"
  ],
  "llm": [
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high d",
-  "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high d",
-  "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high d",
-  "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high d",
-  "switching away from gemini/gemini-3.6-flash for 10 min",
-  "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
-  "switching away from gemini/gemini-3.6-flash for 10 min",
-  "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high d",
-  "ok gemini/gemini-3.6-flash (21s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "fail gemini/gemini-3.6-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=60)",
+  "poor answer - skipped for 30 min: gemini/gemini-3.6-flash",
+  "fail gemini/gemini-3.6-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=60)",
+  "poor answer - skipped for 30 min: gemini/gemini-3.6-flash",
   "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
-  "ok gemini/gemini-3.5-flash (19s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok gemini/gemini-3.5-flash (14s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
-  "ok gemini/gemini-3.5-flash (21s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok gemini/gemini-3.5-flash (12s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok gemini/gemini-3.5-flash (14s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok gemini/gemini-3.5-flash (17s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok gemini/gemini-3.5-flash (6s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "dead for this round: gemini/gemini-3.5-flash",
+  "fail gemini/gemini-3.6-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=60)",
+  "poor answer - skipped for 30 min: gemini/gemini-3.6-flash",
   "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high d",
-  "ok gemini/gemini-3.5-flash (21s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok gemini/gemini-3.5-flash (6s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high d",
-  "switching away from gemini/gemini-3.5-flash for 10 min",
-  "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high d",
-  "fail gemini/gemini-3.5-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=60)",
-  "poor answer - skipped for 30 min: gemini/gemini-3.5-flash",
-  "fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing ",
-  "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high d",
-  "switching away from gemini/gemini-3.5-flash for 10 min",
-  "ok gemini/gemini-3-flash-preview (21s)",
+  "ok gemini/gemini-3-flash-preview (12s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok gemini/gemini-3-flash-preview (9s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "ok gemini/gemini-3-flash-preview (25s)",
+  "ok gemini/gemini-3-flash-preview (14s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok gemini/gemini-3-flash-preview (12s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok gemini/gemini-3-flash-preview (12s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok gemini/gemini-3-flash-preview (10s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, plea",
   "ok gemini/gemini-3-flash-preview (11s)",
-  "ok gemini/gemini-3-flash-preview (46s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing ",
-  "fail gemini/gemini-3-flash-preview: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=60)",
-  "poor answer - skipped for 30 min: gemini/gemini-3-flash-preview",
+  "fail gemini/gemini-3.5-flash: Expecting ',' delimiter: line 1 column 1265 (char 1264)",
+  "poor answer - skipped for 30 min: gemini/gemini-3.5-flash",
+  "fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, plea",
+  "switching away from gemini/gemini-3-flash-preview for 10 min",
   "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 400: {\"error\":{\"message\":\"Failed to validate JSON. Please adjust your prompt. See 'failed_gener",
+  "ok gemini/gemini-3-flash-preview (16s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
   "ok groq/qwen/qwen3.8-27b (4s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
+  "switching away from groq/openai/gpt-oss-120b for 10 min",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
+  "ok anthropic/claude-haiku-5-5",
   "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
   "switching away from groq/qwen/qwen3.8-27b for 10 min",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 400: {\"error\":{\"message\":\"Failed to validate JSON. Please adjust your prompt. See 'failed_gener",
+  "fail gemini/gemini-3-flash-preview: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=60)",
+  "poor answer - skipped for 30 min: gemini/gemini-3-flash-preview",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok anthropic/claude-haiku-5-5",
   "ok anthropic/claude-haiku-5-5",
   "ok anthropic/claude-haiku-5-5",
   "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok groq/openai/gpt-oss-120b (6s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok groq/openai/gpt-oss-120b (2s)"
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5"
  ],
  "stories": [
   {
-   "tamil_headline": "சங்ககிரி அருகே பட்டப்பகலில் வீட்டின் பூட்டை உடைத்து 23 சவரன் நகைகள் கொள்ளை",
-   "english_headline": "23 sovereigns of gold jewelry stolen in broad daylight burglary near Sankari in Salem",
-   "category": "Crime & Safety",
-   "location": "Sathya Nagar, Sankari, Salem district",
+   "tamil_headline": "லாரி பின்னால் பைக் மோதி அக்கா, தம்பி பலி: விழுப்புரம் புறவழிச்சாலையில் சோகம்",
+   "english_headline": "Bike rams into rear of lorry on Villupuram bypass road; Salem siblings die",
+   "category": "Roads & Transport",
+   "location": "Villupuram bypass road, Villupuram district (siblings from Aanaiyampatti, Eral Kaadu, Salem district)",
+   "importance": "High",
+   "scope": "local",
+   "post_to": "Salem 360",
+   "slides_spec": {
+    "v": 3,
+    "cat": "சாலை விபத்து",
+    "loc": "விழுப்புரம்",
+    "hl1": "விழுப்புரத்தில் விபத்து: சேலம் அக்கா",
+    "hl2": "லாரி பின்னால் பைக் மோதல்",
+    "slides": [
+     {
+      "title": "என்ன நடந்தது?",
+      "lines": [
+       "விழுப்புரம் புறவழிச் சாலையில் பைக் விபத்து",
+       "முன்னால் சென்ற லாரி திடீரென பிரேக் போட்டது",
+       "பின்னால் வந்த பைக் லாரி மீது மோதியது"
+      ]
+     },
+     {
+      "title": "யார் இறந்தனர்?",
+      "lines": [
+       "சேலம் மாவட்டம், ஆணையம்பட்டி, எரல்காடு பகுதியைச் சேர்ந்த",
+       "நவீனின் அக்கா வைஷ்ணவி, <b>25</b>",
+       "இருவரும் சென்னையில் தனியார் நிறுவனத்தில் வேலை பார்த்தனர்"
+      ]
+     },
+     {
+      "title": "எப்போது?",
+      "lines": [
+       "நேற்று (நவ. 12) காலை <b>10:30</b> மணிக்கு விபத்து",
+       "நவீன் நிலை தடுமாறி லாரி மீது மோதினார்",
+       "நவீன் சம்பவ இடத்திலேயே உயிரிழந்தார்"
+      ]
+     },
+     {
+      "title": "சிகிச்சையில்...",
+      "lines": [
+       "படுகாயமடைந்த வைஷ்ணவி முண்டியம்பாக்கம் அரசு",
+       "வைஷ்ணவி இன்று (நவ. 13) உயிரிழந்தார்",
+       "போலீசார் வழக்குப் பதிந்து விசாரணை"
+      ]
+     }
+    ],
+    "carousel": false
+   },
+   "reel_script": "விழுப்புரம் புறவழிச் சாலையில் நடந்த பைக் விபத்தில் சேலம் மாவட்டத்தைச் சேர்ந்த அக்கா, தம்பி உயிரிழந்தனர். தீபாவளி விடுமுறைக்கு ஊருக்கு வந்த இவர்கள், நேற்று நவம்பர் 12ஆம் தேதி பல்சர் பைக்கில் சென்னைக்குப் புறப்பட்டனர். சேலம் மாவட்டம், ஆணையம்பட்டி, எரல்காடு பகுதியைச் சேர்ந்த மொட்டையன் மகன் நவீன், 23 வயது, பைக்கை ஓட்டினார். அவரது அக்கா வைஷ்ணவி, 25 வயது, பின்னால் அமர்ந்திருந்தார். இருவரும் சென்னையில் தனியார் நிறுவனத்தில் வேலை பார்த்து வந்தனர். நேற்று காலை 10:30 மணிக்கு, விழுப்புரம் புறவழிச் சாலையில் செஞ்சி சாலை சந்திப்பு மேம்பாலம் அருகே சென்றபோது, முன்னால் சென்ற லாரி டிரைவர் திடீரென பிரேக் போட்டார். நிலை தடுமாறிய நவீன், பைக்குடன் லாரி மீது மோதினார். இந்த விபத்தில் நவீன் சம்பவ இடத்திலேயே உயிரிழந்தார். படுகாயமடைந்த வைஷ்ணவி, முண்டியம்பாக்கம் அரசு மருத்துவக்கல்லூரி மருத்துவமனையில் சிகிச்சை பெற்றார். சிகிச்சை பலனின்றி அவர் இன்று நவம்பர் 13ஆம் தேதி உயிரிழந்தார். விபத்து குறித்து விழுப்புரம் தாலுகா போலீசார் வழக்குப் பதிந்து விசாரித்து வருகின்றனர். மேலும் செய்திகளுக்கு சேலம் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🚨 விழுப்புரத்தில் லாரி பின்னால் பைக் மோதி சேலம் அக்கா, தம்பி பலி\n\n📰 முழு விவரம்:\nவிழுப்புரம் புறவழிச் சாலையில் நேற்று (நவ. 12) காலை சுமார் 10:30 மணிக்கு பைக் விபத்து நடந்தது. சேலம் மாவட்டம், ஆணையம்பட்டி, எரல்காடு பகுதியைச் சேர்ந்த நவீன் (23 வயது), பைக்கை ஓட்டினார். அவரது அக்கா வைஷ்ணவி (25 வயது), பின்னால் அமர்ந்திருந்தார். செஞ்சி சாலை சந்திப்பு மேம்பாலம் அருகே முன்னால் சென்ற லாரி டிரைவர் திடீரென பிரேக் போட்டதால், நிலை தடுமாறிய நவீன் லாரி மீது மோதினார். நவீன் சம்பவ இடத்திலேயே உயிரிழந்தார். படுகாயமடைந்த வைஷ்ணவி முண்டியம்பாக்கம் அரசு மருத்துவக்கல்லூரி மருத்துவமனையில் சிகிச்சை பெற்று, இன்று (நவ. 13) உயிரிழந்தார். இருவரும் தீபாவளி விடுமுறைக்கு ஊருக்கு வந்து சென்னைக்குத் திரும்பிக்கொண்டிருந்தனர்.\n🕘 நேரம்: காலை 10:30 மணி\n📍 இடம்: விழுப்புரம் புறவழிச் சாலை, செஞ்சி சாலை சந்திப்பு மேம்பாலம் அருகே\n👮 நடவடிக்கை: விழுப்புரம் தாலுகா போலீசார் வழக்குப் பதிந்து விசாரணை\n\nVillupuram bypass bike crash, two Salem siblings dead | Salem news\n📍 விழுப்புரம் | 13 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Salem360 #Salem #SalemNews #சாலை_விபத்து #சேலம்",
+   "prompts": "A crumpled Bajaj Pulsar motorcycle lies beside the rear of a large grey lorry on a Villupuram bypass road, its front wheel bent and the tail of the lorry dented from the impact. A Villupuram taluk police constable in khaki stands at a distance near the road shoulder, taking notes, while two onlookers in shirts and trousers watch from the roadside. The place is a wide four-lane bypass highway in Villupuram district, with a concrete flyover pillar of the Senji road junction overhead, dry roadside grass, and a few passing two-wheelers and cars slowing down. Late morning in bright daylight, with a clear sky. Shot at eye level, 35 mm, wide enough to show the flyover, the lorry and the wrecked bike together. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up detail of a dented rear bumper of a lorry with its red reflector panel cracked, and a twisted front fork and handlebar of a motorcycle resting on the tarmac beside it. Scattered shards of a broken mirror and dust lie on the road surface, with a police constable's khaki boots visible at the edge of the frame. Bright late-morning daylight, a concrete flyover pillar blurred in the background. Shot at a low angle, 35 mm, shallow depth of field, with no people's faces visible. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-viluppuram/salem-sister-brother-killed-as-bike-rams-into-lorry-on-villupuram-bypass/4375357",
+   "published": "2026-11-13T19:42:02+05:30",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: sentence 1 (one-line story) has 12 words; make it 6-9 words (about 2-3 seconds), the details follow in the next sentences",
+   "note": "free-model draft anthropic/claude-haiku-5-5, 13 attempt(s), 1 validator problem(s)",
+   "post_time": "right after your reply, same day",
+   "_area": "N",
+   "_score": 999,
+   "images": [
+    "https://res.cloudinary.com/jrmwajfz/image/upload/v1794581436/salem360/ojq7lyrc7xh0t2mqlelx.jpg",
+    "https://res.cloudinary.com/jrmwajfz/image/upload/v1794581446/salem360/tiunzsahxt0ai8qt8s8d.jpg"
+   ]
+  },
+  {
+   "tamil_headline": "கோவை சேலம் பைபாஸ் சாலையில் கார் விபத்து: திருப்பூர் தொழிலதிபர் உயிரிழப்பு",
+   "english_headline": "Car crashes into goods vehicle on Coimbatore-Salem bypass road; Tiruppur businessman dies",
+   "category": "Roads & Transport",
+   "location": "Coimbatore suburb, Salem-Kochi L&T bypass road, Coimbatore district",
    "importance": "Medium",
    "scope": "local",
    "post_to": "Salem 360",
    "slides_spec": {
     "v": 3,
-    "cat": "குற்றச் செய்தி",
-    "loc": "சத்திய நகர், சங்ககிரி",
-    "hl1": "சங்ககிரியில் 23 சவரன் நகை கொள்ளை",
-    "hl2": "பட்டப்பகலில் பூட்டை உடைத்து",
-    "slides": [
-     {
-      "title": "எங்கே நடந்தது?",
-      "lines": [
-       "சங்ககிரி அருகே <b>சத்திய நகர்</b>",
-       "லாரி ஓட்டுநரின் வீட்டில் கொள்ளை",
-       "பட்டப்பகலில் பூட்டை உடைத்து திருட்டு"
-      ]
-     },
-     {
-      "title": "நடந்தது என்ன?",
-      "lines": [
-       "மனைவி வங்கிக்குச் சென்ற நேரம்",
-       "மாலை <b>4 மணிக்கு</b> வீடு திரும்பினார்",
-       "முன்பக்கக் கதவு பூட்டு உடைப்பு"
-      ]
-     },
-     {
-      "title": "என்ன",
-      "lines": [
-       "பீரோவில் இருந்த பொருட்கள் கலைப்பு",
-       "<b>23 சவரன்</b> தங்க நகைகள் திருட்டு",
-       "தங்கக் காசுகளும் கொள்ளை"
-      ]
-     },
-     {
-      "title": "போலீஸ் நடவடிக்கை",
-      "lines": [
-       "கணவரிடம் தொலைபேசியில் தகவல்",
-       "சங்ககிரி காவல் நிலையத்தில் புகார்",
-       "போலீசார் வழக்குப்பதிவு செய்து விசாரணை"
-      ]
-     }
-    ],
-    "carousel": false
-   },
-   "reel_script": "சங்ககிரியில் பட்டப்பகலில் வீட்டின் பூட்டை உடைத்து 23 சவரன் நகை கொள்ளையடிக்கப்பட்டது. சேலம் மாவட்டம் சங்ககிரி அருகே சத்திய நகர் பகுதியில் லாரி ஓட்டுநர் ஒருவர் வசித்து வருகிறார். இவர் வேலைக்குச் சென்ற நிலையில், இவரது மனைவி சுயஉதவிக் குழு கடன் தொடர்பாக வங்கிக்குச் சென்றுள்ளார். மாலை 4 மணி அளவில் மனைவி வீடு திரும்பியபோது வீட்டின் முன்பக்கக் கதவு பூட்டு உடைக்கப்பட்டிருந்தது. வீட்டின் உள்ளே சென்று பார்த்தபோது பீரோவில் இருந்த பொருட்கள் கலைக்கப்பட்டு இருந்தன. பீரோவில் வைக்கப்பட்டிருந்த 23 சவரன் தங்க நகைகள் மற்றும் தங்கக் காசுகள் காணாமல் போயிருந்தன. இதுகுறித்து சங்ககிரி காவல் நிலையத்தில் நேற்று இரவில் புகார் அளிக்கப்பட்டது. புகாரின் பேரில் சங்ககிரி காவல்துறையினர் வழக்குப் பதிவு செய்து தீவிர விசாரணை நடத்தி வருகின்றனர். மேலும் செய்திகளுக்கு சேலம் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🚨 சங்ககிரி அருகே பட்டப்பகலில் வீட்டின் பூட்டை உடைத்து 23 சவரன் தங்க நகைகள் கொள்ளை!\n\n📰 முழு விவரம்:\nசேலம் மாவட்டம் சங்ககிரி அருகேயுள்ள சத்திய நகர் பகுதியில் லாரி ஓட்டுநர் வீட்டின் பூட்டை உடைத்து 23 சவரன் தங்க நகைகள் மற்றும் தங்கக் காசுகள் கொள்ளையடிக்கப்பட்டுள்ளன. கணவர் வேலைக்குச் சென்ற நிலையில், அவரது மனைவி சுயஉதவிக் குழு கடன் தொடர்பாக வங்கிக்குச் சென்றுள்ளார். மாலை 4 மணி அளவில் மனைவி வீடு திரும்பியபோது வீட்டின் முன்பக்கக் கதவு பூட்டு உடைக்கப்பட்டிருப்பதைக் கண்டு அதிர்ச்சி அடைந்தார். உள்ளே சென்று பார்த்தபோது பீரோவில் இருந்த 23 சவரன் தங்க நகைகள் மற்றும் தங்கக் காசுகள் திருடப்பட்டது தெரியவந்தது. இதுகுறித்து சங்ககிரி காவல் நிலையத்தில் நேற்றிரவு புகார் அளிக்கப்பட்டது. சங்ககிரி காவல்துறையினர் வழக்குப்பதிவு செய்து விசாரணை நடத்தி வருகின்றனர்.\n\n📍 இடம்: சத்திய நகர், சங்ககிரி, சேலம் மாவட்டம்\n🗓️ நாள்: 12 நவம்பர் 2026\n👮 நடவடிக்கை: சங்ககிரி காவல் துறையினர் வழக்குப்பதிவு செய்து விசாரணை\n\nபாதுகாப்பாக இருங்கள், எச்சரிக்கையாக இருங்கள்.\n\nSankari gold robbery news | Salem news\n📍 Sathya Nagar, Sankari, Salem | 13 November 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Salem360 #Salem #Sankari #SalemNews #சேலம்",
-   "prompts": "A Tamil Nadu police jeep is parked on a residential street in Sathya Nagar, Sankari, outside a concrete house where a burglary took place. Two police officers in khaki uniforms are seen from behind, inspecting the front entrance of the house. The wooden front door has a visibly broken metal latch and a snapped padlock hanging from the frame. The street is lined with similar single-story houses and a few coconut trees under the bright afternoon sun. The camera is at eye level, using a 35mm lens to capture the house and the investigating officers in a wide shot. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nInside a room of the house in Sankari, a green steel bureau stands with its doors flung wide open, showing signs of a ransacked interior. Colorful sarees and clothes are scattered across the floor in front of the cupboard, along with several empty velvet jewelry boxes that once held 23 sovereigns of gold. The room is illuminated by natural daylight streaming through a nearby window, highlighting the mess left by the burglars. No people are visible in the frame, focusing entirely on the disturbed bureau and the discarded boxes. The camera is a medium shot at eye level, emphasizing the scene of the theft. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinakaran.com/news/salem-sankari-broad-daylight-lorry-driver-jewellery-robbery",
-   "published": "2026-11-13T12:19:13+05:30",
-   "verification": "DRAFT (gemini/gemini-3.5-flash) - fact-check: no problems found",
-   "note": "free-model draft gemini/gemini-3.5-flash, 2 attempt(s), 0 validator problem(s)",
-   "post_time": "right after your reply, same day",
-   "_area": "N",
-   "_score": 999,
-   "images": [
-    "https://res.cloudinary.com/jrmwajfz/image/upload/v1794573314/salem360/wxkh0j4oadcwsimop4we.jpg",
-    "https://res.cloudinary.com/jrmwajfz/image/upload/v1794573329/salem360/jst1spir9x8wpqdjmcee.jpg"
-   ]
-  },
-  {
-   "tamil_headline": "ஓசூரில் மாநகராட்சி பூங்கா நிலத்தை ரூ.2 கோடிக்கு வாங்கி ஏமாந்த சேலத்துக்காரர்: 4 பேர் மீது வழக்கு",
-   "english_headline": "Salem man cheated of Rs 2 crore in Hosur park land sale; Krishnagiri police book 4 persons",
-   "category": "Crime & Safety",
-   "location": "Avalapalli, Hosur Corporation, Krishnagiri district",
-   "importance": "Medium",
-   "scope": "district",
-   "post_to": "Salem 360",
-   "slides_spec": {
-    "v": 3,
-    "cat": "நில மோசடி",
-    "loc": "ஆவலப்பள்ளி, ஓசூர்",
-    "hl1": "ஓசூரில் ரூ.2 கோடி நில மோசடி",
-    "hl2": "சேலத்துக்காரர் ஏமாற்றம்",
+    "cat": "சாலை விபத்து",
+    "loc": "கோவை - சேலம் பைபாஸ்",
+    "hl1": "கோவை பைபாஸ் சாலையில் கார் விபத்து",
+    "hl2": "தொழிலதிபர் உயிரிழப்பு",
     "slides": [
      {
       "title": "என்ன நடந்தது?",
       "lines": [
-       "சேலத்தைச் சேர்ந்த அமல அந்தோணிராஜ்",
-       "ஓசூர் ஆவலப்பள்ளியில் <b>25 சென்ட்</b> நிலம்",
-       "<b>ரூ.2 கோடிக்கு</b> 2022-ல் வாங்கினார்"
+       "நேற்று மாலை கோவை சேலம் - கொச்சி L&T பைபாஸ் சாலையில் விபத்து",
+       "எதிர்திசையில் நின்றிருந்த சரக்கு வாகனம் மீது கார் மோதியது",
+       "மாலை சுமார் <b>4 மணி</b> அளவில் தாபா அருகே நடந்தது"
       ]
      },
      {
-      "title": "உண்மை வெளிவந்தது",
+      "title": "யார்",
       "lines": [
-       "2023-ல் நிலத்தை விற்க முயன்ற போது",
-       "மாநகராட்சி பூங்கா இடம் எனத் தெரிந்தது",
-       "சிறுவர் பள்ளி, விளையாட்டுத் திடலுக்குரியது"
+       "திருப்பூர், அம்மாபாளையம் ரவிகுமார் (<b>56 வயது</b>) உயிரிழந்தார்",
+       "அவரது மனைவி கிருஷ்ணவேணி (<b>60 வயது</b>) படுகாயம்",
+       "கிருஷ்ணவேணி மருத்துவமனையில் தீவிர சிகிச்சையில் உள்ளார்"
       ]
      },
      {
-      "title": "காவல்துறை",
+      "title": "அடுத்து என்ன?",
       "lines": [
-       "சந்திரபோஸ், லூர்துமேரி உட்பட <b>4 பேர்</b>",
-       "கிருஷ்ணகிரி குற்றப்பிரிவு போலிஸ் வழக்கு",
-       "விஏஓவிடம் விசாரித்து வாங்க அறிவுறுத்தல்"
+       "மகன் அதிஷ்யா (<b>23 வயது</b>) அளித்த புகாரில் வழக்குப் பதிவு",
+       "அதிவேகமா, கவனக்குறைவா என போலீசார் விசாரணை",
+       "காரின் முன்பகுதி பலத்த சேதம்"
       ]
      }
     ],
     "carousel": false
    },
-   "reel_script": "ஓசூரில் மாநகராட்சிக்குச் சொந்தமான பூங்கா நிலத்தை ரூ.2 கோடிக்கு வாங்கி சேலத்தைச் சேர்ந்தவர் ஏமாற்றப்பட்டுள்ளார். சேலம் அங்கம்மாள் காலனியைச் சேர்ந்த அமல அந்தோணிராஜ், அவரது சகோதரி ஜான்மேரி ஆகியோர் கிருஷ்ணகிரி மாவட்டம் ஓசூர் ஆவலப்பள்ளியில் உள்ள 25 சென்ட் நிலத்தை 2022ஆம் ஆண்டு ரூ.2 கோடி கொடுத்து வாங்கினர். சந்திரபோஸ் மற்றும் லூர்துமேரி தங்களுக்கு 50 சென்ட் நிலம் இருப்பதாகக் கூறி இதில் 25 சென்ட்டை விற்பனை செய்தனர். மீதமுள்ள 25 சென்ட் நிலத்தை அவர்களது மருமகன் வின்சென்ட் மகிமைராஜ், ஜெஷிந்தாமேரி ஆகியோருக்கு விற்பது போல் சதி செய்துள்ளனர். 2023ஆம் ஆண்டு இந்த நிலத்தை அமல அந்தோணிராஜ் விற்க முயன்ற போது, அது மாநகராட்சி பூங்காவுக்கு ஒதுக்கப்பட்ட இடம் எனச் சார்பதிவாளர் மூலம் தெரியவந்தது. இது குறித்து கிராம நிர்வாக அலுவலர் மற்றும் மாநகராட்சி அதிகாரிகளிடம் விசாரித்த போது, அது சிறுவர் பள்ளி மற்றும் விளையாட்டுத் திடலுக்கு ஒதுக்கப்பட்ட இடம் என்பது உறுதியானது. பாதிக்கப்பட்டவர் அளித்த புகாரின் பேரில் சந்திரபோஸ், லூர்துமேரி, வின்சென்ட் மகிமைராஜ், ஜெஷிந்தாமேரி ஆகிய 4 பேர் மீது கிருஷ்ணகிரி மாவட்ட குற்றப்பிரிவு காவல்துறை வழக்குப் பதிவு செய்து விசாரணை நடத்தி வருகிறது. மேலும் செய்திகளுக்கு சேலம் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🚨 ஓசூரில் மாநகராட்சி பூங்கா நிலத்தை ரூ.2 கோடிக்கு வாங்கி ஏமாந்த சேலத்துக்காரர்!\n\n📰 முழு விவரம்:\nசேலம் அங்கம்மாள் காலனி குப்தா நகரைச் சேர்ந்த அமல அந்தோணிராஜ் மற்றும் அவரது சகோதரி ஜான்மேரி ஆகியோர், கிருஷ்ணகிரி மாவட்டம் ஓசூர் மாநகராட்சிக்கு உட்பட்ட ஆவலப்பள்ளியில் உள்ள 25 சென்ட் நிலத்தை 2022-ல் ரூ.2 கோடி கொடுத்து வாங்கினர்.\nசந்திரபோஸ் மற்றும் அவரது மனைவி லூர்துமேரி, தங்களுக்கு 50 சென்ட் காலி நிலம் இருப்பதாகக் கூறி 25 சென்ட்டை விற்றுள்ளனர். மீதி 25 சென்ட் நிலத்தை அவர்களது மருமகன் வின்சென்ட் மகிமைராஜ் மற்றும் ஜெஷிந்தாமேரி ஆகியோர் வாங்குவது போல் சதி திட்டம் தீட்டியுள்ளனர்.\n2023-ல் அந்த நிலத்தை வேறு ஒருவருக்கு விற்க முயன்ற போது, அது மாநகராட்சி பூங்கா நிலம் என்பதால் சார்பதிவாளர் தடை விதித்திருப்பதை அமல அந்தோணிராஜ் கண்டுபிடித்தார்.\nகிராம நிர்வாக அலுவலர் (VAO) மற்றும் மாநகராட்சி அதிகாரிகளிடம் விசாரித்த போது, அந்த நிலம் சிறுவர் பள்ளி மற்றும் விளையாட்டுத் திடலுக்கு ஒதுக்கப்பட்ட மாநகராட்சி இடம் என்பது உறுதியானது.\nபாதிக்கப்பட்ட அமல அந்தோணிராஜ் கொடுத்த புகாரின் பேரில், கிருஷ்ணகிரி மாவட்ட குற்றப்பிரிவு போலீசார் சந்திரபோஸ், லூர்துமேரி, வின்சென்ட் மகிமைராஜ், ஜெஷிந்தாமேரி ஆகிய 4 பேர் மீது வழக்குப்பதிவு செய்து விசாரணை நடத்தி வருகின்றனர்.\n\n📍 இடம்: ஆவலப்பள்ளி, ஓசூர், கிருஷ்ணகிரி மாவட்டம்\n🗓️ ஆண்டு: 2022 (விற்பனை) / 2023 (கண்டுபிடிப்பு)\n💰 தொகை: ரூ.2 கோடி (25 சென்ட் நிலம்)\n👮 நடவடிக்கை: 4 பேர் மீது கிருஷ்ணகிரி மாவட்ட குற்றப்பிரிவு போலிஸ் வழக்குப்பதிவு\nℹ️ மக்கள் கவனத்திற்கு: நிலம் வாங்கும் முன் விஏஓ மற்றும் மாநகராட்சி அதிகாரிகளிடம் நிலத்தின் வகைப்பாடு மற்றும் பயன்பாட்டைச் சரிபார்க்கவும்.\n\nதேவைப்படுவோருக்கு Share செய்யுங்கள்\n\nHosur corporation park land fraud | Salem news\n📍 Avalapalli, Hosur, Krishnagiri | 13 November 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Salem360 #Salem #Hosur #CrimeNews #சேலம்",
-   "prompts": "A Krishnagiri District Crime Branch police jeep is parked near the entrance of a government office building in the morning light. Two police officers in khaki uniforms are seen from behind, walking towards the building entrance where the land fraud case was registered. The area has a few parked two-wheelers along a compound wall, and the ground is dusty, typical of a Tamil Nadu government office exterior. The scene is captured at eye level with a 35mm lens, showing the police presence related to the investigation of the four accused persons. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA wide shot of the disputed 25-cent vacant land in Avalapalli, Hosur, which was illegally sold as private property. The plot is a flat area of dry earth and patches of green grass, marked by small concrete boundary stones at the corners. In the background, the outskirts of the Hosur residential area are visible with a few trees and the distant silhouette of hills under a bright afternoon sun. The camera is positioned at a slightly high angle to capture the entire extent of the empty plot that was reserved for a park and school. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://tamil.oneindia.com/news/krishnagiri/hosur-allocated-park-land-salem-man-duped-after-buying-it-for-2-crore-how-was-it-exposed-845109.html",
-   "published": "2026-11-13T17:45:33+05:30",
-   "verification": "DRAFT (gemini/gemini-3.5-flash) - fact-check: no problems found",
-   "note": "free-model draft gemini/gemini-3.5-flash, 4 attempt(s), 0 validator problem(s)",
+   "reel_script": "கோவை சேலம் பைபாஸ் சாலையில் நடந்த கார் விபத்தில் திருப்பூர் தொழிலதிபர் ஒருவர் உயிரிழந்தார். நேற்று மாலை சுமார் 4 மணி அளவில் கோவை சேலம் - கொச்சி L&T பைபாஸ் சாலையில் உள்ள தாபா அருகே இந்த விபத்து நடந்தது. எதிர்திசையில் நின்றிருந்த சரக்கு வாகனம் மீது கார் பயங்கரமாக மோதியது. திருப்பூர் மாவட்டம் அம்மாபாளையம், ஐஸ்வர்யா கார்டன் பகுதியைச் சேர்ந்த 56 வயது ரவிகுமார் சம்பவ இடத்திலேயே உயிரிழந்தார். அவரது மனைவி கிருஷ்ணவேணிக்கு 60 வயது. அவர் பலத்த காயங்களுடன் உயிர் தப்பினார். தற்போது அவருக்கு மருத்துவமனையில் தீவிர சிகிச்சை அளிக்கப்பட்டு வருகிறது. குடும்பத்துடன் கேரள மாநிலம் திருச்சூருக்குச் சென்றுவிட்டு, திருப்பூர் நோக்கித் திரும்பிக் கொண்டிருந்தபோது விபத்து நேர்ந்தது. ரவிகுமாரின் மகன் அதிஷ்யா அளித்த புகாரின் பேரில் கோவை மாவட்ட காவல் துறையினர் வழக்குப் பதிவு செய்துள்ளனர். அதிவேகமா அல்லது கவனக்குறைவா என்பது குறித்து போலீசார் தீவிர விசாரணை நடத்தி வருகின்றனர். மேலும் செய்திகளுக்கு சேலம் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🚗 கோவை சேலம் பைபாஸ் சாலையில் கார் விபத்து: திருப்பூர் தொழிலதிபர் உயிரிழப்பு\n\n📰 முழு விவரம்:\nநேற்று மாலை சுமார் 4 மணி அளவில் கோவை சேலம் - கொச்சி L&T பைபாஸ் சாலையில் உள்ள தாபா அருகே கார் சென்றுகொண்டிருந்தபோது, எதிர்திசையில் நின்றிருந்த சரக்கு வாகனம் மீது பயங்கரமாக மோதியது.\nஇந்த விபத்தில் திருப்பூர் மாவட்டம் அம்மாபாளையம், ஐஸ்வர்யா கார்டன் பகுதியைச் சேர்ந்த ரவிகுமார் (56 வயது) சம்பவ இடத்திலேயே உயிரிழந்தார்.\nஅவரது மனைவி கிருஷ்ணவேணி (60 வயது) மற்றும் மகன் அதிஷ்யா (23 வயது) குடும்பத்துடன் கேரள மாநிலம் திருச்சூருக்குச் சென்றுவிட்டு திரும்பிக் கொண்டிருந்தனர்.\nகாரின் முன்பகுதி பலத்த சேதம் அடைந்தது. படுகாயம் அடைந்த கிருஷ்ணவேணிக்குத் தீவிர சிகிச்சை அளிக்கப்பட்டு வருகிறது.\nமகன் அதிஷ்யா அளித்த புகாரின் பேரில் கோவை மாவட்ட காவல் துறையினர் வழக்குப் பதிவு செய்துள்ளனர். அதிவேகமா அல்லது கவனக்குறைவா என போலீசார் விசாரணை நடத்தி வருகின்றனர்.\n\nCoimbatore Salem bypass car accident, businessman dies | Salem news\n📍 கோவை சேலம் பைபாஸ், கோவை மாவட்டம் | 13 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Salem360 #Coimbatore #SalemNews #சாலை_விபத்து #சேலம்",
+   "prompts": "On a Coimbatore suburban bypass road in the early evening, a crumpled car with its front badly crushed sits against the rear of a goods lorry, both stopped at an angle across the lane after a head-on impact. Viewed from the roadside at eye level, the bypass stretches ahead with a dhaba's roadside shed and a few parked two-wheelers on the left shoulder. Local residents in shirts and veshti and motorists in trousers stand a safe distance back, some pointing toward the wreck, while a policeman in khaki with a cap walks near the lorry's cab. The car's bonnet is folded up, shattered windscreen glass glints on the tarmac, and the lorry's cargo body is dusty and unmarked. Late afternoon sunlight, slightly golden, lights the scene under a clear sky. Camera at eye level, 35 mm lens, wide enough to show the road, the dhaba and the wreck together. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up of the crushed front of a car, its bonnet crumpled like paper and the headlight housing shattered, pressed into the rear panel of a goods lorry on a tarmac road. Shards of safety glass lie scattered across the asphalt around the wheel, and a dented grey metal bumper bends inward. Behind the wreck, a blurred figure in khaki stands at a distance and a few onlookers in shirts are seen from behind, out of focus. Late afternoon light falls diagonally across the damaged metal, with soft shadows in the crumpled folds. Camera slightly high, 50 mm close-up, shallow depth of field so the damaged metal is sharp and the background softened. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://tamil.oneindia.com/news/coimbatore/tiruppur-industrialist-died-in-road-accident-845081.html",
+   "published": "2026-11-13T15:28:25+05:30",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: reel_script must have no English letters (write English words and abbreviations in Tamil script)",
+   "note": "free-model draft anthropic/claude-haiku-5-5, 13 attempt(s), 1 validator problem(s)",
    "post_time": "right after your reply, same day",
    "_area": "N",
    "_score": 999,
    "images": [
-    "https://res.cloudinary.com/jrmwajfz/image/upload/v1794573342/salem360/clj7qcxjxdt7tymftmok.jpg",
-    "https://res.cloudinary.com/jrmwajfz/image/upload/v1794573353/salem360/jb3lx9z96g9wg7xo5hik.jpg"
+    "https://res.cloudinary.com/jrmwajfz/image/upload/v1794581467/salem360/xhokambmyfid8udq4ifk.jpg",
+    "https://res.cloudinary.com/jrmwajfz/image/upload/v1794581474/salem360/k88x41iplu6ld6zomcs1.jpg"
    ]
   },
   {
-   "tamil_headline": "திருப்பூரில் 11 வயது சிறுமி கடத்தல், பாலியல் வன்கொடுமை: எடப்பாடி பழனிசாமி கண்டனம்",
-   "english_headline": "Edappadi Palaniswami condemns rise in crimes against women and children after an 11-year-old girl was abducted and sexually assaulted near Tiruppur Veerapandi",
-   "category": "Crime & Safety",
-   "location": "Veerapandi, Tiruppur district",
+   "tamil_headline": "கொளத்தூர் அரசுப் பள்ளியில் குழந்தைகள் தின கேக் திட்டம் தொடக்கம்: முதல்வர் விஜய் கேக், வாழ்த்து அட்டை வழங்கினார்",
+   "english_headline": "Kolathur govt school: CM Vijay launches children's day cake scheme, distributes cakes and greeting cards to students",
+   "category": "Government & Services",
+   "location": "Kolathur, Chennai",
    "importance": "High",
    "scope": "district",
    "post_to": "Salem 360",
    "slides_spec": {
     "v": 3,
-    "cat": "குற்றச் செய்தி",
-    "loc": "வீரபாண்டி, திருப்பூர்",
-    "hl1": "திருப்பூர் சிறுமி வழக்கில் கடும்",
-    "hl2": "11 வயது சிறுமி பாதிப்பு",
+    "cat": "அரசு திட்டம்",
+    "loc": "கொளத்தூர், சென்னை",
+    "hl1": "கொளத்தூரில் குழந்தைகள் தின கேக் திட்டம்",
+    "hl2": "61,84,566 கேக் துண்டுகள்",
     "slides": [
      {
-      "title": "என்ன நடந்தது?",
+      "title": "என்ன திட்டம்?",
       "lines": [
-       "திருப்பூர் வீரபாண்டி அருகே <b>11 வயது</b> சிறுமி கடத்தப்பட்டார்",
-       "கடுமையான பாலியல் வன்கொடுமைக்கு ஆளாக்கப்பட்டதாகத் தகவல்",
-       "பெரியபாளையம் அருகே மாணவி மீது பெட்ரோல் ஊற்றிக் கொலை முயற்சி"
+       "குழந்தைகள் தினத்தையொட்டி மாணவர்களுக்கு கேக் வழங்கும் திட்டம்",
+       "முதல்வர் விஜய் இன்று கொளத்தூர் அரசுப் பள்ளியில் தொடங்கி",
+       "நவம்பர் 14 குழந்தைகள் தினம், நாளை பள்ளி விடுமுறை என்பதால்"
       ]
      },
      {
-      "title": "அரசியல் கண்டனம்",
+      "title": "எத்தனை கேக்?",
       "lines": [
-       "அதிமுக பொதுச்செயலாளர் எடப்பாடி பழனிசாமி அறிக்கை",
-       "கடந்த 6 மாதங்களில் பெண், குழந்தைகள் மீதான குற்றங்கள்",
-       "செஞ்சி சிறுமி இன்னும் கண்டுபிடிக்கப்படவில்லை என விமர்சனம்"
+       "ரூ.9.27 கோடியில் டெண்டர் விடப்பட்டது",
+       "ஒவ்வொரு கேக்கும் 45 கிராம் எடை கொண்டது",
+       "மொத்தம் <b>61,84,566</b> கேக் துண்டுகள் வழங்கப்படுகின்றன"
       ]
      },
      {
-      "title": "கோரிக்கை",
+      "title": "இன்று நடந்தது",
       "lines": [
-       "குற்றவாளிகள் மீது கடுமையான சட்ட நடவடிக்கை வேண்டும்",
-       "குழந்தைகளின் பாதுகாப்பை உறுதி செய்ய வேண்டும்",
-       "அரசின் அறிக்கை: கேட்டுக்கொள்ளப்படும் நடவடிக்கை"
+       "காலை <b>10.20 மணிக்கு</b> முதல்வர் விஜய்",
+       "மாணவர்கள் சுதந்திரப் போராட்ட வீரர், வீராங்கனை வேடமிட்டு",
+       "கேக்குடன் குழந்தைகள் தின வாழ்த்து அட்டையும் வழங்கப்பட்டது"
+      ]
+     },
+     {
+      "title": "தொகுதி",
+      "lines": [
+       "கொளத்தூர் தொகுதிக்கான நலத் திட்ட உதவிகளையும் முதல்வர்",
+       "தொகுதி எம்எல்ஏ வி.எஸ்.பாபு மருத்துவமனையில் சிகிச்சையில்",
+       "சென்னை மாநகராட்சியில் <b>2.90 லட்சம்</b> மாணவர்களுக்கு"
       ]
      }
     ],
     "carousel": false
    },
-   "reel_script": "திருப்பூர் வீரபாண்டி அருகே 11 வயது சிறுமி கடத்தப்பட்டு கடுமையான பாலியல் வன்கொடுமைக்கு ஆளாக்கப்பட்டதாகத் தகவல் வெளியாகியுள்ளது. பெரியபாளையம் அருகே ஒரு மாணவி மீது பெட்ரோல் ஊற்றிக் கொலை செய்ய முயற்சி நடந்ததாகவும் செய்திகள் வந்துள்ளன. குழந்தைகள் தினத்தை ஒட்டி வரும் இச்செய்திகள் மக்களைப் பேரதிர்ச்சிக்கு உள்ளாக்கியுள்ளதாக அதிமுக பொதுச்செயலாளர் எடப்பாடி பழனிசாமி கூறியுள்ளார். கடந்த 6 மாதங்களில் பெண்கள், பெண் குழந்தைகள் மீதான குற்றங்கள் பன்மடங்கு அதிகரித்துள்ளதாக அவர் அறிக்கையில் குற்றம் சாட்டியுள்ளார். செஞ்சி சிறுமி இன்னும் கண்டுபிடிக்கப்படவில்லை என்றும் அவர் விமர்சித்துள்ளார். திருப்பூர் சிறுமி வழக்கிலும், பெரியபாளையம் மாணவி தாக்குதலிலும் தொடர்புள்ள குற்றவாளிகள் மீது கடுமையான சட்ட நடவடிக்கை எடுக்க வேண்டும் என்று அவர் வலியுறுத்தியுள்ளார். பெண்கள், குழந்தைகளின் பாதுகாப்பை உறுதி செய்ய வேண்டும் என்றும் அவர் கோரியுள்ளார். மேலும் செய்திகளுக்கு சேலம் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🚨 திருப்பூர் வீரபாண்டியில் 11 வயது சிறுமி கடத்தல், பாலியல் வன்கொடுமை: கடும் நடவடிக்கை கோரிக்கை\n\n📰 முழு விவரம்:\nதிருப்பூர் வீரபாண்டி அருகே 11 வயது சிறுமி கடத்தப்பட்டு கடுமையான பாலியல் வன்கொடுமைக்கு ஆளாக்கப்பட்டதாகத் தகவல் வெளியாகியுள்ளது. பெரியபாளையம் அருகே மாணவி மீது பெட்ரோல் ஊற்றிக் கொலை செய்ய முயற்சி நடந்ததாகவும் செய்திகள் வந்துள்ளன. இவ்வருட குழந்தைகள் தினத்தை ஒட்டி வந்த இச்செய்திகள் மக்களைப் பேரதிர்ச்சிக்கு உள்ளாக்கியுள்ளதாக அதிமுக பொதுச்செயலாளர் எடப்பாடி பழனிசாமி அறிக்கையில் தெரிவித்துள்ளார்.\nகடந்த 6 மாதங்களில் பெண்கள், பெண் குழந்தைகள் மீதான குற்றங்கள் பன்மடங்கு அதிகரித்துள்ளதாக அவர் குற்றம் சாட்டியுள்ளார். செஞ்சி சிறுமி இன்னும் கண்டுபிடிக்கப்படவில்லை என்றும் அவர் விமர்சித்துள்ளார்.\n📍 இடம்: திருப்பூர் வீரபாண்டி, பெரியபாளையம்\n👮 கோரிக்கை: திருப்பூர் சிறுமி வழக்கிலும், பெரியபாளையம் மாணவி தாக்குதலிலும் தொடர்புள்ள குற்றவாளிகள் மீது கடுமையான சட்ட நடவடிக்கை எடுக்க வேண்டும்.\nℹ️ மக்கள் கவனத்திற்கு: குழந்தைகளின் பாதுகாப்பு குறித்து கவனமாக இருங்கள்.\n\nTiruppur girl abducted, sexual assault, Palaniswami condemns | Salem news\n📍 வீரபாண்டி, திருப்பூர் மாவட்டம் | 13 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Salem360 #Salem #SalemNews #சேலம்",
-   "prompts": "A police jeep with two officers in khaki uniforms stands on a dusty rural road, the officers looking down the lane as if monitoring a recent crime scene. The vehicle is parked beside a low mud‑brick house with a thatched roof, typical of villages near Veerapandi. In the background, palm‑shaded fields stretch toward the horizon, and a lone mango tree marks the roadside. The officers are seen from behind, their shoulders and caps visible, while a small police barricade cordons off a short stretch of the road. Daylight illuminates the scene, clear sky, no rain. Shot from eye level with a 35 mm lens, wide enough to capture the jeep, the house façade and the surrounding village setting. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close‑up of a metal petrol can placed on a rough wooden plank, the can half‑filled and capped, rests beside a pair of white police gloves and a yellow evidence tape loop. The background shows a blurred police uniform sleeve, indicating officers handling the item. A faint outline of a police jeep’s rear bumper is visible, confirming the location near Periya Palayam. The petrol can is the key object that tells the story of the attempted murder. The lighting is natural daylight, casting soft shadows on the metal surface. The camera is positioned slightly above eye level, using a 35 mm lens to focus tightly on the can and gloves while keeping the surrounding context recognizable. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinakaran.com/news/deemed-maternal-uncles-rule-crimes-against-women-children-increase-6-months-edappadi-palaniswami",
-   "published": "2026-11-13T12:35:32+05:30",
+   "reel_script": "கொளத்தூர் அரசுப் பள்ளியில் மாணவர்களுக்கு கேக் வழங்கும் புதிய திட்டத்தை முதல்வர் விஜய் இன்று தொடங்கி வைத்தார். குழந்தைகள் தினத்தையொட்டி, அரசு மற்றும் அரசு உதவி பெறும் பள்ளிகளில் படிக்கும் மாணவர்களுக்கு கேக் வழங்கப்படுகிறது. குழந்தைகள் தினம் நவம்பர் 14ஆம் தேதி கொண்டாடப்படுகிறது. நாளை பள்ளிகளுக்கு விடுமுறை என்பதால், தமிழக அரசு இன்றே கொண்டாடுகிறது. இதற்காக ரூ.9.27 கோடியில் டெண்டர் விடப்பட்டது. ஒவ்வொரு கேக்கும் 45 கிராம் எடை கொண்டது. காலை 10.20 மணிக்கு முதல்வர் விஜய் மாணவர்களுக்கு கேக் வழங்கினார். மாணவர்கள் சுதந்திரப் போராட்ட வீரர், வீராங்கனை வேடமிட்டு அவரை வரவேற்றனர். கேக்குடன் குழந்தைகள் தின வாழ்த்து அட்டையும் வழங்கப்பட்டது. அதில் ஆல் இஸ் வெல், கான்பிடென்ட்டாக இருங்க என்ற வாசகம் இடம்பெற்றுள்ளது. கொளத்தூர் தொகுதிக்கான நலத் திட்ட உதவிகளையும் முதல்வர் வழங்கினார். தொகுதி எம்எல்ஏ வி எஸ் பாபு மருத்துவமனையில் சிகிச்சையில் இருப்பதால் முதல்வர் இவற்றைத் தொடங்கி வைத்தார். தமிழகம் முழுவதும் மொத்தம் 61,84,566 கேக் துண்டுகள் வழங்கப்படுகின்றன. சென்னை மாநகராட்சிப் பகுதியில் 2.90 லட்சம் மாணவர்களுக்கு கேக்கும் வாழ்த்து அட்டையும் வழங்கப்பட்டது. மேலும் செய்திகளுக்கு சேலம் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🎂 கொளத்தூர் அரசுப் பள்ளியில் குழந்தைகள் தின கேக் திட்டம் தொடக்கம்\n\n📰 முழு விவரம்:\nகுழந்தைகள் தினத்தையொட்டி மாணவர்களுக்கு கேக் வழங்கும் திட்டத்தை முதல்வர் விஜய் இன்று கொளத்தூர் அரசுப் பள்ளியில் தொடங்கி வைத்தார். நவம்பர் 14ஆம் தேதிதான் குழந்தைகள் தினம் கொண்டாடப்படுகிறது. ஆனால் நாளை பள்ளிகளுக்கு விடுமுறை என்பதால் தமிழக அரசு இன்றே கொண்டாடுகிறது.\nஅரசு, அரசு உதவி பெறும் பள்ளிகளில் படிக்கும் மாணவர், மாணவிகளுக்கு கேக் வழங்கப்படுகிறது. இதற்காக ரூ.9.27 கோடியில் டெண்டர் விடப்பட்டது. கேக் தயாரிக்கும் முன்னணி நிறுவனங்கள் டெண்டரைப் பெற்றுள்ளன. ஒவ்வொரு கேக்கும் 45 கிராம் எடை கொண்டது.\nகாலை 10.20 மணிக்கு முதல்வர் விஜய் மாணவர்களுக்கு கேக் வழங்கினார். மாணவர்கள் சுதந்திரப் போராட்ட வீரர், வீராங்கனை வேடமிட்டு வரவேற்றனர். கேக்குடன் குழந்தைகள் தின வாழ்த்து அட்டையும் வழங்கப்பட்டது. அதில் \"All is Well, confident-ஆக இருங்க\" என்ற வாசகம் உள்ளது.\nகொளத்தூர் தொகுதியின் தவெக எம்எல்ஏ வி.எஸ்.பாபு மருத்துவமனையில் சிகிச்சையில் இருப்பதால், தொகுதிக்கான நலத் திட்ட உதவிகளையும் முதல்வர் விஜய் இன்று தொடங்கி வைத்தார்.\nதமிழகம் முழுவதும் மொத்தம் 61,84,566 கேக் துண்டுகள் வழங்கப்படுகின்றன. சென்னை மாநகராட்சிப் பகுதிகளில் 2.90 லட்சம் மாணவர்களுக்கு கேக்கும் வாழ்த்து அட்டையும் வழங்கப்பட்டது.\nஇத்திட்டத்துக்கு பல்வேறு தரப்பில் எதிர்ப்புகள் எழுந்தன. கேக்கின் தரம், தயாரித்து மாணவர்களுக்குச் சேரும் வரை பாதுகாப்பு குறித்து கேள்விகள் எழுந்தன. கூடுதல் விலைக்கு வாங்கப்படுவதாகவும் தகவல் பரவியது. இதுகுறித்து கடந்த மாதம் 24ஆம் தேதி தமிழக அரசின் உண்மை சரிபார்க்கும் குழு, கேக் கூடுதல் விலைக்கு வாங்கப்படுவதாகப் பரவும் தகவல் தவறு என விளக்கம் அளித்தது. 45 கிராம் பிரிட்டானியா கேக் ஒன்று ரூ.12.15க்கு (ஜிஎஸ்டி தவிர்த்து) கொள்முதல் செய்யப்படுகிறது. 33 கிராம் கேக் ரூ.15க்கு மார்க்கெட் விலையில் விற்கப்படுவதாக ஒரு காணொலியில் கூறப்பட்டது; அது தவறு என்று அரசு தெரிவித்தது. கேக்கில் தயாரிப்பு தேதி, காலாவதி தேதி குறிப்பிடப்பட்டிருக்கும் என்றும் கூறப்படுகிறது.\nஇதேபோல் 6 முதல் 8ஆம் வகுப்பு மாணவர்களுக்கான காலை உணவுத் திட்ட விரிவாக்கத்தை முதல்வர் விஜய் கடந்த செப்டம்பர் மாதம் திருவான்மியூர் அரசுப் பள்ளியில் தொடங்கி வைத்தார்.\n\nKolathur school children's day cake scheme | Salem news\n📍 கொளத்தூர், சென்னை | 13 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Salem360 #Salem #SalemNews #சேலம்",
+   "prompts": "Schoolchildren in Tamil Nadu government school uniform, some dressed as Indian freedom fighters in white dhotis and caps, gather in the courtyard of a government middle school in Kolathur, Chennai, on a bright morning around 10 am to welcome a visiting Chief Minister. Seen from behind and slightly to the side, a group of uniformed children stands in front of a single-storey school building with a tiled roof and a painted white-and-blue wall. Several children hold up trays of small plain cake pieces wrapped in clear packaging, and a few hold folded greeting cards in their hands. A row of khaki-uniformed police stands at a distance near the school gate, and a few teachers in sarees and salwar watch from the verandah. The Chief Minister is visible only as a distant figure in a white shirt, far from the camera. Daylight, soft sunshine, eye-level camera at 35 mm wide enough to show the courtyard, school building and crowd. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up on a table in a government school classroom verandah with a stack of plain greeting cards and small wrapped cake pieces, each piece about the size of a palm, arranged in neat rows on a steel tray. Behind the table, a few children's hands in school uniform (white shirts, navy skirts and shorts) reach for the items. The cards are unprinted from the camera's view, with no readable text. A plastic water pot and a wooden bench are visible at the edge of the frame. Morning daylight from the side, shallow depth of field, slightly high camera angle at 35 mm, showing the textures of the tray, cards and wrappers. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://tamil.oneindia.com/news/chennai/cm-vijay-inaugurated-childrens-day-celebration-at-kolathur-constituency-by-giving-cake-844953.html",
+   "published": "2026-11-13T07:26:01+05:30",
    "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: sentence 1 (one-line story) has 13 words; make it 6-9 words (about 2-3 seconds), the details follow in the next sentences",
    "note": "free-model draft anthropic/claude-haiku-5-5, 13 attempt(s), 1 validator problem(s)",
    "post_time": "right after your reply, same day",
    "_area": "N",
    "_score": 999,
    "images": [
-    "https://res.cloudinary.com/jrmwajfz/image/upload/v1794573466/salem360/pmziwnssdjf3kw6algz4.jpg",
-    "https://res.cloudinary.com/jrmwajfz/image/upload/v1794573470/salem360/y2vb61kavzfpe7k2zgjk.jpg"
+    "https://res.cloudinary.com/jrmwajfz/image/upload/v1794581486/salem360/vvwqsvenupfhnlxkb8kt.jpg",
+    "https://res.cloudinary.com/jrmwajfz/image/upload/v1794581494/salem360/e7cpc9pggmbeko9hbmbt.jpg"
    ]
   }
  ]
