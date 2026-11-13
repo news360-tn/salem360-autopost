@@ -55,7 +55,8 @@
    "score": 11.2,
    "power_cut": false,
    "listed_at": "2026-11-13T07:10:28.014265+05:30",
-   "picked_at": "2026-11-13T10:57:42.327377+05:30"
+   "picked_at": "2026-11-13T10:57:42.327377+05:30",
+   "refused": "not filed: duplicate after write"
   },
   "Cc7e2a53": {
    "id": "Cc7e2a53",
@@ -68,7 +69,8 @@
    "score": 10.0,
    "power_cut": false,
    "listed_at": "2026-11-13T07:10:28.014265+05:30",
-   "picked_at": "2026-11-13T10:57:42.327381+05:30"
+   "picked_at": "2026-11-13T10:57:42.327381+05:30",
+   "posted": true
   },
   "C3d56217": {
    "id": "C3d56217",
@@ -81,7 +83,8 @@
    "score": 10.0,
    "power_cut": false,
    "listed_at": "2026-11-13T07:10:28.014265+05:30",
-   "picked_at": "2026-11-13T10:57:42.327383+05:30"
+   "picked_at": "2026-11-13T10:57:42.327383+05:30",
+   "posted": true
   },
   "Cc7f84f9": {
    "id": "Cc7f84f9",
@@ -94,7 +97,8 @@
    "score": 10.0,
    "power_cut": false,
    "listed_at": "2026-11-13T07:10:28.014265+05:30",
-   "picked_at": "2026-11-13T10:57:42.327384+05:30"
+   "picked_at": "2026-11-13T10:57:42.327384+05:30",
+   "posted": true
   },
   "C64542cc": {
    "id": "C64542cc",
@@ -377,7 +381,10 @@
     "C3d56217",
     "Cc7e2a53",
     "Cc7f84f9"
-   ]
+   ],
+   "refused": {
+    "C37c7d35": "not filed: duplicate after write"
+   }
   }
  },
  "retry": {}
