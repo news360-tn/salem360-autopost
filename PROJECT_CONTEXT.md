@@ -81,6 +81,12 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 <!-- recent-changes:start (updated automatically by .github/workflows/context.yml - do not edit by hand) -->
 | Date | Commit | Change |
 |---|---|---|
+| 2026-11-13 | `525900e` | power cut: a notice filed under another district's page is refused unless its headline names this district (13 Nov: Trichy took Coimbatore's Peelamedu cut - its text named a Trichy word) |
+| 2026-11-13 | `4934676` | powercut: notices written |
+| 2026-11-13 | `7c65495` | powercut: notices written |
+| 2026-11-13 | `85a79c6` | powercut: notices written |
+| 2026-11-13 | `ad4b45a` | powercut: notices written |
+| 2026-11-13 | `88d7a2f` | powercut: notices written |
 | 2026-11-13 | `61dd4e5` | reel: same design as Coimbatore 360 (colours, shapes, fonts) - per-page themes removed; end card keeps 'Source:' (owner 12 Nov); waiting reels rebuilt |
 | 2026-11-13 | `22253f8` | powercut: notices written |
 | 2026-11-13 | `d266b7f` | pick: written and posted |
@@ -105,10 +111,4 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 | 2026-11-12 | `2966f36` | powercut: notices written |
 | 2026-11-12 | `975edec` | voice: numbers read the way people say them - English names in English (பிளஸ் டூ, குரூப் ஃபோர், டி ட்வென்டி, ஃபைவ் ஜி), endings joined (நாற்பதுக்கும், ...ஒன்றில், ரூபாய்க்கு), நெ. -> எண் |
 | 2026-11-12 | `da82faf` | voice: 'பிளஸ் 2' is read 'பிளஸ் டூ' (was 'பிளஸ் இரண்டு', RN-534); 'பிளஸ் 1' -> 'பிளஸ் ஒன்' |
-| 2026-11-12 | `f41daae` | direct upload: create the resumable container on a versioned Instagram API (Salem RN-1: unversioned call wanted video_url; fell back to the link correctly) |
-| 2026-11-12 | `c0ebffe` | reel: spoken follow line names this page (was 'Follow Coimbatore Three Sixty'); waiting reels rebuilt |
-| 2026-11-12 | `d47214d` | stories shared |
-| 2026-11-12 | `a3361d6` | powercut: notices written |
-| 2026-11-12 | `7dd14b9` | powercut: notices written |
-| 2026-11-12 | `7e6f045` | TRIAL: direct reel upload ON for this new page (file instead of Cloudinary link; falls back to the link; never posts twice) |
 <!-- recent-changes:end -->
