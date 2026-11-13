@@ -81,6 +81,11 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 <!-- recent-changes:start (updated automatically by .github/workflows/context.yml - do not edit by hand) -->
 | Date | Commit | Change |
 |---|---|---|
+| 2026-11-13 | `b4b64c8` | reel: premium story panel (owner 13 Nov) - photo top 60 %, emerald panel with the headline and captions, champagne gold, ivory cards, serif Tamil headline, no black; district map + town pin (OpenStreetMap), word-by-word headline, count-up numbers, news-type layer (power-cut time bar / accident / rain / police), smooth loop, light sound effects. Voice, timing and facts unchanged |
+| 2026-11-13 | `409fcc5` | powercut: notices written |
+| 2026-11-13 | `2fc8034` | pick: picked news saved |
+| 2026-11-13 | `91b4175` | pick: picked news saved |
+| 2026-11-13 | `0b122b6` | pick: list sent |
 | 2026-11-13 | `0d52f0a` | 2 pictures per reel (owner 13 Nov): the news article's own photos first (vision-checked), one photo -> a closer crop as the second, none -> 2 AI pictures |
 | 2026-11-13 | `032b977` | powercut: notices written |
 | 2026-11-13 | `b9d03a3` | powercut: notices written |
@@ -106,9 +111,4 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 | 2026-11-13 | `63bc99d` | powercut: notices written |
 | 2026-11-13 | `aa0a5da` | powercut: notices written |
 | 2026-11-13 | `855fc81` | reel: new Salem 360 footer logo (same size and format as Namakkal/Rasipuram, transparent surround); waiting reels rebuilt |
-| 2026-11-13 | `1ff3d83` | powercut: notices written |
-| 2026-11-13 | `ac14d68` | stories shared |
-| 2026-11-13 | `dce6983` | powercut: notices written |
-| 2026-11-13 | `587546c` | rasipalan posted |
-| 2026-11-13 | `70f370c` | pick: written and posted |
 <!-- recent-changes:end -->
