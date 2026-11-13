@@ -81,6 +81,7 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 <!-- recent-changes:start (updated automatically by .github/workflows/context.yml - do not edit by hand) -->
 | Date | Commit | Change |
 |---|---|---|
+| 2026-11-13 | `1538142` | evening round 19:00 -> 17:00 IST (evening posts got far fewer views). Reel: spoken sentence 1 names the town and states the news (no question / teaser). ABP / Samayam named as sources (owner 13 Nov) |
 | 2026-11-13 | `525900e` | power cut: a notice filed under another district's page is refused unless its headline names this district (13 Nov: Trichy took Coimbatore's Peelamedu cut - its text named a Trichy word) |
 | 2026-11-13 | `4934676` | powercut: notices written |
 | 2026-11-13 | `7c65495` | powercut: notices written |
@@ -110,5 +111,4 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 | 2026-11-13 | `d73f4eb` | powercut: notices written |
 | 2026-11-12 | `2966f36` | powercut: notices written |
 | 2026-11-12 | `975edec` | voice: numbers read the way people say them - English names in English (பிளஸ் டூ, குரூப் ஃபோர், டி ட்வென்டி, ஃபைவ் ஜி), endings joined (நாற்பதுக்கும், ...ஒன்றில், ரூபாய்க்கு), நெ. -> எண் |
-| 2026-11-12 | `da82faf` | voice: 'பிளஸ் 2' is read 'பிளஸ் டூ' (was 'பிளஸ் இரண்டு', RN-534); 'பிளஸ் 1' -> 'பிளஸ் ஒன்' |
 <!-- recent-changes:end -->
