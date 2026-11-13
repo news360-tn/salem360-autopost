@@ -1,277 +1,295 @@
 {
  "log": [
   "earlier stories still waiting for images: []",
-  "instagram check: 3 recent posts read from the page",
+  "instagram check: 5 recent posts read from the page",
   "pick round: only the picked links are written (research_free/pick.py)",
-  "manual link added: https://www.dinamalar.com/news/tamil-nadu-news/4-more-arrested-for-working-in-mega-fraud-trust-using-students/4374628",
-  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-salem/youth-gets-7-month-jail-term-for-smuggling-ganja/4374747",
-  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-salem/lock-the-tasmac-store-by-asking-for-a-higher-rent/4374750",
-  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-salem/farmers-stage-dharna-to-launch-farmer-producer-organization/4374753",
-  "candidate filter: collected=4",
-  "to write: 4 Salem district candidates (max 4 stories)",
-  "round: top 4 of 4 candidates",
-  "candidates waiting: 4 Salem; time left 79 min",
-  "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-sale",
-  "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-sale",
-  "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-sale",
-  "auto images: 1 of 1 stories ({'fal-ai/flux/schnell': 1})",
+  "manual link added: https://www.dinakaran.com/news/salem-sankari-broad-daylight-lorry-driver-jewellery-robbery",
+  "manual link added: https://tamil.oneindia.com/news/krishnagiri/hosur-allocated-park-land-salem-man-duped-after-buying-it-for-2-crore-how-was-it-exposed-845109.html",
+  "manual link added: https://www.dinakaran.com/news/deemed-maternal-uncles-rule-crimes-against-women-children-increase-6-months-edappadi-palaniswami",
+  "candidate filter: collected=3",
+  "to write: 3 Salem district candidates (max 3 stories)",
+  "round: top 3 of 3 candidates",
+  "candidates waiting: 3 Salem; time left 79 min",
+  "try (N) manual=True: https://www.dinakaran.com/news/deemed-maternal-uncles-rule-c",
+  "try (N) manual=True: https://tamil.oneindia.com/news/krishnagiri/hosur-allocated-",
+  "try (N) manual=True: https://www.dinakaran.com/news/salem-sankari-broad-daylight-",
+  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 2})",
   "posting job started at once",
-  "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-news/4-more-arrest",
-  "auto images: 1 of 1 stories ({'fal-ai/flux/schnell': 2})",
-  "auto images: 1 of 1 stories ({'fal-ai/flux/schnell': 3})",
-  "NOT filed (N) மாணவர்களை பயன்படுத்தி ‘மெகா’ மோசடி டிரஸ்டில் பணியா: duplicate after write",
-  "candidate loop ended: left 0, tried={'N': 4}, done={'N': 3}, time left 68 min",
-  "filed: 3 Salem district stories (target 4), reels only",
+  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 4})",
+  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 6})",
+  "candidate loop ended: left 0, tried={'N': 3}, done={'N': 3}, time left 73 min",
+  "filed: 3 Salem district stories (target 3), reels only",
   "queue: 0 news waiting to be written",
-  "All News sheet: {\"ok\":true,\"added\":4,\"updated\":0}"
+  "All News sheet: {\"ok\":true,\"added\":3,\"updated\":0}"
  ],
  "llm": [
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high d",
+  "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high d",
+  "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high d",
+  "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high d",
+  "switching away from gemini/gemini-3.6-flash for 10 min",
   "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
-  "dead for this round: gemini/gemini-3.6-flash",
-  "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
-  "dead for this round: gemini/gemini-3.6-flash",
+  "switching away from gemini/gemini-3.6-flash for 10 min",
+  "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high d",
+  "ok gemini/gemini-3.6-flash (21s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
-  "dead for this round: gemini/gemini-3.5-flash",
+  "ok gemini/gemini-3.5-flash (19s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok gemini/gemini-3.5-flash (14s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
-  "dead for this round: gemini/gemini-3.5-flash",
-  "fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, plea",
-  "dead for this round: gemini/gemini-3-flash-preview",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
-  "dead for this round: groq/openai/gpt-oss-120b",
+  "ok gemini/gemini-3.5-flash (21s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok gemini/gemini-3.5-flash (12s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok gemini/gemini-3.5-flash (14s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok gemini/gemini-3.5-flash (17s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok gemini/gemini-3.5-flash (6s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high d",
+  "ok gemini/gemini-3.5-flash (21s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok gemini/gemini-3.5-flash (6s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high d",
+  "switching away from gemini/gemini-3.5-flash for 10 min",
+  "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high d",
+  "fail gemini/gemini-3.5-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=60)",
+  "poor answer - skipped for 30 min: gemini/gemini-3.5-flash",
+  "fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing ",
+  "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high d",
+  "switching away from gemini/gemini-3.5-flash for 10 min",
+  "ok gemini/gemini-3-flash-preview (21s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok gemini/gemini-3-flash-preview (9s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "ok gemini/gemini-3-flash-preview (25s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok gemini/gemini-3-flash-preview (11s)",
+  "ok gemini/gemini-3-flash-preview (46s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing ",
+  "fail gemini/gemini-3-flash-preview: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=60)",
+  "poor answer - skipped for 30 min: gemini/gemini-3-flash-preview",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 400: {\"error\":{\"message\":\"Failed to validate JSON. Please adjust your prompt. See 'failed_gener",
+  "ok groq/qwen/qwen3.8-27b (4s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
-  "dead for this round: groq/qwen/qwen3.8-27b",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok anthropic/claude-haiku-5-5",
-  "ok gemini/gemini-3-flash-preview (14s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
+  "switching away from groq/qwen/qwen3.8-27b for 10 min",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 400: {\"error\":{\"message\":\"Failed to validate JSON. Please adjust your prompt. See 'failed_gener",
   "ok anthropic/claude-haiku-5-5",
   "ok anthropic/claude-haiku-5-5",
   "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
+  "ok groq/openai/gpt-oss-120b (6s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok anthropic/claude-haiku-5-5"
+  "ok groq/openai/gpt-oss-120b (2s)"
  ],
  "stories": [
   {
-   "tamil_headline": "கஞ்சா கடத்திய வழக்கு: வாலிபருக்கு 7 மாத சிறை, ரூ.5,000 அபராதம்",
-   "english_headline": "Youth jailed 7 months, fined Rs 5,000 for smuggling 1.8 kg ganja in Salem special court case",
+   "tamil_headline": "சங்ககிரி அருகே பட்டப்பகலில் வீட்டின் பூட்டை உடைத்து 23 சவரன் நகைகள் கொள்ளை",
+   "english_headline": "23 sovereigns of gold jewelry stolen in broad daylight burglary near Sankari in Salem",
    "category": "Crime & Safety",
-   "location": "Salem special court for narcotics (போதை பொருள் தடுப்பு சிறப்பு நீதிமன்றம்), Salem district",
+   "location": "Sathya Nagar, Sankari, Salem district",
    "importance": "Medium",
    "scope": "local",
    "post_to": "Salem 360",
    "slides_spec": {
     "v": 3,
-    "cat": "கஞ்சா வழக்கு",
-    "loc": "சேலம் போதை பொருள் தடுப்பு சிறப்பு நீதிமன்றம்",
-    "hl1": "சேலம் போதை பொருள் தடுப்பு சிறப்பு",
-    "hl2": "7 மாத சிறை, ரூ.5,000 அபராதம்",
+    "cat": "குற்றச் செய்தி",
+    "loc": "சத்திய நகர், சங்ககிரி",
+    "hl1": "சங்ககிரியில் 23 சவரன் நகை கொள்ளை",
+    "hl2": "பட்டப்பகலில் பூட்டை உடைத்து",
     "slides": [
      {
-      "title": "என்ன நடந்தது?",
+      "title": "எங்கே நடந்தது?",
       "lines": [
-       "காட்பாடி ரயில் நிலையத்தில் <b>1.8 கிலோ</b> கஞ்சா பிடிபட்டது",
-       "2022 பிப்ரவரி <b>7</b>ஆம் தேதி ரயிலில் நடந்த சோதனையில் சிக்கியது",
-       "வேலூர் போதை பொருள் தடுப்பு நுண்ணறிவு பிரிவு போலீசார் சோதனை"
+       "சங்ககிரி அருகே <b>சத்திய நகர்</b>",
+       "லாரி ஓட்டுநரின் வீட்டில் கொள்ளை",
+       "பட்டப்பகலில் பூட்டை உடைத்து திருட்டு"
       ]
      },
      {
-      "title": "யார் குற்றவாளி?",
+      "title": "நடந்தது என்ன?",
       "lines": [
-       "அசாம் மாநிலத்தைச் சேர்ந்த <b>25 வயது</b> வாலிபர்",
-       "கஞ்சாவை விற்பதற்காக கடத்தி வந்தது விசாரணையில் தெரியவந்தது",
-       "போலீசார் கைது செய்து கஞ்சாவைப் பறிமுதல் செய்தனர்"
+       "மனைவி வங்கிக்குச் சென்ற நேரம்",
+       "மாலை <b>4 மணிக்கு</b> வீடு திரும்பினார்",
+       "முன்பக்கக் கதவு பூட்டு உடைப்பு"
       ]
      },
      {
-      "title": "தீர்ப்பு என்ன?",
+      "title": "என்ன",
       "lines": [
-       "சேலம் போதை பொருள் தடுப்பு சிறப்பு நீதிமன்றம் தீர்ப்பளித்தது",
-       "<b>7 மாத</b> சிறை தண்டனை விதிக்கப்பட்டது",
-       "<b>ரூ.5,000</b> அபராதமும் விதிக்கப்பட்டது"
+       "பீரோவில் இருந்த பொருட்கள் கலைப்பு",
+       "<b>23 சவரன்</b> தங்க நகைகள் திருட்டு",
+       "தங்கக் காசுகளும் கொள்ளை"
+      ]
+     },
+     {
+      "title": "போலீஸ் நடவடிக்கை",
+      "lines": [
+       "கணவரிடம் தொலைபேசியில் தகவல்",
+       "சங்ககிரி காவல் நிலையத்தில் புகார்",
+       "போலீசார் வழக்குப்பதிவு செய்து விசாரணை"
       ]
      }
     ],
     "carousel": false
    },
-   "reel_script": "கஞ்சா கடத்திய வாலிபருக்கு 7 மாத சிறை தண்டனை விதிக்கப்பட்டுள்ளது. 2022 பிப்ரவரி 7ஆம் தேதி காட்பாடி ரயில் நிலையத்தில் ரயிலில் நடந்த சோதனையில் 1.8 கிலோ கஞ்சா பிடிபட்டது. வேலூர் போதை பொருள் தடுப்பு நுண்ணறிவு பிரிவு போலீசார் இந்தச் சோதனையை நடத்தினர். டாடா நகர் - எர்ணாகுளம் எக்ஸ்பிரஸ் ரயிலில் ஒருவரது பையைச் சோதனை செய்தபோது கஞ்சா இருந்தது. விசாரணையில் அசாம் மாநிலம் கோச்சாரைச் சேர்ந்த 25 வயது அஜ்மல் உசைன் பாற்புய்யா என்பது தெரியவந்தது. கஞ்சாவை விற்பதற்காக அவர் கடத்தி வந்தது விசாரணையில் உறுதியானது. போலீசார் அவரைக் கைது செய்து கஞ்சாவைப் பறிமுதல் செய்தனர். இந்த வழக்கு சேலம் போதை பொருள் தடுப்பு சிறப்பு நீதிமன்றத்தில் நடந்தது. நீதிபதி ராமகிருஷ்ணன் நேற்று தீர்ப்பளித்தார். அஜ்மல் உசைன் பாற்புய்யாவுக்கு 7 மாத சிறை தண்டனையும், 5,000 ரூபாய் அபராதமும் விதிக்கப்பட்டது. மேலும் செய்திகளுக்கு சேலம் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "⚖️ சேலம் நீதிமன்றம்: கஞ்சா கடத்திய வாலிபருக்கு 7 மாத சிறை, ரூ.5,000 அபராதம்\n\n📰 முழு விவரம்:\n2022 பிப்ரவரி 7ஆம் தேதி காட்பாடி ரயில் நிலையத்தில், டாடா நகர் - எர்ணாகுளம் எக்ஸ்பிரஸ் ரயிலில் வேலூர் போதை பொருள் தடுப்பு நுண்ணறிவு பிரிவு போலீசார் சோதனை நடத்தினர். ஒருவரது பையில் 1.8 கிலோ கஞ்சா இருந்தது.\nவிசாரணையில், அசாம் மாநிலம் கோச்சார், வித்யாரத்தண்பூரைச் சேர்ந்த 25 வயது அஜ்மல் உசைன் பாற்புய்யா கஞ்சாவை விற்பதற்காகக் கடத்தி வந்தது தெரியவந்தது. போலீசார் அவரைக் கைது செய்து கஞ்சாவைப் பறிமுதல் செய்தனர்.\nஇந்த வழக்கு சேலம் போதை பொருள் தடுப்பு சிறப்பு நீதிமன்றத்தில் நடந்தது. நீதிபதி ராமகிருஷ்ணன் நேற்று அஜ்மல் உசைன் பாற்புய்யாவுக்கு 7 மாத சிறை தண்டனையும், 5,000 ரூபாய் அபராதமும் விதித்து உத்தரவிட்டார்.\n\nSalem court jails youth 7 months for ganja smuggling | Salem news\n📍 சேலம் போதை பொருள் தடுப்பு சிறப்பு நீதிமன்றம், சேலம் மாவட்டம் | 13 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Salem360 #Salem #SalemNews #சேலம்",
-   "prompts": "A judge in a black robe sits at a raised wooden bench in a Salem special narcotics court, delivering a verdict as a young man in a plain shirt stands before the bench, seen from behind. The courtroom has high ceilings, ceiling fans, wooden benches, and tall windows letting in daylight. Two policemen in khaki stand near the accused, and black-coated lawyers sit at tables below. A few court staff hold files. Daylight from the windows, neutral mood. Eye-level camera, 35 mm, wide enough to show the whole courtroom with the bench and the accused in frame. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-salem/youth-gets-7-month-jail-term-for-smuggling-ganja/4374747",
-   "published": "2026-11-13T04:41:00+05:30",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: reel_script writes ages as newspaper shorthand (தண்டனையும், 5,); say it as a news reader: '12 வயது மகன் ராஜா', 'கவுசிக் (14 வயது)' -> '14 வயதான கவுசிக்'",
-   "note": "free-model draft anthropic/claude-haiku-5-5, 13 attempt(s), 1 validator problem(s)",
+   "reel_script": "சங்ககிரியில் பட்டப்பகலில் வீட்டின் பூட்டை உடைத்து 23 சவரன் நகை கொள்ளையடிக்கப்பட்டது. சேலம் மாவட்டம் சங்ககிரி அருகே சத்திய நகர் பகுதியில் லாரி ஓட்டுநர் ஒருவர் வசித்து வருகிறார். இவர் வேலைக்குச் சென்ற நிலையில், இவரது மனைவி சுயஉதவிக் குழு கடன் தொடர்பாக வங்கிக்குச் சென்றுள்ளார். மாலை 4 மணி அளவில் மனைவி வீடு திரும்பியபோது வீட்டின் முன்பக்கக் கதவு பூட்டு உடைக்கப்பட்டிருந்தது. வீட்டின் உள்ளே சென்று பார்த்தபோது பீரோவில் இருந்த பொருட்கள் கலைக்கப்பட்டு இருந்தன. பீரோவில் வைக்கப்பட்டிருந்த 23 சவரன் தங்க நகைகள் மற்றும் தங்கக் காசுகள் காணாமல் போயிருந்தன. இதுகுறித்து சங்ககிரி காவல் நிலையத்தில் நேற்று இரவில் புகார் அளிக்கப்பட்டது. புகாரின் பேரில் சங்ககிரி காவல்துறையினர் வழக்குப் பதிவு செய்து தீவிர விசாரணை நடத்தி வருகின்றனர். மேலும் செய்திகளுக்கு சேலம் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🚨 சங்ககிரி அருகே பட்டப்பகலில் வீட்டின் பூட்டை உடைத்து 23 சவரன் தங்க நகைகள் கொள்ளை!\n\n📰 முழு விவரம்:\nசேலம் மாவட்டம் சங்ககிரி அருகேயுள்ள சத்திய நகர் பகுதியில் லாரி ஓட்டுநர் வீட்டின் பூட்டை உடைத்து 23 சவரன் தங்க நகைகள் மற்றும் தங்கக் காசுகள் கொள்ளையடிக்கப்பட்டுள்ளன. கணவர் வேலைக்குச் சென்ற நிலையில், அவரது மனைவி சுயஉதவிக் குழு கடன் தொடர்பாக வங்கிக்குச் சென்றுள்ளார். மாலை 4 மணி அளவில் மனைவி வீடு திரும்பியபோது வீட்டின் முன்பக்கக் கதவு பூட்டு உடைக்கப்பட்டிருப்பதைக் கண்டு அதிர்ச்சி அடைந்தார். உள்ளே சென்று பார்த்தபோது பீரோவில் இருந்த 23 சவரன் தங்க நகைகள் மற்றும் தங்கக் காசுகள் திருடப்பட்டது தெரியவந்தது. இதுகுறித்து சங்ககிரி காவல் நிலையத்தில் நேற்றிரவு புகார் அளிக்கப்பட்டது. சங்ககிரி காவல்துறையினர் வழக்குப்பதிவு செய்து விசாரணை நடத்தி வருகின்றனர்.\n\n📍 இடம்: சத்திய நகர், சங்ககிரி, சேலம் மாவட்டம்\n🗓️ நாள்: 12 நவம்பர் 2026\n👮 நடவடிக்கை: சங்ககிரி காவல் துறையினர் வழக்குப்பதிவு செய்து விசாரணை\n\nபாதுகாப்பாக இருங்கள், எச்சரிக்கையாக இருங்கள்.\n\nSankari gold robbery news | Salem news\n📍 Sathya Nagar, Sankari, Salem | 13 November 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Salem360 #Salem #Sankari #SalemNews #சேலம்",
+   "prompts": "A Tamil Nadu police jeep is parked on a residential street in Sathya Nagar, Sankari, outside a concrete house where a burglary took place. Two police officers in khaki uniforms are seen from behind, inspecting the front entrance of the house. The wooden front door has a visibly broken metal latch and a snapped padlock hanging from the frame. The street is lined with similar single-story houses and a few coconut trees under the bright afternoon sun. The camera is at eye level, using a 35mm lens to capture the house and the investigating officers in a wide shot. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nInside a room of the house in Sankari, a green steel bureau stands with its doors flung wide open, showing signs of a ransacked interior. Colorful sarees and clothes are scattered across the floor in front of the cupboard, along with several empty velvet jewelry boxes that once held 23 sovereigns of gold. The room is illuminated by natural daylight streaming through a nearby window, highlighting the mess left by the burglars. No people are visible in the frame, focusing entirely on the disturbed bureau and the discarded boxes. The camera is a medium shot at eye level, emphasizing the scene of the theft. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinakaran.com/news/salem-sankari-broad-daylight-lorry-driver-jewellery-robbery",
+   "published": "2026-11-13T12:19:13+05:30",
+   "verification": "DRAFT (gemini/gemini-3.5-flash) - fact-check: no problems found",
+   "note": "free-model draft gemini/gemini-3.5-flash, 2 attempt(s), 0 validator problem(s)",
    "post_time": "right after your reply, same day",
    "_area": "N",
    "_score": 999,
    "images": [
-    "https://res.cloudinary.com/bgk9wm1u/image/upload/v1794547990/salem360/vgrggly9wjgsdswgakk8.jpg"
+    "https://res.cloudinary.com/jrmwajfz/image/upload/v1794573314/salem360/wxkh0j4oadcwsimop4we.jpg",
+    "https://res.cloudinary.com/jrmwajfz/image/upload/v1794573329/salem360/jst1spir9x8wpqdjmcee.jpg"
    ]
   },
   {
-   "tamil_headline": "பெத்தநாயக்கன்பாளையம் விவசாயி கலெக்டர் அலுவலகத்தில் தர்ணா",
-   "english_headline": "Farmer from Pethanaickenpalayam stages dharna at Salem Collectorate seeking farmer producer company",
-   "category": "Government & Services",
-   "location": "Salem Collectorate, Salem district",
+   "tamil_headline": "ஓசூரில் மாநகராட்சி பூங்கா நிலத்தை ரூ.2 கோடிக்கு வாங்கி ஏமாந்த சேலத்துக்காரர்: 4 பேர் மீது வழக்கு",
+   "english_headline": "Salem man cheated of Rs 2 crore in Hosur park land sale; Krishnagiri police book 4 persons",
+   "category": "Crime & Safety",
+   "location": "Avalapalli, Hosur Corporation, Krishnagiri district",
    "importance": "Medium",
    "scope": "district",
    "post_to": "Salem 360",
    "slides_spec": {
     "v": 3,
-    "cat": "அரசு சேவை",
-    "loc": "சேலம் கலெக்டர் அலுவலகம்",
-    "hl1": "உழவர் நிறுவனத்துக்கு விவசாயி தர்ணா",
-    "hl2": "ஒன்றரை ஆண்டாக அனுமதி கேட்டு",
+    "cat": "நில மோசடி",
+    "loc": "ஆவலப்பள்ளி, ஓசூர்",
+    "hl1": "ஓசூரில் ரூ.2 கோடி நில மோசடி",
+    "hl2": "சேலத்துக்காரர் ஏமாற்றம்",
     "slides": [
      {
       "title": "என்ன நடந்தது?",
       "lines": [
-       "பெத்தநாயக்கன்பாளையம் தினேஷ்குமார் (40 வயது), தர்ணா",
-       "சேலம் கலெக்டர் அலுவலக வளாகத்தில் நேற்று காலை",
-       "போலீசார் சமாதானப்படுத்தி விசாரித்தனர்"
+       "சேலத்தைச் சேர்ந்த அமல அந்தோணிராஜ்",
+       "ஓசூர் ஆவலப்பள்ளியில் <b>25 சென்ட்</b> நிலம்",
+       "<b>ரூ.2 கோடிக்கு</b> 2022-ல் வாங்கினார்"
       ]
      },
      {
-      "title": "ஏன் தர்ணா?",
+      "title": "உண்மை வெளிவந்தது",
       "lines": [
-       "கருமந்துறை பகுதியில் <b>300க்கும் மேற்பட்ட</b> பழங்குடியின",
-       "பாலை தனியாரிடம் விற்கின்றனர்",
-       "மதிப்பு கூட்டு பொருட்கள் தயாரிக்க விருப்பம்"
+       "2023-ல் நிலத்தை விற்க முயன்ற போது",
+       "மாநகராட்சி பூங்கா இடம் எனத் தெரிந்தது",
+       "சிறுவர் பள்ளி, விளையாட்டுத் திடலுக்குரியது"
+      ]
+     },
+     {
+      "title": "காவல்துறை",
+      "lines": [
+       "சந்திரபோஸ், லூர்துமேரி உட்பட <b>4 பேர்</b>",
+       "கிருஷ்ணகிரி குற்றப்பிரிவு போலிஸ் வழக்கு",
+       "விஏஓவிடம் விசாரித்து வாங்க அறிவுறுத்தல்"
+      ]
+     }
+    ],
+    "carousel": false
+   },
+   "reel_script": "ஓசூரில் மாநகராட்சிக்குச் சொந்தமான பூங்கா நிலத்தை ரூ.2 கோடிக்கு வாங்கி சேலத்தைச் சேர்ந்தவர் ஏமாற்றப்பட்டுள்ளார். சேலம் அங்கம்மாள் காலனியைச் சேர்ந்த அமல அந்தோணிராஜ், அவரது சகோதரி ஜான்மேரி ஆகியோர் கிருஷ்ணகிரி மாவட்டம் ஓசூர் ஆவலப்பள்ளியில் உள்ள 25 சென்ட் நிலத்தை 2022ஆம் ஆண்டு ரூ.2 கோடி கொடுத்து வாங்கினர். சந்திரபோஸ் மற்றும் லூர்துமேரி தங்களுக்கு 50 சென்ட் நிலம் இருப்பதாகக் கூறி இதில் 25 சென்ட்டை விற்பனை செய்தனர். மீதமுள்ள 25 சென்ட் நிலத்தை அவர்களது மருமகன் வின்சென்ட் மகிமைராஜ், ஜெஷிந்தாமேரி ஆகியோருக்கு விற்பது போல் சதி செய்துள்ளனர். 2023ஆம் ஆண்டு இந்த நிலத்தை அமல அந்தோணிராஜ் விற்க முயன்ற போது, அது மாநகராட்சி பூங்காவுக்கு ஒதுக்கப்பட்ட இடம் எனச் சார்பதிவாளர் மூலம் தெரியவந்தது. இது குறித்து கிராம நிர்வாக அலுவலர் மற்றும் மாநகராட்சி அதிகாரிகளிடம் விசாரித்த போது, அது சிறுவர் பள்ளி மற்றும் விளையாட்டுத் திடலுக்கு ஒதுக்கப்பட்ட இடம் என்பது உறுதியானது. பாதிக்கப்பட்டவர் அளித்த புகாரின் பேரில் சந்திரபோஸ், லூர்துமேரி, வின்சென்ட் மகிமைராஜ், ஜெஷிந்தாமேரி ஆகிய 4 பேர் மீது கிருஷ்ணகிரி மாவட்ட குற்றப்பிரிவு காவல்துறை வழக்குப் பதிவு செய்து விசாரணை நடத்தி வருகிறது. மேலும் செய்திகளுக்கு சேலம் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🚨 ஓசூரில் மாநகராட்சி பூங்கா நிலத்தை ரூ.2 கோடிக்கு வாங்கி ஏமாந்த சேலத்துக்காரர்!\n\n📰 முழு விவரம்:\nசேலம் அங்கம்மாள் காலனி குப்தா நகரைச் சேர்ந்த அமல அந்தோணிராஜ் மற்றும் அவரது சகோதரி ஜான்மேரி ஆகியோர், கிருஷ்ணகிரி மாவட்டம் ஓசூர் மாநகராட்சிக்கு உட்பட்ட ஆவலப்பள்ளியில் உள்ள 25 சென்ட் நிலத்தை 2022-ல் ரூ.2 கோடி கொடுத்து வாங்கினர்.\nசந்திரபோஸ் மற்றும் அவரது மனைவி லூர்துமேரி, தங்களுக்கு 50 சென்ட் காலி நிலம் இருப்பதாகக் கூறி 25 சென்ட்டை விற்றுள்ளனர். மீதி 25 சென்ட் நிலத்தை அவர்களது மருமகன் வின்சென்ட் மகிமைராஜ் மற்றும் ஜெஷிந்தாமேரி ஆகியோர் வாங்குவது போல் சதி திட்டம் தீட்டியுள்ளனர்.\n2023-ல் அந்த நிலத்தை வேறு ஒருவருக்கு விற்க முயன்ற போது, அது மாநகராட்சி பூங்கா நிலம் என்பதால் சார்பதிவாளர் தடை விதித்திருப்பதை அமல அந்தோணிராஜ் கண்டுபிடித்தார்.\nகிராம நிர்வாக அலுவலர் (VAO) மற்றும் மாநகராட்சி அதிகாரிகளிடம் விசாரித்த போது, அந்த நிலம் சிறுவர் பள்ளி மற்றும் விளையாட்டுத் திடலுக்கு ஒதுக்கப்பட்ட மாநகராட்சி இடம் என்பது உறுதியானது.\nபாதிக்கப்பட்ட அமல அந்தோணிராஜ் கொடுத்த புகாரின் பேரில், கிருஷ்ணகிரி மாவட்ட குற்றப்பிரிவு போலீசார் சந்திரபோஸ், லூர்துமேரி, வின்சென்ட் மகிமைராஜ், ஜெஷிந்தாமேரி ஆகிய 4 பேர் மீது வழக்குப்பதிவு செய்து விசாரணை நடத்தி வருகின்றனர்.\n\n📍 இடம்: ஆவலப்பள்ளி, ஓசூர், கிருஷ்ணகிரி மாவட்டம்\n🗓️ ஆண்டு: 2022 (விற்பனை) / 2023 (கண்டுபிடிப்பு)\n💰 தொகை: ரூ.2 கோடி (25 சென்ட் நிலம்)\n👮 நடவடிக்கை: 4 பேர் மீது கிருஷ்ணகிரி மாவட்ட குற்றப்பிரிவு போலிஸ் வழக்குப்பதிவு\nℹ️ மக்கள் கவனத்திற்கு: நிலம் வாங்கும் முன் விஏஓ மற்றும் மாநகராட்சி அதிகாரிகளிடம் நிலத்தின் வகைப்பாடு மற்றும் பயன்பாட்டைச் சரிபார்க்கவும்.\n\nதேவைப்படுவோருக்கு Share செய்யுங்கள்\n\nHosur corporation park land fraud | Salem news\n📍 Avalapalli, Hosur, Krishnagiri | 13 November 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Salem360 #Salem #Hosur #CrimeNews #சேலம்",
+   "prompts": "A Krishnagiri District Crime Branch police jeep is parked near the entrance of a government office building in the morning light. Two police officers in khaki uniforms are seen from behind, walking towards the building entrance where the land fraud case was registered. The area has a few parked two-wheelers along a compound wall, and the ground is dusty, typical of a Tamil Nadu government office exterior. The scene is captured at eye level with a 35mm lens, showing the police presence related to the investigation of the four accused persons. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA wide shot of the disputed 25-cent vacant land in Avalapalli, Hosur, which was illegally sold as private property. The plot is a flat area of dry earth and patches of green grass, marked by small concrete boundary stones at the corners. In the background, the outskirts of the Hosur residential area are visible with a few trees and the distant silhouette of hills under a bright afternoon sun. The camera is positioned at a slightly high angle to capture the entire extent of the empty plot that was reserved for a park and school. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://tamil.oneindia.com/news/krishnagiri/hosur-allocated-park-land-salem-man-duped-after-buying-it-for-2-crore-how-was-it-exposed-845109.html",
+   "published": "2026-11-13T17:45:33+05:30",
+   "verification": "DRAFT (gemini/gemini-3.5-flash) - fact-check: no problems found",
+   "note": "free-model draft gemini/gemini-3.5-flash, 4 attempt(s), 0 validator problem(s)",
+   "post_time": "right after your reply, same day",
+   "_area": "N",
+   "_score": 999,
+   "images": [
+    "https://res.cloudinary.com/jrmwajfz/image/upload/v1794573342/salem360/clj7qcxjxdt7tymftmok.jpg",
+    "https://res.cloudinary.com/jrmwajfz/image/upload/v1794573353/salem360/jb3lx9z96g9wg7xo5hik.jpg"
+   ]
+  },
+  {
+   "tamil_headline": "திருப்பூரில் 11 வயது சிறுமி கடத்தல், பாலியல் வன்கொடுமை: எடப்பாடி பழனிசாமி கண்டனம்",
+   "english_headline": "Edappadi Palaniswami condemns rise in crimes against women and children after an 11-year-old girl was abducted and sexually assaulted near Tiruppur Veerapandi",
+   "category": "Crime & Safety",
+   "location": "Veerapandi, Tiruppur district",
+   "importance": "High",
+   "scope": "district",
+   "post_to": "Salem 360",
+   "slides_spec": {
+    "v": 3,
+    "cat": "குற்றச் செய்தி",
+    "loc": "வீரபாண்டி, திருப்பூர்",
+    "hl1": "திருப்பூர் சிறுமி வழக்கில் கடும்",
+    "hl2": "11 வயது சிறுமி பாதிப்பு",
+    "slides": [
+     {
+      "title": "என்ன நடந்தது?",
+      "lines": [
+       "திருப்பூர் வீரபாண்டி அருகே <b>11 வயது</b> சிறுமி கடத்தப்பட்டார்",
+       "கடுமையான பாலியல் வன்கொடுமைக்கு ஆளாக்கப்பட்டதாகத் தகவல்",
+       "பெரியபாளையம் அருகே மாணவி மீது பெட்ரோல் ஊற்றிக் கொலை முயற்சி"
+      ]
+     },
+     {
+      "title": "அரசியல் கண்டனம்",
+      "lines": [
+       "அதிமுக பொதுச்செயலாளர் எடப்பாடி பழனிசாமி அறிக்கை",
+       "கடந்த 6 மாதங்களில் பெண், குழந்தைகள் மீதான குற்றங்கள்",
+       "செஞ்சி சிறுமி இன்னும் கண்டுபிடிக்கப்படவில்லை என விமர்சனம்"
       ]
      },
      {
       "title": "கோரிக்கை",
       "lines": [
-       "உழவர் உற்பத்தியாளர் நிறுவனம் அமைத்துத் தர கோரிக்கை",
-       "<b>ஒன்றரை ஆண்டாக</b> அனுமதி கேட்டு வருவதாகக் கூறுகிறார்",
-       "அதிகாரிகள் அலைக்கழிப்பதாகக் குற்றச்சாட்டு"
+       "குற்றவாளிகள் மீது கடுமையான சட்ட நடவடிக்கை வேண்டும்",
+       "குழந்தைகளின் பாதுகாப்பை உறுதி செய்ய வேண்டும்",
+       "அரசின் அறிக்கை: கேட்டுக்கொள்ளப்படும் நடவடிக்கை"
       ]
      }
     ],
     "carousel": false
    },
-   "reel_script": "சேலம் கலெக்டர் அலுவலகத்தில் விவசாயி ஒருவர் தர்ணாவில் ஈடுபட்டார். பெத்தநாயக்கன்பாளையம், பெரிய கிருஷ்ணாபுரத்தைச் சேர்ந்த தினேஷ்குமார் (40 வயது), நேற்று காலை அலுவலக வளாகத்தில் தர்ணா நடத்தினார். பாதுகாப்புப் பணியில் இருந்த போலீசார் அவரை சமாதானப்படுத்தி விசாரித்தனர். கருமந்துறை மற்றும் அதன் சுற்றுப்பகுதியில் 300க்கும் மேற்பட்ட பழங்குடியின விவசாயிகள் கறவை மாடுகள் மூலம் பால் உற்பத்தி செய்து தனியாரிடம் விற்கின்றனர். பலர் பாலில் இருந்து மதிப்புக்கூட்டு பொருட்களைத் தயாரித்து விற்க விருப்பம் தெரிவித்துள்ளனர். இதற்காக உழவர் உற்பத்தியாளர் நிறுவனம் அமைத்துத் தர வேண்டும் என்று தினேஷ்குமார் கோரியுள்ளார். இதற்காக ஒன்றரை ஆண்டாக கால்நடை பராமரிப்புத் துறையிடமும் மாவட்ட நிர்வாகத்திடமும் அனுமதி கேட்டு வருவதாகக் கூறினார். அதிகாரிகள் அலைக்கழிப்பதாகவும் குற்றம்சாட்டினார். அதிகாரிகளின் கவனத்தை ஈர்க்கவே தர்ணாவில் ஈடுபட்டதாக அவர் தெரிவித்தார். பின்னர் போலீசார் அறிவுரை கூறி, அவரை அதிகாரிகளிடம் அனுப்பி வைத்தனர். மேலும் செய்திகளுக்கு சேலம் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🧑‍🌾 உழவர் உற்பத்தியாளர் நிறுவனம் கேட்டு சேலம் கலெக்டர் அலுவலகத்தில் விவசாயி தர்ணா\n\n📰 முழு விவரம்:\nபெத்தநாயக்கன்பாளையம், பெரிய கிருஷ்ணாபுரத்தைச் சேர்ந்த தினேஷ்குமார் (40 வயது), நேற்று காலை சேலம் கலெக்டர் அலுவலக வளாகத்தில் தர்ணாவில் ஈடுபட்டார். போலீசார் அவரை சமாதானப்படுத்தி விசாரித்தனர்.\nகருமந்துறை மற்றும் சுற்றுப்பகுதியில் 300க்கும் மேற்பட்ட பழங்குடியின விவசாயிகள் பால் உற்பத்தி செய்து தனியாரிடம் விற்கின்றனர். பால் மூலம் மதிப்புக்கூட்டு பொருட்கள் தயாரிக்க பலர் விருப்பம் தெரிவித்துள்ளனர்.\nஇதற்காக உழவர் உற்பத்தியாளர் நிறுவனம் அமைத்துத் தர ஒன்றரை ஆண்டாக கால்நடை பராமரிப்புத் துறையிடமும் மாவட்ட நிர்வாகத்திடமும் அனுமதி கேட்டு வருவதாகத் தினேஷ்குமார் கூறினார். அதிகாரிகள் அலைக்கழிப்பதாகவும் குற்றம்சாட்டினார்.\nஅதிகாரிகளின் கவனத்தை ஈர்க்கவே தர்ணாவில் ஈடுபட்டதாகத் தெரிவித்தார். பின்னர் போலீசார் அறிவுரை கூறி, அவரை அதிகாரிகளிடம் அனுப்பி வைத்தனர்.\n\nSalem farmer dharna at Collectorate for farmer producer company | Salem news\n📍 சேலம் கலெக்டர் அலுவலகம், சேலம் மாவட்டம் | 13 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Salem360 #Salem #SalemNews #சேலம்",
-   "prompts": "A farmer in a white shirt and veshti sits cross-legged on the ground in a dharna at the Salem Collectorate campus, holding a placard above his head while two Tamil Nadu police constables in khaki uniforms stand nearby, calmly watching him. The setting is the open compound in front of the Salem district Collectorate office, a government building with plain cream and grey walls, tall windows and a pillared entrance, with a few parked two-wheelers and a government vehicle at the edge of the frame. Several onlookers, office staff in shirts and trousers, and a woman in a cotton saree stand at a distance near the building steps. It is bright morning daylight with soft clear sky. Camera at eye level, 35 mm lens, wide enough to show the full compound and the Collectorate building behind the group, the farmer shown from behind or slightly to the side, faces turned away or too far to identify. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-salem/farmers-stage-dharna-to-launch-farmer-producer-organization/4374753",
-   "published": "2026-11-13T04:46:00+05:30",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: hl1 (the first headline on screen) must name the place 'சேலம் கலெக்டர் அலுவலகம்', e.g. 'சேலம் கலெக்டர் அலுவலகம்: ...' or 'சேலம் கலெக்டர் அலுவலகம்-இல் ...' - viewers share news of their own area",
-   "note": "free-model draft anthropic/claude-haiku-5-5, 11 attempt(s), 1 validator problem(s)",
+   "reel_script": "திருப்பூர் வீரபாண்டி அருகே 11 வயது சிறுமி கடத்தப்பட்டு கடுமையான பாலியல் வன்கொடுமைக்கு ஆளாக்கப்பட்டதாகத் தகவல் வெளியாகியுள்ளது. பெரியபாளையம் அருகே ஒரு மாணவி மீது பெட்ரோல் ஊற்றிக் கொலை செய்ய முயற்சி நடந்ததாகவும் செய்திகள் வந்துள்ளன. குழந்தைகள் தினத்தை ஒட்டி வரும் இச்செய்திகள் மக்களைப் பேரதிர்ச்சிக்கு உள்ளாக்கியுள்ளதாக அதிமுக பொதுச்செயலாளர் எடப்பாடி பழனிசாமி கூறியுள்ளார். கடந்த 6 மாதங்களில் பெண்கள், பெண் குழந்தைகள் மீதான குற்றங்கள் பன்மடங்கு அதிகரித்துள்ளதாக அவர் அறிக்கையில் குற்றம் சாட்டியுள்ளார். செஞ்சி சிறுமி இன்னும் கண்டுபிடிக்கப்படவில்லை என்றும் அவர் விமர்சித்துள்ளார். திருப்பூர் சிறுமி வழக்கிலும், பெரியபாளையம் மாணவி தாக்குதலிலும் தொடர்புள்ள குற்றவாளிகள் மீது கடுமையான சட்ட நடவடிக்கை எடுக்க வேண்டும் என்று அவர் வலியுறுத்தியுள்ளார். பெண்கள், குழந்தைகளின் பாதுகாப்பை உறுதி செய்ய வேண்டும் என்றும் அவர் கோரியுள்ளார். மேலும் செய்திகளுக்கு சேலம் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🚨 திருப்பூர் வீரபாண்டியில் 11 வயது சிறுமி கடத்தல், பாலியல் வன்கொடுமை: கடும் நடவடிக்கை கோரிக்கை\n\n📰 முழு விவரம்:\nதிருப்பூர் வீரபாண்டி அருகே 11 வயது சிறுமி கடத்தப்பட்டு கடுமையான பாலியல் வன்கொடுமைக்கு ஆளாக்கப்பட்டதாகத் தகவல் வெளியாகியுள்ளது. பெரியபாளையம் அருகே மாணவி மீது பெட்ரோல் ஊற்றிக் கொலை செய்ய முயற்சி நடந்ததாகவும் செய்திகள் வந்துள்ளன. இவ்வருட குழந்தைகள் தினத்தை ஒட்டி வந்த இச்செய்திகள் மக்களைப் பேரதிர்ச்சிக்கு உள்ளாக்கியுள்ளதாக அதிமுக பொதுச்செயலாளர் எடப்பாடி பழனிசாமி அறிக்கையில் தெரிவித்துள்ளார்.\nகடந்த 6 மாதங்களில் பெண்கள், பெண் குழந்தைகள் மீதான குற்றங்கள் பன்மடங்கு அதிகரித்துள்ளதாக அவர் குற்றம் சாட்டியுள்ளார். செஞ்சி சிறுமி இன்னும் கண்டுபிடிக்கப்படவில்லை என்றும் அவர் விமர்சித்துள்ளார்.\n📍 இடம்: திருப்பூர் வீரபாண்டி, பெரியபாளையம்\n👮 கோரிக்கை: திருப்பூர் சிறுமி வழக்கிலும், பெரியபாளையம் மாணவி தாக்குதலிலும் தொடர்புள்ள குற்றவாளிகள் மீது கடுமையான சட்ட நடவடிக்கை எடுக்க வேண்டும்.\nℹ️ மக்கள் கவனத்திற்கு: குழந்தைகளின் பாதுகாப்பு குறித்து கவனமாக இருங்கள்.\n\nTiruppur girl abducted, sexual assault, Palaniswami condemns | Salem news\n📍 வீரபாண்டி, திருப்பூர் மாவட்டம் | 13 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Salem360 #Salem #SalemNews #சேலம்",
+   "prompts": "A police jeep with two officers in khaki uniforms stands on a dusty rural road, the officers looking down the lane as if monitoring a recent crime scene. The vehicle is parked beside a low mud‑brick house with a thatched roof, typical of villages near Veerapandi. In the background, palm‑shaded fields stretch toward the horizon, and a lone mango tree marks the roadside. The officers are seen from behind, their shoulders and caps visible, while a small police barricade cordons off a short stretch of the road. Daylight illuminates the scene, clear sky, no rain. Shot from eye level with a 35 mm lens, wide enough to capture the jeep, the house façade and the surrounding village setting. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close‑up of a metal petrol can placed on a rough wooden plank, the can half‑filled and capped, rests beside a pair of white police gloves and a yellow evidence tape loop. The background shows a blurred police uniform sleeve, indicating officers handling the item. A faint outline of a police jeep’s rear bumper is visible, confirming the location near Periya Palayam. The petrol can is the key object that tells the story of the attempted murder. The lighting is natural daylight, casting soft shadows on the metal surface. The camera is positioned slightly above eye level, using a 35 mm lens to focus tightly on the can and gloves while keeping the surrounding context recognizable. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinakaran.com/news/deemed-maternal-uncles-rule-crimes-against-women-children-increase-6-months-edappadi-palaniswami",
+   "published": "2026-11-13T12:35:32+05:30",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: sentence 1 (one-line story) has 13 words; make it 6-9 words (about 2-3 seconds), the details follow in the next sentences",
+   "note": "free-model draft anthropic/claude-haiku-5-5, 13 attempt(s), 1 validator problem(s)",
    "post_time": "right after your reply, same day",
    "_area": "N",
    "_score": 999,
    "images": [
-    "https://res.cloudinary.com/bgk9wm1u/image/upload/v1794548172/salem360/vii0gegii6ok1ishvzyh.jpg"
-   ]
-  },
-  {
-   "tamil_headline": "வாடகை உயர்வு கேட்டு கெங்கவல்லியில் டாஸ்மாக் கடைக்கு பூட்டு",
-   "english_headline": "Owner locks Tasmac shop in Kengavalli demanding higher rent; police talks end protest at 12:50 PM",
-   "category": "Crime & Safety",
-   "location": "Kengavalli town, Salem district",
-   "importance": "Medium",
-   "scope": "local",
-   "post_to": "Salem 360",
-   "slides_spec": {
-    "v": 3,
-    "cat": "டாஸ்மாக் போராட்டம்",
-    "loc": "கெங்கவல்லி",
-    "hl1": "கெங்கவல்லியில் டாஸ்மாக் கடைக்கு பூட்டு",
-    "hl2": "வாடகை உயர்வு கேட்டு",
-    "slides": [
-     {
-      "title": "என்ன நடந்தது?",
-      "lines": [
-       "கெங்கவல்லியில் டாஸ்மாக் கடைக்கு <b>பூட்டு</b> போடப்பட்டது",
-       "இடத்தின் உரிமையாளர் குணசேகரன் போராட்டம் நடத்தினார்",
-       "நேற்று காலை <b>10 மணி</b> முதல் கடை திறக்கப்படவில்லை"
-      ]
-     },
-     {
-      "title": "ஏன் போராட்டம்?",
-      "lines": [
-       "கடை, குடோனுக்கு தலா <b>6,500 ரூபாய்</b> வாடகை தரப்படுகிறது",
-       "7 ஆண்டுகளாக வாடகை உயர்த்தப்படவில்லை",
-       "பலமுறை மனு அளித்தும் பலன் இல்லை"
-      ]
-     },
-     {
-      "title": "போலீஸ்",
-      "lines": [
-       "போலீசார் பேச்சு நடத்தினர்",
-       "அதிகாரிகளிடம் தெரிவித்து நடவடிக்கை என உறுதி",
-       "மதியம் <b>12:50 மணிக்கு</b> போராட்டம் கைவிடப்பட்டது"
-      ]
-     },
-     {
-      "title": "இப்போது நிலை",
-      "lines": [
-       "பின்னர் ஊழியர்கள் கடையைத் திறந்தனர்",
-       "மதுபானம் விற்பனை தொடங்கியது",
-       "குடிமகன்கள் நீண்ட நேரம் காத்திருக்க நேர்ந்தது"
-      ]
-     }
-    ],
-    "carousel": false
-   },
-   "reel_script": "கெங்கவல்லியில் டாஸ்மாக் கடைக்கு உரிமையாளர் பூட்டு போட்டு போராட்டம் நடத்தினார். நேற்று காலை 10 மணிக்கு கெங்கவல்லியைச் சேர்ந்த குணசேகரன் கடையைத் திறக்க விடாமல் கூடுதலாக பூட்டு போட்டார். அவருக்குச் சொந்தமான இடத்தில் டாஸ்மாக் கடையும் குடோனும் உள்ளன. அதற்கு டாஸ்மாக் நிர்வாகம் மூலம் வாடகை வழங்கப்படுகிறது. கடையைத் திறக்க முடியாமல் பணியாளர்களும் மதுபானம் வாங்க வந்தவர்களும் தவித்தனர். தகவல் அறிந்து வந்த போலீசார் அவரிடம் பேச்சு நடத்தினர். கடை, குடோனுக்கு தலா 6,500 ரூபாய் வாடகை 7 ஆண்டுகளாக வழங்கப்படுவதாக குணசேகரன் கூறினார். வாடகையை உயர்த்தக் கோரி பலமுறை மனு அளித்தும் பலன் இல்லை என்றார். அதிகாரிகளிடம் தெரிவித்து நடவடிக்கை எடுக்கப்படும் என போலீசார் உறுதியளித்தனர். இதையடுத்து மதியம் 12:50 மணிக்கு குணசேகரன் போராட்டத்தைக் கைவிட்டார். பின்னர் டாஸ்மாக் ஊழியர்கள் கடையைத் திறந்து மதுபானம் விற்றனர். மேலும் செய்திகளுக்கு சேலம் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🍾 கெங்கவல்லியில் டாஸ்மாக் கடைக்கு பூட்டு; வாடகை உயர்வு கேட்டு போராட்டம்\n\n📰 முழு விவரம்:\nகெங்கவல்லியைச் சேர்ந்த குணசேகரனுக்குச் சொந்தமான இடத்தில் டாஸ்மாக் கடையும் குடோனும் உள்ளன. நேற்று காலை 10 மணிக்கு அவர் கடையைத் திறக்க விடாமல் கூடுதல் பூட்டு போட்டு போராட்டத்தில் ஈடுபட்டார். கடையை திறக்க முடியாமல் பணியாளர்களும் மதுபானம் வாங்க வந்தவர்களும் தவித்தனர்.\nதகவல் அறிந்து வந்த போலீசார் பேச்சு நடத்தினர். கடை, குடோனுக்கு தலா 6,500 ரூபாய் வாடகை 7 ஆண்டுகளாக வழங்கப்படுவதாகவும், பலமுறை மனு அளித்தும் வாடகையை உயர்த்தவில்லை என்றும் குணசேகரன் கூறினார்.\nஅதிகாரிகளிடம் தெரிவித்து நடவடிக்கை எடுக்கப்படும் என போலீசார் உறுதியளித்தனர். இதனால் மதியம் 12:50 மணிக்கு போராட்டம் கைவிடப்பட்டது. பின்னர் டாஸ்மாக் ஊழியர்கள் கடையைத் திறந்து மதுபானம் விற்றனர்.\n\nKengavalli Tasmac shop locked over rent demand | Salem news\n📍 கெங்கவல்லி, சேலம் மாவட்டம் | 13 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Salem360 #Salem #Kengavalli #SalemNews #சேலம்",
-   "prompts": "A man in a plain shirt and veshti stands with his back to the camera beside a closed Tasmac liquor shutter in a Kengavalli town street, a heavy padlock hanging on the metal shutter while a few customers wait a few metres away and a Tamil Nadu police constable in khaki stands nearby in conversation with the group. The surrounding place is a narrow Tamil Nadu town street with low concrete shop fronts, a parked two-wheeler, a few autorickshaws and a dusty roadside, with other shops around but no readable signs visible. Several people in shirts, trousers and sarees stand in small groups, seen from behind or far away, their body language showing waiting and tension. It is late morning around midday, with bright daylight and a clear sky. Camera at eye level, 35 mm lens, wide enough to show the shop front, the street and the people. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-salem/lock-the-tasmac-store-by-asking-for-a-higher-rent/4374750",
-   "published": "2026-11-13T04:44:00+05:30",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: fact-check: reel_script says the shop owner locked the shop and that the shop and godown belong to the owner, which the article supports (owner Gunasekaran), so no issue there; however, reel_script calls Gunasekaran the 'உரிமையாளர்' of the shop, while the article says he owns the land, not the Tasmac shop itself, which is run through the Tasmac administration; fact-check: reel_script states the rent is paid to Gunasekaran's premises via Tasmac administration correctly, but the slide 'ஏன் போராட்டம்?' says rent has not been raised for 7 years, while the article says the rent has been paid at the same rate for 7 years and the owner complained that it was not raised, which is consistent; no problem there; fact-check: slides_spec 'இப்போது நிலை' says 'குடிமகன்கள் நீண்ட நேரம் காத்திருக்க நேர்ந்தது' (customers had to wait a long time), which is not stated in the article; the article only says they were 'தவித்தனர்' (struggled) and does not mention a long wait; fact-check: slides_spec and reel_script say the protest was 'நேற்று காலை 10 மணி முதல்' (from 10 am yesterday) and that the shop was not opened, which matches the article; fact-check: caption attributes the police talks and the rent claim correctly; caption does not contain other invented facts",
-   "note": "free-model draft anthropic/claude-haiku-5-5, 13 attempt(s), 5 validator problem(s)",
-   "post_time": "right after your reply, same day",
-   "_area": "N",
-   "_score": 999,
-   "images": [
-    "https://res.cloudinary.com/bgk9wm1u/image/upload/v1794548344/salem360/txz2vvk8px9oqy7biysh.jpg"
+    "https://res.cloudinary.com/jrmwajfz/image/upload/v1794573466/salem360/pmziwnssdjf3kw6algz4.jpg",
+    "https://res.cloudinary.com/jrmwajfz/image/upload/v1794573470/salem360/y2vb61kavzfpe7k2zgjk.jpg"
    ]
   }
  ]
