@@ -18,7 +18,7 @@ FS = NM / "@fontsource"
 ICONS = NM / "@fortawesome" / "fontawesome-free" / "svgs" / "solid"
 # Salem 360: ONE page (no second page). Page name / handle / logo in this one place.
 PAGES = {
-    "salem": {"logo": "logo_salem.png", "style": "S", "name": "சேலம் 360", "handle": "salem360.official", "tagline": "நம்ம சேலம் செய்திகள்", "follow": "சேலம் மாவட்டச்<br>செய்திகளுக்கு",
+    "salem": {"logo": "logo_salem.png", "name": "சேலம் 360", "handle": "salem360.official", "tagline": "நம்ம சேலம் செய்திகள்", "follow": "சேலம் மாவட்டச்<br>செய்திகளுக்கு",
                    "ticker": "சேலம் 360  •  சேலம் மாவட்டச் செய்திகள்  •  Follow செய்யுங்கள்", "footer": "footer_salem.png", "hashtag": "#Salem360"},
 }
 PAGE = PAGES["salem"]
