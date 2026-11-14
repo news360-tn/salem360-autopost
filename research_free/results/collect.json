@@ -1,22 +1,22 @@
 {
  "log": [
   "earlier stories still waiting for images: []",
-  "instagram check: 16 recent posts read from the page",
+  "instagram check: 20 recent posts read from the page",
   "pick round: only the picked links are written (research_free/pick.py)",
-  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-salem/ganesha-idol-stolen/4375708",
-  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-salem/woman-firefighter-rescued-after-falling-into-pit/4375689",
-  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-salem/protecting-the-worker/4375693",
+  "manual link added: https://www.dailythanthi.com/news/tamilnadu/salem-23-sovereigns-of-gold-jewellery-stolen-from-a-lorry-drivers-house",
+  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-salem/its-been-3-months-since-a-tree-fell-on-a-government-school-students-are-unable-to-stop-bicycles/4375711",
+  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-salem/water-supply-affected-as-roof-of-tank-collapses/4375710",
   "candidate filter: collected=3",
   "to write: 3 Salem district candidates (max 3 stories)",
   "round: top 3 of 3 candidates",
   "candidates waiting: 3 Salem; time left 79 min",
   "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-sale",
   "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-sale",
-  "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-sale",
-  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 2})",
+  "try (N) manual=True: https://www.dailythanthi.com/news/tamilnadu/salem-23-soverei",
+  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 1})",
   "posting job started at once",
-  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 4})",
-  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 6})",
+  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 3})",
+  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 5})",
   "candidate loop ended: left 0, tried={'N': 3}, done={'N': 3}, time left 77 min",
   "filed: 3 Salem district stories (target 3), reels only",
   "queue: 0 news waiting to be written",
@@ -24,243 +24,283 @@
  ],
  "llm": [
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok gemini/gemini-3.6-flash (28s)",
+  "ok gemini/gemini-3.6-flash (13s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
   "dead for this round: gemini/gemini-3.6-flash",
+  "ok gemini/gemini-3.6-flash (17s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
   "dead for this round: gemini/gemini-3.5-flash",
-  "ok gemini/gemini-3.6-flash (35s)",
+  "ok gemini/gemini-3.6-flash (19s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "fail gemini/gemini-3.6-flash: Expecting ',' delimiter: line 1 column 989 (char 988)",
-  "poor answer - skipped for 30 min: gemini/gemini-3.6-flash",
+  "ok gemini/gemini-3.5-flash (12s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, plea",
   "dead for this round: gemini/gemini-3-flash-preview",
-  "ok gemini/gemini-3-flash-preview (8s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok groq/openai/gpt-oss-120b (7s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok groq/openai/gpt-oss-120b (5s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
-  "ok gemini/gemini-3-flash-preview (18s)",
+  "ok gemini/gemini-3-flash-preview (10s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 413: {\"error\":{\"message\":\"Request too large for model `openai/gpt-oss-120b` in organization `or",
-  "ok groq/openai/gpt-oss-120b (3s)",
-  "ok groq/qwen/qwen3.8-27b (3s)",
+  "ok gemini/gemini-3-flash-preview (10s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
+  "ok groq/openai/gpt-oss-120b (4s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
   "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
   "switching away from groq/openai/gpt-oss-120b for 10 min",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
+  "switching away from groq/openai/gpt-oss-120b for 10 min",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
+  "ok groq/qwen/qwen3.8-27b (3s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 400: {\"error\":{\"message\":\"Failed to validate JSON. Please adjust your prompt. See 'failed_gener",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
   "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
   "switching away from groq/qwen/qwen3.8-27b for 10 min",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
-  "switching away from groq/qwen/qwen3.8-27b for 10 min",
+  "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "ok anthropic/claude-haiku-5-5",
   "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "ok anthropic/claude-haiku-5-5",
   "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "ok anthropic/claude-haiku-5-5"
  ],
  "stories": [
   {
-   "tamil_headline": "பனமரத்துப்பட்டி அருகே கோவில் விநாயகர் கற்சிலை திருட்டு: பொதுமக்கள் அதிர்ச்சி",
-   "english_headline": "Vinayagar stone idol stolen from temple near Panamarathupatti in Salem district",
-   "category": "Crime & Safety",
-   "location": "Kalarampatti, Panamarathupatti, Salem district",
-   "importance": "Medium",
-   "scope": "local",
-   "post_to": "Salem 360",
-   "slides_spec": {
-    "v": 3,
-    "cat": "சிலை திருட்டு",
-    "loc": "களரம்பட்டி, பனமரத்துப்பட்டி",
-    "hl1": "பனமரத்துப்பட்டியில் விநாயகர் சிலை",
-    "hl2": "ராகு கேது விநாயகர் சிலை",
-    "slides": [
-     {
-      "title": "எங்கு நடந்தது?",
-      "lines": [
-       "பனமரத்துப்பட்டி களரம்பட்டி பகுதி",
-       "அண்ணாமலையார் கோவில் அருகே",
-       "சர்வ சித்தி விநாயகர் கோவில்"
-      ]
-     },
-     {
-      "title": "என்ன நடந்தது?",
-      "lines": [
-       "நேற்று முன்தினம் இரவு பக்தர்கள் வழிபாடு",
-       "நேற்று காலை கற்சிலை காணவில்லை",
-       "அதிகாலையில் மர்ம நபர்கள் திருட்டு"
-      ]
-     },
-     {
-      "title": "சிலை விவரம்",
-      "lines": [
-       "<b>ராகு, கேது</b> வடிவத்துடன் இருந்த விநாயகர் கற்சிலை",
-       "அப்பகுதி மக்கள் தகவல் தெரிவித்துள்ளனர்"
-      ]
-     }
-    ],
-    "carousel": false
-   },
-   "reel_script": "பனமரத்துப்பட்டி களரம்பட்டியில் உள்ள கோவிலில் ராகு கேது வடிவம் கொண்ட விநாயகர் கற்சிலை திருடப்பட்டுள்ளது. சேலம் மாவட்டம் பனமரத்துப்பட்டி களரம்பட்டியில் அண்ணாமலையார் கோவில் அருகே சர்வ சித்தி விநாயகர் கோவில் அமைந்துள்ளது. இந்த சர்வ சித்தி விநாயகர் கோவிலில் நேற்று முன்தினம் இரவு பக்தர்கள் வழக்கம்போல சென்று வழிபாடு நடத்தினர். நேற்று காலை சென்று பார்த்தபோது அங்கிருந்த விநாயகர் கற்சிலையைக் காணவில்லை. ராகு மற்றும் கேது சிலைகளுடன் அமைந்திருந்த விநாயகர் கற்சிலையை அதிகாலையில் மர்ம நபர்கள் திருடிச் சென்றுள்ளனர். விநாயகர் கற்சிலை திருடப்பட்ட சம்பவம் குறித்து அப்பகுதி மக்கள் தகவல் தெரிவித்துள்ளனர். மேலும் செய்திகளுக்கு சேலம் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🚨 பனமரத்துப்பட்டி அருகே கோவிலில் விநாயகர் கற்சிலை திருட்டு\n\n📰 முழு விவரம்:\nசேலம் மாவட்டம் பனமரத்துப்பட்டி களரம்பட்டியில் அண்ணாமலையார் கோவில் அருகே சர்வ சித்தி விநாயகர் கோவில் அமைந்துள்ளது. இந்தக் கோவிலில் நேற்று முன்தினம் இரவு வரை பக்தர்கள் வழக்கம் போல் வழிபாடு நடத்தினர். நேற்று காலை சென்று பார்த்தபோது அங்கிருந்த விநாயகர் கற்சிலையைக் காணவில்லை. ராகு மற்றும் கேது சிலைகளுடன் இருந்த விநாயகர் கற்சிலையை அதிகாலையில் மர்ம நபர்கள் திருடிச் சென்றுள்ளதாக அப்பகுதி மக்கள் தெரிவித்துள்ளனர்.\n\n📍 இடம்: களரம்பட்டி, பனமரத்துப்பட்டி, சேலம் மாவட்டம்\n🗓️ நாள்: நேற்று முன்தினம் இரவு வழிபாடு / நேற்று காலை தெரியவந்தது\n\nதகவலைத் தேவைப்படுவோருக்கு Share செய்யுங்கள்.\n\nPanamarathupatti Kalarampatti Vinayagar idol stolen | Salem news\n📍 களரம்பட்டி, பனமரத்துப்பட்டி, சேலம் | 14 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Salem360 #Salem #Panamarathupatti #SalemNews #சேலம்",
-   "prompts": "A stone Vinayagar idol is absent from its pedestal, indicating a theft at the temple. The scene is set at the Annamalaiyar temple compound in Kalarampatti, a modest stone‑built shrine with a tiled roof and a small courtyard typical of Salem’s village temples. In the foreground, a few devotees in simple shirts and sarees stand with their backs to the camera, looking toward the empty pedestal, while a temple caretaker in a white dhoti watches from a distance. The empty stone pedestal sits on a raised platform beside the remaining Rahu and Ketu statues; a thin white police tape lies loosely around the base. The morning light casts soft shadows, clear sky, no rain. Shot from eye level with a 35 mm lens, wide enough to capture the temple façade and the empty pedestal. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close‑up view of the vacant stone pedestal where the Vinayagar idol once stood, highlighting the theft. The setting is the same temple courtyard in Kalarampatti, with the temple wall of weathered stone visible in the background. The camera focuses on the smooth, dust‑covered base, a thin strip of white police tape loosely draped around it, and a small brass oil lamp placed beside the pedestal as a silent offering. No people are in frame, only the empty spot that tells the story. The early daylight illuminates the stone surface, showing faint cracks and the surrounding sand‑colored floor. Shot slightly high, using a 35 mm lens to capture detail while keeping the temple’s architectural context in view. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-salem/ganesha-idol-stolen/4375708",
-   "published": "2026-11-14T04:19:00+05:30",
-   "verification": "DRAFT (gemini/gemini-3.6-flash) - fact-check: no problems found",
-   "note": "free-model draft gemini/gemini-3.6-flash, 1 attempt(s), 0 validator problem(s)",
-   "post_time": "right after your reply, same day",
-   "_area": "N",
-   "_score": 999,
-   "images": [
-    "https://res.cloudinary.com/jrmwajfz/image/upload/v1794615071/salem360/xvzfctr9uo0a7jf86wgr.jpg",
-    "https://res.cloudinary.com/jrmwajfz/image/upload/v1794615075/salem360/c0gxfocmvnsjgctlsond.jpg"
-   ]
-  },
-  {
-   "tamil_headline": "சங்ககிரி அருகே தீ குண்டத்தில் விழுந்த பெண்: தீயணைப்பு வீரர்கள் உடனடியாக மீட்பு",
-   "english_headline": "Woman loses balance and falls into fire pit at Sankari temple festival; rescued by firefighters with prompt first aid",
-   "category": "Temples & Events",
-   "location": "Vaikundam Sethupatti, Sankari taluk, Salem district",
-   "importance": "Medium",
-   "scope": "local",
-   "post_to": "Salem 360",
-   "slides_spec": {
-    "v": 3,
-    "cat": "கோயில் திருவிழா",
-    "loc": "வைகுந்தம், சங்ககிரி",
-    "hl1": "சங்ககிரி அருகே தீ குண்டத்தில் விழுந்த",
-    "hl2": "தீயணைப்பு வீரர்கள் மீட்பு",
-    "slides": [
-     {
-      "title": "பொங்கல் திருவிழா",
-      "lines": [
-       "<b>வைகுந்தம்</b> சேத்துப்பட்டி செல்லாண்டியம்மன் கோயில் விழா",
-       "கடந்த அக்டோபர் <b>28</b> ஆம் தேதி தொடங்கியது",
-       "<b>300க்கும் மேற்பட்ட</b> பக்தர்கள் தீமிதித்து வழிபாடு"
-      ]
-     },
-     {
-      "title": "திடீர் விபத்து",
-      "lines": [
-       "கொழிஞ்சிகாட்டூரைச் சேர்ந்த <b>45 வயது</b> குப்பாயி",
-       "தீ குண்டத்தில் இறங்கியபோது நிலைதடுமாறி விழுந்தார்"
-      ]
-     },
-     {
-      "title": "உடனடி மீட்பு",
-      "lines": [
-       "பாதுகாப்புப் பணியில் இருந்த தீயணைப்பு வீரர்கள் மீட்பு",
-       "குளிர்ந்த நீர், பால் ஊற்றி முதலுதவி அளித்தனர்",
-       "தனியார் மருத்துவமனையில் சிகிச்சை பெற்று வீடு திரும்பினார்"
-      ]
-     }
-    ],
-    "carousel": false
-   },
-   "reel_script": "சங்ககிரி அருகே தீ குண்டத்தில் விழுந்த பெண் தீயணைப்பு வீரர்களால் மீட்டெடுக்கப்பட்டார். சங்ககிரி அருகே உள்ள வைகுந்தம் சேத்துப்பட்டி செல்லாண்டியம்மன் மற்றும் மாரியம்மன் கோவில் பொங்கல் திருவிழா கடந்த அக்டோபர் 28ஆம் தேதி தொடங்கியது. நேற்று மாரியம்மன் கோவில் வளாகத்தில் அமைக்கப்பட்ட தீ குண்டத்தில் இறங்கி 300க்கும் மேற்பட்ட பக்தர்கள் நேர்த்திக்கடன் செலுத்தினர். அப்போது கொழிஞ்சிகாட்டூர் கீழ்வளவையைச் சேர்ந்த 45 வயது குப்பாயி என்பவர் தீ குண்டத்தில் இறங்கியபோது நிலைதடுமாறி தீயில் விழுந்தார். அங்கு பாதுகாப்புப் பணியில் இருந்த சங்ககிரி தீயணைப்பு நிலைய அலுவலர் ரமேஷ்குமார் தலைமையிலான வீரர்கள் அவரை உடனடியாக மீட்டனர். அவர்கள் அப்பெண் மீது குளிர்ந்த நீர் மற்றும் பாலை ஊற்றி முதலுதவி சிகிச்சை அளித்தனர். பின்னர் அந்தப் பெண் அருகில் உள்ள தனியார் மருத்துவமனையில் சிகிச்சை பெற்று நலமுடன் வீடு திரும்பினார். மேலும் செய்திகளுக்கு சேலம் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🔥 சங்ககிரி அருகே தீ குண்டத்தில் விழுந்த 45 வயது பெண்: தீயணைப்பு வீரர்கள் உடனடி மீட்பு\n\n📰 முழு விவரம்:\nசேலம் மாவட்டம் சங்ககிரி அருகே வைகுந்தம் சேத்துப்பட்டி செல்லாண்டியம்மன், மாரியம்மன் கோவில் பொங்கல் திருவிழா கடந்த அக்டோபர் 28ஆம் தேதி தொடங்கியது. நேற்று மாரியம்மன் கோவில் வளாகத்தில் அமைக்கப்பட்ட தீ குண்டத்தில் இறங்கி 300க்கும் மேற்பட்ட பக்தர்கள் சுவாமி தரிசனம் செய்தனர்.\n\nஅப்போது கொழிஞ்சிகாட்டூர் பகுதியைச் சேர்ந்த 45 வயது குப்பாயி என்பவர் தீ குண்டத்தில் இறங்கியபோது நிலைதடுமாறி தீயில் விழுந்தார். பாதுகாப்புப் பணியில் இருந்த சங்ககிரி தீயணைப்பு நிலைய அலுவலர் ரமேஷ்குமார் மற்றும் வீரர்கள் அவரை உடனடியாக மீட்டு குளிர்ந்த நீர், பால் ஊற்றி முதலுதவி அளித்தனர். பின்னர் தனியார் மருத்துவமனையில் சிகிச்சை பெற்ற அப்பெண் நலமுடன் வீடு திரும்பினார்.\n\n📍 இடம்: வைகுந்தம் சேத்துப்பட்டி, சங்ககிரி\n🗓️ நாள்: 13 நவம்பர் 2026\n🚒 நடவடிக்கை: தீயணைப்புத் துறையினர் உடனடி முதலுதவி அளித்து மீட்பு\n\nதேவைப்படுவோருக்கு Share செய்யுங்கள்\n\nSankari Vaikundam temple fire pit accident woman rescued | Salem news\n📍 சங்ககிரி, சேலம் மாவட்டம் | 14 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Salem360 #Salem #Sankari #SalemNews #சேலம்",
-   "prompts": "A row of devotees in Tamil Nadu village festival attire, men in white veshti and women in cotton sarees, walk barefoot toward a long rectangular fire pit (theekundam) in the outer compound of a Mariamman temple in Vaikundam Sethupatti, Sankari taluk, Salem district. Glowing embers and thin smoke rise from the pit. Behind them stands a modest temple gopuram painted in bright colours, with decorated kolam patterns on the ground and a few brass pots of offerings. Several Tamil Nadu firefighters in dark uniform stand alert at the pit's edge, watching the crowd. Bright midday daylight, warm colours, dust in the air. Shot at eye level, 35 mm lens, wide enough to show the pit, the temple and the crowd, with people seen from behind or at a distance. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up of the edge of a fire pit in a temple compound in Salem district: the rim of a low brick and stone-lined pit holds glowing red embers and grey ash, with a steel bucket of cold water and a brass pot of milk placed on the ground beside it. A firefighter's booted foot and the sleeve of a dark uniform are visible at the frame edge, and a few bare feet of devotees are blurred in the background. Smoke drifts upward in the warm afternoon light. Shot slightly high, 35 mm, shallow depth of field focusing on the embers and the water bucket. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-salem/woman-firefighter-rescued-after-falling-into-pit/4375689",
-   "published": "2026-11-14T04:13:00+05:30",
-   "verification": "DRAFT (gemini/gemini-3.6-flash) - fact-check: no problems found",
-   "note": "free-model draft gemini/gemini-3.6-flash, 1 attempt(s), 0 validator problem(s)",
-   "post_time": "right after your reply, same day",
-   "_area": "N",
-   "_score": 999,
-   "images": [
-    "https://res.cloudinary.com/jrmwajfz/image/upload/v1794615099/salem360/c1szqrwczdhr8uevbz9h.jpg",
-    "https://res.cloudinary.com/jrmwajfz/image/upload/v1794615103/salem360/xrkjyae3emhkghmt23fj.jpg"
-   ]
-  },
-  {
-   "tamil_headline": "சேலத்தில் 11 வயது சிறுமிக்குப் பாலியல் தொல்லை: தொழிலாளி போக்சோ சட்டத்தில் கைது",
-   "english_headline": "Salem: fish-cutting worker Ayyanar, 45, arrested under POCSO for sexually harassing an 11-year-old girl",
-   "category": "Crime & Safety",
-   "location": "Irusanampatti, Attayampatti taluk, Salem district",
+   "tamil_headline": "இடைப்பாடியில் தொட்டி மேற்கூரை இடிந்ததால் குடிநீர் வினியோகம் பாதிப்பு",
+   "english_headline": "Edappadi: water tank roof collapse disrupts drinking water supply; 300+ villages hit by Nedungulam-Rasipuram scheme halt",
+   "category": "Civic Issues",
+   "location": "Thavanthu Street, Edappadi town, Salem district",
    "importance": "High",
-   "scope": "local",
+   "scope": "",
    "post_to": "Salem 360",
    "slides_spec": {
     "v": 3,
-    "cat": "குற்றச் செய்தி",
-    "loc": "இருசணம்பட்டி, ஆட்டையாம்பட்டி",
-    "hl1": "11 வயது சிறுமிக்குப் பாலியல் தொல்லை",
-    "hl2": "போக்சோ சட்டத்தில் கைது",
+    "cat": "குடிநீர் பாதிப்பு",
+    "loc": "இடைப்பாடி, தாவாந்தெரு",
+    "hl1": "இடைப்பாடியில் குடிநீர் தொட்டி மேற்கூரை",
+    "hl2": "குடிநீர் வினியோகம் பாதிப்பு",
     "slides": [
      {
       "title": "என்ன நடந்தது?",
       "lines": [
-       "ஆட்டையாம்பட்டி அடுத்த இருசணம்பட்டியில் சம்பவம்",
-       "11 வயது சிறுமிக்குப் பாலியல் தொல்லை கொடுக்கப்பட்டது",
-       "சம்பவம் சமீபத்தில் நடந்தது"
+       "இடைப்பாடி, தாவாந்தெருவில் உள்ள தொட்டி மேற்கூரை இடிந்தது",
+       "இடிந்த கான்கிரீட் கூரை குடிநீரில் விழுந்தது",
+       "இரு நாட்களுக்கு முன் நடந்தது"
       ]
      },
      {
-      "title": "யார் இவர்?",
+      "title": "தொட்டி விவரம்",
       "lines": [
-       "பாளையூரைச் சேர்ந்த மீன் வெட்டும் தொழிலாளி",
-       "பெயர் அய்யனார், வயது <b>45</b>",
-       "குற்றம் சாட்டப்பட்டவர் இவர்"
+       "<b>6.8 லட்சம்</b> லிட்டர் கொள்ளளவு தரைமட்ட நீர்தேக்கத் தொட்டி",
+       "குடிநீர் வடிகால் வாரியத் திட்டத்தின் தொட்டி",
+       "30 ஆண்டுக்கு மேலாக பயன்பாட்டில் உள்ளது"
       ]
      },
      {
-      "title": "கைது நடவடிக்கை",
+      "title": "பாதிப்பு",
       "lines": [
-       "சிறுமியின் பெற்றோர் கொடுத்த புகாரின் அடிப்படையில் விசாரணை",
-       "சேலம் டவுன் மகளிர் போலீசார் விசாரணை நடத்தினர்",
-       "போக்சோ சட்டத்தில் நேற்று கைது செய்யப்பட்டார்"
+       "மேற்கூரை பாதியளவு மட்டுமே மூடப்பட்டுள்ளது",
+       "இரண்டு நாட்களாகியும் கூரை அகற்றப்படவில்லை",
+       "நெடுங்குளம் - ராசிபுரம் கூட்டுக்குடிநீர் திட்டத்தில்"
+      ]
+     },
+     {
+      "title": "மக்கள் கோரிக்கை",
+      "lines": [
+       "இடிபாடுகளை அகற்றி தொட்டியை சீரமைக்க வேண்டும்",
+       "மாற்று ஏற்பாடு மூலம் குடிநீர் வழங்க வேண்டும்",
+       "திறந்த பகுதியில் பூச்சி விழுந்து நீரின் தரம் கெடும் அச்சம்"
       ]
      }
     ],
     "carousel": false
    },
-   "reel_script": "சேலத்தில் 11 வயது சிறுமிக்குப் பாலியல் தொல்லை கொடுத்த தொழிலாளி போக்சோ சட்டத்தில் கைது செய்யப்பட்டார். ஆட்டையாம்பட்டி அடுத்த இருசணம்பட்டியில் இந்தச் சம்பவம் நடந்துள்ளது. பாளையூரைச் சேர்ந்த மீன் வெட்டும் தொழிலாளி அய்யனார், வயது 45, இந்தக் குற்றச்சாட்டுக்கு உள்ளானவர். சமீபத்தில் அவர் சிறுமிக்குப் பாலியல் தொல்லை கொடுத்துள்ளார். சிறுமியின் பெற்றோர் அளித்த புகாரின் அடிப்படையில் போலீசார் விசாரணை நடத்தினர். சேலம் டவுன் மகளிர் போலீசார் விசாரித்து, நேற்று அய்யனாரைப் போக்சோ சட்டத்தில் கைது செய்தனர். மேலும் செய்திகளுக்கு சேலம் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🚨 ஆட்டையாம்பட்டி அருகே 11 வயது சிறுமிக்குப் பாலியல் தொல்லை: தொழிலாளி கைது\n\n📰 முழு விவரம்:\nஆட்டையாம்பட்டி அடுத்த இருசணம்பட்டியில், பாளையூரைச் சேர்ந்த மீன் வெட்டும் தொழிலாளி அய்யனார், வயது 45, சமீபத்தில் 11 வயது சிறுமிக்குப் பாலியல் தொல்லை கொடுத்துள்ளார். சிறுமியின் பெற்றோர் அளித்த புகாரின் அடிப்படையில் சேலம் டவுன் மகளிர் போலீசார் விசாரித்தனர். போக்சோ சட்டத்தில் நேற்று அய்யனார் கைது செய்யப்பட்டார்.\n📍 இடம்: இருசணம்பட்டி, ஆட்டையாம்பட்டி அடுத்த, சேலம் மாவட்டம்\n👮 நடவடிக்கை: போக்சோ சட்டத்தில் கைது\n\nAyyanar arrested under POCSO Attayampatti Salem | Salem news\n📍 இருசணம்பட்டி, சேலம் மாவட்டம் | 14 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Salem360 #Salem #SalemNews #சேலம்",
-   "prompts": "Two women police officers in khaki uniform lead a man in a shirt and veshti away from a small house in Irusanampatti village, Attayampatti taluk, Salem district, while a few neighbours stand at a distance along a narrow dusty lane lined with modest concrete and tiled houses. The man is seen from behind and far away, his face not visible, and his arms are held by the officers. A police jeep is parked at the edge of the lane with its door open, and a few mango trees and a water tank appear in the background. The scene is in daylight with soft, even light and a clear sky. Shot at eye level or slightly high, 35 mm, wide enough to show the village lane, the police and the houses together, with the people kept small and anonymous in the frame. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up of a wooden chopping board on a fish-market table in a Salem town fish stall, with a large fish-cutting knife resting beside a few fresh fish and a steel tray, the blade catching daylight. Behind it, slightly out of focus, a police officer in khaki uniform stands near the stall, and a plastic basket of fish lies on the floor. No readable signboards or labels are visible, and no person's face is shown. The background includes a corrugated shed roof and a dusty road in soft focus. Daylight, neutral tones. Shot at eye level, 35 mm, close enough to make the knife and chopping board the clear focus while showing the police presence faintly in the background. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-salem/protecting-the-worker/4375693",
-   "published": "2026-11-14T04:16:00+05:30",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: sentence 1 (one-line story) has 12 words; make it 6-9 words (about 2-3 seconds), the details follow in the next sentences; hl1 (the first headline on screen) must name the place 'இருசணம்பட்டி', e.g. 'இருசணம்பட்டி: ...' or 'இருசணம்பட்டி-இல் ...' - viewers share news of their own area",
-   "note": "free-model draft anthropic/claude-haiku-5-5, 12 attempt(s), 2 validator problem(s)",
+   "reel_script": "இடைப்பாடியில் குடிநீர் தொட்டி மேற்கூரை இடிந்து குடிநீரில் விழுந்ததால் குடிநீர் வினியோகம் பாதித்துள்ளது. இடைப்பாடி, தாவாந்தெருவில் உள்ள 6.8 லட்சம் லிட்டர் கொள்ளளவு கொண்ட தரைமட்ட நீர்தேக்கத் தொட்டியின் மேற்கூரை இரு நாட்களுக்கு முன் இடிந்து விழுந்தது. இந்தத் தொட்டி குடிநீர் வடிகால் வாரியத் திட்டத்தின் கீழ் உள்ளது. 30 ஆண்டுக்கு மேலாகப் பயன்பாட்டில் உள்ள இந்தத் தொட்டியில் இடிந்த கான்கிரீட் கூரை இன்னும் அகற்றப்படவில்லை. மேற்கூரை பாதியளவு மட்டுமே மூடப்பட்டுள்ளதால், திறந்த பகுதியில் பூச்சிகள் விழுந்து குடிநீரின் தரம் பாதிக்கப்படும் என அச்சம் எழுந்துள்ளது. இதற்கிடையே, நெடுங்குளம் - ராசிபுரம் கூட்டுக்குடிநீர் திட்டத்தில் நேற்று முன்தினம் முதல் 300க்கும் மேற்பட்ட கிராமங்களுக்கு குடிநீர் வினியோகம் நிறுத்தப்பட்டுள்ளது. கான்கிரீட் இடிபாடுகளை அகற்றித் தொட்டியைச் சீரமைக்கவும், மாற்று ஏற்பாடு மூலம் குடிநீர் வழங்கவும் நடவடிக்கை எடுக்க வேண்டும் என மக்கள் வலியுறுத்துகின்றனர். மேலும் செய்திகளுக்கு சேலம் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🚰 இடைப்பாடியில் தொட்டி மேற்கூரை இடிந்ததால் குடிநீர் வினியோகம் பாதிப்பு\n\n📰 முழு விவரம்:\nஇடைப்பாடி, தாவாந்தெருவில் உள்ள 6.8 லட்சம் கொள்ளளவு கொண்ட தரைமட்ட நீர்தேக்கத் தொட்டியின் மேற்கூரை இரு நாட்களுக்கு முன் இடிந்து, தொட்டியில் இருந்த குடிநீரில் விழுந்தது.\nஇந்தத் தொட்டி குடிநீர் வடிகால் வாரியத் திட்டத்தின் கீழ் உள்ளது; 30 ஆண்டுக்கு மேலாகப் பயன்பாட்டில் உள்ளது.\nஇரண்டு நாட்களாகியும் இடிந்த கான்கிரீட் கூரை அகற்றப்படவில்லை.\nமேற்கூரை பாதியளவு மட்டுமே மூடப்பட்டுள்ளதால், திறந்த பகுதியில் பூச்சிகள் விழுந்து குடிநீரின் தரம் பாதிக்கப்படலாம் என அச்சம் எழுந்துள்ளது.\nஇதேபோல், நெடுங்குளம் - ராசிபுரம் கூட்டுக்குடிநீர் திட்டத்தில் நேற்று முன்தினம் முதல் 300க்கும் மேற்பட்ட கிராமங்களுக்கு குடிநீர் வினியோகம் நிறுத்தப்பட்டுள்ளது.\n🛠️ கோரிக்கை: கான்கிரீட் இடிபாடுகளை அகற்றித் தொட்டியைச் சீரமைக்கவும், மாற்று ஏற்பாடு மூலம் குடிநீர் வழங்கவும் நடவடிக்கை எடுக்க வேண்டும் என மக்கள் வலியுறுத்துகின்றனர்.\n\nEdappadi water tank roof collapse, drinking water supply hit | Salem news\n📍 இடைப்பாடி, சேலம் மாவட்டம் | 14 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Salem360 #Salem #Edappadi #குடிநீர் #SalemNews",
+   "prompts": "A broken concrete roof slab hangs over the open top of a large ground-level drinking water storage tank on Thavanthu Street in Edappadi town, Salem district, Tamil Nadu. Half of the roof is collapsed, jagged grey concrete chunks and exposed iron rods lie on the tank rim and inside the dark water, while the other half still covers the tank. The tank is a round-cornered, rectangular concrete structure about 30 years old, with weathered, stained walls and a low boundary fence, set in a narrow town street lined with small shops and tiled-roof houses. Two women in sarees stand at a distance holding steel water pots, and a man in a shirt and veshti looks toward the tank; all seen from behind or far away, not identifiable. Scattered broken concrete and a few dried leaves lie on the ground beside the tank. Mid-morning daylight, soft overcast sky, no rain. Camera at eye level, 35 mm lens, wide enough to show the tank and the street. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-salem/water-supply-affected-as-roof-of-tank-collapses/4375710",
+   "published": "2026-11-14T04:21:00+05:30",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: caption misses facts of the article (put every one in 📰 முழு விவரம்): 2 ('2 நாட்களாகியும், இடிந்த கான்கீரிட் கூரை அகற்றப்படவில்லை.')",
+   "note": "free-model draft anthropic/claude-haiku-5-5, 13 attempt(s), 1 validator problem(s)",
    "post_time": "right after your reply, same day",
    "_area": "N",
    "_score": 999,
    "images": [
-    "https://res.cloudinary.com/jrmwajfz/image/upload/v1794615127/salem360/vmvzrpx1wud0zy1zwwym.jpg",
-    "https://res.cloudinary.com/jrmwajfz/image/upload/v1794615131/salem360/nqdd9vq5wltemmtk8jwm.jpg"
+    "https://res.cloudinary.com/jrmwajfz/image/upload/v1794630587/salem360/sdbhvly58n4magtfofbn.jpg"
+   ]
+  },
+  {
+   "tamil_headline": "சங்ககிரி அருகே லாரி டிரைவர் வீட்டில் 23 பவுன் நகைகள் கொள்ளை",
+   "english_headline": "23 sovereigns of gold stolen from a lorry driver's house near Sankagiri, Salem district; police searching for the thieves",
+   "category": "Crime & Safety",
+   "location": "Thevannagoundanur, Sankagiri, Salem district",
+   "importance": "Medium",
+   "scope": "local",
+   "post_to": "Salem 360",
+   "slides_spec": {
+    "v": 3,
+    "cat": "கொள்ளை",
+    "loc": "சங்ககிரி",
+    "hl1": "சங்ககிரி அருகே வீட்டில் 23 பவுன் நகை",
+    "hl2": "கொள்ளையர்களை போலீசார்",
+    "slides": [
+     {
+      "title": "என்ன நடந்தது?",
+      "lines": [
+       "சங்ககிரி அருகே தேவண்ணகவுண்டனூர் சத்யா நகரில் கொள்ளை",
+       "வீட்டின் பூட்டை உடைத்து <b>23 பவுன்</b> தங்க நகைகள் திருட்டு",
+       "வீட்டில் இருந்த பீரோ திறக்கப்பட்டு பொருட்கள் சிதறிக் கிடந்தன"
+      ]
+     },
+     {
+      "title": "யார் வீடு?",
+      "lines": [
+       "லாரி டிரைவர் பழனிவேல் (47 வயது) வீடு",
+       "மனைவி செல்லம்மாள், மகள் தனஸ்ரீ (16 வயது)",
+       "நேற்று முன்தினம் மாலை வீட்டை பூட்டிவிட்டு வெளியே சென்றனர்"
+      ]
+     },
+     {
+      "title": "போலீசார் நடவடிக்கை",
+      "lines": [
+       "பழனிவேல் சங்ககிரி போலீசில் புகார் அளித்தார்",
+       "இன்ஸ்பெக்டர் செந்தில்குமார் தலைமையில் போலீசார் விசாரணை",
+       "அருகில் உள்ள கண்காணிப்பு கேமராக்களை போலீசார் ஆய்வு"
+      ]
+     }
+    ],
+    "carousel": false
+   },
+   "reel_script": "சங்ககிரி அருகே ஒரு வீட்டில் 23 பவுன் தங்க நகைகள் கொள்ளை போனது. சேலம் மாவட்டம் தேவண்ணகவுண்டனூர் சத்யா நகரில் இந்தச் சம்பவம் நடந்தது. லாரி டிரைவர் பழனிவேல், 47 வயது, நேற்று முன்தினம் காலை வேலைக்கு சென்றார். அவருடைய மனைவி செல்லம்மாள் மாலையில் மகளை அழைத்து வர வீட்டைப் பூட்டிவிட்டு சென்றார். மாலையில் வடுகப்பட்டி அரசுப் பள்ளியில் படிக்கும் தனஸ்ரீ, 16 வயது மகளை அழைத்துக்கொண்டு, சங்ககிரி பேருந்து நிலையம் அருகில் உள்ள தோழி அமுதா வீட்டுக்கு சென்றனர். இரவு பழனிவேல் அவர்களை அழைத்துக்கொண்டு வீட்டுக்கு திரும்பினார். வீட்டுக் கதவின் பூட்டு உடைக்கப்பட்டிருப்பதை கண்டு அதிர்ச்சி அடைந்தார். வீட்டு வாசலில் மகளின் தங்கத் தோடு ஒன்று கிடந்தது. பீரோவில் வைத்திருந்த 23 பவுன் தங்க நகைகளை மர்ம நபர்கள் திருடிச் சென்றது தெரியவந்தது. பழனிவேல் சங்ககிரி போலீசில் புகார் அளித்தார். இன்ஸ்பெக்டர் செந்தில்குமார், சப்-இன்ஸ்பெக்டர் அழகுதுரை ஆகியோர் போலீசாருடன் சம்பவ இடத்தில் விசாரணை நடத்தினர். அருகில் உள்ள வீடுகளின் கண்காணிப்பு கேமராக்களில் கொள்ளையர்களின் உருவம் பதிவாகி உள்ளதா என போலீசார் ஆய்வு செய்து வருகின்றனர். போலீசார் வழக்குப் பதிவு செய்து, கொள்ளையர்களை வலைவீசித் தேடி வருகின்றனர். மேலும் செய்திகளுக்கு சேலம் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🚨 சங்ககிரி அருகே வீட்டில் 23 பவுன் நகை கொள்ளை - போலீசார் வலைவீச்சு\n\n📰 முழு விவரம்:\nசங்ககிரி அருகே தேவண்ணகவுண்டனூர் சத்யா நகரில் லாரி டிரைவர் பழனிவேல் (47 வயது) வீட்டின் பூட்டை உடைத்து மர்ம நபர்கள் 23 பவுன் தங்க நகைகளைக் கொள்ளையடித்துச் சென்றனர். பழனிவேல் வேலைக்குச் சென்றிருந்த நேரத்தில், மனைவி செல்லம்மாள் மகள் தனஸ்ரீ (16 வயது) வீட்டைப் பூட்டிவிட்டு, மகளை அழைத்து வரச் சென்றார். இரவு வீடு திரும்பியபோது கதவுப் பூட்டு உடைக்கப்பட்டிருந்தது. பீரோவில் இருந்த பொருட்கள் சிதறிக் கிடந்தன.\n📍 இடம்: தேவண்ணகவுண்டனூர், சங்ககிரி அருகே, சேலம் மாவட்டம்\n🗓️ நாள்: நேற்று முன்தினம்\n👮 நடவடிக்கை: சங்ககிரி போலீசில் புகார்; வழக்குப்பதிவு செய்து கொள்ளையர்களை வலைவீசித் தேடுகின்றனர். அருகில் உள்ள கண்காணிப்பு கேமராக்களை ஆய்வு செய்கின்றனர்.\nℹ️ மக்கள் கவனத்திற்கு: வீட்டைப் பூட்டிச் செல்லும்போதும் வெளியூர் செல்லும்போதும் அருகில் உள்ள போலீசாருக்குத் தகவல் தெரிவியுங்கள்.\n\nSangagiri gold theft near Salem | Salem news\n📍 சங்ககிரி, சேலம் மாவட்டம் | 14 நவம்பர் 2026\n\nதேவைப்படுவோருக்கு Share செய்யுங்கள்.\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Salem360 #Salem #Sankagiri #SalemNews #சேலம்",
+   "prompts": "A Tamil Nadu police sub-inspector in khaki uniform examines the front door of a small concrete house in Thevannagoundanur, Sankagiri, Salem district, where the locked door has been forced open and its lock hangs broken. Two constables stand a short distance away on a narrow residential street lined with modest houses, compound walls and a few parked two-wheelers. A woman in a cotton saree and a man in a plain shirt stand at the gate, seen from behind and far away, watching the police work. The entrance steps are clean but the doorway looks disturbed. It is evening with soft street light, and a few tubelights glow in neighbouring houses. Camera: eye level, 35 mm, wide enough to show the house, the street and the police. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up detail of a broken door lock and latch on a house entrance in Sankagiri, Salem district. The metal lock is twisted and pried loose from the wooden door frame, and a small single gold stud earring lies on the concrete doorstep beside it. Behind, through the open door, a steel almirah stands with clothes spilling out of its shelves onto the floor. A gloved hand of a police constable in khaki sleeve points gently toward the gold piece, seen only partially. Warm evening light falls on the threshold. Camera: slightly high angle, 35 mm, shallow depth of field. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dailythanthi.com/news/tamilnadu/salem-23-sovereigns-of-gold-jewellery-stolen-from-a-lorry-drivers-house",
+   "published": "2026-11-14T02:59:54Z",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: caption misses facts of the article (put every one in 📰 முழு விவரம்): 1 ('மாலையில் வடுகப்பட்டி அரசு பள்ளியில் பிளஸ்-1 படிக்கும் தனது ம')",
+   "note": "free-model draft anthropic/claude-haiku-5-5, 11 attempt(s), 1 validator problem(s)",
+   "post_time": "right after your reply, same day",
+   "_area": "N",
+   "_score": 999,
+   "images": [
+    "https://res.cloudinary.com/jrmwajfz/image/upload/v1794630625/salem360/ptx39ecws12jw5forn3e.jpg",
+    "https://res.cloudinary.com/jrmwajfz/image/upload/v1794630635/salem360/ml74wtymoucltuxi64m7.jpg"
+   ]
+  },
+  {
+   "tamil_headline": "மல்லூர் அரசுப் பள்ளியில் 3 மாதங்களாக சாய்ந்து கிடக்கும் மரம்: மாணவர்கள் சைக்கிள் நிறுத்த அவதி",
+   "english_headline": "Fallen tree at Mallur government school entrance remains for 3 months; students struggle to park cycles",
+   "category": "Education",
+   "location": "Mallur, Panamarathupatti, Salem district",
+   "importance": "Medium",
+   "scope": "local",
+   "post_to": "Salem 360",
+   "slides_spec": {
+    "v": 3,
+    "cat": "பள்ளி பிரச்சனை",
+    "loc": "மல்லூர், பனமரத்துப்பட்டி",
+    "hl1": "மல்லூர் பள்ளியில் சாய்ந்த மரம் 3 மாதமாக",
+    "hl2": "மாணவர்கள் சைக்கிள் நிறுத்த",
+    "slides": [
+     {
+      "title": "என்ன நடந்தது?",
+      "lines": [
+       "மல்லூர் அரசு மேல்நிலைப்பள்ளி நுழைவாயிலில் மரம் சாய்ந்தது",
+       "3 மாதங்களுக்கு முன் பெய்த மழையின்போது <b>50 அடி</b> நீள",
+       "இதுவரை அந்த மரம் அகற்றப்படவில்லை"
+      ]
+     },
+     {
+      "title": "யாருக்கு சிரமம்?",
+      "lines": [
+       "பள்ளியில் <b>600</b>க்கும் மேற்பட்ட மாணவர்கள் படிக்கின்றனர்",
+       "சைக்கிள் நிறுத்தும் இடத்துக்கு மரம் இடையூறாக உள்ளது",
+       "மாணவ, மாணவியர் சிரமம் தொடர்கிறது"
+      ]
+     },
+     {
+      "title": "அதிகாரிகளுக்குத்",
+      "lines": [
+       "பள்ளி நிர்வாகம் கல்வித்துறை, வருவாய்த்துறை",
+       "உள்ளாட்சி அதிகாரிகளுக்கும் தகவல் தெரிவிக்கப்பட்டுள்ளது",
+       "ஆனால் இதுவரை மரத்தை அகற்ற யாரும் நடவடிக்கை எடுக்கவில்லை"
+      ]
+     },
+     {
+      "title": "நிலை என்ன?",
+      "lines": [
+       "மரத்தை அகற்றவோ ஏலம் விடவோ உரிய அனுமதி வழங்கப்படவில்லை",
+       "சாய்ந்த மரத்தை அகற்ற வழி தெரியாமல் பள்ளி நிர்வாகம்",
+       "மாணவர்களின் சிரமம் தொடர்கிறது"
+      ]
+     }
+    ],
+    "carousel": false
+   },
+   "reel_script": "மல்லூர் அரசு மேல்நிலைப்பள்ளியில் 3 மாதங்களாக சாய்ந்து கிடக்கும் மரத்தால் மாணவர்கள் சைக்கிள் நிறுத்த அவதிப்படுகின்றனர். 3 மாதங்களுக்கு முன் பெய்த மழையின்போது பள்ளி நுழைவாயில் பகுதியில் இருந்த 50 அடி நீள மரம் வேரோடு சாய்ந்தது. பனமரத்துப்பட்டி பகுதியில் உள்ள இந்தப் பள்ளியில் 600க்கும் மேற்பட்ட மாணவ, மாணவியர் படிக்கின்றனர். சைக்கிள் நிறுத்துமிடத்துக்கு அருகில் இந்த மரம் இடையூறாக உள்ளது. பள்ளி நிர்வாகம் கல்வித்துறை, வருவாய்த்துறை, வனத்துறை மற்றும் உள்ளாட்சி அதிகாரிகளுக்குக் கடிதம் மூலம் தகவல் தெரிவித்துள்ளது. ஆனால் இதுவரை மரத்தை அகற்றவோ ஏலம் விடவோ யாரும் நடவடிக்கை எடுக்கவில்லை. உரிய அனுமதியும் வழங்கப்படவில்லை. சாய்ந்த மரத்தை அப்புறப்படுத்த வழி தெரியாமல் பள்ளி நிர்வாகத்தினர் தவிக்கின்றனர். மாணவ, மாணவியரின் சிரமமும் தொடர்கிறது. மேலும் செய்திகளுக்கு சேலம் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🏫 மல்லூர் பள்ளியில் 3 மாதமாக சாய்ந்து கிடக்கும் மரம்: மாணவர்கள் அவதி\n\n📰 முழு விவரம்:\nபனமரத்துப்பட்டி அருகே மல்லூர் அரசு மேல்நிலைப்பள்ளியில் 600க்கும் மேற்பட்ட மாணவ, மாணவியர் படிக்கின்றனர்.\n3 மாதங்களுக்கு முன் பெய்த மழையின்போது, பள்ளி நுழைவாயில் பகுதியில் இருந்த 50 அடி நீள மரம் வேரோடு சாய்ந்தது.\nஇதுவரை அந்த மரம் அகற்றப்படாததால் மாணவர்கள் சைக்கிள் நிறுத்த சிரமப்படுகின்றனர்.\nபள்ளி நிர்வாகம் கல்வித்துறை, வருவாய்த்துறை, வனத்துறை, உள்ளாட்சி அதிகாரிகளுக்குக் கடிதம் மூலம் தெரிவித்துள்ளது.\nஆனால் மரத்தை அகற்றவோ ஏலம் விடவோ யாரும் நடவடிக்கை எடுக்கவில்லை; உரிய அனுமதியும் வழங்கப்படவில்லை.\nஇதனால் சாய்ந்த மரத்தை அப்புறப்படுத்த வழி தெரியாமல் பள்ளி நிர்வாகத்தினர் தவிக்கின்றனர்.\n\nMallur govt school fallen tree 3 months | Salem news\n📍 மல்லூர், பனமரத்துப்பட்டி, சேலம் மாவட்டம் | 14 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Salem360 #Salem #SalemNews #சேலம்",
+   "prompts": "A row of students in Tamil Nadu school uniform wheel their bicycles past a huge fallen tree lying across the main entrance of a government higher secondary school in Mallur, Panamarathupatti, Salem district. The thick trunk, about 50 feet long, lies on its side with broken branches and dry leaves spread over the ground, its roots still raised near the gate. Bicycles are crowded together on the small patch of ground left beside the trunk, some leaning against the branches. Behind them stands the school gate and a single-storey school building with a few small trees and a low compound wall. The students are seen from behind and at a distance, some looking at the trunk as they walk. It is daytime under flat grey-white light after rain, with damp patches on the road. Camera at eye level, 35 mm, wide enough to show the trunk, the gate and the bicycles together. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up of a fallen tree trunk at the entrance of a Tamil Nadu government school, showing its cracked bark, snapped branches and a large uprooted root ball lifted from the wet soil. In the foreground, a few bicycle handlebars and front wheels are squeezed in between the branches, with no clear space to park them. Wet, muddy ground and scattered dry leaves surround the trunk, with a small patch of the school compound wall and the gate blurred in the background. The light is soft daytime overcast after rain. No people are in focus, only a student's hand or the edge of a school bag may be seen at the far edge, slightly blurred. Camera slightly high, 35 mm, focusing on the trunk and bicycles so the blocked parking is clearly visible. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-salem/its-been-3-months-since-a-tree-fell-on-a-government-school-students-are-unable-to-stop-bicycles/4375711",
+   "published": "2026-11-14T04:21:00+05:30",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: sentence 1 (one-line story) has 12 words; make it 6-9 words (about 2-3 seconds), the details follow in the next sentences",
+   "note": "free-model draft anthropic/claude-haiku-5-5, 12 attempt(s), 1 validator problem(s)",
+   "post_time": "right after your reply, same day",
+   "_area": "N",
+   "_score": 999,
+   "images": [
+    "https://res.cloudinary.com/jrmwajfz/image/upload/v1794630643/salem360/pirdjx9ba5auhwt7l3ik.jpg",
+    "https://res.cloudinary.com/jrmwajfz/image/upload/v1794630652/salem360/ttmqtlae1yiatpqlpbbm.jpg"
    ]
   }
  ]
