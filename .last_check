@@ -1,16 +1,17 @@
-05:52:11 SKIP RN-2 held: fact-check problems - not grounded: location 'பகுதிகள்' is not in the article
-05:52:11 SKIP RN-7 held: fact-check problems - fact-check: reel_script says the shop owner locked the shop and that the shop and godown belong to the owner, which the article supports (owner Gunasekaran), so no issue there; fact-check: reel_script
+06:07:39 bridge get 'recent' failed (try 1): HTTPSConnectionPool(host='script.googleusercontent.com', port=443): Read timed out. (read timeout=120)
+06:10:01 bridge get 'recent' failed (try 2): HTTPSConnectionPool(host='script.googleusercontent.com', port=443): Read timed out. (read timeout=120)
+06:12:43 recent rows not available (duplicate check uses the queue only): HTTPSConnectionPool(host='script.googleusercontent.com', port=443): Read timed out. (read timeout=120)
+06:12:45 SKIP RN-2 held: fact-check problems - not grounded: location 'பகுதிகள்' is not in the article
+06:12:45 SKIP RN-7 held: fact-check problems - fact-check: reel_script says the shop owner locked the shop and that the shop and godown belong to the owner, which the article supports (owner Gunasekaran), so no issue there; fact-check: reel_script
 ::warning title=Held from posting RN-7::held: fact-check problems - fact-check: reel_script says the shop owner locked the shop and that the shop and godown belong to the owner, which the article supports (owner Gunasekaran), so no issue there; fact-check: reel_script
-05:52:14 story catch-up salem: quota 31/50, 17 recent posts, 14 live stories, owner ids ['17841420521166438', '29025309123762186']
-05:52:48 story catch-up salem: post 17907730767355906 not shared (Instagram container 18134574922684039 ERROR) - tried again next run
-05:53:23 story catch-up salem: post 17883560358543407 not shared (Instagram container 18134575135684039 ERROR) - tried again next run
-05:53:23 4 stories in the queue, ready to post: 2
-05:53:23   keys: ['batch', 'caption', 'category', 'doc', 'email_sent', 'gmail_id', 'headline_en', 'headline_ta', 'images', 'importance', 'location', 'notes', 'notion', 'other_sources', 'post_status', 'post_to', 'posted_at', 'prompts', 'published', 'reel', 'reel_link', 'reel_script', 'researched', 'review', 'review_page', 'row', 'salem_link', 'slides_spec', 'source', 'spare_link', 'story_id', 'verification']
-05:53:23    RN-2 review= 'Auto' images= 98 spec= 686 pages= ['salem'] links= '' '' age_h= 30.7 ready= False set_started= True
-05:53:23    RN-7 review= 'Auto' images= 98 spec= 838 pages= ['salem'] links= '' '' age_h= 18.7 ready= False set_started= True
-05:53:23    RN-21 review= 'Auto' images= 195 spec= 713 pages= ['salem'] links= '' '' age_h= 0.2 ready= True set_started= True
-05:53:23    RN-22 review= 'Auto' images= 195 spec= 670 pages= ['salem'] links= '' '' age_h= 0.2 ready= True set_started= True
-05:53:25 publishing quota salem: 31/50
-05:53:26 instagram duplicate check salem: 17 recent posts read
-05:53:26    RN-21 waits for the 12-minute gap after the last post on ['salem']
-05:53:26 prebuilding ahead of the set start: ['RN-21']
+06:12:48 story catch-up salem: quota 32/50, 18 recent posts, 14 live stories, owner ids ['17841420521166438', '29025309123762186']
+06:14:00 story catch-up salem: post 17907730767355906 not shared (Instagram container 18134578096684039 ERROR) - tried again next run
+06:14:33 story catch-up salem: post 17883560358543407 not shared (Instagram container 18134578387684039 ERROR) - tried again next run
+06:15:31 story catch-up salem: story 17941151490401412 for the post of 14 Nov 00:18 UTC (VIDEO)
+06:15:31 3 stories in the queue, ready to post: 1
+06:15:31   keys: ['batch', 'caption', 'category', 'doc', 'email_sent', 'gmail_id', 'headline_en', 'headline_ta', 'images', 'importance', 'location', 'notes', 'notion', 'other_sources', 'post_status', 'post_to', 'posted_at', 'prompts', 'published', 'reel', 'reel_link', 'reel_script', 'researched', 'review', 'review_page', 'row', 'salem_link', 'slides_spec', 'source', 'spare_link', 'story_id', 'verification']
+06:15:31    RN-2 review= 'Auto' images= 98 spec= 686 pages= ['salem'] links= '' '' age_h= 31.1 ready= False set_started= True
+06:15:31    RN-7 review= 'Auto' images= 98 spec= 838 pages= ['salem'] links= '' '' age_h= 19.1 ready= False set_started= True
+06:15:31    RN-21 review= 'Auto' images= 195 spec= 713 pages= ['salem'] links= '' '' age_h= 0.6 ready= True set_started= True
+06:15:32 publishing quota salem: 32/50
+06:15:33 instagram duplicate check salem: 18 recent posts read
