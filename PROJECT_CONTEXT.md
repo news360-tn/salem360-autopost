@@ -81,6 +81,14 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 <!-- recent-changes:start (updated automatically by .github/workflows/context.yml - do not edit by hand) -->
 | Date | Commit | Change |
 |---|---|---|
+| 2026-11-14 | `cc77fcb` | pick: each round's news chosen by the page's insights (at least 2/5/5/3/5/4 + up to 3 more well-watched, leftovers compete, power cuts on top); story share only for power cuts / urgent news |
+| 2026-11-14 | `89265a6` | pick: written and posted |
+| 2026-11-14 | `ddd1b80` | powercut: notices written |
+| 2026-11-14 | `8028fe0` | powercut: notices written |
+| 2026-11-14 | `717d7f4` | powercut: notices written |
+| 2026-11-14 | `5d4deea` | pick: picked news saved |
+| 2026-11-14 | `9e0e9c4` | pick: picked news saved |
+| 2026-11-14 | `a248cee` | pick: list sent |
 | 2026-11-14 | `39ace8f` | goldrate: import the browser only when slides are made (tests machine has none - fixes the red tests since 13 Nov) |
 | 2026-11-14 | `e5afa74` | posting: Gmail daily email limit no longer counts as a failed post record (sheet row is already saved - no 5x retries); checker notes ending 'so not a problem' no longer hold a story (14 Nov) |
 | 2026-11-14 | `993b1bc` | powercut: notices written |
@@ -103,12 +111,4 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 | 2026-11-14 | `a7d479f` | powercut: notices written |
 | 2026-11-14 | `3448c10` | rasipalan posted |
 | 2026-11-14 | `4b0b763` | powercut: notices written |
-| 2026-11-14 | `f7bf43d` | stories shared |
-| 2026-11-14 | `abd0104` | powercut: notices written |
-| 2026-11-14 | `27eea20` | pick: written and posted |
-| 2026-11-14 | `d16b6d1` | stories shared |
-| 2026-11-14 | `8bc8948` | pick: picked news saved |
-| 2026-11-14 | `2d621d3` | pick: picked news saved |
-| 2026-11-14 | `7f0ae32` | pick: list sent |
-| 2026-11-13 | `7025849` | stories shared |
 <!-- recent-changes:end -->
