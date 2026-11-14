@@ -1,18 +1,20 @@
 {
- "updated": "2026-11-14T17:40+05:30",
- "posts_measured": 24,
+ "updated": "2026-11-14T21:42+05:30",
+ "posts_measured": 28,
  "topic_weight": {
-  "crime": 0.17,
-  "education": 0.55,
-  "accident": -0.16
+  "crime": 0.49,
+  "education": -0.02,
+  "accident": 0.07,
+  "temple": 1.5
  },
  "topic_n": {
   "crime": 10,
-  "poultry_agri": 1,
-  "education": 4,
+  "poultry_agri": 2,
+  "education": 5,
   "accident": 4,
-  "temple": 2,
-  "civic": 1
+  "temple": 3,
+  "civic": 1,
+  "weather": 1
  },
  "best_hours_ist": [
   7,
@@ -21,19 +23,19 @@
   23
  ],
  "top_openings": [
+  "🏫 அழகப்பம்பாளையம் புதூரில் மாணவிகளிடம் அநாகரிகம்: ஆசிரியர் பணியிடை நீக்கம்",
   "👮 மேட்டூர் அருகே சட்டவிரோதமாக மது விற்ற 2 பேர் கைது - 60 பாட்டில்கள் பறிமுதல்",
   "🚨 சேலம் கன்னங்குறிச்சி: மாணவர்களின் பெயரில் ரூ.50 கோடி மோசடி, இதுவரை 8 பேர் கைது",
-  "🏫 அழகப்பம்பாளையம் புதூரில் மாணவிகளிடம் அநாகரிகம்: ஆசிரியர் பணியிடை நீக்கம்",
   "🔥 சங்ககிரி அருகே தீ குண்டத்தில் விழுந்த 45 வயது பெண்: தீயணைப்பு வீரர்கள் உடனடி ம"
  ],
- "avg_watch_s": 6.7,
+ "avg_watch_s": 6.9,
  "best_topics": [
-  "education",
+  "temple",
   "crime",
   "accident"
  ],
  "weak_topics": [
-  "accident",
-  "crime"
+  "education",
+  "accident"
  ]
 }
