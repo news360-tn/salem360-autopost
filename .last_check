@@ -1,20 +1,18 @@
-21:56:23 SKIP RN-2 held: fact-check problems - not grounded: location 'பகுதிகள்' is not in the article
-21:56:23 SKIP RN-7 held: fact-check problems - fact-check: reel_script says the shop owner locked the shop and that the shop and godown belong to the owner, which the article supports (owner Gunasekaran), so no issue there; fact-check: reel_script
-21:56:25 SKIP RN-30 held: fact-check problems - numbers not found in the article: 10000
+22:08:07 SKIP RN-2 held: fact-check problems - not grounded: location 'பகுதிகள்' is not in the article
+22:08:07 SKIP RN-7 held: fact-check problems - fact-check: reel_script says the shop owner locked the shop and that the shop and godown belong to the owner, which the article supports (owner Gunasekaran), so no issue there; fact-check: reel_script
+22:08:08 SKIP RN-30 held: fact-check problems - numbers not found in the article: 10000
 ::warning title=Held from posting RN-30::held: fact-check problems - numbers not found in the article: 10000
-21:56:25 SKIP RN-36 held: fact-check problems - not grounded: only 23% of the words come from the article (e.g. இன்று, அதிகபட்சமாக, டிகிரி, செல்சியஸ், குறைந்தபட்சமாக)
+22:08:08 SKIP RN-36 held: fact-check problems - not grounded: only 23% of the words come from the article (e.g. இன்று, அதிகபட்சமாக, டிகிரி, செல்சியஸ், குறைந்தபட்சமாக)
 ::warning title=Held from posting RN-36::held: fact-check problems - not grounded: only 23% of the words come from the article (e.g. இன்று, அதிகபட்சமாக, டிகிரி, செல்சியஸ், குறைந்தபட்சமாக)
-21:56:27 story catch-up salem: quota 39/50, 31 recent posts, 15 live stories, owner ids ['17841420521166438', '29025309123762186']
-21:56:27 6 stories in the queue, ready to post: 2
-21:56:27   keys: ['batch', 'caption', 'category', 'doc', 'email_sent', 'gmail_id', 'headline_en', 'headline_ta', 'images', 'importance', 'location', 'notes', 'notion', 'other_sources', 'post_status', 'post_to', 'posted_at', 'prompts', 'published', 'reel', 'reel_link', 'reel_script', 'researched', 'review', 'review_page', 'row', 'salem_link', 'slides_spec', 'source', 'spare_link', 'story_id', 'verification']
-21:56:27    RN-2 review= 'Auto' images= 98 spec= 686 pages= ['salem'] links= '' '' age_h= 46.8 ready= False set_started= True
-21:56:27    RN-7 review= 'Auto' images= 98 spec= 838 pages= ['salem'] links= '' '' age_h= 34.8 ready= False set_started= True
-21:56:27    RN-30 review= 'Auto' images= 195 spec= 688 pages= ['salem'] links= '' '' age_h= 4.2 ready= False set_started= True
-21:56:27    RN-35 review= 'Auto' images= 195 spec= 666 pages= ['salem'] links= '' '' age_h= 0.2 ready= True set_started= True
-21:56:27    RN-36 review= 'Auto' images= 195 spec= 694 pages= ['salem'] links= '' '' age_h= 0.2 ready= False set_started= True
-21:56:27    RN-37 review= 'Auto' images= 98 spec= 668 pages= ['salem'] links= '' '' age_h= 0.2 ready= True set_started= True
-21:56:29 publishing quota salem: 39/50
-21:56:30 instagram duplicate check salem: 31 recent posts read
-21:56:30    RN-37 waits for the 12-minute gap after the last post on ['salem']
-21:56:30    RN-35 waits for the 12-minute gap after the last post on ['salem']
-21:56:30 prebuilding ahead of the set start: ['RN-35', 'RN-37']
+22:08:11 story catch-up salem: quota 39/50, 31 recent posts, 15 live stories, owner ids ['17841420521166438', '29025309123762186']
+22:08:11 6 stories in the queue, ready to post: 2
+22:08:11   keys: ['batch', 'caption', 'category', 'doc', 'email_sent', 'gmail_id', 'headline_en', 'headline_ta', 'images', 'importance', 'location', 'notes', 'notion', 'other_sources', 'post_status', 'post_to', 'posted_at', 'prompts', 'published', 'reel', 'reel_link', 'reel_script', 'researched', 'review', 'review_page', 'row', 'salem_link', 'slides_spec', 'source', 'spare_link', 'story_id', 'verification']
+22:08:11    RN-2 review= 'Auto' images= 98 spec= 686 pages= ['salem'] links= '' '' age_h= 47.0 ready= False set_started= True
+22:08:11    RN-7 review= 'Auto' images= 98 spec= 838 pages= ['salem'] links= '' '' age_h= 35.0 ready= False set_started= True
+22:08:11    RN-30 review= 'Auto' images= 195 spec= 688 pages= ['salem'] links= '' '' age_h= 4.4 ready= False set_started= True
+22:08:11    RN-35 review= 'Auto' images= 195 spec= 666 pages= ['salem'] links= '' '' age_h= 0.4 ready= True set_started= True
+22:08:11    RN-36 review= 'Auto' images= 195 spec= 694 pages= ['salem'] links= '' '' age_h= 0.4 ready= False set_started= True
+22:08:11    RN-37 review= 'Auto' images= 98 spec= 668 pages= ['salem'] links= '' '' age_h= 0.4 ready= True set_started= True
+22:08:13 publishing quota salem: 39/50
+22:08:14 instagram duplicate check salem: 31 recent posts read
+22:08:14    RN-35 waits for the 12-minute gap after the last post on ['salem']
