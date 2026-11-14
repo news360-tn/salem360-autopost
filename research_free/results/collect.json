@@ -1,22 +1,22 @@
 {
  "log": [
   "earlier stories still waiting for images: []",
-  "instagram check: 12 recent posts read from the page",
+  "instagram check: 16 recent posts read from the page",
   "pick round: only the picked links are written (research_free/pick.py)",
-  "manual link added: https://www.dinamani.com/all-editions/edition-dharmapuri/salem/2026/Nov/13/கெங்கவல்லியில்-மதுப்புட்டிகளை-பதுக்கிவிற்ற-2-போ்-கைது",
-  "manual link added: https://www.dinamani.com/all-editions/edition-dharmapuri/salem/2026/Nov/13/மாணவா்கள்-பெயரில்-கடன்-வாங்கி-மோசடி-செய்த-வழக்கில்-மேலும்-2-போ்-கைது",
-  "manual link added: https://www.dinamani.com/all-editions/edition-dharmapuri/salem/2026/Nov/13/பழங்குடியினா்-நலக்-குழுஉறுப்பினா்களை-தோ்வு-செய்ய-விண்ணப்பங்கள்-வரவேற்பு",
+  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-salem/ganesha-idol-stolen/4375708",
+  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-salem/woman-firefighter-rescued-after-falling-into-pit/4375689",
+  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-salem/protecting-the-worker/4375693",
   "candidate filter: collected=3",
   "to write: 3 Salem district candidates (max 3 stories)",
   "round: top 3 of 3 candidates",
   "candidates waiting: 3 Salem; time left 79 min",
-  "try (N) manual=True: https://www.dinamani.com/all-editions/edition-dharmapuri/sal",
-  "try (N) manual=True: https://www.dinamani.com/all-editions/edition-dharmapuri/sal",
-  "try (N) manual=True: https://www.dinamani.com/all-editions/edition-dharmapuri/sal",
+  "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-sale",
+  "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-sale",
+  "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-sale",
   "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 2})",
   "posting job started at once",
-  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 5})",
-  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 7})",
+  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 4})",
+  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 6})",
   "candidate loop ended: left 0, tried={'N': 3}, done={'N': 3}, time left 77 min",
   "filed: 3 Salem district stories (target 3), reels only",
   "queue: 0 news waiting to be written",
@@ -29,249 +29,238 @@
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
-  "dead for this round: gemini/gemini-3.6-flash",
-  "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high d",
+  "ok gemini/gemini-3.6-flash (28s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
   "dead for this round: gemini/gemini-3.6-flash",
   "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
   "dead for this round: gemini/gemini-3.5-flash",
-  "ok gemini/gemini-3-flash-preview (10s)",
+  "ok gemini/gemini-3.6-flash (35s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok gemini/gemini-3.6-flash (30s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok gemini/gemini-3.5-flash (34s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok gemini/gemini-3-flash-preview (5s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "fail gemini/gemini-3.6-flash: Expecting ',' delimiter: line 1 column 989 (char 988)",
+  "poor answer - skipped for 30 min: gemini/gemini-3.6-flash",
   "fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, plea",
   "dead for this round: gemini/gemini-3-flash-preview",
-  "ok groq/openai/gpt-oss-120b (6s)",
+  "ok gemini/gemini-3-flash-preview (8s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok gemini/gemini-3-flash-preview (15s)",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok groq/openai/gpt-oss-120b (7s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok groq/openai/gpt-oss-120b (5s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
-  "ok groq/openai/gpt-oss-120b (2s)",
-  "ok gemini/gemini-3-flash-preview (10s)",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
+  "ok gemini/gemini-3-flash-preview (18s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "ok groq/openai/gpt-oss-120b (4s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
   "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 413: {\"error\":{\"message\":\"Request too large for model `openai/gpt-oss-120b` in organization `or",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
+  "ok groq/openai/gpt-oss-120b (3s)",
+  "ok groq/qwen/qwen3.8-27b (3s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
   "switching away from groq/openai/gpt-oss-120b for 10 min",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
-  "ok groq/qwen/qwen3.8-27b (4s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
+  "switching away from groq/qwen/qwen3.8-27b for 10 min",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
+  "switching away from groq/qwen/qwen3.8-27b for 10 min",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok groq/qwen/qwen3.8-27b (1s)",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok anthropic/claude-haiku-5-5",
   "ok anthropic/claude-haiku-5-5",
   "ok anthropic/claude-haiku-5-5",
   "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
+  "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
   "ok anthropic/claude-haiku-5-5"
  ],
  "stories": [
   {
-   "tamil_headline": "கெங்கவல்லியில் வீடுகளில் மதுப்புட்டிகள் பதுக்கி விற்ற 2 பேர் கைது: 50-க்கும் மேற்பட்ட பாட்டில்கள் பறிமுதல்",
-   "english_headline": "Two arrested in Gangavalli for illegally stocking and selling liquor; over 50 bottles seized",
+   "tamil_headline": "பனமரத்துப்பட்டி அருகே கோவில் விநாயகர் கற்சிலை திருட்டு: பொதுமக்கள் அதிர்ச்சி",
+   "english_headline": "Vinayagar stone idol stolen from temple near Panamarathupatti in Salem district",
    "category": "Crime & Safety",
-   "location": "Gangavalli town, Salem district",
+   "location": "Kalarampatti, Panamarathupatti, Salem district",
    "importance": "Medium",
    "scope": "local",
    "post_to": "Salem 360",
    "slides_spec": {
     "v": 3,
-    "cat": "குற்றச்செயல்",
-    "loc": "கெங்கவல்லி, சேலம்",
-    "hl1": "கெங்கவல்லியில் மது விற்ற 2 பேர் கைது",
-    "hl2": "50-க்கும் மேற்பட்ட",
+    "cat": "சிலை திருட்டு",
+    "loc": "களரம்பட்டி, பனமரத்துப்பட்டி",
+    "hl1": "பனமரத்துப்பட்டியில் விநாயகர் சிலை",
+    "hl2": "ராகு கேது விநாயகர் சிலை",
     "slides": [
      {
       "title": "எங்கு நடந்தது?",
       "lines": [
-       "கெங்கவல்லி இந்திரா காலனி, ஆத்தூர் சாலை",
-       "வியாழக்கிழமை இரவு காவல் துறை சோதனை",
-       "சட்டவிரோதமாக மது விற்றது கண்டுபிடிப்பு"
+       "பனமரத்துப்பட்டி களரம்பட்டி பகுதி",
+       "அண்ணாமலையார் கோவில் அருகே",
+       "சர்வ சித்தி விநாயகர் கோவில்"
       ]
      },
      {
-      "title": "யார் கைது?",
+      "title": "என்ன நடந்தது?",
       "lines": [
-       "இந்திரா காலனியைச் சேர்ந்த விஜயா (55 வயது)",
-       "ஆத்தூர் சாலையைச் சேர்ந்த சீனிவாசன் (55 வயது)",
-       "கெங்கவல்லி காவல்துறையினர் கைது செய்தனர்"
+       "நேற்று முன்தினம் இரவு பக்தர்கள் வழிபாடு",
+       "நேற்று காலை கற்சிலை காணவில்லை",
+       "அதிகாலையில் மர்ம நபர்கள் திருட்டு"
       ]
      },
      {
-      "title": "என்ன பறிமுதல்?",
+      "title": "சிலை விவரம்",
       "lines": [
-       "2 பேரிடம் இருந்து <b>50-க்கும் மேற்பட்ட</b> மது பாட்டில்கள்",
-       "ஆய்வாளர் சிவகுமார் தலைமையில் நடவடிக்கை",
-       "காவல் துறை தீவிர கண்காணிப்பு"
+       "<b>ராகு, கேது</b> வடிவத்துடன் இருந்த விநாயகர் கற்சிலை",
+       "அப்பகுதி மக்கள் தகவல் தெரிவித்துள்ளனர்"
       ]
      }
     ],
     "carousel": false
    },
-   "reel_script": "கெங்கவல்லியில் வீடுகளில் மதுப்புட்டிகள் பதுக்கி விற்ற இருவர் கைது செய்யப்பட்டனர். சேலம் மாவட்டம் கெங்கவல்லி சுற்றுவட்டாரப் பகுதியில் சட்டவிரோதமாக மது விற்பனை நடப்பதாகக் காவல் துறைக்குத் தகவல் கிடைத்தது. இதன்பேரில் காவல் ஆய்வாளர் சிவகுமார் தலைமையில் காவல்துறையினர் கண்காணிப்புப் பணியைத் தீவிரப்படுத்தினர். கடந்த வியாழக்கிழமை இரவு இந்திரா காலனியைச் சேர்ந்த 55 வயது விஜயா மற்றும் ஆத்தூர் பிரதான சாலையைச் சேர்ந்த 55 வயது சீனிவாசன் ஆகியோரின் வீடுகளில் சோதனை நடத்தப்பட்டது. சோதனையில் வீடுகளில் மதுப்புட்டிகளைப் பதுக்கி வைத்து விற்பனை செய்தது தெரியவந்தது. இதையடுத்து விஜயா மற்றும் சீனிவாசனை காவல்துறையினர் கைது செய்தனர். அவர்களிடமிருந்து 50-க்கும் மேற்பட்ட மதுப்புட்டிகள் பறிமுதல் செய்யப்பட்டன. மேலும் செய்திகளுக்கு சேலம் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🚨 கெங்கவல்லியில் வீடுகளில் மது பதுக்கி விற்ற 2 பேர் கைது - 50-க்கும் மேற்பட்ட பாட்டில்கள் பறிமுதல்!\n\n📰 முழு விவரம்:\nகெங்கவல்லி பகுதியில் சட்டவிரோதமாக மதுப்புட்டிகளைப் பதுக்கி வைத்து விற்பனை செய்வதாகக் கிடைத்தத் தகவலின்பேரில், காவல் ஆய்வாளர் சிவகுமார் தலைமையில் காவல்துறையினர் தீவிர கண்காணிப்பில் ஈடுபட்டனர். வியாழக்கிழமை இரவு கெங்கவல்லி இந்திரா காலனியைச் சேர்ந்த விஜயா (55 வயது), ஆத்தூர் பிரதான சாலையைச் சேர்ந்த சீனிவாசன் (55 வயது) ஆகியோரின் வீடுகளில் காவல்துறையினர் சோதனை நடத்தினர். அப்போது வீடுகளில் மதுப்புட்டிகளைப் பதுக்கி வைத்து விற்றது கண்டுபிடிக்கப்பட்டது. இதையடுத்து 2 பேரையும் காவல்துறையினர் கைது செய்து, அவர்களிடமிருந்து 50-க்கும் மேற்பட்ட மதுப்புட்டிகளைக் பறிமுதல் செய்தனர்.\n\n📍 இடம்: இந்திரா காலனி & ஆத்தூர் சாலை, கெங்கவல்லி\n🗓️ நாள்: வியாழக்கிழமை இரவு சோதனை\n👮 நடவடிக்கை: 2 பேர் கைது, 50-க்கும் மேற்பட்ட மது பாட்டில்கள் பறிமுதல்\n\nGangavalli illegal liquor selling two arrested Salem | Salem news\n📍 கெங்கவல்லி, சேலம் மாவட்டம் | 14 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Salem360 #Salem #Gangavalli #SalemNews #சேலம்",
-   "prompts": "A police team in khaki uniforms handcuffs and leads two middle‑aged suspects away from the front of a modest stone house, the arrest being the focal action of the news. The scene is set on a quiet residential lane in the Indira Colony neighbourhood of Gangavalli town, with low walls and a single‑story dwelling typical of the area. Police officers, seen from behind or side, stand upright, some holding batons, while the two suspects, a woman and a man both appearing about 55 years old, are shown from the back with hands cuffed, stepping toward a parked police jeep. No vehicles other than the jeep are visible; a wooden table nearby holds a heap of sealed liquor bottles, clearly more than fifty in number. The raid occurs on a Thursday night, under dim street‑lamp glow, with the darkness softened by the amber light. The camera is positioned at eye level, slightly to the side, using a 35 mm lens to capture the house façade, the police action and the bottle pile in one wide frame.” Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close‑up view focuses on a wooden tray piled with dozens of sealed liquor bottles, the key detail that tells the story of the seizure. The tray rests on a low table just inside the doorway of the same Indira Colony house, with the dark night visible through the open door behind. Police officers in khaki stand blurred in the background, their silhouettes indicating a recent raid, while the bottles—clear glass with caps, stacked in neat rows—are the only clearly identifiable objects, confirming that over fifty were confiscated. The setting is still the residential lane of Gangavalli, night‑time, illuminated only by a faint street lamp that casts soft shadows on the bottles. The camera is placed slightly above eye level, using a 35 mm lens to frame the tray tightly, ensuring the bottles dominate the composition while the surrounding context remains recognizable. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamani.com/all-editions/edition-dharmapuri/salem/2026/Nov/13/கெங்கவல்லியில்-மதுப்புட்டிகளை-பதுக்கிவிற்ற-2-போ்-கைது",
-   "published": "2026-11-13T16:57:25.361Z",
+   "reel_script": "பனமரத்துப்பட்டி களரம்பட்டியில் உள்ள கோவிலில் ராகு கேது வடிவம் கொண்ட விநாயகர் கற்சிலை திருடப்பட்டுள்ளது. சேலம் மாவட்டம் பனமரத்துப்பட்டி களரம்பட்டியில் அண்ணாமலையார் கோவில் அருகே சர்வ சித்தி விநாயகர் கோவில் அமைந்துள்ளது. இந்த சர்வ சித்தி விநாயகர் கோவிலில் நேற்று முன்தினம் இரவு பக்தர்கள் வழக்கம்போல சென்று வழிபாடு நடத்தினர். நேற்று காலை சென்று பார்த்தபோது அங்கிருந்த விநாயகர் கற்சிலையைக் காணவில்லை. ராகு மற்றும் கேது சிலைகளுடன் அமைந்திருந்த விநாயகர் கற்சிலையை அதிகாலையில் மர்ம நபர்கள் திருடிச் சென்றுள்ளனர். விநாயகர் கற்சிலை திருடப்பட்ட சம்பவம் குறித்து அப்பகுதி மக்கள் தகவல் தெரிவித்துள்ளனர். மேலும் செய்திகளுக்கு சேலம் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🚨 பனமரத்துப்பட்டி அருகே கோவிலில் விநாயகர் கற்சிலை திருட்டு\n\n📰 முழு விவரம்:\nசேலம் மாவட்டம் பனமரத்துப்பட்டி களரம்பட்டியில் அண்ணாமலையார் கோவில் அருகே சர்வ சித்தி விநாயகர் கோவில் அமைந்துள்ளது. இந்தக் கோவிலில் நேற்று முன்தினம் இரவு வரை பக்தர்கள் வழக்கம் போல் வழிபாடு நடத்தினர். நேற்று காலை சென்று பார்த்தபோது அங்கிருந்த விநாயகர் கற்சிலையைக் காணவில்லை. ராகு மற்றும் கேது சிலைகளுடன் இருந்த விநாயகர் கற்சிலையை அதிகாலையில் மர்ம நபர்கள் திருடிச் சென்றுள்ளதாக அப்பகுதி மக்கள் தெரிவித்துள்ளனர்.\n\n📍 இடம்: களரம்பட்டி, பனமரத்துப்பட்டி, சேலம் மாவட்டம்\n🗓️ நாள்: நேற்று முன்தினம் இரவு வழிபாடு / நேற்று காலை தெரியவந்தது\n\nதகவலைத் தேவைப்படுவோருக்கு Share செய்யுங்கள்.\n\nPanamarathupatti Kalarampatti Vinayagar idol stolen | Salem news\n📍 களரம்பட்டி, பனமரத்துப்பட்டி, சேலம் | 14 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Salem360 #Salem #Panamarathupatti #SalemNews #சேலம்",
+   "prompts": "A stone Vinayagar idol is absent from its pedestal, indicating a theft at the temple. The scene is set at the Annamalaiyar temple compound in Kalarampatti, a modest stone‑built shrine with a tiled roof and a small courtyard typical of Salem’s village temples. In the foreground, a few devotees in simple shirts and sarees stand with their backs to the camera, looking toward the empty pedestal, while a temple caretaker in a white dhoti watches from a distance. The empty stone pedestal sits on a raised platform beside the remaining Rahu and Ketu statues; a thin white police tape lies loosely around the base. The morning light casts soft shadows, clear sky, no rain. Shot from eye level with a 35 mm lens, wide enough to capture the temple façade and the empty pedestal. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close‑up view of the vacant stone pedestal where the Vinayagar idol once stood, highlighting the theft. The setting is the same temple courtyard in Kalarampatti, with the temple wall of weathered stone visible in the background. The camera focuses on the smooth, dust‑covered base, a thin strip of white police tape loosely draped around it, and a small brass oil lamp placed beside the pedestal as a silent offering. No people are in frame, only the empty spot that tells the story. The early daylight illuminates the stone surface, showing faint cracks and the surrounding sand‑colored floor. Shot slightly high, using a 35 mm lens to capture detail while keeping the temple’s architectural context in view. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-salem/ganesha-idol-stolen/4375708",
+   "published": "2026-11-14T04:19:00+05:30",
    "verification": "DRAFT (gemini/gemini-3.6-flash) - fact-check: no problems found",
    "note": "free-model draft gemini/gemini-3.6-flash, 1 attempt(s), 0 validator problem(s)",
    "post_time": "right after your reply, same day",
    "_area": "N",
    "_score": 999,
    "images": [
-    "https://res.cloudinary.com/jrmwajfz/image/upload/v1794601716/salem360/donsza8p9njqvfllwjic.jpg",
-    "https://res.cloudinary.com/jrmwajfz/image/upload/v1794601720/salem360/gs63iwpzgce5ncz7stfd.jpg"
+    "https://res.cloudinary.com/jrmwajfz/image/upload/v1794615071/salem360/xvzfctr9uo0a7jf86wgr.jpg",
+    "https://res.cloudinary.com/jrmwajfz/image/upload/v1794615075/salem360/c0gxfocmvnsjgctlsond.jpg"
    ]
   },
   {
-   "tamil_headline": "சேலம் பழங்குடியினர் நலக் குழுவில் 5 உறுப்பினர்கள்: நவ. 16க்குள் விண்ணப்பம்",
-   "english_headline": "Salem district tribal welfare committee to pick 5 members (2 women); applications by 16 Nov at Collectorate room 305",
-   "category": "Government & Services",
-   "location": "Salem district (Collectorate, Salem)",
+   "tamil_headline": "சங்ககிரி அருகே தீ குண்டத்தில் விழுந்த பெண்: தீயணைப்பு வீரர்கள் உடனடியாக மீட்பு",
+   "english_headline": "Woman loses balance and falls into fire pit at Sankari temple festival; rescued by firefighters with prompt first aid",
+   "category": "Temples & Events",
+   "location": "Vaikundam Sethupatti, Sankari taluk, Salem district",
    "importance": "Medium",
-   "scope": "district",
+   "scope": "local",
    "post_to": "Salem 360",
    "slides_spec": {
     "v": 3,
-    "cat": "அரசு அறிவிப்பு",
-    "loc": "சேலம் ஆட்சியர் அலுவலகம்",
-    "hl1": "பழங்குடியினர் நலக் குழு: விண்ணப்பம்",
-    "hl2": "கடைசி நாள் நவம்பர் 16",
+    "cat": "கோயில் திருவிழா",
+    "loc": "வைகுந்தம், சங்ககிரி",
+    "hl1": "சங்ககிரி அருகே தீ குண்டத்தில் விழுந்த",
+    "hl2": "தீயணைப்பு வீரர்கள் மீட்பு",
     "slides": [
      {
-      "title": "என்ன அறிவிப்பு?",
+      "title": "பொங்கல் திருவிழா",
       "lines": [
-       "சேலம் மாவட்டத்தில் பழங்குடியினர் நலக் குழு அமைக்கப்பட உள்ளது",
-       "குழுவில் <b>5 உறுப்பினர்கள்</b> தேர்வு செய்யப்படுவர்",
-       "அதில் <b>2 பெண்</b> உறுப்பினர்கள் இருப்பர்"
+       "<b>வைகுந்தம்</b> சேத்துப்பட்டி செல்லாண்டியம்மன் கோயில் விழா",
+       "கடந்த அக்டோபர் <b>28</b> ஆம் தேதி தொடங்கியது",
+       "<b>300க்கும் மேற்பட்ட</b> பக்தர்கள் தீமிதித்து வழிபாடு"
       ]
      },
      {
-      "title": "யார்",
+      "title": "திடீர் விபத்து",
       "lines": [
-       "பழங்குடியின இனத்தைச் சேர்ந்தவர்கள்",
-       "பழங்குடியினர் முன்னேற்றத்துக்காகத் தொடர்ந்து சேவை",
-       "நிலுவையில் குற்ற வழக்குகள் இல்லாதவர்கள்"
+       "கொழிஞ்சிகாட்டூரைச் சேர்ந்த <b>45 வயது</b> குப்பாயி",
+       "தீ குண்டத்தில் இறங்கியபோது நிலைதடுமாறி விழுந்தார்"
       ]
      },
      {
-      "title": "எங்கு, எப்போது?",
+      "title": "உடனடி மீட்பு",
       "lines": [
-       "சுயவிவரக் குறிப்புகளுடன் மனு கொடுக்க வேண்டும்",
-       "ஆட்சியர் அலுவலகம், திட்ட அலுவலகம், <b>அறை எண் 305</b>",
-       "கடைசி நாள் <b>16 நவம்பர்</b>க்குள் நேரில் சமர்ப்பிக்கவும்"
+       "பாதுகாப்புப் பணியில் இருந்த தீயணைப்பு வீரர்கள் மீட்பு",
+       "குளிர்ந்த நீர், பால் ஊற்றி முதலுதவி அளித்தனர்",
+       "தனியார் மருத்துவமனையில் சிகிச்சை பெற்று வீடு திரும்பினார்"
       ]
      }
     ],
     "carousel": false
    },
-   "reel_script": "சேலம் மாவட்டத்தில் பழங்குடியினர் நலக் குழுவுக்கு உறுப்பினர்கள் தேர்வு செய்யப்பட உள்ளனர். மாவட்ட ஆட்சியர் க.இளம்பகவத் இதை அறிவித்துள்ளார். பழங்குடியின மக்களின் கோரிக்கைகளையும் தேவைகளையும் விரைவாகத் தீர்க்கவும், அவர்களின் குரல் அரசின் கொள்கையில் பிரதிபலிக்கவும் இந்தக் குழு அமைக்கப்படுகிறது. இக்குழுவில் 5 உறுப்பினர்கள் தேர்வு செய்யப்படுவர். அவர்களில் இரண்டு பேர் பெண்களாக இருப்பர். பழங்குடியின மக்களிடையே தொடர்ந்து சேவையாற்றி வருபவர்கள் விண்ணப்பிக்கலாம். குற்ற வழக்குகள் எதுவும் நிலுவையில் இல்லாதவர்களாக இருக்க வேண்டும். விருப்ப மனுக்களை தங்கள் சுயவிவரக் குறிப்புகளுடன் ஆட்சியர் அலுவலகத்தில் உள்ள திட்ட அலுவலகம், பழங்குடியினர் நலம் அறை எண் 305இல் நேரில் சமர்ப்பிக்க வேண்டும். கடைசி நாள் நவம்பர் 16ஆம் தேதி. மேலும் செய்திகளுக்கு சேலம் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🏛️ சேலத்தில் பழங்குடியினர் நலக் குழு உறுப்பினர் விண்ணப்பம் – நவ. 16க்குள்\n\n📰 முழு விவரம்:\nசேலம் மாவட்டத்தில் பழங்குடியினர் நலக் குழு அமைக்கப்பட உள்ளது. இக்குழுவில் 5 உறுப்பினர்கள் தேர்வு செய்யப்படுவர்; அவர்களில் 2 பேர் பெண்களாக இருப்பர். பழங்குடியின மக்களின் கோரிக்கைகளையும் தேவைகளையும் விரைவாகத் தீர்க்கவும், அரசின் கொள்கை, திட்டமிடலில் அவர்களின் குரல் பிரதிபலிக்கவும் இந்தக் குழு அமைக்கப்படுகிறது. மாவட்ட ஆட்சியர் க.இளம்பகவத் இதைத் தெரிவித்துள்ளார்.\n📍 இடம்: சேலம் ஆட்சியர் அலுவலகம், திட்ட அலுவலகம், பழங்குடியினர் நலம் அறை எண் 305\n🗓️ கடைசி நாள்: நவம்பர் 16ஆம் தேதிக்குள்\nℹ️ மக்கள் கவனத்திற்கு: பழங்குடியின இனத்தைச் சேர்ந்தவர்கள், பழங்குடியினர் முன்னேற்றத்துக்காகத் தொடர்ந்து சேவை செய்பவர்கள், குற்ற வழக்குகள் நிலுவையில் இல்லாதவர்கள் தங்கள் சுயவிவரக் குறிப்புகளுடன் நேரில் மனு கொடுக்கலாம்.\nதேவைப்படுவோருக்கு Share செய்யுங்கள்.\n\nSalem tribal welfare committee members applications till 16 Nov | Salem news\n📍 சேலம் ஆட்சியர் அலுவலகம், சேலம் மாவட்டம் | 13 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Salem360 #Salem #SalemNews #சேலம்",
-   "prompts": "A line of tribal community applicants stands inside a government office corridor, submitting documents for the Tribal Welfare Committee. The location is Room 305 of the Salem District Collectorate, a formal government building with tiled floors and plain walls. Several men and women, dressed in simple traditional attire such as veshti and sarees, are seen from behind, holding folders or papers. They are queuing to hand over their self-detail forms to an official at a desk. The room contains a wooden table with stacks of paper files and a computer monitor. The lighting is bright, typical of indoor fluorescent office lights. The camera is at eye level, 35 mm, capturing the queue and the submission point clearly without showing faces. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up view of a stack of application forms and self-detail documents lying on a wooden office desk. The papers are plain white sheets with handwritten or typed details, representing the submissions for the five committee members. In the blurred background, the corner of a government office room is visible, with a filing cabinet and a wall clock. The focus is sharp on the top document, highlighting the act of submission. The lighting is even and artificial, coming from ceiling fixtures. The camera is slightly high, angled down at 45 degrees, 35 mm, ensuring the documents are the central subject while keeping the background context of the Collectorate office subtle. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamani.com/all-editions/edition-dharmapuri/salem/2026/Nov/13/பழங்குடியினா்-நலக்-குழுஉறுப்பினா்களை-தோ்வு-செய்ய-விண்ணப்பங்கள்-வரவேற்பு",
-   "published": "2026-11-13T16:58:01.027Z",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: hl1 (the first headline on screen) must name the place 'சேலம் ஆட்சியர் அலுவலகம்', e.g. 'சேலம் ஆட்சியர் அலுவலகம்: ...' or 'சேலம் ஆட்சியர் அலுவலகம்-இல் ...' - viewers share news of their own area",
-   "note": "free-model draft anthropic/claude-haiku-5-5, 13 attempt(s), 1 validator problem(s)",
+   "reel_script": "சங்ககிரி அருகே தீ குண்டத்தில் விழுந்த பெண் தீயணைப்பு வீரர்களால் மீட்டெடுக்கப்பட்டார். சங்ககிரி அருகே உள்ள வைகுந்தம் சேத்துப்பட்டி செல்லாண்டியம்மன் மற்றும் மாரியம்மன் கோவில் பொங்கல் திருவிழா கடந்த அக்டோபர் 28ஆம் தேதி தொடங்கியது. நேற்று மாரியம்மன் கோவில் வளாகத்தில் அமைக்கப்பட்ட தீ குண்டத்தில் இறங்கி 300க்கும் மேற்பட்ட பக்தர்கள் நேர்த்திக்கடன் செலுத்தினர். அப்போது கொழிஞ்சிகாட்டூர் கீழ்வளவையைச் சேர்ந்த 45 வயது குப்பாயி என்பவர் தீ குண்டத்தில் இறங்கியபோது நிலைதடுமாறி தீயில் விழுந்தார். அங்கு பாதுகாப்புப் பணியில் இருந்த சங்ககிரி தீயணைப்பு நிலைய அலுவலர் ரமேஷ்குமார் தலைமையிலான வீரர்கள் அவரை உடனடியாக மீட்டனர். அவர்கள் அப்பெண் மீது குளிர்ந்த நீர் மற்றும் பாலை ஊற்றி முதலுதவி சிகிச்சை அளித்தனர். பின்னர் அந்தப் பெண் அருகில் உள்ள தனியார் மருத்துவமனையில் சிகிச்சை பெற்று நலமுடன் வீடு திரும்பினார். மேலும் செய்திகளுக்கு சேலம் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🔥 சங்ககிரி அருகே தீ குண்டத்தில் விழுந்த 45 வயது பெண்: தீயணைப்பு வீரர்கள் உடனடி மீட்பு\n\n📰 முழு விவரம்:\nசேலம் மாவட்டம் சங்ககிரி அருகே வைகுந்தம் சேத்துப்பட்டி செல்லாண்டியம்மன், மாரியம்மன் கோவில் பொங்கல் திருவிழா கடந்த அக்டோபர் 28ஆம் தேதி தொடங்கியது. நேற்று மாரியம்மன் கோவில் வளாகத்தில் அமைக்கப்பட்ட தீ குண்டத்தில் இறங்கி 300க்கும் மேற்பட்ட பக்தர்கள் சுவாமி தரிசனம் செய்தனர்.\n\nஅப்போது கொழிஞ்சிகாட்டூர் பகுதியைச் சேர்ந்த 45 வயது குப்பாயி என்பவர் தீ குண்டத்தில் இறங்கியபோது நிலைதடுமாறி தீயில் விழுந்தார். பாதுகாப்புப் பணியில் இருந்த சங்ககிரி தீயணைப்பு நிலைய அலுவலர் ரமேஷ்குமார் மற்றும் வீரர்கள் அவரை உடனடியாக மீட்டு குளிர்ந்த நீர், பால் ஊற்றி முதலுதவி அளித்தனர். பின்னர் தனியார் மருத்துவமனையில் சிகிச்சை பெற்ற அப்பெண் நலமுடன் வீடு திரும்பினார்.\n\n📍 இடம்: வைகுந்தம் சேத்துப்பட்டி, சங்ககிரி\n🗓️ நாள்: 13 நவம்பர் 2026\n🚒 நடவடிக்கை: தீயணைப்புத் துறையினர் உடனடி முதலுதவி அளித்து மீட்பு\n\nதேவைப்படுவோருக்கு Share செய்யுங்கள்\n\nSankari Vaikundam temple fire pit accident woman rescued | Salem news\n📍 சங்ககிரி, சேலம் மாவட்டம் | 14 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Salem360 #Salem #Sankari #SalemNews #சேலம்",
+   "prompts": "A row of devotees in Tamil Nadu village festival attire, men in white veshti and women in cotton sarees, walk barefoot toward a long rectangular fire pit (theekundam) in the outer compound of a Mariamman temple in Vaikundam Sethupatti, Sankari taluk, Salem district. Glowing embers and thin smoke rise from the pit. Behind them stands a modest temple gopuram painted in bright colours, with decorated kolam patterns on the ground and a few brass pots of offerings. Several Tamil Nadu firefighters in dark uniform stand alert at the pit's edge, watching the crowd. Bright midday daylight, warm colours, dust in the air. Shot at eye level, 35 mm lens, wide enough to show the pit, the temple and the crowd, with people seen from behind or at a distance. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up of the edge of a fire pit in a temple compound in Salem district: the rim of a low brick and stone-lined pit holds glowing red embers and grey ash, with a steel bucket of cold water and a brass pot of milk placed on the ground beside it. A firefighter's booted foot and the sleeve of a dark uniform are visible at the frame edge, and a few bare feet of devotees are blurred in the background. Smoke drifts upward in the warm afternoon light. Shot slightly high, 35 mm, shallow depth of field focusing on the embers and the water bucket. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-salem/woman-firefighter-rescued-after-falling-into-pit/4375689",
+   "published": "2026-11-14T04:13:00+05:30",
+   "verification": "DRAFT (gemini/gemini-3.6-flash) - fact-check: no problems found",
+   "note": "free-model draft gemini/gemini-3.6-flash, 1 attempt(s), 0 validator problem(s)",
    "post_time": "right after your reply, same day",
    "_area": "N",
    "_score": 999,
    "images": [
-    "https://res.cloudinary.com/jrmwajfz/image/upload/v1794601766/salem360/ewunro8yshfipkrdivvm.jpg",
-    "https://res.cloudinary.com/jrmwajfz/image/upload/v1794601782/salem360/mxiknncbxvze8qa0vvcg.jpg"
+    "https://res.cloudinary.com/jrmwajfz/image/upload/v1794615099/salem360/c1szqrwczdhr8uevbz9h.jpg",
+    "https://res.cloudinary.com/jrmwajfz/image/upload/v1794615103/salem360/xrkjyae3emhkghmt23fj.jpg"
    ]
   },
   {
-   "tamil_headline": "சேலம் கன்னங்குறிச்சி: மாணவர்கள் பெயரில் ரூ.50 கோடி மோசடி, மேலும் 2 பேர் கைது",
-   "english_headline": "Salem Kannankurichi: 2 more arrested in Rs 50 crore loan fraud using college students' names; total arrests now 8",
+   "tamil_headline": "சேலத்தில் 11 வயது சிறுமிக்குப் பாலியல் தொல்லை: தொழிலாளி போக்சோ சட்டத்தில் கைது",
+   "english_headline": "Salem: fish-cutting worker Ayyanar, 45, arrested under POCSO for sexually harassing an 11-year-old girl",
    "category": "Crime & Safety",
-   "location": "Kannankurichi, Salem city, Salem district",
+   "location": "Irusanampatti, Attayampatti taluk, Salem district",
    "importance": "High",
    "scope": "local",
    "post_to": "Salem 360",
    "slides_spec": {
     "v": 3,
-    "cat": "மோசடி வழக்கு",
-    "loc": "சேலம் கன்னங்குறிச்சி",
-    "hl1": "சேலம் கன்னங்குறிச்சி: மாணவர் பெயரில்",
-    "hl2": "இதுவரை 8 பேர் கைது",
+    "cat": "குற்றச் செய்தி",
+    "loc": "இருசணம்பட்டி, ஆட்டையாம்பட்டி",
+    "hl1": "11 வயது சிறுமிக்குப் பாலியல் தொல்லை",
+    "hl2": "போக்சோ சட்டத்தில் கைது",
     "slides": [
      {
       "title": "என்ன நடந்தது?",
       "lines": [
-       "கல்லூரி மாணவர்கள் பெயரில் வங்கியில் கடன் வாங்கி மோசடி",
-       "மோசடி மதிப்பு <b>ரூ.50 கோடி</b> வரை எனக் கூறப்படுகிறது",
-       "மத்திய குற்றப்பிரிவு போலீஸார் விசாரணை நடத்தினர்"
+       "ஆட்டையாம்பட்டி அடுத்த இருசணம்பட்டியில் சம்பவம்",
+       "11 வயது சிறுமிக்குப் பாலியல் தொல்லை கொடுக்கப்பட்டது",
+       "சம்பவம் சமீபத்தில் நடந்தது"
       ]
      },
      {
-      "title": "யார் கைது?",
+      "title": "யார் இவர்?",
       "lines": [
-       "கண்ணகி (40 வயது), முத்துக்குமரன் (42 வயது) கைது",
-       "அஜித்குமார் (27 வயது), சுகுமார் (30 வயது), அரவிந்த் (23 வயது), மோனிஷா (28 வயது)",
-       "மணிகண்டன் (30 வயது), பூபாலன் (33 வயது) வெள்ளிக்கிழமை கைது"
+       "பாளையூரைச் சேர்ந்த மீன் வெட்டும் தொழிலாளி",
+       "பெயர் அய்யனார், வயது <b>45</b>",
+       "குற்றம் சாட்டப்பட்டவர் இவர்"
       ]
      },
      {
-      "title": "இதுவரை நிலை",
+      "title": "கைது நடவடிக்கை",
       "lines": [
-       "வழக்கில் இதுவரை கைதானோர் <b>8 பேர்</b>",
-       "வங்கி அதிகாரிகளுக்கு தொடர்பு உள்ளதா என விசாரணை",
-       "இதுவரை 8 பேரும் நீதிமன்ற நடவடிக்கையை எதிர்கொள்வர்"
+       "சிறுமியின் பெற்றோர் கொடுத்த புகாரின் அடிப்படையில் விசாரணை",
+       "சேலம் டவுன் மகளிர் போலீசார் விசாரணை நடத்தினர்",
+       "போக்சோ சட்டத்தில் நேற்று கைது செய்யப்பட்டார்"
       ]
      }
     ],
     "carousel": false
    },
-   "reel_script": "சேலம் கன்னங்குறிச்சியில் மாணவர்கள் பெயரில் கடன் வாங்கி மோசடி நடந்தது. கல்லூரி மாணவர்கள் பெயரில் வங்கிகளில் கடன் வாங்கி ரூ.50 கோடி வரை மோசடி செய்ததாகக் கூறப்படும் புகாரில் விசாரணை நடந்தது. கன்னங்குறிச்சியைச் சேர்ந்த கண்ணகி அறக்கட்டளை நடத்தி வந்தார். வங்கிகள் மூலம் பசுமாடு வாங்கக் கடன் பெற்றுத் தருவதாகக் கூறி, கல்லூரி மாணவர்களின் ஆதார் நகலைப் பெற்றார். மத்திய குற்றப்பிரிவு போலீஸார் நடத்திய விசாரணையில் மோசடி உறுதியானது. கண்ணகி (40 வயது), முத்துக்குமரன் (42 வயது) ஆகியோர் கைது செய்யப்பட்டனர். வியாழக்கிழமை இரவு அஜித்குமார் (27 வயது), சுகுமார் (30 வயது), அரவிந்த் (23 வயது), மோனிஷா (28 வயது) ஆகிய 4 பேர் கைது செய்யப்பட்டனர். வெள்ளிக்கிழமை பெருமாம்பட்டியைச் சேர்ந்த மணிகண்டன் (30 வயது), வேடுகாத்தம்பட்டியைச் சேர்ந்த பூபாலன் (33 வயது) கைது செய்யப்பட்டனர். இதன்மூலம் வழக்கில் இதுவரை கைதானோர் எண்ணிக்கை 8 ஆக உயர்ந்துள்ளது. மோசடியில் வங்கி அதிகாரிகளுக்கு உள்ள தொடர்பு குறித்தும் போலீஸார் தீவிர விசாரணை நடத்தி வருகின்றனர். மேலும் செய்திகளுக்கு சேலம் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🚨 சேலம் கன்னங்குறிச்சி: மாணவர் பெயரில் ரூ.50 கோடி மோசடி, இதுவரை 8 பேர் கைது\n\n📰 முழு விவரம்:\nசேலம் கன்னங்குறிச்சியில் கல்லூரி மாணவர்கள் பெயரில் வங்கியில் கடன் வாங்கி ரூ.50 கோடி வரை மோசடி செய்ததாகக் கூறப்படும் புகாரில், மத்திய குற்றப்பிரிவு போலீஸார் விசாரணை நடத்தினர்.\nஅறக்கட்டளை நடத்தி வந்த கண்ணகி, வங்கிகள் மூலம் பசுமாடு வாங்கக் கடன் பெற்றுத் தருவதாகக் கூறி, கல்லூரி மாணவர்களின் ஆதார் நகலைப் பெற்று மோசடியில் ஈடுபட்டது தெரியவந்தது.\nவிசாரணையில் கல்லூரி மாணவர்களின் பெயரில் வங்கிகளில் கடன் வாங்கி மோசடி செய்திருப்பது உறுதியானது.\n👮 கைது விவரம்:\nகண்ணகி (40 வயது), முத்துக்குமரன் (42 வயது) - கைது\nவியாழக்கிழமை இரவு: அஜித்குமார் (27 வயது), சுகுமார் (30 வயது), அரவிந்த் (23 வயது), மோனிஷா (28 வயது) - கைது\nவெள்ளிக்கிழமை: பெருமாம்பட்டியைச் சேர்ந்த மணிகண்டன் (30 வயது), வேடுகாத்தம்பட்டியைச் சேர்ந்த பூபாலன் (33 வயது) - கைது\nஇதுவரை வழக்கில் கைதானோர் எண்ணிக்கை 8 ஆக உயர்ந்துள்ளது.\n🏦 மோசடியில் வங்கி அதிகாரிகளுக்கு உள்ள தொடர்பு குறித்தும் போலீஸார் தீவிர விசாரணை நடத்தி வருகின்றனர்.\n\nSalem Kannankurichi student loan fraud Rs 50 crore, 8 arrested | Salem news\n📍 கன்னங்குறிச்சி, சேலம் | 14 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Salem360 #Salem #SalemNews #சேலம்",
-   "prompts": "Two Central Crime Branch police officers in khaki uniform lead two men with their hands loosely held in front, walking out of a small two-storey concrete building in Kannankurichi, Salem city, where a sign-free trust office has its shutter half-raised. Shot from the back as the men are led down the front steps toward a white police jeep parked on the narrow residential street. The street has a parked two-wheeler, a few plastered compound walls, electricity poles with TNEB wires overhead and a mango tree on the roadside. Bright late-morning daylight casts short shadows, the sky is clear and the air is warm. A few onlookers in shirts, veshti and sarees stand at a distance by a tea stall. Camera at eye level, 35 mm, wide enough to show the building, the jeep and the street. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up on a plain wooden table inside a government-style office room, with a neat stack of printed loan documents, several photocopies of Aadhaar cards with the photos blurred out, a ballpoint pen and a plastic file folder spread open. A khaki-uniformed police hand with a wristwatch rests at the edge of the frame, blurred. Behind the table a tubelight-lit wall and a grey steel almirah. Soft indoor light from the window mixes with the tubelight, the atmosphere is calm and official. Camera at slightly high angle, 35 mm macro-like detail, shallow depth of field keeping the papers sharp and the background softly out of focus. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamani.com/all-editions/edition-dharmapuri/salem/2026/Nov/13/மாணவா்கள்-பெயரில்-கடன்-வாங்கி-மோசடி-செய்த-வழக்கில்-மேலும்-2-போ்-கைது",
-   "published": "2026-11-13T16:55:35.612Z",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: slide 2 line 2 longer than 60 characters; caption misses facts of the article (put every one in 📰 முழு விவரம்): 2 ('50 கோடி வரை மோசடி செய்ததாக கூறப்படும் புகாரில், மேலும் 2 பேர'); 4 ('அதன் தொடா்ச்சியாக, வழக்கில் தொடா்புடைய அஜித்குமாா் (27), சுக'); 2 ('அதன் தொடா்ச்சியாக, வழக்கில் தொடா்புடைய அஜித்குமாா் (27), சுக'); 2 ('மாணவா்கள் பெயரில் கடன் வாங்கி மோசடி செய்த வழக்கில் மேலும் 2 ')",
+   "reel_script": "சேலத்தில் 11 வயது சிறுமிக்குப் பாலியல் தொல்லை கொடுத்த தொழிலாளி போக்சோ சட்டத்தில் கைது செய்யப்பட்டார். ஆட்டையாம்பட்டி அடுத்த இருசணம்பட்டியில் இந்தச் சம்பவம் நடந்துள்ளது. பாளையூரைச் சேர்ந்த மீன் வெட்டும் தொழிலாளி அய்யனார், வயது 45, இந்தக் குற்றச்சாட்டுக்கு உள்ளானவர். சமீபத்தில் அவர் சிறுமிக்குப் பாலியல் தொல்லை கொடுத்துள்ளார். சிறுமியின் பெற்றோர் அளித்த புகாரின் அடிப்படையில் போலீசார் விசாரணை நடத்தினர். சேலம் டவுன் மகளிர் போலீசார் விசாரித்து, நேற்று அய்யனாரைப் போக்சோ சட்டத்தில் கைது செய்தனர். மேலும் செய்திகளுக்கு சேலம் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🚨 ஆட்டையாம்பட்டி அருகே 11 வயது சிறுமிக்குப் பாலியல் தொல்லை: தொழிலாளி கைது\n\n📰 முழு விவரம்:\nஆட்டையாம்பட்டி அடுத்த இருசணம்பட்டியில், பாளையூரைச் சேர்ந்த மீன் வெட்டும் தொழிலாளி அய்யனார், வயது 45, சமீபத்தில் 11 வயது சிறுமிக்குப் பாலியல் தொல்லை கொடுத்துள்ளார். சிறுமியின் பெற்றோர் அளித்த புகாரின் அடிப்படையில் சேலம் டவுன் மகளிர் போலீசார் விசாரித்தனர். போக்சோ சட்டத்தில் நேற்று அய்யனார் கைது செய்யப்பட்டார்.\n📍 இடம்: இருசணம்பட்டி, ஆட்டையாம்பட்டி அடுத்த, சேலம் மாவட்டம்\n👮 நடவடிக்கை: போக்சோ சட்டத்தில் கைது\n\nAyyanar arrested under POCSO Attayampatti Salem | Salem news\n📍 இருசணம்பட்டி, சேலம் மாவட்டம் | 14 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Salem360 #Salem #SalemNews #சேலம்",
+   "prompts": "Two women police officers in khaki uniform lead a man in a shirt and veshti away from a small house in Irusanampatti village, Attayampatti taluk, Salem district, while a few neighbours stand at a distance along a narrow dusty lane lined with modest concrete and tiled houses. The man is seen from behind and far away, his face not visible, and his arms are held by the officers. A police jeep is parked at the edge of the lane with its door open, and a few mango trees and a water tank appear in the background. The scene is in daylight with soft, even light and a clear sky. Shot at eye level or slightly high, 35 mm, wide enough to show the village lane, the police and the houses together, with the people kept small and anonymous in the frame. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up of a wooden chopping board on a fish-market table in a Salem town fish stall, with a large fish-cutting knife resting beside a few fresh fish and a steel tray, the blade catching daylight. Behind it, slightly out of focus, a police officer in khaki uniform stands near the stall, and a plastic basket of fish lies on the floor. No readable signboards or labels are visible, and no person's face is shown. The background includes a corrugated shed roof and a dusty road in soft focus. Daylight, neutral tones. Shot at eye level, 35 mm, close enough to make the knife and chopping board the clear focus while showing the police presence faintly in the background. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-salem/protecting-the-worker/4375693",
+   "published": "2026-11-14T04:16:00+05:30",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: sentence 1 (one-line story) has 12 words; make it 6-9 words (about 2-3 seconds), the details follow in the next sentences; hl1 (the first headline on screen) must name the place 'இருசணம்பட்டி', e.g. 'இருசணம்பட்டி: ...' or 'இருசணம்பட்டி-இல் ...' - viewers share news of their own area",
    "note": "free-model draft anthropic/claude-haiku-5-5, 12 attempt(s), 2 validator problem(s)",
    "post_time": "right after your reply, same day",
    "_area": "N",
    "_score": 999,
    "images": [
-    "https://res.cloudinary.com/jrmwajfz/image/upload/v1794601790/salem360/uexrs8isoqwok0vf3cgf.jpg",
-    "https://res.cloudinary.com/jrmwajfz/image/upload/v1794601794/salem360/yvlacfr4cnezjfzoh8xc.jpg"
+    "https://res.cloudinary.com/jrmwajfz/image/upload/v1794615127/salem360/vmvzrpx1wud0zy1zwwym.jpg",
+    "https://res.cloudinary.com/jrmwajfz/image/upload/v1794615131/salem360/nqdd9vq5wltemmtk8jwm.jpg"
    ]
   }
  ]
