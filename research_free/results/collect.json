@@ -1,298 +1,431 @@
 {
  "log": [
   "earlier stories still waiting for images: []",
-  "instagram check: 46 recent posts read from the page",
+  "instagram check: 49 recent posts read from the page",
   "pick round: only the picked links are written (research_free/pick.py)",
-  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-salem/fire-destroys-cartons-at-tasmac-store/4376559",
-  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-salem/special-weekly-train-announcement/4376553",
-  "manual link added: https://www.hindutamil.in/news/tamilnadu/bawaria-gang-infiltration-near-mettur-area-police-alert-people",
-  "candidate filter: collected=3",
-  "to write: 3 Salem district candidates (max 3 stories)",
-  "round: top 3 of 3 candidates",
-  "candidates waiting: 3 Salem; time left 79 min",
-  "try (N) manual=True: https://www.hindutamil.in/news/tamilnadu/bawaria-gang-infilt",
+  "manual link added: https://www.maalaimalar.com/news/tamilnadu/drinking-water-pipeline-burst-water-gushed-out-onto-the-road-like-a-waterfall",
+  "manual link added: https://www.dinamani.com/tamilnadu/2026/Nov/15/burst-in-drinking-water-supply-pipeline-hundreds-of-thousands-of-litres-of-water-wasted",
+  "manual link added: https://www.dinamani.com/all-editions/edition-dharmapuri/salem/2026/Nov/14/ஆத்தூரில்-ட்ரோன்-மூலம்-போலீஸாா்-தீவிர-கண்காணிப்பு",
+  "manual link added: https://www.dinamani.com/all-editions/edition-dharmapuri/salem/2026/Nov/14/special-train-to-kollam-via-salem-for-the-convenience-of-ayyappa-devotees",
+  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-salem/surasamahara-in-murugan-temples-today/4376558",
+  "candidate filter: collected=5",
+  "to write: 5 Salem district candidates (max 5 stories)",
+  "round: top 5 of 5 candidates",
+  "candidates waiting: 5 Salem; time left 79 min",
   "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-sale",
-  "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-sale",
+  "try (N) manual=True: https://www.dinamani.com/all-editions/edition-dharmapuri/sal",
+  "try (N) manual=True: https://www.dinamani.com/all-editions/edition-dharmapuri/sal",
   "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 2})",
   "posting job started at once",
+  "try (N) manual=True: https://www.dinamani.com/tamilnadu/2026/Nov/15/burst-in-drin",
   "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 4})",
+  "try (N) manual=True: https://www.maalaimalar.com/news/tamilnadu/drinking-water-pi",
   "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 6})",
-  "candidate loop ended: left 0, tried={'N': 3}, done={'N': 3}, time left 76 min",
-  "filed: 3 Salem district stories (target 3), reels only",
+  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 8})",
+  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 10})",
+  "candidate loop ended: left 0, tried={'N': 5}, done={'N': 5}, time left 76 min",
+  "filed: 5 Salem district stories (target 5), reels only",
   "queue: 0 news waiting to be written",
-  "All News sheet: {\"ok\":true,\"added\":3,\"updated\":0}"
+  "All News sheet: {\"ok\":true,\"added\":5,\"updated\":0}"
  ],
  "llm": [
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high d",
-  "ok gemini/gemini-3.6-flash (30s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "fail gemini/gemini-3.6-flash: Expecting ',' delimiter: line 1 column 1264 (char 1263)",
-  "poor answer - skipped for 30 min: gemini/gemini-3.6-flash",
-  "ok gemini/gemini-3.6-flash (22s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok gemini/gemini-3.5-flash (8s)",
+  "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
+  "dead for this round: gemini/gemini-3.6-flash",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
-  "ok gemini/gemini-3.6-flash (24s)",
+  "dead for this round: gemini/gemini-3.5-flash",
+  "ok gemini/gemini-3.6-flash (10s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
-  "ok gemini/gemini-3.5-flash (27s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
-  "ok gemini/gemini-3.5-flash (17s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high d",
-  "ok gemini/gemini-3.5-flash (25s)",
+  "ok gemini/gemini-3-flash-preview (9s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok gemini/gemini-3.5-flash (26s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok gemini/gemini-3.5-flash (18s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok gemini/gemini-3.5-flash (23s)",
+  "ok gemini/gemini-3.5-flash (10s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok gemini/gemini-3.5-flash (7s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok gemini/gemini-3.5-flash (23s)",
+  "ok gemini/gemini-3-flash-preview (4s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok gemini/gemini-3.5-flash (24s)",
+  "ok gemini/gemini-3-flash-preview (9s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok gemini/gemini-3.5-flash (21s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok gemini/gemini-3.5-flash (3s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok gemini/gemini-3.5-flash (24s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok gemini/gemini-3.5-flash (7s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
-  "ok gemini/gemini-3.5-flash (18s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
-  "ok gemini/gemini-3.5-flash (14s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
-  "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
-  "switching away from gemini/gemini-3.5-flash for 10 min",
-  "ok gemini/gemini-3.5-flash (8s)",
   "ok gemini/gemini-3-flash-preview (6s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "ok gemini/gemini-3.5-flash (16s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok gemini/gemini-3-flash-preview (6s)",
+  "ok gemini/gemini-3-flash-preview (28s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok gemini/gemini-3-flash-preview (14s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok gemini/gemini-3-flash-preview (6s)",
-  "ok gemini/gemini-3-flash-preview (13s)",
+  "fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, plea",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok gemini/gemini-3-flash-preview (6s)"
+  "fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, plea",
+  "fail gemini/gemini-3-flash-preview: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=60)",
+  "poor answer - skipped for 30 min: gemini/gemini-3-flash-preview",
+  "ok gemini/gemini-3-flash-preview (9s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 400: {\"error\":{\"message\":\"Failed to validate JSON. Please adjust your prompt. See 'failed_gener",
+  "ok groq/qwen/qwen3.8-27b (3s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
+  "switching away from groq/openai/gpt-oss-120b for 10 min",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
+  "ok groq/qwen/qwen3.8-27b (0s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "ok gemini/gemini-3-flash-preview (54s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
+  "ok groq/qwen/qwen3.8-27b (3s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
+  "switching away from groq/qwen/qwen3.8-27b for 10 min",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
+  "switching away from groq/qwen/qwen3.8-27b for 10 min",
+  "ok anthropic/claude-haiku-5-5",
+  "ok groq/qwen/qwen3.8-27b (0s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5"
  ],
  "stories": [
   {
-   "tamil_headline": "இடைப்பாடி டாஸ்மாக் கடையில் தீ விபத்து: ரூ.10,000 மதிப்பிலான அட்டைப்பெட்டிகள் நாசம்",
-   "english_headline": "Fire breaks out at TASMAC shop in Edappadi: Cardboard boxes worth Rs 10,000 destroyed",
+   "tamil_headline": "ஆத்தூரில் ட்ரோன் மூலம் போலீஸார் தீவிர கண்காணிப்பு: பேருந்து நிலையம் மற்றும் பாலங்களில் சோதனை",
+   "english_headline": "Attur police deploy drones for intensive surveillance at bus stand, bazaar street, and Vasishta river bridges",
    "category": "Crime & Safety",
-   "location": "Kallukkadai, Edappadi town, Salem district",
+   "location": "Attur town and Narasingapuram, Salem district",
    "importance": "Medium",
    "scope": "local",
    "post_to": "Salem 360",
    "slides_spec": {
     "v": 3,
-    "cat": "தீ விபத்து",
-    "loc": "கல்லுக்கடை, இடைப்பாடி",
-    "hl1": "இடைப்பாடியில் டாஸ்மாக் கடையில் தீ",
-    "hl2": "ரூ.10,000 அட்டைப்பெட்டிகள்",
+    "cat": "குற்றத் தடுப்பு",
+    "loc": "ஆத்தூர், சேலம்",
+    "hl1": "ஆத்தூரில் ட்ரோன் கண்காணிப்பு",
+    "hl2": "போலீஸார் தீவிர நடவடிக்கை",
     "slides": [
      {
-      "title": "என்ன நடந்தது?",
+      "title": "எங்கே கண்காணிப்பு?",
       "lines": [
-       "இடைப்பாடி கல்லுக்கடை டாஸ்மாக் கடையில் தீ",
-       "கடை பின்புற தகர செட்டில் தீ பரவியது"
+       "ஆத்தூர் <b>பேருந்து நிலையம்</b>",
+       "<b>வசிஷ்டநதி பாலம்</b>, கடைவீதி",
+       "காமராஜனார் சாலை, நரசிங்கபுரம் பாலம்"
       ]
      },
      {
-      "title": "தீ பரவிய காரணம்",
+      "title": "யார் தலைமை?",
       "lines": [
-       "ராஜா என்பவர் நேற்று குப்பைக்கு தீ வைத்தார்",
-       "அந்தத் தீ அருகில் இருந்த அட்டைப்பெட்டிகளுக்கும் பரவியது"
+       "நகர காவல் ஆய்வாளர் <b>எஸ்.சங்கர்</b>",
+       "சனிக்கிழமை ட்ரோன் மூலம் ரோந்து",
+       "குற்றங்களைத் தடுக்க தீவிர நடவடிக்கை"
       ]
      },
      {
-      "title": "சேதம் & நடவடிக்கை",
+      "title": "நோக்கம் என்ன?",
       "lines": [
-       "இடைப்பாடி தீயணைப்பு படையினர் தீயைக் கட்டுப்படுத்தினர்",
-       "<b>ரூ.10,000</b> மதிப்பிலான அட்டைப்பெட்டிகள் நாசம்",
-       "பூலாம்பட்டி போலீசார் விசாரணை நடத்துகின்றனர்"
+       "ஆத்தூர் நகரம், நரசிங்கபுரம் பகுதிகள்",
+       "சுற்றியுள்ள சிறு கிராமங்களில் தீவிர ரோந்து",
+       "குற்றச் சம்பவங்கள் நடப்பதைத் தடுக்க ஏற்பாடு"
       ]
      }
     ],
     "carousel": false
    },
-   "reel_script": "இடைப்பாடி டாஸ்மாக் கடையில் தீப்பற்றி 10,000 ரூபாய் அட்டைப்பெட்டிகள் நாசமாகின. இடைப்பாடி கல்லுக்கடையில் உள்ள டாஸ்மாக் கடையில் சிவக்குமார் என்பவர் மேற்பார்வையாளராக உள்ளார். கடையின் பின்புறம் உள்ள தகர செட்டில் மதுபாட்டில்கள் வரும் அட்டைப்பெட்டிகள் இருப்பு வைக்கப்படுகின்றன. நேற்று ராஜா என்பவர் அப்பகுதியைச் சுத்தம் செய்து குப்பைக்கு தீ வைத்தார். அந்தத் தீ அருகில் இருந்த பழைய அட்டைப்பெட்டிகளுக்கும் பரவி எரியத் தொடங்கியது. தகவல் அறிந்து சம்பவ இடத்திற்கு வந்த இடைப்பாடி தீயணைப்புத் துறையினர் தீயைக் கட்டுப்படுத்தினர். இந்த விபத்தில் 10,000 ரூபாய் மதிப்பிலான அட்டைப்பெட்டிகள் எரிந்து சேதமடைந்தன. இச்சம்பவம் தொடர்பாக பூலாம்பட்டி காவல் துறையினர் விசாரணை நடத்தி வருகின்றனர். மேலும் செய்திகளுக்கு சேலம் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🔥 இடைப்பாடி டாஸ்மாக் கடையில் தீ: ரூ.10,000 மதிப்பிலான அட்டைப்பெட்டிகள் நாசம்\n\n📰 முழு விவரம்:\nஇடைப்பாடி கல்லுக்கடையில் உள்ள டாஸ்மாக் கடை பின்புறம் உள்ள தகர செட்டில் மதுபாட்டில்கள் வரும் அட்டைப்பெட்டிகள் இருப்பு வைக்கப்பட்டு இருந்தன. நேற்று அங்கு சுத்தம் செய்த ராஜா என்பவர் குப்பைக்கு தீ வைத்தபோது, அந்தத் தீ அட்டைப்பெட்டிகளுக்கும் பரவி எரியத் தொடங்கியது. இடைப்பாடி தீயணைப்புத் துறையினர் வந்து தீயைக் கட்டுப்படுத்தினர். இதில் ரூ.10,000 மதிப்பிலான பெட்டிகள் எரிந்து நாசமாகின.\n\n📍 இடம்: கல்லுக்கடை, இடைப்பாடி\n🗓️ நாள்: நேற்று\n👮 நடவடிக்கை: பூலாம்பட்டி போலீசார் விசாரணை நடத்தி வருகின்றனர்.\n\nதகவலை அனைவருக்கும் Share செய்யுங்கள்\n\nEdappadi TASMAC shop fire incident | Salem news\n📍 கல்லுக்கடை, இடைப்பாடி, சேலம் | 15 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Salem360 #Salem #Edappadi #SalemNews #சேலம்",
-   "prompts": "Firefighters in navy blue uniforms are seen from behind using a high-pressure water hose to douse the smoldering remains of a fire inside a tin-roofed shed. The scene is located in the Kallukkadai area of Edappadi town, with the corrugated metal walls of the shed blackened by smoke. Two or three firefighters are actively working while a Poolampatti police officer in khaki stands at a distance near a red fire engine. Charred fragments of cardboard boxes are scattered across the dusty ground. The bright daylight of Salem district illuminates the thick white smoke rising from the damp debris. The camera is at eye level, using a 35mm lens to capture the shed and the emergency response team. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up shot focuses on a large heap of charred and water-soaked cardboard boxes piled on the dirt ground outside a tin shed in Edappadi. The boxes, which once held liquor bottles, are now blackened, collapsed, and dripping with water, with some ash and soot visible around the pile. In the background, the lower portion of a corrugated metal wall and the boots of a firefighter are visible but slightly blurred. The lighting is bright natural daylight, highlighting the texture of the burnt paper and the wet ground. The camera is positioned at a high angle looking down at the destroyed property, emphasizing the extent of the ten thousand rupees worth of damage. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-salem/fire-destroys-cartons-at-tasmac-store/4376559",
-   "published": "2026-11-15T01:07:00+05:30",
+   "reel_script": "ஆத்தூரில் குற்றங்களைத் தடுக்க ட்ரோன் மூலம் போலீஸார் தீவிர கண்காணிப்பில் ஈடுபட்டு வருகின்றனர். ஆத்தூர் நகரக் காவல் நிலைய எல்லைக்கு உட்பட்ட பகுதிகளில் கண்காணிப்பை தீவிரப்படுத்த இந்த நடவடிக்கை எடுக்கப்பட்டுள்ளது. ஆத்தூர் நகரம், நரசிங்கபுரம் மற்றும் சுற்றுவட்டாரச் சிறு கிராமங்களில் குற்றங்கள் நடப்பதைத் தடுக்க போலீஸார் ட்ரோன்களைப் பயன்படுத்துகின்றனர். சனிக்கிழமை அன்று ஆத்தூர் நகரக் காவல் ஆய்வாளர் எஸ்.சங்கர் தலைமையில் சிறப்பு கண்காணிப்புப் பணி நடைபெற்றது. ஆத்தூர் பேருந்து நிலையம், வசிஷ்டநதி பாலம், கடைவீதி மற்றும் காமராஜனார் சாலை ஆகிய இடங்களில் ட்ரோன் மூலம் சோதனைகள் மேற்கொள்ளப்பட்டன. மேலும் நரசிங்கபுரம் வசிஷ்டநதி பாலம் பகுதியிலும் ட்ரோன் பறக்கவிடப்பட்டு தீவிரமாகக் கண்காணிக்கப்பட்டது. பொதுமக்கள் நடமாட்டம் மிகுந்த இடங்களில் குற்றச் சம்பவங்கள் நிகழாமல் இருக்க போலீஸார் ரோந்துப் பணியை தீவிரப்படுத்தியுள்ளனர். மேலும் செய்திகளுக்கு சேலம் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🛸 ஆத்தூரில் ட்ரோன் மூலம் போலீஸார் தீவிர கண்காணிப்பு: பேருந்து நிலையம், பாலங்களில் சோதனை\n\n📰 முழு விவரம்:\nஆத்தூர் நகரக் காவல் நிலைய எல்லைக்கு உட்பட்ட பகுதிகளில் குற்றங்களைத் தடுக்கவும் கண்காணிப்பை தீவிரப்படுத்தவும் போலீஸார் ட்ரோன் மூலம் சோதனையில் ஈடுபட்டு வருகின்றனர். ஆத்தூர் நகரம், நரசிங்கபுரம் மற்றும் சிறு கிராமங்கள் அடங்கிய பகுதியில் இந்த நடவடிக்கை மேற்கொள்ளப்பட்டு வருகிறது.\nசனிக்கிழமை அன்று நகரக் காவல் ஆய்வாளர் எஸ்.சங்கர் தலைமையில் ஆத்தூர் பேருந்து நிலையம், வசிஷ்டநதி பாலம், கடைவீதி, காமராஜனார் சாலை மற்றும் நரசிங்கபுரம் வசிஷ்டநதி பாலம் உள்ளிட்ட பகுதிகளில் ட்ரோன் பறக்கவிடப்பட்டு தீவிரமாகக் கண்காணிக்கப்பட்டது.\n\n📍 இடம்: ஆத்தூர், நரசிங்கபுரம், சேலம் மாவட்டம்\n🗓️ நாள்: சனிக்கிழமை\n👮 தலைமை: காவல் ஆய்வாளர் எஸ்.சங்கர்\nℹ️ மக்கள் கவனத்திற்கு: பொதுமக்கள் அதிகம் கூடும் இடங்களில் குற்றங்களைத் தடுக்க போலீஸார் கண்காணிப்பை தீவிரப்படுத்தியுள்ளனர்.\n\nAttur police drone surveillance bus stand vasishta river | Salem news\n📍 ஆத்தூர், சேலம் | 15 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Salem360 #Salem #Attur #SalemNews #சேலம்",
+   "prompts": "A group of three Tamil Nadu police officers in khaki uniforms stand at the edge of the busy Attur Bus Stand, with one officer holding a remote control unit while looking up at a small black quadcopter drone hovering in the air. The background shows the concrete platform of the bus stand with several green and white TNSTC buses and blue town buses parked, and passengers in sarees and shirts moving in the distance or seen from behind. The scene is set during a bright Saturday afternoon with clear daylight. The camera is at eye level, using a 35mm lens to capture both the police activity and the characteristic bus stand environment of Salem district. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA wide shot captures a black surveillance drone hovering steadily over the long concrete Vasishta River Bridge in Attur, with the dry riverbed and some greenery visible below. In the far distance at the bridge entrance, a white police jeep is parked and two police officers in khaki are visible as small figures looking towards the sky. The bridge has simple concrete railings and a few two-wheelers are crossing it in the distance. The lighting is bright midday sun, highlighting the texture of the bridge and the small drone in the foreground. The camera is positioned at a slightly high angle to emphasize the drone's perspective over the bridge and the surrounding town area. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamani.com/all-editions/edition-dharmapuri/salem/2026/Nov/14/ஆத்தூரில்-ட்ரோன்-மூலம்-போலீஸாா்-தீவிர-கண்காணிப்பு",
+   "published": "2026-11-14T20:19:32.611Z",
    "verification": "DRAFT (gemini/gemini-3.5-flash) - fact-check: no problems found",
-   "note": "free-model draft gemini/gemini-3.5-flash, 4 attempt(s), 0 validator problem(s)",
+   "note": "free-model draft gemini/gemini-3.5-flash, 1 attempt(s), 0 validator problem(s)",
    "post_time": "right after your reply, same day",
    "_area": "N",
    "_score": 999,
    "images": [
-    "https://res.cloudinary.com/jrmwajfz/image/upload/v1794731485/salem360/lov1127wldxlldmip6zr.jpg",
-    "https://res.cloudinary.com/jrmwajfz/image/upload/v1794731489/salem360/yhe6y1hch4cmhfrdvmun.jpg"
+    "https://res.cloudinary.com/jrmwajfz/image/upload/v1794745024/salem360/fqyyvnfmh9jibjffdvne.jpg",
+    "https://res.cloudinary.com/jrmwajfz/image/upload/v1794745032/salem360/kk5cqdpbm3aq6hkb8afa.jpg"
    ]
   },
   {
-   "tamil_headline": "மேட்டூர் அருகே ‘பவாரியா’ கும்பல் ஊடுருவல்: பொதுமக்களுக்கு காவல்துறை தீவிர எச்சரிக்கை",
-   "english_headline": "Police alert issued in Kolathur near Mettur as North Indian 'Bawariya' gang infiltrates forest and village areas",
-   "category": "Crime & Safety",
-   "location": "Kolathur near Mettur, Salem district",
-   "importance": "High",
-   "scope": "district",
-   "post_to": "Salem 360",
-   "slides_spec": {
-    "v": 3,
-    "cat": "போலீஸ் எச்சரிக்கை",
-    "loc": "கொளத்தூர், மேட்டூர்",
-    "hl1": "மேட்டூர் அருகே பவாரியா கும்பல் ஊடுருவல்",
-    "hl2": "பொதுமக்களுக்கு போலீஸ்",
-    "slides": [
-     {
-      "title": "என்ன நடந்தது?",
-      "lines": [
-       "கொளத்தூர் பகுதியில் வடமாநில பவாரியா கும்பல் ஊடுருவல்",
-       "குற்றச் செயல்கள் மற்றும் வேட்டையாடத் திட்டம்",
-       "<b>14</b> கிராம ஊராட்சிகளில் <b>76,000</b> மக்கள் வசிப்பு"
-      ]
-     },
-     {
-      "title": "எங்கே ஆபத்து?",
-      "lines": [
-       "கர்நாடக எல்லையை ஒட்டிய பாலமலை வனப்பகுதி",
-       "சிறுத்தை, மான், யானை வாழும் காட்டுப் பகுதிகள்",
-       "தோட்டத்து வீடுகள், வனப்பகுதிகளில் எச்சரிக்கை"
-      ]
-     },
-     {
-      "title": "என்ன செய்ய",
-      "lines": [
-       "புதிய நபர்களுக்கு ஆதார் சரிபார்க்காமல் வீடு தரக்கூடாது",
-       "சந்தேக நபர்களை நேரில் அணுக வேண்டாம்",
-       "காவல் நிலைய எண் <b>94981-00997</b>-க்கு அழைக்கவும்"
-      ]
-     }
-    ],
-    "carousel": false
-   },
-   "reel_script": "மேட்டூர் அருகே பவாரியா கும்பல் ஊடுருவியதால் காவல்துறை எச்சரிக்கை விடுத்துள்ளது. சேலம் மாவட்டம் கொளத்தூர் ஊராட்சி ஒன்றியத்தில் 14 கிராம ஊராட்சிகளில் 76,000 மேலான மக்கள் வசிக்கின்றனர். பாலமலை, பச்ச பாலமலை வனப்பகுதிகள் கர்நாடக மாநில எல்லையை ஒட்டி அமைந்துள்ளன. இங்குள்ள சிறுத்தை, மான், யானை உள்ளிட்ட வனவிலங்குகளை வேட்டையாடவும் குற்றங்களில் ஈடுபடவும் வடமாநில பவாரியா கும்பல் ஊடுருவியுள்ளது. இதனால் ஊர்ப் பகுதிகளில் அறிமுகமில்லாத புதிய நபர்கள் நடமாடினால் உடனே காவல்துறைக்குத் தகவல் தெரிவிக்க வேண்டும். வீடுகள் மற்றும் தோட்டங்களை வாடகைக்கு விடுவோர் ஆதார் சான்றுகளைச் சரிபார்க்காமல் தங்க அனுமதிக்கக் கூடாது. பொதுமக்கள் அச்சப்படத் தேவையில்லை, ஆனால் விழிப்புடன் இருப்பது அவசியம் என்று அறிவுறுத்தப்பட்டுள்ளது. சந்தேக நபர்களை நேரடியாக அணுகாமல் கொளத்தூர் காவல் நிலையத்தை 94981-00997 என்ற எண்ணில் தொடர்புகொள்ளலாம். மேலும் 100 மற்றும் 112 ஆகிய அவசர உதவி எண்களையும் பயன்படுத்தலாம். மேலும் செய்திகளுக்கு சேலம் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🚨 மேட்டூர் அருகே பவாரியா கும்பல் ஊடுருவல் - பொதுமக்களுக்கு போலீஸ் தீவிர எச்சரிக்கை!\n\n📰 முழு விவரம்:\nசேலம் மாவட்டம் மேட்டூர் அருகே கொளத்தூர் ஊராட்சி ஒன்றியத்தில் 14 கிராம ஊராட்சிகள் உள்ளன. இதில் 76 ஆயிரத்திற்கும் மேற்பட்ட மக்கள் வசித்து வருகிறார்கள். கர்நாடக எல்லையை ஒட்டிய பாலமலை, பச்ச பாலமலை வனப்பகுதிகளில் சிறுத்தை, மான், குரங்கு, யானை உள்ளிட்ட வனவிலங்குகள் வாழ்கின்றன. இந்நிலையில், குற்றச் செயல்களில் ஈடுபடவும் வனவிலங்குகளை வேட்டையாடவும் வடமாநிலத்தைச் சேர்ந்த பவாரியா கும்பல் ஊடுருவியுள்ளதாகப் போலீஸாருக்குத் தகவல் கிடைத்துள்ளது. வனப்பகுதி மற்றும் தோட்டத்து வீடுகளில் அறிமுகமில்லாத புதிய நபர்கள் நடமாடினால் பொதுமக்கள் உடனடியாகக் காவல்துறைக்குத் தகவல் தெரிவிக்க வேண்டும். வீடுகளை வாடகைக்கு விடுவோர் ஆதார் அடையாளச் சான்றுகளைச் சரிபார்க்க வேண்டும். சந்தேகத்திற்குரிய நபர்களைப் பொதுமக்கள் நேரடியாக அணுக வேண்டாம் என்றும் எச்சரிக்கப்பட்டுள்ளது.\n\n📍 இடம்: கொளத்தூர், மேட்டூர் ஒன்றியம், சேலம் மாவட்டம்\n🗓️ நாள்: 15 நவம்பர் 2026\n👮 நடவடிக்கை: கொளத்தூர் காவல்துறை தீவிரக் கண்காணிப்பு எச்சரிக்கை\n📞 தொடர்புக்கு: கொளத்தூர் காவல் ஆய்வாளர் மஞ்சுநாதன் (99767-11161), காவல் நிலையம் (94981-00997), தனிப்பிரிவு காவலர் மணிகண்டன் (90805-82107), அவசர உதவி 100 / 112\nℹ️ மக்கள் கவனத்திற்கு: புதிய நபர்களை வாடகைக்கு அமர்த்தும் முன் ஆதார் சான்றுகளைச் சரிபார்க்கவும்; சந்தேக நபர்களை நேரில் அணுக வேண்டாம்.\n\nதேவைப்படுவோருக்கு Share செய்யுங்கள்.\n\nMettur Kolathur Bawariya gang police alert | Salem news\n📍 கொளத்தூர், மேட்டூர், சேலம் மாவட்டம் | 15 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Salem360 #Salem #Mettur #CrimeNews #சேலம்",
-   "prompts": "A white Tamil Nadu police jeep with a rooftop siren light patrols a narrow paved road on the outskirts of Kolathur near Mettur. The scene is set at the edge of a dense forest area with the rocky Palamalai hills visible in the far background under a bright midday sun. Two police officers in khaki uniforms are seen from behind, one standing near the vehicle and another looking toward the thick green foliage of the forest. A few local men in shirts and veshtis stand at a distance near a small concrete farmhouse with a tiled roof, observing the patrol. The camera is at eye level, 35mm, capturing the wide landscape where the village meets the wild forest. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA Tamil Nadu police officer in khaki stands at a dusty rural crossroads in Kolathur, gesturing toward the distant forest-covered hills while speaking to a local farmer. The farmer, wearing a simple white shirt and a checked veshti, is seen from the side with his face slightly blurred. In the background, a small thatched-roof hut sits among coconut trees and dry scrubland typical of the Mettur region. A police motorcycle is parked nearby on the dirt shoulder of the road. The afternoon light is warm and clear, highlighting the rugged terrain of the forest range where the gang is suspected to be hiding. The camera is a medium wide shot at eye level. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.hindutamil.in/news/tamilnadu/bawaria-gang-infiltration-near-mettur-area-police-alert-people",
-   "published": "2026-11-15T07:09:24Z",
-   "verification": "DRAFT (gemini/gemini-3.5-flash) - fact-check: no problems found",
-   "note": "free-model draft gemini/gemini-3.5-flash, 6 attempt(s), 0 validator problem(s)",
-   "post_time": "right after your reply, same day",
-   "_area": "N",
-   "_score": 999,
-   "images": [
-    "https://res.cloudinary.com/jrmwajfz/image/upload/v1794731506/salem360/habhlr5vagyxgb9v2lvc.jpg",
-    "https://res.cloudinary.com/jrmwajfz/image/upload/v1794731511/salem360/xnpyrki7ecmp7m9nwtjq.jpg"
-   ]
-  },
-  {
-   "tamil_headline": "சென்னை - கொல்லம் சிறப்பு வார ரயில் அறிவிப்பு: சேலம் வழியே இயக்கம்",
-   "english_headline": "Chennai Central - Kollam weekly special train announced via Salem: Salem Railway Division details timetable",
+   "tamil_headline": "ஐயப்ப பக்தர்களுக்காக சேலம் வழியாக கொல்லத்துக்கு சிறப்பு ரயில்",
+   "english_headline": "Special train via Salem to Kollam for Ayyappa devotees",
    "category": "Roads & Transport",
-   "location": "Salem Junction, Salem district",
-   "importance": "High",
+   "location": "Salem, Salem district",
+   "importance": "Medium",
    "scope": "district",
    "post_to": "Salem 360",
    "slides_spec": {
     "v": 3,
-    "cat": "ரயில் அறிவிப்பு",
-    "loc": "சேலம்",
-    "hl1": "சென்னை - கொல்லம் சிறப்பு ரயில்",
-    "hl2": "சேலம் வழியே இயக்கம்",
+    "cat": "ரயில் சேவை",
+    "loc": "சேலம், சேலம் மாவட்டம்",
+    "hl1": "சேலம் வழியாக கொல்லத்துக்கு சிறப்பு ரயில்",
+    "hl2": "ஐயப்ப பக்தர்களுக்கான வசதி",
     "slides": [
      {
-      "title": "சென்னை - கொல்லம்",
+      "title": "சிறப்பு ரயில்",
       "lines": [
-       "சென்னை சென்ட்ரல் - <b>கொல்லம்</b> சிறப்பு வார ரயில் அறிவிப்பு",
-       "வரும் <b>18</b> முதல் <b>ஜனவரி 20</b> வரை புதன்தோறும் இயக்கம்",
-       "மதியம் <b>3:10</b> மணிக்கு சென்னையில் புறப்படும்"
+       "ஐயப்ப பக்தர்களுக்காக சிறப்பு ரயில் இயக்கம்",
+       "தெற்கு ரயில்வே சேலம் கோட்டம் அறிவிப்பு"
       ]
      },
      {
-      "title": "சேலம் வரும் நேரம்",
+      "title": "புறப்பாடு",
       "lines": [
-       "புதன் இரவு <b>8:03</b> மணிக்கு சேலம் வரும்",
-       "இரவு <b>9:15</b> மணிக்கு ஈரோடு சென்றடையும்",
-       "மறுநாள் காலை <b>7:20</b> மணிக்கு கொல்லம் சேரும்"
+       "நவம்பர் 15 மாலை 5.15 மணிக்கு நான்டெட் புறப்பாடு",
+       "சேலம் வழியாக கொல்லம் செல்லும்"
       ]
      },
      {
-      "title": "மறுமார்க்க ரயில்",
+      "title": "கொல்லம் வரவு",
       "lines": [
-       "வரும் <b>19</b> முதல் <b>ஜனவரி 21</b> வரை வியாழன்தோறும் இயக்கம்",
-       "வியாழன் இரவு <b>8:20</b> ஈரோடு, <b>9:27</b> சேலம் வரும்",
-       "அடுத்தநாள் அதிகாலை <b>3:30</b> சென்னை சென்றடையும்"
+       "நவம்பர் 17 காலை 7.55 மணிக்கு கொல்லம் வரவு",
+       "நெல்லூர், பெரம்பூர், சேலம் வழியாக"
       ]
      },
      {
-      "title": "முக்கிய பாதைகள்",
+      "title": "மறுபுறம்",
       "lines": [
-       "காட்பாடி, சேலம், ஈரோடு, திருப்பூர், கோட்டயம் வழியே செல்லும்",
-       "சேலம் ரயில்வே கோட்ட நிர்வாகம் தகவல்"
+       "நவம்பர் 17 காலை 10.55 மணிக்கு கொல்லம் புறப்பாடு",
+       "நவம்பர் 18 இரவு 7 மணிக்கு சார்லப்பள்ளி வரவு"
       ]
      }
     ],
     "carousel": false
    },
-   "reel_script": "சென்னை - கொல்லம் இடையே சேலம் வழியே சிறப்பு வார ரயில் இயக்கப்படுகிறது. சென்னை சென்ட்ரல் - கொல்லம் சிறப்பு ரயில் வரும் 18ஆம் தேதி முதல் ஜனவரி 20ஆம் தேதி வரை புதன்தோறும் இயக்கப்படும். இந்த ரயில் சென்னையில் மதியம் 3:10 மணிக்கு புறப்பட்டு புதன் இரவு 8:03 மணிக்கு சேலத்திற்கும் 9:15 மணிக்கு ஈரோட்டிற்கும் வந்து செல்லும். அரக்கோணம், காட்பாடி, ஜோலார்பேட்டை, சேலம், ஈரோடு, திருப்பூர், போத்தனூர், பாலக்காடு, திருச்சூர், ஆலுவா, எர்ணாகுளம், கோட்டயம் வழியே சென்று மறுநாள் காலை 7:20 மணிக்கு கொல்லத்தை அடையும். மறுமார்க்கத்தில் கொல்லம் - சென்னை சென்ட்ரல் ரயில் வரும் 19ஆம் தேதி முதல் ஜனவரி 21ஆம் தேதி வரை வியாழன்தோறும் இயக்கப்படும். கொல்லத்தில் காலை 10:40 மணிக்கு புறப்பட்டு வியாழன் இரவு 8:20 மணிக்கு ஈரோட்டிற்கும் 9:27 மணிக்கு சேலத்திற்கும் வந்து செல்லும். இந்த ரயில் அடுத்தநாள் அதிகாலை 3:30 மணிக்கு சென்னை சென்ட்ரலை அடையும். இத்தகவலை சேலம் ரயில்வே கோட்ட நிர்வாகம் தெரிவித்துள்ளது. மேலும் செய்திகளுக்கு சேலம் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🚆 சென்னை - கொல்லம் சிறப்பு வார ரயில் அறிவிப்பு: சேலம் வழியே இயக்கம்\n\n📰 முழு விவரம்:\nசென்னை சென்ட்ரல் - கொல்லம் இடையே சிறப்பு வார ரயில் இயக்கப்படுவதாக சேலம் ரயில்வே கோட்ட நிர்வாகம் தெரிவித்துள்ளது.\nசென்னை சென்ட்ரல் - கொல்லம் ரயில் வரும் 18 முதல் ஜனவரி 20 வரை புதன்தோறும் மதியம் 3:10 மணிக்கு புறப்படும். புதன் இரவு 8:03 மணிக்கு சேலத்திற்கும் 9:15 மணிக்கு ஈரோட்டிற்கும் வந்து, மறுநாள் காலை 7:20 மணிக்கு கொல்லத்தை அடையும்.\nமறுமார்க்கத்தில் கொல்லம் - சென்னை சென்ட்ரல் ரயில் வரும் 19 முதல் ஜனவரி 21 வரை வியாழன்தோறும் காலை 10:40 மணிக்கு புறப்படும். வியாழன் இரவு 8:20 மணிக்கு ஈரோட்டிற்கும் 9:27 மணிக்கு சேலத்திற்கும் வந்து, அடுத்தநாள் அதிகாலை 3:30 மணிக்கு சென்னை சென்றடையும்.\nஇந்த ரயில் அரக்கோணம், காட்பாடி, ஜோலார்பேட்டை, சேலம், ஈரோடு, திருப்பூர், போத்தனூர், பாலக்காடு, திருச்சூர், ஆலுவா, எர்ணாகுளம், கோட்டயம் வழியே செல்லும்.\n\n📍 இடம்: சேலம் ரயில் நிலையம்\n🗓️ காலம்: வரும் 18 முதல் ஜனவரி 20/21 வரை\n📢 அறிவிப்பு: சேலம் ரயில்வே கோட்ட நிர்வாகம்\n\nபயணிகளுக்கு பயன்பட Share செய்யுங்கள்!\n\nChennai to Kollam weekly special train service via Salem scheduled | Salem news\n📍 Salem, Salem district | 15 November 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Salem360 #Salem #SalemNews #TrainUpdate #சேலம்",
-   "prompts": "A long Indian Railways passenger train with a red electric locomotive pulls into a platform at Salem Junction. The station features multiple parallel tracks, overhead high-voltage electric lines, and the concrete platform structures typical of a major junction in Tamil Nadu. A few passengers, men in shirts and trousers and women in sarees, stand on the platform waiting for the train to come to a complete stop, seen from behind. The scene is set at night, with the bright yellow glow of station lamps illuminating the platform and reflecting off the metal sides of the blue coaches. The camera is at eye level from the platform edge, using a 35mm lens to capture the length of the train and the station environment. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA wide shot of the busy Salem Junction railway station at night as a special train arrives at the platform. The view shows the expansive network of tracks and the overhead pedestrian bridge in the background. Several passengers are scattered along the platform, some carrying bags, all viewed from a distance or from behind. The blue coaches of the passenger train are lined up against the platform edge under the bright artificial station lighting. The atmosphere is busy but orderly, reflecting the arrival of a long-distance service. The camera is positioned at a slightly high angle from the end of the platform, providing a broad view of the station infrastructure and the arriving train during the late evening hours. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-salem/special-weekly-train-announcement/4376553",
-   "published": "2026-11-15T01:02:00+05:30",
-   "verification": "DRAFT (gemini/gemini-3.5-flash) - fact-check: no problems found",
-   "note": "free-model draft gemini/gemini-3.5-flash, 5 attempt(s), 0 validator problem(s)",
+   "reel_script": "ஐயப்ப பக்தர்களுக்காக சேலம் வழியாக கொல்லத்துக்கு சிறப்பு ரயில் இயக்கப்படுகிறது. இதனை தெற்கு ரயில்வே சேலம் கோட்டம் அறிவித்துள்ளது. நவம்பர் 15ஆம் தேதி மாலை 5.15 மணிக்கு நான்டெட் ரயில் நிலையத்தில் இருந்து இந்த ரயில் புறப்படும். மேலும், நெல்லூர், பெரம்பூர், அரக்கோணம், காட்பாடி, ஜோலாற்பேட்டை, சேலம், ஈரோடு, திருப்பூர், போத்தனூர் வழியாக சென்று, நவம்பர் 17ஆம் தேதி காலை 7.55 மணிக்கு கொல்லம் சென்றடையும். இதையடுத்து, மறுபுறம் கொல்லத்தில் இருந்து நவம்பர் 17ஆம் தேதி காலை 10.55 மணிக்கு ரயில் புறப்படும். போத்தனூர், திருப்பூர், ஈரோடு, சேலம், ஜோலாற்பேட்டை, காட்பாடி, அரக்கோணம், பெரம்பூர் வழியாக சென்று, நவம்பர் 18ஆம் தேதி இரவு 7 மணிக்கு சார்லப்பள்ளியை சென்றடையும். மேலும் செய்திகளுக்கு சேலம் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🚆 சேலம் வழியாக கொல்லத்துக்கு ஐயப்ப பக்தர்களுக்காக சிறப்பு ரயில் இயக்கம்\n\n📰 முழு விவரம்:\nதெற்கு ரயில்வே சேலம் கோட்டம் அறிவிப்பின்படி, ஐயப்ப பக்தர்களுக்காக சிறப்பு ரயில்கள் இயக்கப்படுகின்றன. நவம்பர் 15ஆம் தேதி மாலை 5.15 மணிக்கு நான்டெட் ரயில் நிலையத்தில் இருந்து ரயில் புறப்படும். நெல்லூர், பெரம்பூர், அரக்கோணம், காட்பாடி, ஜோலாற்பேட்டை, சேலம், ஈரோடு, திருப்பூர், போத்தனூர் வழியாக சென்று, நவம்பர் 17ஆம் தேதி காலை 7.55 மணிக்கு கொல்லம் சென்றடையும். மறுபுறம், கொல்லத்தில் இருந்து நவம்பர் 17ஆம் தேதி காலை 10.55 மணிக்கு ரயில் புறப்படும். போத்தனூர், திருப்பூர், ஈரோடு, சேலம், ஜோலாற்பேட்டை, காட்பாடி, அரக்கோணம், பெரம்பூர் வழியாக சென்று, நவம்பர் 18ஆம் தேதி இரவு 7 மணிக்கு சார்லப்பள்ளியை சென்றடையும்.\n\n📍 இடம்: சேலம் வழியாக\n🗓️ நாள்: நவம்பர் 15 முதல் 18 வரை\n🕘 நேரம்: நான்டெட் புறப்பாடு மாலை 5.15 மணி\nℹ️ மக்கள் கவனத்திற்கு: ஐயப்ப பக்தர்கள் இந்த சிறப்பு ரயில் சேவையை பயன்படுத்தலாம்\n\nSalem special train to Kollam for Ayyappa devotees | Salem news\n📍 Salem, Salem district | 15 Nov 2026\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Salem360 #Salem #SalemNews #சேலம் #SalemRailway",
+   "prompts": "A long passenger train pulls into the Salem Junction railway station platform as a group of Ayyappa devotees in black and blue veshtis, carrying irumudi bundles and travel bags, waits near the edge of the platform in the early evening. The platform is crowded but calm, with railway staff in uniform walking along the tracks and overhead platform lights just switching on as daylight fades. The train's coaches stretch into the distance, their windows lit warmly. Seen from a slight distance and from behind, the devotees are not identifiable. The scene is clear weather, with the Salem city skyline and a few distant mango groves faintly visible beyond the tracks. Camera at eye level, 35 mm, wide enough to show the platform and full train. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up of a row of black and blue veshtis and a bundle of irumudi bags resting on the concrete platform, with a stack of travel bags beside them. Behind them, the steel edge of a railway coach and a platform pillar are visible, with the tracks just out of focus. The soft evening light of early dusk falls across the bags and the platform floor. Feet of devotees in sandals are partly visible at the edge of the frame, seen from behind. Clear weather, no text or signs in frame. Camera slightly high, 35 mm, shallow depth of field focusing on the bags and platform surface. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamani.com/all-editions/edition-dharmapuri/salem/2026/Nov/14/special-train-to-kollam-via-salem-for-the-convenience-of-ayyappa-devotees",
+   "published": "2026-11-14T20:25:49.737Z",
+   "verification": "DRAFT (groq/qwen/qwen3.8-27b + proofread groq/qwen/qwen3.8-27b) - fact-check: no problems found",
+   "note": "free-model draft groq/qwen/qwen3.8-27b + proofread groq/qwen/qwen3.8-27b, 2 attempt(s), 0 validator problem(s)",
    "post_time": "right after your reply, same day",
    "_area": "N",
    "_score": 999,
    "images": [
-    "https://res.cloudinary.com/jrmwajfz/image/upload/v1794731517/salem360/drlwi2uwwnynnvjnycol.jpg",
-    "https://res.cloudinary.com/jrmwajfz/image/upload/v1794731521/salem360/uoyrfqo0b0nckga13vwj.jpg"
+    "https://res.cloudinary.com/jrmwajfz/image/upload/v1794745132/salem360/s7iwsp0bswf7iapxyrmj.jpg",
+    "https://res.cloudinary.com/jrmwajfz/image/upload/v1794745138/salem360/aitasuv5rmz2kkhzgnkx.jpg"
+   ]
+  },
+  {
+   "tamil_headline": "சேலம் கந்தம்பட்டியில் குடிநீர் குழாய் உடைப்பு: நான்கு மணி நேரம் தண்ணீர் வீணானது",
+   "english_headline": "Drinking water main bursts at Kandampatti, Salem; water gushes onto national highway for over four hours",
+   "category": "Civic Issues",
+   "location": "Kandampatti area, Salem city, Salem district",
+   "importance": "High",
+   "scope": "local",
+   "post_to": "Salem 360",
+   "slides_spec": {
+    "v": 3,
+    "cat": "குடிநீர் குழாய் உடைப்பு",
+    "loc": "கந்தம்பட்டி, சேலம்",
+    "hl1": "சேலத்தில் குடிநீர் குழாய் உடைப்பு",
+    "hl2": "<b>4 மணி நேரம்</b> தண்ணீர்",
+    "slides": [
+     {
+      "title": "என்ன நடந்தது?",
+      "lines": [
+       "சேலம் கந்தம்பட்டி பகுதியில் குடிநீர் பிரதான குழாய் உடைந்தது",
+       "தென்னை மரம் உயரத்திற்கு தண்ணீர் பீறிட்டு வெளியேறியது",
+       "அதிகாலை முதல் <b>4 மணி நேரத்திற்கு</b> மேல் தண்ணீர் வெளியேறியது"
+      ]
+     },
+     {
+      "title": "சாலையில் நிலை",
+      "lines": [
+       "சேலம்-கோவை தேசிய நெடுஞ்சாலையில் தண்ணீர் பெருக்கெடுத்தோடியது",
+       "வாகன ஓட்டிகள் கடும் சிரமத்திற்கு உள்ளாகினர்",
+       "சிலர் கார்களை நிறுத்தி கழுவும் பணியில் ஈடுபட்டனர்"
+      ]
+     },
+     {
+      "title": "அதிகாரிகள்",
+      "lines": [
+       "மாநகராட்சி அதிகாரிகள் சம்பவ இடத்திற்கு விரைந்தனர்",
+       "குழாய் உடைப்பைச் சீரமைக்கும் பணி நடைபெற்றது",
+       "<b>பல லட்சம் லிட்டர்</b> குடிநீர் வீணானது"
+      ]
+     }
+    ],
+    "carousel": false
+   },
+   "reel_script": "சேலம் கந்தம்பட்டியில் குடிநீர் குழாய் உடைந்ததால் பல லட்சம் லிட்டர் தண்ணீர் வீணானது. மேட்டூர் அணையில் இருந்து சேலம் மாநகருக்குக் குடிநீர் கொண்டு செல்லும் பிரதான குழாயில் உடைப்பு ஏற்பட்டது. கந்தம்பட்டி பகுதியில் சேலம்-கோவை தேசிய நெடுஞ்சாலையைக் கடந்து செல்லும் குழாயில் இந்த உடைப்பு ஏற்பட்டது. தென்னை மரத்தின் உயரத்திற்கு தண்ணீர் பீறிட்டு வெளியேறியது. அதிகாலை முதல் 4 மணி நேரத்திற்கு மேலாக குடிநீர் வெளியேறியது. தண்ணீர் தேசிய நெடுஞ்சாலையில் பெருக்கெடுத்தோடியதால் வாகன ஓட்டிகள் கடும் சிரமத்திற்கு உள்ளாகினர். தகவலறிந்து வந்த மாநகராட்சி அதிகாரிகள் குழாய் உடைப்பைச் சீரமைக்கும் பணியில் ஈடுபட்டனர். வாகன ஓட்டிகள் சிலர் தங்கள் கார்களை நிறுத்திக் கழுவும் பணியில் ஈடுபட்டனர். தண்ணீர் வீணானதால் அந்தப் பகுதி மக்கள் அதிருப்தி தெரிவித்தனர். மேலும் செய்திகளுக்கு சேலம் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🚰 சேலம் கந்தம்பட்டியில் குடிநீர் குழாய் உடைப்பு: 4 மணி நேரம் தண்ணீர் வீணானது\n\n📰 முழு விவரம்:\nமேட்டூர் அணையில் இருந்து சேலம் மாநகருக்குக் குடிநீர் கொண்டு செல்லும் பிரதான குழாயில் உடைப்பு ஏற்பட்டது. கந்தம்பட்டி பகுதியில் சேலம்-கோவை தேசிய நெடுஞ்சாலையைக் கடந்து செல்லும் குழாயில் இந்த உடைப்பு ஏற்பட்டது.\nதென்னை மரத்தின் உயரத்திற்கு தண்ணீர் பீறிட்டு வெளியேறியது. அதிகாலை முதல் 4 மணி நேரத்திற்கு மேலாக தண்ணீர் தேசிய நெடுஞ்சாலையில் பெருக்கெடுத்தோடியது. இதனால் வாகன ஓட்டிகள் கடும் சிரமத்திற்கு உள்ளாகினர்.\nதகவலறிந்து வந்த மாநகராட்சி அதிகாரிகள் குழாய் உடைப்பைச் சீரமைக்கும் பணியில் ஈடுபட்டனர். இதனால் பல லட்சம் லிட்டர் குடிநீர் வீணானது. வாகன ஓட்டிகள் சிலர் தங்கள் கார்களை நிறுத்திக் கழுவும் பணியில் ஈடுபட்டனர். இதனால் அந்தப் பகுதி மக்கள் அதிருப்தி தெரிவித்தனர்.\n\nSalem drinking water pipe burst at Kandampatti, water wasted | Salem news\n📍 கந்தம்பட்டி, சேலம் மாவட்டம் | 15 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Salem360 #Salem #SalemNews #சேலம்",
+   "prompts": "A corporation repair crew in work clothes stands beside a tall fountain of water bursting from a broken main pipeline on the Salem-Coimbatore national highway at Kandampatti, Salem city, the spray rising almost as high as a coconut tree. The wide black tarmac of the highway is flooded with a sheet of gushing water that spreads across both lanes. Two-wheelers, cars and a lorry slow down and wade through the shining water, their drivers hunched and seen from behind. Along the roadside stand a few residents watching at a distance, and a corporation workers' van is parked on the shoulder with its doors open. Daylight, bright morning sun reflecting off the wet road, with a few mango trees and low concrete buildings in the background and the faint Shevaroy hills on the horizon. Shot at eye level, 35 mm lens, wide enough to show the highway, the fountain and the flooded road together. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up of the burst main pipeline on the edge of the highway at Kandampatti, Salem, a thick grey iron water pipe split open with water violently jetting out in a white arc. Splashing water runs down the wet tarmac in a shallow stream toward the drain, and a pair of men's rubber sandals and a repair worker's gloved hands rest near the broken joint, with a wrench on the road. Rushing water wets the edge of the asphalt where a car tyre is passing slowly, its driver seen from behind. Bright morning light, the spray catching sunlight. Shot at ground level, 35 mm lens, close enough to show the broken pipe and the gushing water clearly, with the highway lanes softly blurred behind. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamani.com/tamilnadu/2026/Nov/15/burst-in-drinking-water-supply-pipeline-hundreds-of-thousands-of-litres-of-water-wasted",
+   "published": "2026-11-15T10:29:43.546Z",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: hl1 (the first headline on screen) must name the place 'கந்தம்பட்டி', e.g. 'கந்தம்பட்டி: ...' or 'கந்தம்பட்டி-இல் ...' - viewers share news of their own area",
+   "note": "free-model draft anthropic/claude-haiku-5-5, 13 attempt(s), 1 validator problem(s)",
+   "post_time": "right after your reply, same day",
+   "_area": "N",
+   "_score": 999,
+   "images": [
+    "https://res.cloudinary.com/jrmwajfz/image/upload/v1794745174/salem360/tgesvfza0jbbcsqpfb9p.jpg",
+    "https://res.cloudinary.com/jrmwajfz/image/upload/v1794745177/salem360/vfivdqninxzi4jl5fjpu.jpg"
+   ]
+  },
+  {
+   "tamil_headline": "இன்று சேலம் அம்மாபேட்டையில் சூரசம்ஹாரம்: மாலை 4 மணிக்கு மேல் வதம்",
+   "english_headline": "Soorasamharam today at Ammapet Senguntharar Subramaniyar temple, Salem, from 4 PM",
+   "category": "Temples & Events",
+   "location": "Ammapet, Salem city, Salem district",
+   "importance": "High",
+   "scope": "local",
+   "post_to": "Salem 360",
+   "slides_spec": {
+    "v": 3,
+    "cat": "சூரசம்ஹாரம்",
+    "loc": "அம்மாபேட்டை, சேலம்",
+    "hl1": "அம்மாபேட்டையில் இன்று சூரசம்ஹாரம்",
+    "hl2": "மாலை 4 மணிக்கு மேல் வதம்",
+    "slides": [
+     {
+      "title": "காலை நிகழ்வுகள்",
+      "lines": [
+       "காலை <b>6 மணிக்கு</b> கூட்டு திருவிளக்கு வழிபாடு",
+       "36 முறை கந்தசஷ்டி கவச பாராயணம்",
+       "கந்தசஷ்டி விழா கடந்த <b>10</b>ஆம் தேதி தொடங்கியது"
+      ]
+     },
+     {
+      "title": "மதியம் நிகழ்வு",
+      "lines": [
+       "மதியம் <b>3 மணிக்கு</b> சண்முகர் சக்திவேல் வாங்கும் நிகழ்வு",
+       "மாலை <b>4 மணிக்கு</b> மேல் சூரசம்ஹாரம்",
+       "நான்கு மாட வீதிகளில் சூரனை வதம் செய்வார்கள்"
+      ]
+     },
+     {
+      "title": "இரவு ஊர்வலம்",
+      "lines": [
+       "இரவு <b>7 மணிக்கு</b> திருவீதி உலா",
+       "வெள்ளை யானை வாகனத்தில் பட்டாபிஷேக கோலத்தில்",
+       "மயில், சேவல் கொடியுடன் சுப்பிரமணியர் வலம்"
+      ]
+     }
+    ],
+    "carousel": false
+   },
+   "reel_script": "சேலம் அம்மாபேட்டையில் இன்று மாலை 4 மணிக்கு மேல் சூரசம்ஹாரம் நடைபெறுகிறது. சேலம், அம்மாபேட்டை செங்குந்தர் சுப்பிரமணியர் கோவிலில் கந்தசஷ்டி விழா கடந்த அக்டோபர் 10ஆம் தேதி தொடங்கியது. இன்று காலை 6 மணிக்கு கூட்டு திருவிளக்கு வழிபாடு நடைபெறுகிறது. விரதம் இருக்கும் பக்தர்கள் 36 முறை கந்தசஷ்டி கவச பாராயணத்தில் பங்கேற்கின்றனர். மதியம் 3 மணிக்கு சண்முகர் சக்திவேல் வாங்கும் நிகழ்வு நடைபெறும். மாலை 4 மணிக்கு மேல் நான்கு மாட வீதிகளில் சூரனை வதம் செய்யும் சூரசம்ஹாரம் நடைபெறும். இரவு 7 மணிக்கு மயில், சேவல் கொடியுடன் சுப்பிரமணியர் பட்டாபிஷேக கோலத்தில் வெள்ளை யானை வாகனத்தில் திருவீதி உலா வருவார். இதுபோல சேலம் சுகவனேஸ்வரர், குகை அம்பலவாணர், ஊத்துமலை பாலசுப்ரமணியர் கோவில்களிலும் இன்று சூரசம்ஹாரம் நடைபெறுகிறது. மேலும் செய்திகளுக்கு சேலம் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🙏 அம்மாபேட்டையில் இன்று மாலை 4 மணிக்கு மேல் சூரசம்ஹாரம்\n\n📰 முழு விவரம்:\nசேலம், அம்மாபேட்டை செங்குந்தர் சுப்பிரமணியர் கோவிலில் கந்தசஷ்டி விழா அக்டோபர் 10ஆம் தேதி தொடங்கியது. இன்று காலை 6 மணிக்கு கூட்டு திருவிளக்கு வழிபாடும், 36 முறை கந்தசஷ்டி கவச பாராயணமும் நடைபெறுகிறது.\nமதியம் 3 மணிக்கு சண்முகர் சக்திவேல் வாங்கும் நிகழ்வும், மாலை 4 மணிக்கு மேல் நான்கு மாட வீதிகளில் சூரனை வதம் செய்யும் சூரசம்ஹாரமும் நடைபெறுகிறது.\nஇரவு 7 மணிக்கு மயில், சேவல் கொடியுடன் சுப்பிரமணியர் பட்டாபிஷேக கோலத்தில் வெள்ளை யானை வாகனத்தில் திருவீதி உலா வருகிறார்.\n📍 இடம்: அம்மாபேட்டை செங்குந்தர் சுப்பிரமணியர் கோவில், சேலம்\n🗓️ நாள்: நவம்பர் 15, ஞாயிற்றுக்கிழமை\n🕘 நேரம்: காலை 6 மணி முதல் இரவு 7 மணி வரை\n\nSoorasamharam today Ammapet Salem | Salem news\n📍 அம்மாபேட்டை, சேலம் | 15 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Salem360 #Salem #Ammapet #SalemNews #சேலம்",
+   "prompts": "A decorated Murugan idol in festive attire is carried on a wooden processional car through the temple street of Ammapet, Salem, as the Soorasamharam festival begins in the late afternoon. The Ammapet Senguntharar Subramaniyar temple's tall gopuram rises above colourful rows of tiled-roof houses and small shops on the four Mada Veethi temple streets. Hundreds of devotees, men in white veshti and shirts and women in bright sarees, crowd the road, many of them fasting and holding flower garlands and brass lamps. Peacock and rooster flags flutter on the chariot, and the festive decorations glow in the golden late-afternoon sunlight. Shot at eye level from a slightly elevated position, 35 mm, wide enough to show the chariot, the temple tower and the crowd, with faces seen from behind or at a distance. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close detail of the Sakthi Vel, the golden spear of Lord Murugan, held upright on a decorated tray surrounded by brass oil lamps (thiruvilakku) and fresh flower garlands in front of the temple shrine. The soft glow of the lamp flames and marigold petals fill the frame, with a blurred background of devotees in white and saffron clothing standing in the temple hall at about 3 PM. Warm afternoon light filters in from the temple entrance. Shot at eye level, 35 mm, close enough to show the spear, the lamps and the flowers in sharp detail. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-salem/surasamahara-in-murugan-temples-today/4376558",
+   "published": "2026-11-15T01:06:00+05:30",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: fact-check: The draft says the Kandasashti festival started on 'October 10' (அக்டோபர் 10ஆம் தேதி) in the reel_script and caption, but the article only says it began on the 10th of the current month without naming October; the month is an invented detail.; fact-check: The caption's '🗓️ நாள்: நவம்பர் 15, ஞாயிற்றுக்கிழமை' gives a specific date and weekday not stated in the article, and the caption text is not a footer item, so this is an invented date.; fact-check: The slides_spec line 'கந்தசஷ்டி விழா கடந்த 10ஆம் தேதி தொடங்கியது' places the festival start date in the morning slide without any basis in the article beyond the day number, and the reel_script and slide wording that follows presents the 10th as a month-specific date.",
+   "note": "free-model draft anthropic/claude-haiku-5-5, 13 attempt(s), 3 validator problem(s)",
+   "post_time": "right after your reply, same day",
+   "_area": "N",
+   "_score": 999,
+   "images": [
+    "https://res.cloudinary.com/jrmwajfz/image/upload/v1794745183/salem360/h6yaf2s1llxtzuks0nh4.jpg",
+    "https://res.cloudinary.com/jrmwajfz/image/upload/v1794745186/salem360/elwxw4vtvz8pgyjei8a1.jpg"
+   ]
+  },
+  {
+   "tamil_headline": "சேலம்-கோவை தேசிய நெடுஞ்சாலையில் குடிநீர் குழாய் உடைந்து தண்ணீர் பீறிட்டது",
+   "english_headline": "Drinking water pipe bursts on Salem-Coimbatore national highway, water gushes like a fountain",
+   "category": "Civic Issues",
+   "location": "Kandampatti, Salem city, Salem district",
+   "importance": "High",
+   "scope": "local",
+   "post_to": "Salem 360",
+   "slides_spec": {
+    "v": 3,
+    "cat": "குடிநீர் குழாய் உடைப்பு",
+    "loc": "கந்தம்பட்டி, சேலம்",
+    "hl1": "கந்தம்பட்டியில் குடிநீர் குழாய் உடைப்பு",
+    "hl2": "தேசிய நெடுஞ்சாலையில் தண்ணீர்",
+    "slides": [
+     {
+      "title": "என்ன நடந்தது?",
+      "lines": [
+       "சேலம்-கோவை தேசிய நெடுஞ்சாலையில் பிரதான குடிநீர் குழாய்",
+       "இன்று அதிகாலை <b>4 மணியளவில்</b> உடைப்பு ஏற்பட்டது",
+       "தண்ணீர் பனை மரம் உயரத்திற்கு பீறிட்டு வெளியேறியது"
+      ]
+     },
+     {
+      "title": "எங்கே?",
+      "lines": [
+       "கந்தம்பட்டி வழியாகச் செல்லும் குழாயில் உடைப்பு",
+       "தாதகாப்பட்டி, கொண்டலாம்பட்டி, மணியனூர் பகுதிகளுக்கு",
+       "மேட்டூர் அணையிலிருந்து வரும் பிரதான குழாய்"
+      ]
+     },
+     {
+      "title": "மக்கள் பாதிப்பு",
+      "lines": [
+       "சாலையில் தண்ணீர் பெருக்கெடுத்து ஓடியது",
+       "அதிகாலை முதல் வாகன ஓட்டிகள் பெரும் சிரமம்",
+       "மாநகராட்சி அதிகாரிகள் சீரமைப்புப் பணியில் ஈடுபட்டனர்"
+      ]
+     }
+    ],
+    "carousel": false
+   },
+   "reel_script": "சேலம் கந்தம்பட்டியில் குடிநீர் குழாய் உடைந்து தண்ணீர் பனை மரம் உயரத்திற்கு பீறிட்டது. இன்று அதிகாலை சுமார் 4 மணியளவில் சேலம்-கோவை தேசிய நெடுஞ்சாலையில் உள்ள பிரதான குடிநீர் குழாயில் திடீரென உடைப்பு ஏற்பட்டது. மேட்டூர் அணையில் இருந்து சேலம் மாநகரின் பல பகுதிகளுக்குச் செல்லும் இந்தக் குழாய் வழியாக தாதகாப்பட்டி, கொண்டலாம்பட்டி, மணியனூர் பகுதிகளுக்கு குடிநீர் கொண்டு செல்லப்படுகிறது. அதிகாலை முதல் தேசிய நெடுஞ்சாலையில் தண்ணீர் பெருக்கெடுத்து ஓடியதால் வாகன ஓட்டிகள் பெரும் சிரமத்திற்கு உள்ளாகினர். தகவல் அறிந்து சேலம் மாநகராட்சி அதிகாரிகள் சம்பவ இடத்திற்கு விரைந்து வந்து குழாய் பாதிப்பைச் சரிசெய்யும் பணியில் ஈடுபட்டனர். மேலும் செய்திகளுக்கு சேலம் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🚰 கந்தம்பட்டியில் குடிநீர் குழாய் உடைப்பு: தேசிய நெடுஞ்சாலையில் அருவிபோல் தண்ணீர்\n\n📰 முழு விவரம்:\nசேலம்-கோவை தேசிய நெடுஞ்சாலையில் கந்தம்பட்டி வழியாகச் செல்லும் பிரதான குடிநீர் குழாயில் இன்று அதிகாலை சுமார் 4 மணியளவில் திடீரென உடைப்பு ஏற்பட்டது. அதிலிருந்து தண்ணீர் பனை மரம் உயரத்திற்கு அருவி போல் பீறிட்டு வெளியேறியது. தண்ணீர் சாலையில் பெருக்கெடுத்து ஓடியதால் வாகன ஓட்டிகள் பெரும் சிரமத்திற்கு உள்ளாகினர். மேட்டூர் அணையிலிருந்து வரும் இந்தக் குழாய் தாதகாப்பட்டி, கொண்டலாம்பட்டி, மணியனூர் பகுதிகளுக்கு குடிநீர் கொண்டு செல்கிறது. தகவல் அறிந்து சேலம் மாநகராட்சி அதிகாரிகள் சம்பவ இடத்திற்கு விரைந்து வந்து பாதிப்பைச் சரிசெய்யும் பணியில் ஈடுபட்டனர்.\n\nSalem water pipe burst on national highway | Salem news\n📍 கந்தம்பட்டி, சேலம் மாவட்டம் | 15 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Salem360 #Salem #SalemNews #சேலம்",
+   "prompts": "Salem corporation workers in shirts and trousers kneel beside a burst drinking-water main on the Salem-Coimbatore national highway at Kandampatti, Salem city, as a tall jet of water shoots up like a fountain nearly palm-tree high, catching the early morning light. The setting is a wide four-lane national highway with a central divider, grey tarmac, roadside shops and a few street poles, and a faint Shevaroy hill outline far in the background. Two corporation workers in khaki-coloured shirts and veshti stand at the broken pipe trench, one holding a spanner; a few two-wheeler riders and a private bus stop at a distance, seen from behind. A sheet of water runs across the road lanes, reflecting the dawn sky. Time is about 4 to 5 am in soft pre-dawn light. Camera at eye level, 35 mm, wide enough to show the highway, the fountain and the crew. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up of a ruptured grey iron drinking-water main lying in a dug trench beside the national highway tarmac in Kandampatti, Salem city. Clear water is gushing out of the cracked pipe in a strong arc, splashing over the broken edges and spreading in a flowing sheet across the wet road surface. A corporation worker's bare feet in sandals and the edge of a veshti are visible at the frame's lower corner, with a spanner resting on the pipe. Early morning daylight, wet asphalt glistening, dust and a few loose stones around the trench. Camera close and slightly low, 35 mm, focused on the pipe and the gushing water. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.maalaimalar.com/news/tamilnadu/drinking-water-pipeline-burst-water-gushed-out-onto-the-road-like-a-waterfall",
+   "published": "2026-11-15T09:21:21Z",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - fact-check: no problems found",
+   "note": "free-model draft anthropic/claude-haiku-5-5, 11 attempt(s), 0 validator problem(s)",
+   "post_time": "right after your reply, same day",
+   "_area": "N",
+   "_score": 999,
+   "images": [
+    "https://res.cloudinary.com/jrmwajfz/image/upload/v1794745193/salem360/fcacvltt8w4mjrp8jrca.jpg",
+    "https://res.cloudinary.com/jrmwajfz/image/upload/v1794745196/salem360/w8nsoxfocwykccxbhrof.jpg"
    ]
   }
  ]
