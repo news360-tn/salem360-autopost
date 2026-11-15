@@ -100,7 +100,8 @@
    "category": "ஆன்மிகம்",
    "score": 5.87,
    "power_cut": false,
-   "listed_at": "2026-11-15T01:39:34.229645+05:30"
+   "listed_at": "2026-11-15T01:39:34.229645+05:30",
+   "picked_at": "2026-11-15T17:46:20.867351+05:30"
   },
   "C3a38040": {
    "id": "C3a38040",
@@ -151,7 +152,8 @@
    "alts": [
     "https://www.dinamani.com/all-editions/edition-dharmapuri/salem/2026/Nov/14/%E0%AE%86%E0%AE%A4%E0%AF%8D%E0%AE%A4%E0%AF%82%E0%AE%B0%E0%AE%BF%E0%AE%B2%E0%AF%8D-%E0%AE%9F%E0%AF%8D%E0%AE%B0%E0%AF%8B%E0%AE%A9%E0%AF%8D-%E0%AE%AE%E0%AF%82%E0%AE%B2%E0%AE%AE%E0%AF%8D-%E0%AE%AA%E0%AF%8B%E0%AE%B2%E0%AF%80%E0%AE%B8%E0%AE%BE%E0%AE%BE%E0%AF%8D-%E0%AE%A4%E0%AF%80%E0%AE%B5%E0%AE%BF%E0%AE%B0-%E0%AE%95%E0%AE%A3%E0%AF%8D%E0%AE%95%E0%AE%BE%E0%AE%A3%E0%AE%BF%E0%AE%AA%E0%AF%8D%E0%AE%AA%E0%AF%81"
    ],
-   "listed_at": "2026-11-15T05:34:48.873778+05:30"
+   "listed_at": "2026-11-15T05:34:48.873778+05:30",
+   "picked_at": "2026-11-15T17:46:20.867347+05:30"
   },
   "C651ac67": {
    "id": "C651ac67",
@@ -163,7 +165,8 @@
    "category": "ரயில்",
    "score": 6.0,
    "power_cut": false,
-   "listed_at": "2026-11-15T05:34:48.873778+05:30"
+   "listed_at": "2026-11-15T05:34:48.873778+05:30",
+   "picked_at": "2026-11-15T17:46:20.867349+05:30"
   },
   "C9993bfe": {
    "id": "C9993bfe",
@@ -202,7 +205,8 @@
    "category": "குடிநீர்",
    "score": 8.5,
    "power_cut": false,
-   "listed_at": "2026-11-15T17:43:00.211205+05:30"
+   "listed_at": "2026-11-15T17:43:00.211205+05:30",
+   "picked_at": "2026-11-15T17:46:20.867342+05:30"
   },
   "C251b893": {
    "id": "C251b893",
@@ -214,7 +218,8 @@
    "category": "குடிநீர்",
    "score": 8.5,
    "power_cut": false,
-   "listed_at": "2026-11-15T17:43:00.211205+05:30"
+   "listed_at": "2026-11-15T17:43:00.211205+05:30",
+   "picked_at": "2026-11-15T17:46:20.867345+05:30"
   }
  },
  "rounds": {
@@ -931,8 +936,24 @@
    ],
    "sent": false,
    "deadline": "2026-11-15T18:43:00.211205+05:30",
-   "decided": null,
-   "written": []
+   "decided": {
+    "how": "automatic: top 5 of 15 by insights",
+    "ids": [
+     "Cfe365fb",
+     "C251b893",
+     "C0f56932",
+     "C651ac67",
+     "C15b9427"
+    ],
+    "at": "2026-11-15T17:46:20.867327+05:30"
+   },
+   "written": [
+    "C0f56932",
+    "C15b9427",
+    "C251b893",
+    "C651ac67",
+    "Cfe365fb"
+   ]
   }
  },
  "retry": {}
