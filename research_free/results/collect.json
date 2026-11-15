@@ -1,197 +1,402 @@
 {
  "log": [
   "earlier stories still waiting for images: []",
-  "instagram check: 33 recent posts read from the page",
+  "instagram check: 35 recent posts read from the page",
   "pick round: only the picked links are written (research_free/pick.py)",
-  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-salem/2-5-pounds-stolen-by-breaking-car-glass/4376556",
-  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-salem/kundas-slap-man-in-murder-case/4376568",
-  "candidate filter: collected=2",
-  "to write: 2 Salem district candidates (max 2 stories)",
-  "round: top 2 of 2 candidates",
-  "candidates waiting: 2 Salem; time left 79 min",
+  "manual link added: https://www.dinamani.com/all-editions/edition-dharmapuri/salem/2026/Nov/14/கொலை-வழக்கில்-தலைமறைவாக-இருந்தவா்-கைது-2",
+  "manual link added: https://www.dinamani.com/all-editions/edition-dharmapuri/salem/2026/Nov/14/பாட்னா-எா்ணாகுளம்-ரயிலில்6-கிலோ-புகையிலைப்-பொருள்-பறிமுதல்",
+  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-salem/8-units-of-stones-smuggled-3-vehicles-seized/4376566",
+  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-salem/escaped-prisoner-rounded-up/4376549",
+  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-salem/mountaineers-crossing-the-road/4376560",
+  "candidate filter: collected=5",
+  "to write: 5 Salem district candidates (max 5 stories)",
+  "round: top 5 of 5 candidates",
+  "candidates waiting: 5 Salem; time left 79 min",
+  "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-sale",
   "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-sale",
   "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-sale",
   "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 4})",
   "posting job started at once",
-  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 6})",
-  "candidate loop ended: left 0, tried={'N': 2}, done={'N': 2}, time left 76 min",
-  "filed: 2 Salem district stories (target 2), reels only",
+  "try (N) manual=True: https://www.dinamani.com/all-editions/edition-dharmapuri/sal",
+  "NOT filed (N) 8 யுனிட் கற்கள் கடத்தல் 3 வாகனங்கள் பறிமுதல்: not Salem district news (the story's first lines name another place and no Salem place)",
+  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 7})",
+  "try (N) manual=True: https://www.dinamani.com/all-editions/edition-dharmapuri/sal",
+  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 9})",
+  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 12})",
+  "candidate loop ended: left 0, tried={'N': 5}, done={'N': 4}, time left 75 min",
+  "filed: 4 Salem district stories (target 5), reels only",
   "queue: 0 news waiting to be written",
-  "All News sheet: {\"ok\":true,\"added\":2,\"updated\":0}"
+  "All News sheet: {\"ok\":true,\"added\":5,\"updated\":0}"
  ],
  "llm": [
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high d",
   "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
   "dead for this round: gemini/gemini-3.6-flash",
-  "ok gemini/gemini-3.6-flash (19s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high d",
-  "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high d",
-  "switching away from gemini/gemini-3.5-flash for 10 min",
-  "fail gemini/gemini-3.5-flash: Expecting ',' delimiter: line 1 column 1152 (char 1151)",
-  "poor answer - skipped for 30 min: gemini/gemini-3.5-flash",
-  "ok gemini/gemini-3-flash-preview (27s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok gemini/gemini-3-flash-preview (18s)",
+  "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
+  "dead for this round: gemini/gemini-3.5-flash",
+  "ok gemini/gemini-3.6-flash (13s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok gemini/gemini-3.6-flash (15s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok gemini/gemini-3-flash-preview (11s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok gemini/gemini-3-flash-preview (11s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok gemini/gemini-3-flash-preview (11s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok gemini/gemini-3-flash-preview (15s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, plea",
   "dead for this round: gemini/gemini-3-flash-preview",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 400: {\"error\":{\"message\":\"Failed to validate JSON. Please adjust your prompt. See 'failed_gener",
-  "ok groq/qwen/qwen3.8-27b (5s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
-  "ok gemini/gemini-3-flash-preview (27s)",
+  "ok groq/openai/gpt-oss-120b (7s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
-  "switching away from groq/qwen/qwen3.8-27b for 10 min",
-  "ok groq/openai/gpt-oss-120b (3s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 400: {\"error\":{\"message\":\"Failed to generate JSON. Please adjust your prompt. See 'failed_gener",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "fail gemini/gemini-3-flash-preview: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=60)",
+  "poor answer - skipped for 30 min: gemini/gemini-3-flash-preview",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
   "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
   "switching away from groq/openai/gpt-oss-120b for 10 min",
-  "ok groq/openai/gpt-oss-120b (2s)",
+  "ok groq/qwen/qwen3.8-27b (4s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
+  "switching away from groq/openai/gpt-oss-120b for 10 min",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
+  "switching away from groq/qwen/qwen3.8-27b for 10 min",
   "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
+  "switching away from groq/qwen/qwen3.8-27b for 10 min",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "fail gemini/gemini-3-flash-preview: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=60)",
+  "poor answer - skipped for 30 min: gemini/gemini-3-flash-preview",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "ok anthropic/claude-haiku-5-5",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "ok anthropic/claude-haiku-5-5",
   "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "ok anthropic/claude-haiku-5-5"
  ],
  "stories": [
   {
-   "tamil_headline": "ஓமலூர் அருகே கார் கண்ணாடி உடைத்து 2.5 பவுன் தங்கம் திருட்டு",
-   "english_headline": "2.5 tola gold chain stolen from car near Omalur",
+   "tamil_headline": "சேலம்: சாலையைக் கடந்த 12 அடி மலைப்பாம்பு, வீட்டுச் சுற்றுச்சுவர் அருகே பிடிபட்டது",
+   "english_headline": "12-foot python crossed Salem-Panamarathupatti road at midnight, entered a residential street and was caught by fire service",
    "category": "Crime & Safety",
-   "location": "Thoppoor railway overbridge, Omalur, Salem district",
+   "location": "Kejjalnaickenpatti, Panamarathupatti, Salem district",
    "importance": "Medium",
    "scope": "local",
    "post_to": "Salem 360",
    "slides_spec": {
     "v": 3,
-    "cat": "தொழில்",
-    "loc": "தொப்பூர், ஓமலூர்",
-    "hl1": "ஓமலூர் அருகே கார் கண்ணாடி உடைப்பு",
-    "hl2": "2.5 பவுன் தங்கம் திருட்டு",
+    "cat": "வனவிலங்கு",
+    "loc": "பனமரத்துப்பட்டி",
+    "hl1": "பனமரத்துப்பட்டியில் மலைப்பாம்பு பீதி",
+    "hl2": "12 அடி நீள மலைப்பாம்பு",
     "slides": [
      {
-      "title": "சம்பவம்",
+      "title": "என்ன நடந்தது?",
       "lines": [
-       "தொப்பூர் ரயில்வே மேம்பாலம் அருகே",
-       "காலை 9 மணிக்கு காரை நிறுத்தினர்",
-       "சாப்பிட சென்றபோது கண்ணாடி உடைந்தது"
+       "12 அடி நீள மலைப்பாம்பு சாலையைக் கடக்க முயன்றது",
+       "கெஜ்ஜல்நாயக்கன்பட்டி கந்தபிள்ளையார் கோவில் அருகே",
+       "மயில் கரடில் இருந்து சேலம் - பனமரத்துப்பட்டி சாலைக்கு வந்தது"
       ]
      },
      {
-      "title": "திருட்டு விவரம்",
+      "title": "எங்கு புகுந்தது?",
       "lines": [
-       "லேப்டாப் மற்றும் 2.5 பவுன் தங்க சங்கிலி",
-       "பெங்களூரு, பெலஹள்ளி மனைவி-கணவர்கள்",
-       "கேரளம், திருவனந்தபுரம் செல்ல புறப்பட்டனர்"
+       "வாகன ஓட்டிகள் காத்திருந்தனர்",
+       "பாம்பு தொட்டிய தெருவில் புகுந்தது",
+       "வீடுகளின் கதவைத் தட்டி மக்களுக்குத் தகவல் தெரிவித்தனர்"
       ]
      },
      {
-      "title": "நடவடிக்கை",
+      "title": "பிடிபட்டது எப்படி?",
       "lines": [
-       "புகார் அளித்தார்",
-       "தீவட்டிப்பட்டி போலீசார் விசாரிக்கின்றனர்",
-       "தீவட்டிப்பட்டி போலீஸ் நிலையம்"
+       "டார்ச் வெளிச்சத்தில் தேடியபோது வீட்டுச் சுற்றுச்சுவர் அருகே",
+       "செவ்வாய்ப்பேட்டை தீயணைப்பு வீரர்கள் பாம்பைப் பிடித்தனர்",
+       "வனத்துறையினரிடம் ஒப்படைக்க எடுத்துச் செல்லப்பட்டது"
       ]
      }
     ],
     "carousel": false
    },
-   "reel_script": "ஓமலூர் அருகே கார் கண்ணாடி உடைத்து 2.5 பவுன் தங்கம் திருடப்பட்டது. பெங்களூரு, பெலஹள்ளியை சேர்ந்த 36 வயது நவீன் மற்றும் 32 வயது அகிலா என்பவர்கள் இது தொடர்பான புகாரை அளித்தனர். இருவரும் சொந்த ஊரான கேரளம், திருவனந்தபுரம் செல்ல நேற்று புறப்பட்டனர். சேலம் மாவட்ட எல்லையில் உள்ள தொப்பூர் ரயில்வே மேம்பாலம் அருகே ஒரு ஓட்டல் முன் காலை 9 மணிக்கு காரை நிறுத்தினர். சாப்பிட சென்றபோது திரும்பி வந்தனர். அப்போது கார் கண்ணாடி உடைக்கப்பட்டுள்ளது தெரிந்தது. காரில் இருந்த லேப்டாப் மற்றும் 2.5 பவுன் தங்க சங்கிலி திருடுபோனது. நவீன் தீவட்டிப்பட்டி போலீஸ் நிலையத்தில் புகார் அளித்தார். தீவட்டிப்பட்டி போலீசார் வழக்கு பதிவு செய்து விசாரிக்கின்றனர். மேலும் செய்திகளுக்கு சேலம் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🚨 ஓமலூர் அருகே கார் கண்ணாடி உடைத்து 2.5 பவுன் தங்கம் திருட்டு\n\n📰 முழு விவரம்:\nபெங்களூரு, பெலஹள்ளியை சேர்ந்த 36 வயது நவீன் மற்றும் 32 வயது அகிலா என்பவர்கள் கேரளம், திருவனந்தபுரம் செல்ல நேற்று புறப்பட்டனர். சேலம் மாவட்ட எல்லையில் உள்ள தொப்பூர் ரயில்வே மேம்பாலம் அருகே ஒரு ஓட்டல் முன் காலை 9 மணிக்கு காரை நிறுத்தி சாப்பிட சென்றனர். திரும்பி வந்தபோது கார் கண்ணாடி உடைக்கப்பட்டுள்ளது தெரிந்தது. காரில் இருந்த லேப்டாப் மற்றும் 2.5 பவுன் தங்க சங்கிலி திருடுபோனது. நவீன் தீவட்டிப்பட்டி போலீஸ் நிலையத்தில் புகார் அளித்தார். தீவட்டிப்பட்டி போலீசார் விசாரிக்கின்றனர்.\n\n📍 இடம்: தொப்பூர் ரயில்வே மேம்பாலம் அருகே, ஓமலூர்\n🗓️ நாள்: நேற்று\n🕘 நேரம்: காலை 9 மணிக்கு பின்\n👮 நடவடிக்கை: தீவட்டிப்பட்டி போலீசார் விசாரிக்கின்றனர்\nℹ️ மக்கள் கவனத்திற்கு: காரில் மதிப்புமிக்க பொருட்களை வைத்திருக்காதீர்கள்\n\nதேவைப்படுவோருக்கு Share செய்யுங்கள்\n\nCar glass broken and 2.5 tola gold stolen near Omalur | Salem news\n📍 Thoppoor, Omalur, Salem | 15 Nov 2026\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Salem360 #Omalur #SalemNews #சேலம் #Salem",
-   "prompts": "A police officer in khaki crouches beside a broken‑window Swift car, examining the shattered glass and the empty passenger seat where a laptop and a gold chain were reported stolen. The car is parked on the concrete deck of the Thoppoor railway overbridge, with the railway tracks and a low‑rise hotel visible in the background. The officer’s back is to the camera, his hands gesturing toward the damage while another uniformed colleague stands a few metres away, holding a notepad. The scene is set in bright morning light at about 9:00 am, with clear daylight casting sharp shadows on the overbridge. Shot from eye level with a 35 mm lens, wide enough to capture the overbridge structure and the parked car. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close‑up shows the shattered pane of the Swift’s front window, the jagged glass fragments glinting in the morning sun. In the foreground, a police evidence tray holds a small, unmarked gold chain lying beside a black laptop case, both clearly missing from the vehicle. The tray rests on a metal table at the side of the overbridge, with a blurred police uniform sleeve visible in the background. The broken glass, the empty seat, and the evidence items together tell the theft story. The shot is taken slightly high, focusing on the glass and the chain, with daylight illuminating the scene and the railway overbridge’s concrete railing framing the composition. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-salem/2-5-pounds-stolen-by-breaking-car-glass/4376556",
-   "published": "2026-11-15T01:04:00+05:30",
-   "verification": "DRAFT (groq/qwen/qwen3.8-27b) - fact-check: no problems found",
-   "note": "free-model draft groq/qwen/qwen3.8-27b, 2 attempt(s), 0 validator problem(s)",
+   "reel_script": "பனமரத்துப்பட்டியில் 12 அடி நீள மலைப்பாம்பு சாலையைக் கடந்து குடியிருப்புக்குள் புகுந்தது. நேற்று முன்தினம் நள்ளிரவு 12 மணிக்கு, கெஜ்ஜல்நாயக்கன்பட்டி ஊராட்சி கந்தபிள்ளையார் கோவில் அருகே உள்ள மயில் கரடில் இருந்து அந்தப் பாம்பு வெளியே வந்தது. அது சேலம் - பனமரத்துப்பட்டி சாலையைக் கடக்க முயன்றது. அந்த வழியே வந்த வாகன ஓட்டிகள் பாம்பைப் பார்த்து அச்சமடைந்து, அது சாலையைக் கடக்கும் வரை காத்திருந்தனர். பின்னர் பாம்பு தொட்டிய தெருவில் புகுந்தது. இதையடுத்து வாகன ஓட்டிகள் அப்பகுதி வீடுகளின் கதவுகளைத் தட்டி மக்களுக்குத் தகவல் தெரிவித்தனர். மக்கள் டார்ச் வெளிச்சத்தில் தேடியபோது, ஒரு வீட்டின் சுற்றுச்சுவர் அருகே பாம்பு பதுங்கியிருந்தது தெரியவந்தது. செவ்வாய்ப்பேட்டை தீயணைப்பு வீரர்கள் விரைந்து சென்று பாம்பை லாவகமாகப் பிடித்தனர். பிடிபட்ட பாம்பு வனத்துறையினரிடம் ஒப்படைக்கப்படுவதற்காக எடுத்துச் செல்லப்பட்டது. மேலும் செய்திகளுக்கு சேலம் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🐍 பனமரத்துப்பட்டியில் 12 அடி மலைப்பாம்பு: சாலையைக் கடந்து குடியிருப்புக்குள் புகுந்தது\n\n📰 முழு விவரம்:\nகெஜ்ஜல்நாயக்கன்பட்டி ஊராட்சி கந்தபிள்ளையார் கோவில் அருகே உள்ள மயில் கரடில் இருந்து 12 அடி நீள மலைப்பாம்பு நேற்று முன்தினம் நள்ளிரவு 12 மணிக்கு சேலம் - பனமரத்துப்பட்டி சாலையைக் கடக்க முயன்றது.\nஅந்த வழியே வந்த வாகன ஓட்டிகள் பாம்பைப் பார்த்து அச்சமடைந்து, சாலையைக் கடக்கும் வரை காத்திருந்தனர்.\nபின்னர் பாம்பு தொட்டிய தெருவில் புகுந்தது. வாகன ஓட்டிகள் அப்பகுதி வீடுகளின் கதவுகளைத் தட்டி மக்களுக்குத் தகவல் தெரிவித்தனர்.\nடார்ச் வெளிச்சத்தில் தேடியபோது, ஒரு வீட்டின் சுற்றுச்சுவர் அருகே பாம்பு பதுங்கியிருந்தது தெரியவந்தது.\nசெவ்வாய்ப்பேட்டை தீயணைப்பு வீரர்கள் பாம்பை லாவகமாகப் பிடித்து, வனத்துறையினரிடம் ஒப்படைக்க எடுத்துச் சென்றனர்.\n📍 இடம்: கெஜ்ஜல்நாயக்கன்பட்டி ஊராட்சி, பனமரத்துப்பட்டி, சேலம் மாவட்டம்\n🕛 நேரம்: நள்ளிரவு 12 மணி (நேற்று முன்தினம்)\n👮 நடவடிக்கை: தீயணைப்பு வீரர்கள் பாம்பைப் பிடித்து வனத்துறையினரிடம் ஒப்படைக்க எடுத்துச் சென்றனர்.\n\nPython crosses road in Panamarathupatti, Salem | Salem news\n📍 பனமரத்துப்பட்டி, சேலம் மாவட்டம் | 15 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Salem360 #Salem #SalemNews #சேலம்",
+   "prompts": "A team of Tamil Nadu fire and rescue personnel in uniform carefully lifts a large python held with a long hook near the compound wall of a house on a narrow residential street in Kejjalnaickenpatti, Panamarathupatti. The snake's long body is coiled and partly visible in the torch beam, while villagers stand at a distance from behind holding torches. The lane is a typical Salem village street with low concrete houses, tiled roofs and a dirt-and-tar surface, and a small temple gopuram and a rocky hill rise faintly in the dark background. Men in shirts and veshti and a woman in a saree watch from a safe distance, some with torch lights pointing at the ground. It is midnight, the scene lit only by the torches and a faint street light. Camera at eye level, 35 mm lens, wide enough to show the street, the rescuers and the surrounding houses. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up detail of a 12-foot python being held firmly by a fire service rescuer's gloved hands with a long metal snake-catching hook, the thick patterned scales catching the torch light. The snake is partly coiled on the ground beside a house's low concrete compound wall, with dry leaves and a stone at its base. A torch beam from a villager in the background illuminates the snake from the side, creating strong contrast against the dark night. The rescuer wears a khaki uniform and a helmet, seen from behind and blurred at the edges so no face is visible. The texture of the wall, the dusty ground and the dark night surroundings are clearly visible. Camera slightly high, 35 mm, shallow depth of field focusing on the snake and the rescuer's hands. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-salem/mountaineers-crossing-the-road/4376560",
+   "published": "2026-11-15T01:08:00+05:30",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - fact-check: no problems found",
+   "note": "free-model draft anthropic/claude-haiku-5-5, 12 attempt(s), 0 validator problem(s)",
    "post_time": "right after your reply, same day",
    "_area": "N",
    "_score": 999,
    "images": [
-    "https://res.cloudinary.com/jrmwajfz/image/upload/v1794687332/salem360/vscquaar0boyh4q7qdks.jpg",
-    "https://res.cloudinary.com/jrmwajfz/image/upload/v1794687370/salem360/h5gzl9lznlp6doznhuky.jpg"
+    "https://res.cloudinary.com/jrmwajfz/image/upload/v1794701272/salem360/lnxdukkjcmf1eosnatlh.jpg",
+    "https://res.cloudinary.com/jrmwajfz/image/upload/v1794701301/salem360/ufjxbmdltzwtv7hk6lts.jpg"
    ]
   },
   {
-   "tamil_headline": "கொலை வழக்கில் சிக்கிய ரகு மீது குண்டர் தடுப்புச் சட்டம்",
-   "english_headline": "Goonda Act ordered against Raghu, arrested in murder case of rowdy Udayakumar near Salem Puduroad",
+   "tamil_headline": "அன்னதானப்பட்டி ஸ்டேஷனில் இருந்து தப்பிய கைதி நள்ளிரவில் மீண்டும் சிக்கினார்",
+   "english_headline": "Accused who escaped from Annadanapatti police station recaptured at midnight, Salem",
    "category": "Crime & Safety",
-   "location": "Puduroad area, Salem city, Salem district",
-   "importance": "High",
+   "location": "Annadanapatti, Salem city, Salem district",
+   "importance": "Medium",
    "scope": "local",
    "post_to": "Salem 360",
    "slides_spec": {
     "v": 3,
-    "cat": "குற்றச் செய்தி",
-    "loc": "சேலம் புதுரோடு",
-    "hl1": "சேலம் கொலை வழக்கில் குண்டர் சட்டம்",
-    "hl2": "ரகு மீது நடவடிக்கை",
+    "cat": "போலீஸ் நடவடிக்கை",
+    "loc": "அன்னதானப்பட்டி, சேலம்",
+    "hl1": "தப்பிய கைதி மீண்டும் சிக்கினார்",
+    "hl2": "நள்ளிரவில் சுற்றிவளைப்பு",
     "slides": [
      {
-      "title": "கொலை எப்போது?",
+      "title": "யார், ஏன்?",
       "lines": [
-       "ரவுடி உதயகுமார், <b>அக். 26</b> அன்று வெட்டிக் கொலை",
-       "சேலம் புதுரோடு அருகே மர்ம கும்பல் கொலை செய்தது",
-       "முன் விரோதத்தில் நடந்த கொலை"
+       "சேலம், மூணாங்கரடை வினோத் (22 வயது), கைது",
+       "2025ல் போதை மாத்திரை விற்றதாக வழக்கு",
+       "<b>செப். 24</b> அன்று நீதிமன்ற பிடிவாரன்ட்"
       ]
      },
      {
-      "title": "கைது யார்?",
+      "title": "தப்பியது எப்படி?",
       "lines": [
-       "வீராணம், சேனை நகரைச் சேர்ந்த ரகு, <b>23</b>, உள்பட பலர் கைது",
-       "ரகு மீது அம்மாபேட்டை போலீசில் பல வழக்குகள் நிலுவை",
-       "அடிதடி, கூட்டுக்கொள்ளை வழக்குகள் உள்ளன"
+       "ஜாமினில் வந்து விசாரணைக்கு ஆஜராகவில்லை",
+       "நேற்று வீடு அருகே போலீசார் கைது செய்தனர்",
+       "அன்னதானப்பட்டி ஸ்டேஷனுக்கு கொண்டு வந்தபோது தப்பினார்"
       ]
      },
      {
-      "title": "என்ன நடவடிக்கை?",
+      "title": "மீண்டும் கைது",
       "lines": [
-       "ரகுவை குண்டர் தடுப்புச் சட்டத்தில் கைது செய்ய உத்தரவு",
-       "கமிஷனர் பாபு நேற்று உத்தரவிட்டார்",
-       "கொலை வழக்கில் விசாரணை தொடர்கிறது"
+       "தேடுதலுக்குப் பின் <b>நள்ளிரவில்</b> போலீசார் சுற்றிவளைத்தனர்",
+       "வினோத் மீண்டும் கைது செய்யப்பட்டார்"
       ]
      }
     ],
     "carousel": false
    },
-   "reel_script": "சேலம் புதுரோடு அருகே ரவுடி உதயகுமார் கொலை வழக்கில் ரகு மீது குண்டர் தடுப்புச் சட்டத்தில் கைது செய்ய உத்தரவிடப்பட்டுள்ளது. அக்டோபர் 26ஆம் தேதி மர்ம கும்பல் ரவுடி உதயகுமாரை வெட்டிக் கொலை செய்தது. முன் விரோதத்தில் நடந்த இந்தக் கொலை வழக்கில் சேலம், வீராணம், சேனை நகரைச் சேர்ந்த 23 வயது ரகு உள்பட பலரை போலீசார் கைது செய்தனர். விசாரணையில் ரகு மீது அம்மாபேட்டை போலீசில் அடிதடி, கூட்டுக்கொள்ளை உள்ளிட்ட பல வழக்குகள் நிலுவையில் இருப்பது தெரியவந்தது. இதனால் ரகுவை குண்டர் தடுப்புச் சட்டத்தில் கைது செய்ய கமிஷனர் பாபு நேற்று உத்தரவிட்டார். மேலும் செய்திகளுக்கு சேலம் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🚨 சேலம் புதுரோடு கொலை வழக்கில் ரகு மீது குண்டர் தடுப்புச் சட்டம்\n\n📰 முழு விவரம்:\nசேலம் புதுரோடு அருகே ரவுடி டேவிட் என்ற உதயகுமார், அக். 26ஆம் தேதி மர்ம கும்பலால் வெட்டிக் கொலை செய்யப்பட்டார். முன் விரோதத்தில் நடந்த இந்தக் கொலை வழக்கில் சேலம், வீராணம், சேனை நகரைச் சேர்ந்த 23 வயது ரகு உள்பட பலரை போலீசார் கைது செய்தனர். ரகு மீது அம்மாபேட்டை போலீசில் அடிதடி, கூட்டுக்கொள்ளை உள்ளிட்ட பல வழக்குகள் நிலுவையில் உள்ளன. இதையடுத்து அவரை குண்டர் தடுப்புச் சட்டத்தில் கைது செய்ய கமிஷனர் பாபு நேற்று உத்தரவிட்டார்.\n\n📍 இடம்: சேலம் புதுரோடு அருகே\n🗓️ கொலை நாள்: அக். 26\n👮 நடவடிக்கை: ரகுவை குண்டர் தடுப்புச் சட்டத்தில் கைது செய்ய கமிஷனர் பாபு உத்தரவு\n\nSalem Puduroad murder case, Goonda Act order | Salem news\n📍 சேலம் புதுரோடு, சேலம் மாவட்டம் | 15 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Salem360 #Salem #SalemNews #சேலம் #Crime",
-   "prompts": "Tamil Nadu police in khaki uniform escort a young man in a plain shirt, seen from behind, toward a waiting white police jeep on a busy road in Puduroad, Salem city. Two-wheelers and an autorickshaw pass on the tarmac, and low shopfronts with closed shutters line the street. Several constables walk alongside him with their backs to the camera, and a couple of onlookers stand far off on the pavement. The scene is in daylight with a clear sky and dusty afternoon light. Shot at eye level with a 35 mm lens, wide enough to show the road, the shops and the police vehicle. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up on a table at a police station desk: a thick case file and a folded official order sheet lying beside a stack of case papers, with a khaki-sleeved police officer's hand resting on the file edge. Behind the desk, out of focus, a wooden cupboard and a wall fan. Soft indoor light from a tubelight falls on the papers, and the blurred background suggests a Tamil Nadu police station in Salem city. No readable text is visible. Shot at slightly high eye level with a 35 mm lens, focused tightly on the file and papers. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-salem/kundas-slap-man-in-murder-case/4376568",
-   "published": "2026-11-15T01:13:00+05:30",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: sentence 1 (one-line story) has 15 words; make it 6-9 words (about 2-3 seconds), the details follow in the next sentences",
+   "reel_script": "சேலம் அன்னதானப்பட்டி ஸ்டேஷனில் இருந்து தப்பிய கைதி நள்ளிரவில் மீண்டும் கைது செய்யப்பட்டார். சேலம், மூணாங்கரடையைச் சேர்ந்த வினோத் (22 வயது), கருங்கல்பட்டியில் உள்ள இறைச்சி கடையில் வேலை செய்தவர். 2025ஆம் ஆண்டு போதை மாத்திரை விற்றதாக அன்னதானப்பட்டி போலீசார் அவரைக் கைது செய்தனர். ஜாமினில் வெளியே வந்த அவர், விசாரணைக்கு ஆஜராகாமல் தலைமறைவானார். அவரைப் பிடிக்க நீதிமன்றம் செப்டம்பர் 24ஆம் தேதி பிடிவாரன்ட் பிறப்பித்தது. நேற்று வீடு அருகே போலீசார் அவரைக் கைது செய்து அன்னதானப்பட்டி ஸ்டேஷனுக்கு அழைத்து வந்தனர். அப்போது திடீரென அவர் தப்பி ஓடினார். தொடர்ந்து தேடிய போலீசார் நள்ளிரவில் அவரைச் சுற்றிவளைத்துக் கைது செய்தனர். மேலும் செய்திகளுக்கு சேலம் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🚨 அன்னதானப்பட்டி ஸ்டேஷனில் இருந்து தப்பிய கைதி நள்ளிரவில் மீண்டும் கைது\n\n📰 முழு விவரம்:\nசேலம், மூணாங்கரடையைச் சேர்ந்த வினோத் (22 வயது), போதை மாத்திரை விற்பனை வழக்கில் 2025ஆம் ஆண்டு அன்னதானப்பட்டி போலீசாரால் கைது செய்யப்பட்டார். ஜாமினில் வெளியே வந்த அவர் விசாரணைக்கு ஆஜராகாமல் தலைமறைவானார். செப்டம்பர் 24ஆம் தேதி நீதிமன்றம் பிடிவாரன்ட் பிறப்பித்தது.\nநேற்று வீடு அருகே அவரை போலீசார் கைது செய்து அன்னதானப்பட்டி ஸ்டேஷனுக்கு அழைத்து வந்தபோது திடீரென தப்பி ஓடினார். தேடுதலுக்குப் பின் நள்ளிரவில் போலீசார் அவரைச் சுற்றிவளைத்துக் கைது செய்தனர்.\n\nSalem accused escapes police station, re-arrested at midnight | Salem news\n📍 அன்னதானப்பட்டி, சேலம் | 15 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Salem360 #Salem #SalemNews #சேலம்",
+   "prompts": "Tamil Nadu police in khaki surround a young man at night outside the Annadanapatti police station gate in Salem city, the accused seen only from behind with his hands held by two constables. The street is a narrow Salem city lane with a low concrete compound wall, a tiled-roof police station building set back behind it, and a single two-wheeler parked at the kerb. A few constables stand in a loose circle, their backs partly turned, while one officer with a torch lights the scene. Midnight, dark sky, only the yellow glow of a street lamp and the police station's light spilling onto the road. Shot at eye level, 35 mm, wide enough to show the gate, the police and the empty road, faces turned away or blurred. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up of the police station's iron gate and a stone step at night, with a police torch beam falling on the wet pavement and a pair of worn rubber slippers left on the step, as if someone had run out in a hurry. Behind, a khaki-uniformed constable's boots and a wooden lathi rest against the wall. The gate is slightly open, the lock hanging loose. Midnight, dark, the only light from a torch and a single bulb above the gate. Shot at eye level, 35 mm, shallow depth so the gate and slippers are sharp and the background is softly blurred. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-salem/escaped-prisoner-rounded-up/4376549",
+   "published": "2026-11-15T00:59:00+05:30",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: hl1 (the first headline on screen) must name the place 'அன்னதானப்பட்டி', e.g. 'அன்னதானப்பட்டி: ...' or 'அன்னதானப்பட்டி-இல் ...' - viewers share news of their own area",
    "note": "free-model draft anthropic/claude-haiku-5-5, 13 attempt(s), 1 validator problem(s)",
    "post_time": "right after your reply, same day",
    "_area": "N",
    "_score": 999,
    "images": [
-    "https://res.cloudinary.com/jrmwajfz/image/upload/v1794687377/salem360/wmbeyv78a19l6mjkdh7g.jpg",
-    "https://res.cloudinary.com/jrmwajfz/image/upload/v1794687383/salem360/xvpzzctjszwhgbe5l5yk.jpg"
+    "https://res.cloudinary.com/jrmwajfz/image/upload/v1794701316/salem360/gs2ouqlknwkuldlszvcx.jpg",
+    "https://res.cloudinary.com/jrmwajfz/image/upload/v1794701319/salem360/jsk1uqjjskv0wpnijmue.jpg"
+   ]
+  },
+  {
+   "tamil_headline": "பாட்னா - எர்ணாகுளம் ரயிலில் 6 கிலோ ஹான்ஸ் பறிமுதல்",
+   "english_headline": "6 kg Hans tobacco seized from Patna-Ernakulam train by Salem railway police",
+   "category": "Crime & Safety",
+   "location": "Salem railway police area, Salem district",
+   "importance": "Medium",
+   "scope": "local",
+   "post_to": "Salem 360",
+   "slides_spec": {
+    "v": 3,
+    "cat": "போதைப் பொருள்",
+    "loc": "சேலம் ரயில்வே",
+    "hl1": "ரயிலில் 6 கிலோ ஹான்ஸ் பறிமுதல்",
+    "hl2": "சேலம் ரயில்வே போலீஸ்",
+    "slides": [
+     {
+      "title": "என்ன நடந்தது?",
+      "lines": [
+       "பாட்னா - எர்ணாகுளம் விரைவு ரயிலில் <b>6 கிலோ</b> ஹான்ஸ் பறிமுதல்",
+       "சனிக்கிழமை போலீஸார் பறிமுதல் செய்தனர்",
+       "சேலம் ரயில்வே போலீஸார் சோதனை நடத்தினர்"
+      ]
+     },
+     {
+      "title": "எங்கே கிடைத்தது?",
+      "lines": [
+       "முன்பக்க பொதுப்பெட்டியில் சோதனை",
+       "பொம்மிடி - சேலம் இடையே சோதனை செய்தபோது",
+       "கழிவறை அருகே பை கேட்பாரற்றுக் கிடந்தது"
+      ]
+     },
+     {
+      "title": "பையில் என்ன?",
+      "lines": [
+       "நீல நிற ஒற்றைத் தோள்பட்டைப் பை",
+       "பையைத் திறந்தபோது 6 கிலோ ஹான்ஸ் பாக்கெட்டுகள்",
+       "பொருள்கள் சேலம் ரயில்வே காவல் நிலையத்தில் ஒப்படைப்பு"
+      ]
+     },
+     {
+      "title": "அடுத்தது?",
+      "lines": [
+       "போலீஸார் விசாரணை மேற்கொண்டு வருகின்றனர்",
+       "மேல் நடவடிக்கைக்காக ஒப்படைக்கப்பட்டுள்ளது",
+       "மேலும் தகவல்கள் வந்தால் பகிரப்படும்"
+      ]
+     }
+    ],
+    "carousel": false
+   },
+   "reel_script": "பாட்னா - எர்ணாகுளம் விரைவு ரயிலில் 6 கிலோ ஹான்ஸ் போதைப் பொருள் பறிமுதல் செய்யப்பட்டுள்ளது. சேலம் ரயில்வே காவல் உட்கோட்ட போதைப் பொருள் தடுப்புப் பிரிவு போலீஸார் இந்த ரயிலில் சோதனை நடத்தினர். சனிக்கிழமை நடந்த இந்தச் சோதனையில் பொம்மிடி - சேலம் இடையே ஒரு பொதுப்பெட்டியில் சோதனை நடைபெற்றது. அந்தப் பெட்டியில் கழிவறை அருகே நீல நிற ஒற்றைத் தோள்பட்டைப் பை ஒன்று கேட்பாரற்றுக் கிடந்தது. பையைத் திறந்து பார்த்தபோது அதில் 6 கிலோ ஹான்ஸ் பாக்கெட்டுகள் இருந்தன. பறிமுதல் செய்யப்பட்ட பொருள்களை மேல் நடவடிக்கைக்காக சேலம் ரயில்வே காவல் நிலையத்தில் போலீஸார் ஒப்படைத்தனர். இது குறித்து போலீஸார் தொடர்ந்து விசாரணை மேற்கொண்டு வருகின்றனர். மேலும் செய்திகளுக்கு சேலம் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🚨 பாட்னா - எர்ணாகுளம் ரயிலில் 6 கிலோ ஹான்ஸ் பறிமுதல்\n\n📰 முழு விவரம்:\nபாட்னா - எர்ணாகுளம் விரைவு ரயிலில் கேட்பாரற்றுக் கிடந்த 6 கிலோ ஹான்ஸ் போதைப் பொருளை சேலம் ரயில்வே போலீஸார் சனிக்கிழமை பறிமுதல் செய்தனர்.\nசேலம் ரயில்வே காவல் உட்கோட்ட போதைப் பொருள் தடுப்புப் பிரிவு போலீஸார் ரயிலில் சோதனை மேற்கொண்டனர். முன்பக்க பொதுப்பெட்டியில், பொம்மிடி - சேலம் இடையே சோதனை செய்தபோது, கழிவறை அருகே நீல நிற ஒற்றைத் தோள்பட்டைப் பை கேட்பாரற்றுக் கிடந்தது.\nபையைத் திறந்து பார்த்தபோது அதில் 6 கிலோ ஹான்ஸ் பாக்கெட்டுகள் இருந்தன. பறிமுதல் செய்யப்பட்ட பொருள்களை மேல் நடவடிக்கைக்காக சேலம் ரயில்வே காவல் நிலையத்தில் போலீஸார் ஒப்படைத்தனர். இது குறித்து போலீஸார் விசாரணை மேற்கொண்டு வருகின்றனர்.\n\n📍 இடம்: பொம்மிடி - சேலம் இடையே ரயில் பெட்டி, சேலம் மாவட்டம்\n🗓️ நாள்: சனிக்கிழமை\n👮 நடவடிக்கை: 6 கிலோ ஹான்ஸ் பறிமுதல்; சேலம் ரயில்வே காவல் நிலையத்தில் ஒப்படைப்பு\nℹ️ மக்கள் கவனத்திற்கு: ரயிலில் கேட்பாரற்றுக் கிடக்கும் பைகளைக் கண்டால் உடனே ரயில்வே போலீஸாருக்குத் தெரிவியுங்கள்.\n\nPatna-Ernakulam train 6 kg Hans seized | Salem news\n📍 சேலம் மாவட்டம் | சனிக்கிழமை\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Salem360 #Salem #SalemNews #சேலம்",
+   "prompts": "A pair of Tamil Nadu police in khaki uniform stand in the aisle of a general compartment of an express train, one bending over an open blue single-shoulder bag on the floor beside the toilet door. The bag is stuffed with packets of Hans tobacco, and a few packets are placed on the seat next to it. The compartment is crowded with unreserved passengers sitting on benches, men in shirts and trousers and women in sarees seen from behind or far away, and the window shows daylight passing over the Salem region with the distant Shevaroy hills faintly visible. The scene is shot at eye level in a slightly high angle with a 35 mm lens, wide enough to show the length of the compartment, the toilet door, the railway police uniforms and the seized goods, in natural daylight on a Saturday. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up detail of an open blue single-shoulder bag lying on the dusty floor of a train compartment beside a toilet door. Inside the bag are rows of small packets of seized Hans tobacco, neatly stacked, with a gloved police hand in khaki sleeve lifting one packet out. Only the uniform sleeve and hands are visible; no faces. The steel floor and the edge of a passenger's bare feet in sandals are blurred at the frame's edge. Shot at a low-to-eye level angle with a 35 mm lens, shallow depth of field, in soft daylight coming through the train window, emphasising the blue bag and the contraband. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamani.com/all-editions/edition-dharmapuri/salem/2026/Nov/14/பாட்னா-எா்ணாகுளம்-ரயிலில்6-கிலோ-புகையிலைப்-பொருள்-பறிமுதல்",
+   "published": "2026-11-14T20:24:57.328Z",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: sentence 1 (one-line story) has 12 words; make it 6-9 words (about 2-3 seconds), the details follow in the next sentences",
+   "note": "free-model draft anthropic/claude-haiku-5-5, 13 attempt(s), 1 validator problem(s)",
+   "post_time": "right after your reply, same day",
+   "_area": "N",
+   "_score": 999,
+   "images": [
+    "https://res.cloudinary.com/jrmwajfz/image/upload/v1794701344/salem360/dqrbgtb2r98lnpns9h8j.jpg",
+    "https://res.cloudinary.com/jrmwajfz/image/upload/v1794701347/salem360/yue2cgednjojlziszhzf.jpg"
+   ]
+  },
+  {
+   "tamil_headline": "கொலை வழக்கில் தலைமறைவாக இருந்தவர் திருச்செங்கோட்டில் கைது",
+   "english_headline": "Absconding murder-case accused arrested at Tiruchengode tea shop; he tried to end his life with a broken bottle",
+   "category": "Crime & Safety",
+   "location": "Tharamangalam, Salem district (arrest at Tiruchengode, Namakkal district)",
+   "importance": "High",
+   "scope": "local",
+   "post_to": "Salem 360",
+   "slides_spec": {
+    "v": 3,
+    "cat": "கைது",
+    "loc": "தாரமங்கலம்",
+    "hl1": "கொலை வழக்கில் தலைமறைவானவர் கைது",
+    "hl2": "தற்கொலை முயற்சியால் பரபரப்பு",
+    "slides": [
+     {
+      "title": "யார்? எங்கே?",
+      "lines": [
+       "தாரமங்கலம் அருகே பெரியாம்பட்டியைச் சேர்ந்த மணிகண்டன் (35 வயது)",
+       "2018-ல் சிவா கொலை வழக்கில் கைது செய்யப்பட்டவர்",
+       "பிணையில் வந்த பின் ஓமலூர் நீதிமன்றத்தில் ஆஜராகாமல்"
+      ]
+     },
+     {
+      "title": "பிடிக்கச்",
+      "lines": [
+       "ஓமலூர் நீதிமன்ற பிடியாணை பிறப்பிக்கப்பட்டது",
+       "நாமக்கல் மாவட்டம் திருச்செங்கோட்டில் பதுங்கியிருந்தார் என",
+       "வெள்ளிக்கிழமை இரவு தேநீர் கடையில் போலீசார் பிடிக்க முயன்றனர்"
+      ]
+     },
+     {
+      "title": "தற்கொலை முயற்சி",
+      "lines": [
+       "கடையில் இருந்த பாட்டிலை உடைத்து குத்திக்கொண்டார்",
+       "தடுக்க முயன்ற தலைமைக் காவலர் கலையரசனின் கைகளை பாட்டிலால்",
+       "தனியார் மருத்துவமனையில் முதலுதவிக்குப் பின் தாரமங்கலம்"
+      ]
+     },
+     {
+      "title": "கைது",
+      "lines": [
+       "சனிக்கிழமை நீதிமன்றத்தில் ஆஜர்படுத்தப்பட்டார்",
+       "பின்னர் சிறையில் அடைக்கப்பட்டார்"
+      ]
+     }
+    ],
+    "carousel": false
+   },
+   "reel_script": "தாரமங்கலம் அருகே கொலை வழக்கில் தலைமறைவாக இருந்தவர் தற்கொலைக்கு முயன்றதால் பரபரப்பு ஏற்பட்டது. சேலம் மாவட்டம் பெரியாம்பட்டியைச் சேர்ந்த மணிகண்டன், 35 வயது. 2018ஆம் ஆண்டு அதே பகுதியைச் சேர்ந்த சிவா கொலை வழக்கில் மணிகண்டன் கைது செய்யப்பட்டார். வழக்கில் பிணையில் வெளியே வந்த மணிகண்டன், ஓமலூர் நீதிமன்றத்தில் விசாரணைக்கு ஆஜராகாமல் தலைமறைவானார். இதையடுத்து ஓமலூர் நீதிமன்றம் அவருக்குப் பிடியாணை பிறப்பித்தது. தாரமங்கலம் உதவி ஆய்வாளர் சுரேஷ், தலைமைக் காவலர் கலையரசன் ஆகியோர் மணிகண்டனைத் தேடி வந்தனர். நாமக்கல் மாவட்டம் திருச்செங்கோட்டில் பதுங்கியிருப்பதாகத் தகவல் கிடைத்தது. வெள்ளிக்கிழமை இரவு போலீசார் அங்கு சென்றனர். தேநீர் கடையில் இருந்த மணிகண்டனைப் பிடிக்க முயன்றபோது, கடையில் இருந்த பாட்டிலை உடைத்து தனக்கு குத்திக்கொண்டு தற்கொலைக்கு முயன்றார். இதைத் தடுக்க முயன்ற தலைமைக் காவலர் கலையரசனின் கைகளை, பாட்டிலால் மணிகண்டன் கிழித்துக் காயப்படுத்தினார். பின்னர் தனியார் மருத்துவமனையில் முதலுதவி அளிக்கப்பட்டு, தாரமங்கலம் அழைத்துவரப்பட்டார். சனிக்கிழமை நீதிமன்றத்தில் ஆஜர்படுத்தப்பட்ட பிறகு மணிகண்டன் சிறையில் அடைக்கப்பட்டார். மேலும் செய்திகளுக்கு சேலம் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🚨 தாரமங்கலம் அருகே கொலை வழக்கில் தலைமறைவானவர் கைது\n\n📰 முழு விவரம்:\nதாரமங்கலம் அருகே பெரியாம்பட்டியைச் சேர்ந்த மணிகண்டன் (35 வயது), 2018ஆம் ஆண்டு சிவா கொலை வழக்கில் கைது செய்யப்பட்டவர். பிணையில் வெளியே வந்த அவர், ஓமலூர் நீதிமன்ற விசாரணைக்கு ஆஜராகாமல் தலைமறைவானார். நீதிமன்றம் பிடியாணை பிறப்பித்தது.\nவெள்ளிக்கிழமை இரவு திருச்செங்கோட்டில் தேநீர் கடையில் அவரைப் பிடிக்க முயன்றபோது, பாட்டிலை உடைத்துத் தற்கொலைக்கு முயன்றார். தடுக்க முயன்ற தலைமைக் காவலர் கலையரசனின் கைகளை பாட்டிலால் கிழித்துக் காயப்படுத்தினார்.\nதனியார் மருத்துவமனையில் முதலுதவிக்குப் பின் தாரமங்கலம் அழைத்துவரப்பட்டார். சனிக்கிழமை நீதிமன்றத்தில் ஆஜர்படுத்தப்பட்டு சிறையில் அடைக்கப்பட்டார்.\n📍 இடம்: தாரமங்கலம் அருகே பெரியாம்பட்டி; கைது திருச்செங்கோடு (நாமக்கல் மாவட்டம்)\n👮 நடவடிக்கை: பிடியாணையுடன் கைது; நீதிமன்றத்தில் ஆஜர்; சிறையில் அடைப்பு\n\nTharamangalam murder case absconder arrested | Salem news\n📍 தாரமங்கலம், சேலம் மாவட்டம் | 14 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Salem360 #Salem #Tharamangalam #கைது #SalemNews",
+   "prompts": "A Tamil Nadu police sub-inspector in khaki uniform holds the arm of a man in a shirt and veshti outside a roadside tea shop in Tiruchengode town, pulling him away from the counter during a night arrest. The street is a busy small-town road with two-wheelers parked along the kerb, a few shopfronts with bright tubelights and a parked white police jeep with its light on. A head constable in khaki stands close behind, his back partly turned, and two or three onlookers in shirts and sarees stand at a distance under the shop lights. The night is dark and warm, lit only by shop lamps and the jeep headlights. Shot at eye level, 35 mm, wide enough to show the street, the tea shop and the police jeep, with the figures seen from behind or in soft focus. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up on a broken glass bottle with jagged edges resting on a wooden tea-shop counter beside a row of stainless steel tea glasses and a steel kettle, with a faint smear of dark wetness on the counter edge. Behind it, out of focus, the blurred khaki sleeve of a police constable reaches toward the counter, and the warm yellow light of a tubelight falls over the scene. Night, indoor tea shop, no faces visible, shot at slightly high angle, 35 mm, shallow depth of field. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamani.com/all-editions/edition-dharmapuri/salem/2026/Nov/14/கொலை-வழக்கில்-தலைமறைவாக-இருந்தவா்-கைது-2",
+   "published": "2026-11-14T20:19:17.785Z",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: slide 1 line 1 longer than 60 characters; hl1 (the first headline on screen) must name the place 'தாரமங்கலம்', e.g. 'தாரமங்கலம்: ...' or 'தாரமங்கலம்-இல் ...' - viewers share news of their own area",
+   "note": "free-model draft anthropic/claude-haiku-5-5, 12 attempt(s), 2 validator problem(s)",
+   "post_time": "right after your reply, same day",
+   "_area": "N",
+   "_score": 999,
+   "images": [
+    "https://res.cloudinary.com/jrmwajfz/image/upload/v1794701385/salem360/ku38jifqaqmlvfsmxw1g.jpg",
+    "https://res.cloudinary.com/jrmwajfz/image/upload/v1794701398/salem360/k6axp3qabz13yew5cx4x.jpg"
    ]
   }
  ]
