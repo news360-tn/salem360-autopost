@@ -81,6 +81,18 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 <!-- recent-changes:start (updated automatically by .github/workflows/context.yml - do not edit by hand) -->
 | Date | Commit | Change |
 |---|---|---|
+| 2026-11-16 | `30d4ec9` | post: while news is still waiting, a live posting run starts the next one (GitHub skipped most 5-minute runs on 16 Nov) |
+| 2026-11-16 | `2624d4b` | pick: picked news saved |
+| 2026-11-16 | `bd0d867` | pick: picked news saved |
+| 2026-11-16 | `542b928` | pick: list sent |
+| 2026-11-16 | `9f11634` | pick: written and posted |
+| 2026-11-16 | `584aa86` | pick: picked news saved |
+| 2026-11-16 | `8a1224c` | pick: picked news saved |
+| 2026-11-16 | `6688a56` | pick: list sent |
+| 2026-11-16 | `5c0f247` | powercut: notices written |
+| 2026-11-16 | `9c76663` | powercut: notices written |
+| 2026-11-16 | `e05fe84` | stories shared |
+| 2026-11-16 | `959b1e6` | goldrate posted |
 | 2026-11-16 | `c3672fa` | pick: a round GitHub skipped adds its count to the next round; lifestyle columns not written automatically; leftover count in the round log |
 | 2026-11-16 | `47e8fbf` | rasipalan posted |
 | 2026-11-16 | `36e18fc` | pick: written and posted |
@@ -99,16 +111,4 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 | 2026-11-15 | `7b3f1c1` | pick: written and posted |
 | 2026-11-15 | `813cd23` | powercut: notices written |
 | 2026-11-15 | `f516221` | pick: picked news saved |
-| 2026-11-15 | `33ca82f` | pick: picked news saved |
-| 2026-11-15 | `e4f3815` | pick: list sent |
-| 2026-11-15 | `8a088b0` | powercut: notices written |
-| 2026-11-15 | `381db99` | powercut: notices written |
-| 2026-11-15 | `9dba74d` | powercut: notices written |
-| 2026-11-15 | `569102b` | stories shared |
-| 2026-11-15 | `25952d7` | powercut: notices written |
-| 2026-11-15 | `96de4d7` | powercut: notices written |
-| 2026-11-15 | `39b7ef5` | pick: written and posted |
-| 2026-11-15 | `4caf5fe` | powercut: notices written |
-| 2026-11-15 | `e68244f` | pick: picked news saved |
-| 2026-11-15 | `35db7d2` | pick: picked news saved |
 <!-- recent-changes:end -->
