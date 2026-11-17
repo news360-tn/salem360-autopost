@@ -1,30 +1,29 @@
-12:01:54 SKIP RN-2 held: fact-check problems - not grounded: location 'பகுதிகள்' is not in the article
-12:01:54 SKIP RN-7 stale: published 13 Nov, older than yesterday
-12:01:56 SKIP RN-30 held: fact-check problems - numbers not found in the article: 10000
-12:01:56 SKIP RN-36 held: fact-check problems - not grounded: only 23% of the words come from the article (e.g. இன்று, அதிகபட்சமாக, டிகிரி, செல்சியஸ், குறைந்தபட்சமாக)
-12:01:56 SKIP RN-55 held: fact-check problems - fact-check: The draft says the Kandasashti festival started on 'October 10' (அக்டோபர் 10ஆம் தேதி) in the reel_script and caption, but the article only says it began on the 10th of the current month wi
-12:01:57 SKIP RN-61 held: fact-check problems - not grounded: location 'எல்லை' is not in the article
-12:01:57 SKIP RN-65 held: fact-check problems - fact-check: The article says Prabakaran was taken to Salem government hospital but the draft's reel_script/slides say he was 'taken' there; fact-check: The reel_script says 'பிரபாகரன் (40 வயது), ஹெல்ம
-12:01:57 SKIP RN-66 held: fact-check problems - fact-check: reel_script says 'Sankagiri' area narrative but caption header says 'சங்ககிரி அருகே இளைஞர் வெட்டு' — consistent; fact-check: slides_spec 'loc' field gives 'கத்தேரி, சங்ககிரி' which is acce
-12:01:59 SKIP RN-71 held: fact-check problems - numbers not found in the article: 75
-12:01:59 SKIP RN-75 held: location is only the district - the town from the article is missing
+12:13:52 SKIP RN-2 held: fact-check problems - not grounded: location 'பகுதிகள்' is not in the article
+12:13:52 SKIP RN-7 stale: published 13 Nov, older than yesterday
+12:13:53 SKIP RN-30 held: fact-check problems - numbers not found in the article: 10000
+12:13:53 SKIP RN-36 held: fact-check problems - not grounded: only 23% of the words come from the article (e.g. இன்று, அதிகபட்சமாக, டிகிரி, செல்சியஸ், குறைந்தபட்சமாக)
+12:13:53 SKIP RN-55 held: fact-check problems - fact-check: The draft says the Kandasashti festival started on 'October 10' (அக்டோபர் 10ஆம் தேதி) in the reel_script and caption, but the article only says it began on the 10th of the current month wi
+12:13:55 SKIP RN-61 held: fact-check problems - not grounded: location 'எல்லை' is not in the article
+12:13:55 SKIP RN-65 held: fact-check problems - fact-check: The article says Prabakaran was taken to Salem government hospital but the draft's reel_script/slides say he was 'taken' there; fact-check: The reel_script says 'பிரபாகரன் (40 வயது), ஹெல்ம
+12:13:55 SKIP RN-66 held: fact-check problems - fact-check: reel_script says 'Sankagiri' area narrative but caption header says 'சங்ககிரி அருகே இளைஞர் வெட்டு' — consistent; fact-check: slides_spec 'loc' field gives 'கத்தேரி, சங்ககிரி' which is acce
+12:13:57 SKIP RN-71 held: fact-check problems - numbers not found in the article: 75
+12:13:57 SKIP RN-75 held: location is only the district - the town from the article is missing
 ::warning title=Held from posting RN-75::held: location is only the district - the town from the article is missing
-12:02:01 story catch-up salem: quota 28/50, 40 recent posts, 4 live stories, owner ids ['17841420521166438', '29025309123762186']
-12:02:01 12 stories in the queue, ready to post: 2
-12:02:01   keys: ['batch', 'caption', 'category', 'doc', 'email_sent', 'gmail_id', 'headline_en', 'headline_ta', 'images', 'importance', 'location', 'notes', 'notion', 'other_sources', 'post_status', 'post_to', 'posted_at', 'prompts', 'published', 'reel', 'reel_link', 'reel_script', 'researched', 'review', 'review_page', 'row', 'salem_link', 'slides_spec', 'source', 'spare_link', 'story_id', 'verification']
-12:02:01    RN-2 review= 'Auto' images= 98 spec= 686 pages= ['salem'] links= '' '' age_h= 108.9 ready= False set_started= True
-12:02:01    RN-7 review= 'Auto' images= 98 spec= 838 pages= ['salem'] links= '' '' age_h= 96.9 ready= False set_started= True
-12:02:01    RN-30 review= 'Auto' images= 195 spec= 688 pages= ['salem'] links= '' '' age_h= 66.3 ready= False set_started= True
-12:02:01    RN-36 review= 'Auto' images= 195 spec= 694 pages= ['salem'] links= '' '' age_h= 62.3 ready= False set_started= True
-12:02:01    RN-54 review= 'Auto' images= 195 spec= 761 pages= ['salem'] links= '' '' age_h= 42.2 ready= True set_started= True
-12:02:01    RN-55 review= 'Auto' images= 195 spec= 679 pages= ['salem'] links= '' '' age_h= 42.2 ready= False set_started= True
-12:02:01    RN-61 review= 'Auto' images= 195 spec= 656 pages= ['salem'] links= '' '' age_h= 30.9 ready= False set_started= True
-12:02:01    RN-65 review= 'Auto' images= 195 spec= 680 pages= ['salem'] links= '' '' age_h= 30.9 ready= False set_started= True
-12:02:01    RN-66 review= 'Auto' images= 195 spec= 719 pages= ['salem'] links= '' '' age_h= 30.9 ready= False set_started= True
-12:02:01    RN-71 review= 'Auto' images= 195 spec= 791 pages= ['salem'] links= '' '' age_h= 29.7 ready= False set_started= True
-12:02:01    RN-75 review= 'Auto' images= 195 spec= 702 pages= ['salem'] links= '' '' age_h= 19.6 ready= False set_started= True
-12:02:01    RN-94 review= 'Auto' images= 195 spec= 712 pages= ['salem'] links= '' '' age_h= 1.3 ready= True set_started= True
-12:02:03 publishing quota salem: 28/50
-12:02:05 instagram duplicate check salem: 50 recent posts read
-12:02:05    RN-54 skipped: already on Instagram ['salem']
-12:02:05    RN-94 waits for the 12-minute gap after the last post on ['salem']
+12:13:59 story catch-up salem: quota 28/50, 40 recent posts, 4 live stories, owner ids ['17841420521166438', '29025309123762186']
+12:13:59 12 stories in the queue, ready to post: 2
+12:13:59   keys: ['batch', 'caption', 'category', 'doc', 'email_sent', 'gmail_id', 'headline_en', 'headline_ta', 'images', 'importance', 'location', 'notes', 'notion', 'other_sources', 'post_status', 'post_to', 'posted_at', 'prompts', 'published', 'reel', 'reel_link', 'reel_script', 'researched', 'review', 'review_page', 'row', 'salem_link', 'slides_spec', 'source', 'spare_link', 'story_id', 'verification']
+12:13:59    RN-2 review= 'Auto' images= 98 spec= 686 pages= ['salem'] links= '' '' age_h= 109.0 ready= False set_started= True
+12:13:59    RN-7 review= 'Auto' images= 98 spec= 838 pages= ['salem'] links= '' '' age_h= 97.1 ready= False set_started= True
+12:13:59    RN-30 review= 'Auto' images= 195 spec= 688 pages= ['salem'] links= '' '' age_h= 66.5 ready= False set_started= True
+12:13:59    RN-36 review= 'Auto' images= 195 spec= 694 pages= ['salem'] links= '' '' age_h= 62.4 ready= False set_started= True
+12:13:59    RN-54 review= 'Auto' images= 195 spec= 761 pages= ['salem'] links= '' '' age_h= 42.4 ready= True set_started= True
+12:13:59    RN-55 review= 'Auto' images= 195 spec= 679 pages= ['salem'] links= '' '' age_h= 42.4 ready= False set_started= True
+12:13:59    RN-61 review= 'Auto' images= 195 spec= 656 pages= ['salem'] links= '' '' age_h= 31.1 ready= False set_started= True
+12:13:59    RN-65 review= 'Auto' images= 195 spec= 680 pages= ['salem'] links= '' '' age_h= 31.1 ready= False set_started= True
+12:13:59    RN-66 review= 'Auto' images= 195 spec= 719 pages= ['salem'] links= '' '' age_h= 31.1 ready= False set_started= True
+12:13:59    RN-71 review= 'Auto' images= 195 spec= 791 pages= ['salem'] links= '' '' age_h= 29.9 ready= False set_started= True
+12:13:59    RN-75 review= 'Auto' images= 195 spec= 702 pages= ['salem'] links= '' '' age_h= 19.8 ready= False set_started= True
+12:13:59    RN-94 review= 'Auto' images= 195 spec= 712 pages= ['salem'] links= '' '' age_h= 1.4 ready= True set_started= True
+12:14:01 publishing quota salem: 28/50
+12:14:02 instagram duplicate check salem: 50 recent posts read
+12:14:02    RN-54 skipped: already on Instagram ['salem']
