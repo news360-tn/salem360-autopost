@@ -40,7 +40,8 @@
    "alts": [
     "https://www.dinamani.com/all-editions/edition-dharmapuri/salem/2026/Nov/16/%E0%AE%B0%E0%AF%87%E0%AE%B7%E0%AE%A9%E0%AF%8D-%E0%AE%85%E0%AE%B0%E0%AE%BF%E0%AE%9A%E0%AE%BF-%E0%AE%95%E0%AE%9F%E0%AE%A4%E0%AF%8D%E0%AE%A4%E0%AE%B2%E0%AF%8D-2-%E0%AE%AA%E0%AF%87%E0%AE%BE%E0%AF%8D-%E0%AE%95%E0%AF%88%E0%AE%A4%E0%AF%81-3"
    ],
-   "listed_at": "2026-11-17T08:06:02.566145+05:30"
+   "listed_at": "2026-11-17T08:06:02.566145+05:30",
+   "picked_at": "2026-11-17T08:11:39.873241+05:30"
   },
   "C82fc95a": {
    "id": "C82fc95a",
@@ -52,7 +53,8 @@
    "category": "குற்றம்",
    "score": 12.5,
    "power_cut": false,
-   "listed_at": "2026-11-17T08:06:02.566145+05:30"
+   "listed_at": "2026-11-17T08:06:02.566145+05:30",
+   "picked_at": "2026-11-17T08:11:39.873245+05:30"
   },
   "Ca5ec4f9": {
    "id": "Ca5ec4f9",
@@ -64,7 +66,8 @@
    "category": "குற்றம்",
    "score": 12.5,
    "power_cut": false,
-   "listed_at": "2026-11-17T08:06:02.566145+05:30"
+   "listed_at": "2026-11-17T08:06:02.566145+05:30",
+   "picked_at": "2026-11-17T08:11:39.873247+05:30"
   },
   "C351377f": {
    "id": "C351377f",
@@ -79,7 +82,8 @@
    "alts": [
     "https://www.dinamalar.com/news/tamil-nadu-district-news-salem/2-people-were-caught-by-a-video-of-1-1-ton-of-ration-rice-seized/4378361"
    ],
-   "listed_at": "2026-11-17T08:06:02.566145+05:30"
+   "listed_at": "2026-11-17T08:06:02.566145+05:30",
+   "picked_at": "2026-11-17T08:11:39.873253+05:30"
   },
   "C43ed8d8": {
    "id": "C43ed8d8",
@@ -91,7 +95,8 @@
    "category": "குற்றம்",
    "score": 10.5,
    "power_cut": false,
-   "listed_at": "2026-11-17T08:06:02.566145+05:30"
+   "listed_at": "2026-11-17T08:06:02.566145+05:30",
+   "picked_at": "2026-11-17T08:11:39.873250+05:30"
   },
   "C807b907": {
    "id": "C807b907",
@@ -103,7 +108,8 @@
    "category": "பொது",
    "score": 7.0,
    "power_cut": false,
-   "listed_at": "2026-11-17T08:06:02.566145+05:30"
+   "listed_at": "2026-11-17T08:06:02.566145+05:30",
+   "picked_at": "2026-11-17T08:11:39.873255+05:30"
   },
   "C686f2e4": {
    "id": "C686f2e4",
@@ -163,7 +169,8 @@
    "category": "பொது",
    "score": 5.43,
    "power_cut": false,
-   "listed_at": "2026-11-17T08:06:02.566145+05:30"
+   "listed_at": "2026-11-17T08:06:02.566145+05:30",
+   "picked_at": "2026-11-17T08:11:39.873257+05:30"
   },
   "Ca3e1b9d": {
    "id": "Ca3e1b9d",
@@ -1141,8 +1148,28 @@
    ],
    "sent": false,
    "deadline": "2026-11-17T09:06:02.566145+05:30",
-   "decided": null,
-   "written": []
+   "decided": {
+    "how": "automatic: top 7 of 19 by insights",
+    "ids": [
+     "Cfad9426",
+     "C82fc95a",
+     "Ca5ec4f9",
+     "C43ed8d8",
+     "C351377f",
+     "C807b907",
+     "Cc84edd9"
+    ],
+    "at": "2026-11-17T08:11:39.873215+05:30"
+   },
+   "written": [
+    "C351377f",
+    "C43ed8d8",
+    "C807b907",
+    "C82fc95a",
+    "Ca5ec4f9",
+    "Cc84edd9",
+    "Cfad9426"
+   ]
   }
  },
  "retry": {}
