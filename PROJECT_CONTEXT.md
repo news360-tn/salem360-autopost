@@ -81,34 +81,34 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 <!-- recent-changes:start (updated automatically by .github/workflows/context.yml - do not edit by hand) -->
 | Date | Commit | Change |
 |---|---|---|
+| 2026-11-18 | `cc497ec` | schedule: rasipalan 6:40 AM, gold 9:40 AM (MJDTA 9:30), afternoon gold change post after MJDTA's 3:30 PM rate, watchdog in the posting job starts them (and an overdue news round) when GitHub skips the schedule |
+| 2026-11-18 | `6afa1f2` | pick: written and posted |
+| 2026-11-18 | `418bc33` | pick: picked news saved |
+| 2026-11-18 | `755186f` | pick: picked news saved |
+| 2026-11-18 | `498ba1f` | pick: list sent |
+| 2026-11-18 | `9be2c50` | goldrate posted |
+| 2026-11-18 | `20b0644` | rasipalan posted |
+| 2026-11-18 | `4d93c03` | powercut: notices written |
+| 2026-11-18 | `61e1a88` | powercut: notices written |
+| 2026-11-18 | `988aff0` | pick: written and posted |
+| 2026-11-18 | `3b0cea0` | pick: picked news saved |
+| 2026-11-18 | `0486427` | pick: picked news saved |
+| 2026-11-18 | `6a65c9b` | pick: list sent |
+| 2026-11-18 | `13858e8` | pick: written and posted |
+| 2026-11-18 | `38a760c` | pick: picked news saved |
+| 2026-11-18 | `0538d9d` | pick: picked news saved |
+| 2026-11-18 | `a940f34` | pick: list sent |
+| 2026-11-17 | `5be4db2` | pick: written and posted |
+| 2026-11-17 | `d935733` | powercut: notices written |
+| 2026-11-17 | `38b805a` | powercut: notices written |
+| 2026-11-17 | `0cc7f52` | pick: picked news saved |
+| 2026-11-17 | `187d391` | pick: picked news saved |
+| 2026-11-17 | `3eb2ee3` | pick: list sent |
+| 2026-11-17 | `a6c7792` | pick: written and posted |
+| 2026-11-17 | `bf77d96` | pick: picked news saved |
+| 2026-11-17 | `4d4fb7a` | pick: picked news saved |
+| 2026-11-17 | `c04ab8e` | pick: list sent |
 | 2026-11-17 | `1f00850` | pictures: NVIDIA FLUX no longer accepts 'seed' (422) - dropped so the free NVIDIA pictures work again |
 | 2026-11-17 | `ecc512f` | goldrate posted |
 | 2026-11-17 | `7339eb9` | rasipalan posted |
-| 2026-11-17 | `ddb8268` | powercut: notices written |
-| 2026-11-17 | `30270c8` | powercut: notices written |
-| 2026-11-17 | `76b67d8` | pick: written and posted |
-| 2026-11-17 | `c8aefd0` | pick: picked news saved |
-| 2026-11-17 | `23f07ee` | pick: picked news saved |
-| 2026-11-17 | `1d9bdfb` | pick: list sent |
-| 2026-11-17 | `f2c9349` | pick: written and posted |
-| 2026-11-17 | `3350876` | pick: picked news saved |
-| 2026-11-17 | `b561ec3` | pick: picked news saved |
-| 2026-11-17 | `da919cd` | pick: list sent |
-| 2026-11-16 | `fdc8192` | pick: written and posted |
-| 2026-11-16 | `34b81d7` | powercut: notices written |
-| 2026-11-16 | `4b17f94` | pick: picked news saved |
-| 2026-11-16 | `2cb6b59` | pick: picked news saved |
-| 2026-11-16 | `eccd612` | pick: list sent |
-| 2026-11-16 | `d760386` | powercut: notices written |
-| 2026-11-16 | `f6107f3` | pick: written and posted |
-| 2026-11-16 | `30d4ec9` | post: while news is still waiting, a live posting run starts the next one (GitHub skipped most 5-minute runs on 16 Nov) |
-| 2026-11-16 | `2624d4b` | pick: picked news saved |
-| 2026-11-16 | `bd0d867` | pick: picked news saved |
-| 2026-11-16 | `542b928` | pick: list sent |
-| 2026-11-16 | `9f11634` | pick: written and posted |
-| 2026-11-16 | `584aa86` | pick: picked news saved |
-| 2026-11-16 | `8a1224c` | pick: picked news saved |
-| 2026-11-16 | `6688a56` | pick: list sent |
-| 2026-11-16 | `5c0f247` | powercut: notices written |
-| 2026-11-16 | `9c76663` | powercut: notices written |
 <!-- recent-changes:end -->
