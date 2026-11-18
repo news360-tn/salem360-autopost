@@ -1,24 +1,24 @@
 {
- "updated": "2026-11-17T22:32+05:30",
- "posts_measured": 90,
+ "updated": "2026-11-18T07:20+05:30",
+ "posts_measured": 95,
  "topic_weight": {
   "crime": 1.5,
-  "poultry_agri": 0.27,
+  "poultry_agri": 0.01,
   "education": -0.5,
-  "accident": -0.33,
-  "temple": -0.2,
-  "civic": -0.21,
-  "weather": -0.45,
-  "sports_culture": -0.18,
-  "politics": -0.16
+  "accident": -0.5,
+  "temple": -0.16,
+  "civic": -0.38,
+  "weather": -0.5,
+  "sports_culture": -0.42,
+  "politics": 0.0
  },
  "topic_n": {
-  "crime": 26,
+  "crime": 28,
   "poultry_agri": 3,
   "education": 8,
   "accident": 6,
   "temple": 14,
-  "civic": 9,
+  "civic": 10,
   "weather": 5,
   "sports_culture": 3,
   "politics": 5
@@ -27,15 +27,15 @@
   7,
   9,
   8,
-  11
+  22
  ],
  "top_openings": [
   "🏫 அழகப்பம்பாளையம் புதூரில் மாணவிகளிடம் அநாகரிகம்: ஆசிரியர் பணியிடை நீக்கம்",
-  "🚨 ஆட்டையாம்பட்டியில் மூதாட்டியின் 10 பவுன் சங்கிலி திருட்டு: பக்கத்து வீட்டுக்கா",
   "🚨 மேட்டூர் அருகே பவாரியா கும்பல் ஊடுருவல் - பொதுமக்களுக்கு போலீஸ் தீவிர எச்சரிக்",
+  "🚨 ஆட்டையாம்பட்டியில் மூதாட்டியின் 10 பவுன் சங்கிலி திருட்டு: பக்கத்து வீட்டுக்கா",
   "🛸 மேட்டூரில் ட்ரோன் மூலம் தீவிர கண்காணிப்பு - ஏர்கனுடன் 16 வயது இளைஞர் உட்பட பலர"
  ],
- "avg_watch_s": 7.5,
+ "avg_watch_s": 7.7,
  "best_topics": [
   "crime",
   "poultry_agri",
@@ -43,6 +43,6 @@
  ],
  "weak_topics": [
   "education",
-  "weather"
+  "accident"
  ]
 }
