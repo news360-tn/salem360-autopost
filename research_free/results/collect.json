@@ -3,366 +3,530 @@
   "earlier stories still waiting for images: []",
   "instagram check: 50 recent posts read from the page",
   "pick round: only the picked links are written (research_free/pick.py)",
-  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-salem/man-found-dead-in-well-probe-on/4378918",
-  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-salem/silmisha-teacher-suspended/4378861",
-  "manual link added: https://www.dailythanthi.com/news/tamilnadu/power-generation-resumes-at-mettur-thermal-power-station",
-  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-salem/13-books-removed-from-omalur-library/4378372",
-  "candidate filter: collected=4",
-  "to write: 4 Salem district candidates (max 4 stories)",
-  "round: top 4 of 4 candidates",
-  "candidates waiting: 4 Salem; time left 79 min",
+  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-salem/550-kg-2-arrested-in-silver-robbery-case-under-goondas-act-arrested/4379295",
+  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-salem/three-people-including-a-woman-robbed-in-the-drivers-house-23-pounds-arrested/4379302",
+  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-salem/-injury-sold-at-farmers-market-for-rs-100--kg/4379299",
+  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-salem/electric-motor-will-disconnect-water-supply-commissioner/4379297",
+  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-salem/student-killed-in-road-accident/4379303",
+  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-salem/3-dead-in-salem-road-accident/4379307",
+  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-salem/farmer-dies-after-falling-into-well/4379306",
+  "candidate filter: collected=7",
+  "to write: 7 Salem district candidates (max 7 stories)",
+  "round: top 7 of 7 candidates",
+  "candidates waiting: 7 Salem; time left 79 min",
   "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-sale",
-  "try (N) manual=True: https://www.dailythanthi.com/news/tamilnadu/power-generation",
+  "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-sale",
   "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-sale",
   "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 2})",
   "posting job started at once",
   "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-sale",
   "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 4})",
+  "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-sale",
   "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 6})",
+  "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-sale",
   "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 8})",
-  "candidate loop ended: left 0, tried={'N': 4}, done={'N': 4}, time left 75 min",
-  "filed: 4 Salem district stories (target 4), reels only",
+  "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-sale",
+  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 10})",
+  "NOT filed (N) டிரைவர் வீட்டில் 23 பவுன் கொள்ளை பெண் உள்பட மூன்று: duplicate after write",
+  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 12})",
+  "candidate loop ended: left 0, tried={'N': 7}, done={'N': 6}, time left 76 min",
+  "filed: 6 Salem district stories (target 7), reels only",
   "queue: 0 news waiting to be written",
-  "All News sheet: {\"ok\":true,\"added\":4,\"updated\":0}"
+  "All News sheet: {\"ok\":true,\"added\":7,\"updated\":0}"
  ],
  "llm": [
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high d",
-  "fail gemini/gemini-3.6-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=60)",
-  "poor answer - skipped for 30 min: gemini/gemini-3.6-flash",
-  "fail gemini/gemini-3.6-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=60)",
-  "poor answer - skipped for 30 min: gemini/gemini-3.6-flash",
-  "ok gemini/gemini-3.6-flash (34s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
+  "dead for this round: gemini/gemini-3.6-flash",
   "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high d",
-  "ok gemini/gemini-3.5-flash (35s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high d",
   "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
   "dead for this round: gemini/gemini-3.5-flash",
-  "ok gemini/gemini-3-flash-preview (10s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok gemini/gemini-3-flash-preview (14s)",
+  "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high d",
+  "switching away from gemini/gemini-3.6-flash for 10 min",
+  "ok gemini/gemini-3-flash-preview (12s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, plea",
   "dead for this round: gemini/gemini-3-flash-preview",
-  "ok groq/openai/gpt-oss-120b (3s)",
+  "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high d",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 400: {\"error\":{\"message\":\"Failed to validate JSON. Please adjust your prompt. See 'failed_gener",
+  "ok groq/qwen/qwen3.8-27b (5s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "fail gemini/gemini-3.5-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=60)",
-  "poor answer - skipped for 30 min: gemini/gemini-3.5-flash",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
   "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
-  "ok groq/openai/gpt-oss-120b (6s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok groq/openai/gpt-oss-120b (3s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "fail gemini/gemini-3.5-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=60)",
-  "poor answer - skipped for 30 min: gemini/gemini-3.5-flash",
+  "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high d",
+  "switching away from gemini/gemini-3.6-flash for 10 min",
   "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
   "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
   "switching away from groq/openai/gpt-oss-120b for 10 min",
-  "ok groq/qwen/qwen3.8-27b (7s)",
+  "ok anthropic/claude-haiku-5-5",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 400: {\"error\":{\"message\":\"Failed to validate JSON. Please adjust your prompt. See 'failed_gener",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
+  "fail gemini/gemini-3-flash-preview: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=60)",
+  "poor answer - skipped for 30 min: gemini/gemini-3-flash-preview",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
-  "ok groq/openai/gpt-oss-120b (4s)",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "ok groq/qwen/qwen3.8-27b (0s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok groq/qwen/qwen3.8-27b (4s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
   "switching away from groq/qwen/qwen3.8-27b for 10 min",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
-  "switching away from groq/qwen/qwen3.8-27b for 10 min",
+  "ok groq/qwen/qwen3.8-27b (1s)",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "ok anthropic/claude-haiku-5-5",
   "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "ok anthropic/claude-haiku-5-5",
   "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok anthropic/claude-haiku-5-5",
   "ok anthropic/claude-haiku-5-5",
   "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "ok anthropic/claude-haiku-5-5"
  ],
  "stories": [
   {
-   "tamil_headline": "மாணவியரிடம் அநாகரிகம்: ஆத்தூர் அரசுப் பள்ளி ஆசிரியர் போக்சோவில் கைது, சஸ்பெண்ட்",
-   "english_headline": "Government school teacher in Attur suspended and jailed under POCSO for harassing female students",
+   "tamil_headline": "தலைவாசல் அருகே கிணற்றில் விழுந்த விவசாயி உயிரிழப்பு",
+   "english_headline": "Farmer dies after falling into well near Thalaivasal",
    "category": "Crime & Safety",
-   "location": "Kalpaganur, Attur taluk, Salem district",
+   "location": "Thalaivasal, Salem district",
    "importance": "Medium",
    "scope": "local",
    "post_to": "Salem 360",
    "slides_spec": {
     "v": 3,
-    "cat": "போக்சோ கைது",
-    "loc": "கல்பகனூர், ஆத்தூர்",
-    "hl1": "ஆத்தூர் பள்ளி ஆசிரியர் சஸ்பெண்ட்",
-    "hl2": "மாணவியரிடம் அநாகரிகம்",
+    "cat": "விபத்து",
+    "loc": "தலைவாசல்",
+    "hl1": "தலைவாசல் அருகே கிணற்றில் விழுந்த",
+    "hl2": "தீயணைப்பு வீரர்கள் உடலை",
     "slides": [
      {
       "title": "என்ன நடந்தது?",
       "lines": [
-       "கல்பகனூர் அரசு மேல்நிலைப்பள்ளி",
-       "10ஆம் வகுப்பு மாணவியரிடம் அநாகரிகம்",
-       "ஆசிரியர் மீது புகார்"
+       "தலைவாசல் அருகே புத்தூர் வடக்குகாட்டுக்கொட்டாயில் விபத்து",
+       "விவசாயி சதீஷ்குமார் <b>30 வயது</b>, கிணற்றில் தவறி விழுந்தார்",
+       "நேற்று மதியம் <b>3 மணி</b> அளவில் நடந்தது"
       ]
      },
      {
-      "title": "போலீஸ் நடவடிக்கை",
+      "title": "எப்படி நடந்தது?",
       "lines": [
-       "ஆத்தூர் மகளிர் போலீசார் விசாரணை",
-       "போக்சோ சட்டத்தில் ஆசிரியர் கைது",
-       "சிறையில் அடைப்பு"
-      ]
-     },
-     {
-      "title": "கல்வித்துறை அதிரடி",
-      "lines": [
-       "மாவட்ட முதன்மை கல்வி அலுவலர் உத்தரவு",
-       "ஆசிரியர் பணியிடை நீக்கம்",
-       "துறை ரீதியான நடவடிக்கை"
-      ]
-     }
-    ],
-    "carousel": false
-   },
-   "reel_script": "ஆத்தூர் அருகே மாணவியரிடம் அநாகரிகமாக நடந்த ஆசிரியர் சஸ்பெண்ட் செய்யப்பட்டார். சேலம் மாவட்டம் ஆத்தூர் அருகே உள்ள கல்பகனூர் அரசு மேல்நிலைப்பள்ளியில் இந்த சம்பவம் நடந்துள்ளது. அங்கு சமூக அறிவியல் ஆசிரியராக பணியாற்றி வந்த 49 வயது நபர், 10ஆம் வகுப்பு மாணவியரிடம் அநாகரிகமாகப் பேசியுள்ளார். மேலும் மாணவியரிடம் சைகை காட்டி தொல்லை கொடுத்ததாகவும் புகார் எழுந்தது. இது குறித்து பாதிக்கப்பட்ட மாணவியர் பள்ளியின் தலைமை ஆசிரியரிடம் புகார் தெரிவித்தனர். குழந்தைகள் நல அலுவலர் மற்றும் கல்வித்துறை அதிகாரிகள் மாணவியரிடம் நேரில் விசாரணை நடத்தினர். விசாரணையில் புகார் உறுதியானதை அடுத்து, ஆத்தூர் மகளிர் போலீசார் ஆசிரியர் மீது போக்சோ வழக்குப்பதிவு செய்தனர். போலீசார் அவரை கைது செய்து சிறையில் அடைத்தனர். இந்நிலையில், மாவட்ட முதன்மை கல்வி அலுவலர் எல்லப்பன், அந்த ஆசிரியரை பணியிடை நீக்கம் செய்து உத்தரவிட்டுள்ளார். மேலும் செய்திகளுக்கு சேலம் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🚨 ஆத்தூர் அருகே மாணவியரிடம் அநாகரிகம்: அரசுப் பள்ளி ஆசிரியர் போக்சோவில் கைது, சஸ்பெண்ட்\n\n📰 முழு விவரம்:\nசேலம் மாவட்டம் ஆத்தூர் அருகே உள்ள கல்பகனூர் அரசு மேல்நிலைப்பள்ளியில் சமூக அறிவியல் ஆசிரியராகப் பணியாற்றி வந்த 49 வயது நபர், 10ஆம் வகுப்பு மாணவியரிடம் அநாகரிகமாகப் பேசியும், சைகை காட்டியும் தொல்லை கொடுத்து வந்துள்ளார்.\nமாணவியர் அளித்த புகாரின் பேரில் குழந்தைகள் நல அலுவலர் மற்றும் கல்வி அதிகாரிகள் விசாரணை நடத்தினர். புகார் உறுதியானதை அடுத்து ஆத்தூர் மகளிர் போலீசார் ஆசிரியர் மீது போக்சோ வழக்குப்பதிவு செய்து அவரை சிறையில் அடைத்தனர்.\nஇதனைத் தொடர்ந்து மாவட்ட முதன்மை கல்வி அலுவலர் எல்லப்பன், அந்த ஆசிரியரை பணியிடை நீக்கம் (சஸ்பெண்ட்) செய்து நேற்று உத்தரவிட்டார்.\n\n📍 இடம்: கல்பகனூர் அரசு மேல்நிலைப்பள்ளி, ஆத்தூர்.\n👮 நடவடிக்கை: ஆசிரியர் போக்சோ சட்டத்தில் கைது மற்றும் பணியிடை நீக்கம்.\n\nAttur school teacher suspended POCSO case | Salem news\n📍 Kalpaganur, Salem | 17 November 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Salem360 #Salem #Attur #SalemNews #சேலம்",
-   "prompts": "A group of women police officers in khaki uniforms escort a middle‑aged male teacher out of the Kalpaganur Government Higher Secondary School, his hands bound with handcuffs, while the teacher looks away. The scene is set at the school’s main entrance, a modest brick building with a tiled roof typical of Salem’s government schools, located in the village of Kalpaganur, Attur taluk. From behind, the police form a line, the teacher in the centre, and a few education officials stand a short distance away, their backs to the camera, observing. No vehicles are visible. The light is bright daylight, clear sky, typical of a late morning. Shot at eye level with a 35 mm lens, wide enough to capture the school façade and the police escort. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose‑up of a pair of steel handcuffs clasped around the teacher’s wrists, the metal glinting in daylight. In the blurred background, the dark khaki sleeves of women police officers are visible, along with the wooden door of the Kalpaganur Government Higher Secondary School, identifiable by its simple rectangular shape and a modest plaque (out of focus). The handcuffs are the only clear object, signalling the arrest. The scene is taken from a slightly higher angle, using a 35 mm lens to focus on the cuffs while keeping the school entrance context recognizable. The lighting is natural daylight, no rain, and the atmosphere is quiet, emphasizing the punitive action. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-salem/silmisha-teacher-suspended/4378861",
-   "published": "2026-11-17T19:18:42+05:30",
-   "verification": "DRAFT (gemini/gemini-3-flash-preview) - fact-check: no problems found",
-   "note": "free-model draft gemini/gemini-3-flash-preview, 2 attempt(s), 0 validator problem(s)",
-   "post_time": "right after your reply, same day",
-   "_area": "N",
-   "_score": 999,
-   "images": [
-    "https://res.cloudinary.com/jrmwajfz/image/upload/v1794935227/salem360/gaorcewoe2zfridioz7j.jpg",
-    "https://res.cloudinary.com/jrmwajfz/image/upload/v1794935260/salem360/w0fol56b9mzd3ajinm6x.jpg"
-   ]
-  },
-  {
-   "tamil_headline": "ஓமலூர் நூலகத்தில் 13 புத்தகம் அகற்றம்",
-   "english_headline": "13 books removed from Omalur library after fake-book complaint in Coimbatore",
-   "category": "Government & Services",
-   "location": "Omalur town, Salem district",
-   "importance": "Medium",
-   "scope": "local",
-   "post_to": "Salem 360",
-   "slides_spec": {
-    "v": 3,
-    "cat": "நூலகம்",
-    "loc": "ஓமலூர்",
-    "hl1": "ஓமலூர் நூலகத்தில் 13 புத்தகம் அகற்றம்",
-    "hl2": "போலி நூல் புகார் எதிரொலி",
-    "slides": [
-     {
-      "title": "என்ன நடந்தது?",
-      "lines": [
-       "ஓமலூர் நூலகத்தில் <b>13 புத்தகங்கள்</b> தனியே எடுக்கப்பட்டன",
-       "கோவை ஈ.வெ.ரா. நூலகத்தில் போலி நூல்கள் புகார் காரணம்",
-       "13 புத்தகங்கள் தனியாகக் கட்டி வைக்கப்பட்டுள்ளன"
-      ]
-     },
-     {
-      "title": "எப்படி",
-      "lines": [
-       "ஓமலூர் நூலகத்தில் ஆய்வு நடத்தப்பட்டது",
-       "2025 மே மாதம் பீனிக்ஸ் பதிப்பகம் ஆர்டர் செய்த புத்தகங்கள்",
-       "2026 மார்ச்சில் நூலகத்துக்கு வந்தது தெரியவந்தது"
-      ]
-     },
-     {
-      "title": "அடுத்து என்ன?",
-      "lines": [
-       "13 புத்தகங்களும் மாவட்ட நூலகத்துக்கு அனுப்பப்பட உள்ளன"
-      ]
-     },
-     {
-      "title": "நூலகம் பற்றி",
-      "lines": [
-       "ஓமலூர் காசி விஸ்வநாதர் ஆலயம் அருகே முழு நேர நூலகம் உள்ளது",
-       "<b>10,000</b>க்கும் மேற்பட்டோர் உறுப்பினராக உள்ளனர்",
-       "தினமும் <b>50</b>க்கும் மேற்பட்டோர் வந்து செல்கின்றனர்"
-      ]
-     }
-    ],
-    "carousel": false
-   },
-   "reel_script": "ஓமலூர் நூலகத்தில் 13 புத்தகங்கள் அகற்றப்பட்டுள்ளன. கோவை ஈ வெ ரா நூலகத்தில் போலி நூல்கள் இடம்பெற்றதாகப் புகார் எழுந்தது. இதையடுத்து ஓமலூர் நூலகத்தில் ஆய்வு செய்யப்பட்டது. 2025 மே மாதம் பீனிக்ஸ் பதிப்பகம் சார்பில் ஆர்டர் செய்யப்பட்ட 13 புத்தகங்கள், 2026 மார்ச் மாதம் நூலகத்துக்கு வந்தது தெரியவந்தது. அந்த 13 புத்தகங்களும் தனியே எடுத்துக் கட்டி வைக்கப்பட்டுள்ளன. அவை மாவட்ட நூலகத்துக்கு அனுப்பப்பட உள்ளன. ஓமலூர் காசி விஸ்வநாதர் ஆலயம் அருகே உள்ள இந்த முழு நேர நூலகத்தில் 10,000க்கும் மேற்பட்டோர் உறுப்பினராக உள்ளனர். தினமும் 50க்கும் மேற்பட்டோர் இங்கு வந்து செல்கின்றனர். மேலும் செய்திகளுக்கு சேலம் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "📚 ஓமலூர் நூலகத்தில் 13 புத்தகங்கள் அகற்றம்\n\n📰 முழு விவரம்:\nகோவை ஈ.வெ.ரா. நூலகத்தில் போலி நூல்கள் இடம்பெற்றதாகப் புகார் எழுந்தது. இதையடுத்து ஓமலூர் நூலகத்தில் ஆய்வு செய்யப்பட்டது.\n2025 மே மாதம் பீனிக்ஸ் பதிப்பகம் சார்பில் ஆர்டர் செய்யப்பட்ட 13 புத்தகங்கள், 2026 மார்ச் மாதம் நூலகத்துக்கு வந்தது தெரியவந்தது.\nஅந்த 13 புத்தகங்களும் தனியே எடுத்துக் கட்டி வைக்கப்பட்டுள்ளன. அவை மாவட்ட நூலகத்துக்கு அனுப்பப்பட உள்ளன.\n📍 இடம்: ஓமலூர் காசி விஸ்வநாதர் ஆலயம் அருகே, ஓமலூர்\n👥 உறுப்பினர்கள்: 10,000க்கும் மேற்பட்டோர்\n🚶 தினமும் வருவோர்: 50க்கும் மேற்பட்டோர்\n\nOmalur library 13 books removed | Salem news\n📍 ஓமலூர், சேலம் மாவட்டம் | 17 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Salem360 #Salem #Omalur #SalemNews #சேலம்",
-   "prompts": "Inside a small public library in Omalur town, a library staff member in a cotton shirt and trousers ties a stack of 13 books together with string on a wooden table, separating them from the shelves behind. The room has tall wooden bookshelves filled with rows of books, ceiling fans, and a few readers seated at long tables at the far end, seen from behind. Daylight comes through windows, and a pile of loose books sits beside the bundle. The bundle is clearly set apart from the other books on the shelves. The camera sits at eye level, about 35 mm, wide enough to show the shelves and the room. No readable titles or text are visible. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up of a neat bundle of 13 hardbound books tied tightly with white string on a wooden library table, the spines facing the camera but with no readable text. Next to the bundle sits a plain cardboard box and a stack of blank library registers. In the soft background, the edges of wooden bookshelves and a library staff member's hands, seen from the side and slightly blurred, rest on the table. Natural daylight falls from a window, creating soft shadows. Shot slightly from above with a shallow depth of field at 35 mm, showing the books separated from the rest of the library collection. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-salem/13-books-removed-from-omalur-library/4378372",
-   "published": "2026-11-17T05:08:00+05:30",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: slide 3 must have 2-3 lines",
-   "note": "free-model draft anthropic/claude-haiku-5-5, 13 attempt(s), 1 validator problem(s)",
-   "post_time": "right after your reply, same day",
-   "_area": "N",
-   "_score": 999,
-   "images": [
-    "https://res.cloudinary.com/jrmwajfz/image/upload/v1794935273/salem360/xkpw5emhzyxo9ofweac4.jpg",
-    "https://res.cloudinary.com/jrmwajfz/image/upload/v1794935276/salem360/w5moyajqcd2tm4wkiosb.jpg"
-   ]
-  },
-  {
-   "tamil_headline": "மேட்டூர் அனல் மின் நிலையத்தில் மீண்டும் மின் உற்பத்தி தொடக்கம்: பழுது நீக்கம்",
-   "english_headline": "Power generation resumes at Mettur thermal power station after boiler tube repair",
-   "category": "Government & Services",
-   "location": "Mettur, Salem district",
-   "importance": "Medium",
-   "scope": "district",
-   "post_to": "Salem 360",
-   "slides_spec": {
-    "v": 3,
-    "cat": "மின் உற்பத்தி",
-    "loc": "மேட்டூர்",
-    "hl1": "மேட்டூரில் மின் உற்பத்தி மீண்டும்",
-    "hl2": "210 மெகாவாட் மின் உற்பத்தி",
-    "slides": [
-     {
-      "title": "மின் உற்பத்தி",
-      "lines": [
-       "மேட்டூர் பழைய அனல் மின் நிலையத்தில் <b>210 மெகாவாட்</b>",
-       "கொதிகலன் குழாயில் ஏற்பட்ட பழுது சரி செய்யப்பட்டது"
-      ]
-     },
-     {
-      "title": "பின்னணி",
-      "lines": [
-       "கடந்த <b>6ம் தேதி</b> பழுது காரணமாக 2வது யூனிட்டில்",
-       "தற்போது பழுது முழுமையாக நீக்கப்பட்டு மின் உற்பத்தி தொடக்கம்"
-      ]
-     },
-     {
-      "title": "தற்போதைய நிலை",
-      "lines": [
-       "இரு அனல் மின் நிலையங்களிலும் சேர்த்து <b>1,370 மெகாவாட்</b>",
-       "தினசரி மொத்தம் <b>1,440 மெகாவாட்</b> உற்பத்தி திறன் கொண்டது"
-      ]
-     }
-    ],
-    "carousel": false
-   },
-   "reel_script": "மேட்டூர் அனல் மின் நிலையத்தில் பழுது நீக்கப்பட்டு மீண்டும் மின் உற்பத்தி தொடங்கப்பட்டுள்ளது. மேட்டூர் பழைய அனல் மின் நிலையத்தில் உள்ள 2வது யூனிட்டில் கடந்த 6ம் தேதி கொதிகலன் குழாயில் பழுது ஏற்பட்டது. இதனால் 210 மெகாவாட் மின் உற்பத்தி நிறுத்தப்பட்டு இருந்தது. தற்போது அந்தப் பழுது முழுமையாக சரி செய்யப்பட்டு மீண்டும் மின் உற்பத்தி தொடங்கப்பட்டுள்ளது. மேட்டூரில் உள்ள பழைய அனல் மின் நிலையம் 840 மெகாவாட் உற்பத்தியும், புதிய அனல் மின் நிலையம் 600 மெகாவாட் உற்பத்தியும் செய்யும் திறன் கொண்டவை. இதன் மூலம் தினமும் மொத்தம் 1,440 மெகாவாட் மின்சாரம் உற்பத்தி செய்ய முடியும். தற்போது இரண்டு அனல் மின் நிலையங்களிலும் சேர்த்து மொத்தம் 1,370 மெகாவாட் மின் உற்பத்தி செய்யப்படுகிறது. மேலும் செய்திகளுக்கு சேலம் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "⚡ மேட்டூர் அனல் மின் நிலையத்தில் மீண்டும் மின் உற்பத்தி தொடக்கம்!\n\n📰 முழு விவரம்:\nசேலம் மாவட்டம் மேட்டூர் பழைய அனல் மின் நிலையத்தில் கடந்த 6ம் தேதி கொதிகலன் குழாயில் ஏற்பட்ட பழுது காரணமாக 2வது யூனிட்டில் 210 மெகாவாட் மின் உற்பத்தி நிறுத்தப்பட்டது. தற்போது அப்பழுது சரி செய்யப்பட்டு மீண்டும் மின் உற்பத்தி தொடங்கப்பட்டுள்ளது.\n\n⚡ மேட்டூர் பழைய அனல் மின் நிலையம் 840 மெகாவாட் மற்றும் புதிய அனல் மின் நிலையம் 600 மெகாவாட் என மொத்தம் 1,440 மெகாவாட் உற்பத்தி திறன் கொண்டது.\n⚡ தற்போது இரு நிலையங்களிலும் சேர்த்து மொத்தம் 1,370 மெகாவாட் மின் உற்பத்தி செய்யப்படுகிறது.\n\nMettur thermal power station resumes power generation | Salem news\n📍 மேட்டூர், சேலம் மாவட்டம் | 17 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Salem360 #Salem #Mettur #SalemNews #சேலம்",
-   "prompts": "A group of TNEB engineers in shirts and trousers stands on a metal walkway beside a huge boiler house at the Mettur thermal power station, watching the restart of a 210 MW generating unit. The setting is the industrial complex of the old thermal power station in Mettur, Salem district, with tall grey boiler structures, steam-venting stacks, pipe networks running along steel frames, and high-tension transmission towers stretching into the distance. In the background the Cauvery river and the Mettur dam area are faintly visible under open sky. The engineers, seen from behind and far away, are dressed in plain work shirts and trousers with safety helmets, some pointing toward the plant structures. Daylight, clear weather, with a little white steam rising from the stacks. Camera at eye level, 35 mm lens, wide enough to show the full plant and the people in scale. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up of the boiler tube section of a 210 MW unit at the Mettur thermal power station, where the repaired tubing has been re-connected inside the boiler house. Dense networks of steel pipes, valves and a pressure gauge fill the frame, with a technician's gloved hand resting near a repaired joint, seen from behind and slightly blurred. Behind the pipes, the massive grey boiler wall and steel platforms of the power plant recede into shadow. Daylight filters in through high industrial windows, with light steam drifting faintly in the air. The mood is calm and industrial. Camera slightly high, 35 mm lens, shallow depth of field focusing on the pipework. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dailythanthi.com/news/tamilnadu/power-generation-resumes-at-mettur-thermal-power-station",
-   "published": "2026-11-17T14:15:55Z",
-   "verification": "DRAFT (gemini/gemini-3.6-flash) - NOT CLEAN, held from posting - problems: caption misses facts of the article (put every one in 📰 முழு விவரம்): 31 ('.2-வது அலகில் பராமரிப்பு பணிக்காக கடந்த மாதம் 31-ம் தேதி 210')",
-   "note": "free-model draft gemini/gemini-3.6-flash, 1 attempt(s), 1 validator problem(s)",
-   "post_time": "right after your reply, same day",
-   "_area": "N",
-   "_score": 999,
-   "images": [
-    "https://res.cloudinary.com/jrmwajfz/image/upload/v1794935283/salem360/jtzrytb5icdxadcba74y.jpg",
-    "https://res.cloudinary.com/jrmwajfz/image/upload/v1794935287/salem360/bcdfxjqq0tmquvkhl9fx.jpg"
-   ]
-  },
-  {
-   "tamil_headline": "காடையாம்பட்டியில் கிணற்றில் ஆண் சடலம்: கொலையா என போலீஸ் விசாரணை",
-   "english_headline": "Male body found in a well in Kadaiyampatti taluk; police probing whether it was murder",
-   "category": "Crime & Safety",
-   "location": "Pannapatti, Kadaiyampatti taluk, Salem district",
-   "importance": "High",
-   "scope": "",
-   "post_to": "Salem 360",
-   "slides_spec": {
-    "v": 3,
-    "cat": "குற்றம் & பாதுகாப்பு",
-    "loc": "பண்ணப்பட்டி, காடையாம்பட்டி",
-    "hl1": "காடையாம்பட்டியில் கிணற்றில் ஆண் சடலம்",
-    "hl2": "கொலையா என போலீஸ் விசாரணை",
-    "slides": [
-     {
-      "title": "என்ன நடந்தது?",
-      "lines": [
-       "பண்ணப்பட்டி கிணற்றில் ஆண் சடலம் கிடந்தது",
-       "இன்று <b>நவ. 17</b> காலை தகவல் கிடைத்தது",
-       "தீவட்டிப்பட்டி போலீசார் அங்கு சென்றனர்"
-      ]
-     },
-     {
-      "title": "எங்கே?",
-      "lines": [
-       "டாஸ்மாக் மதுபானக்கடை அருகே உள்ள கிணறு",
-       "ஆழம் <b>50 அடி</b>",
-       "சேலம் மாவட்டம், காடையாம்பட்டி தாலுகா"
+       "தந்தை சங்கருடன் கிணற்றின் அருகில் வேலை செய்தபோது சம்பவம்",
+       "சதீஷ்குமார் தவறி கிணற்றில் விழுந்தார்",
+       "பழனிவேல் தோட்டத்தை குத்தகைக்கு பயிர் செய்து வந்தார்"
       ]
      },
      {
       "title": "மீட்பு பணி",
       "lines": [
-       "போலீசார் தீயணைப்புத் துறைக்குத் தகவல் கொடுத்தனர்",
-       "தீயணைப்பு வீரர்கள் கிணற்றில் இறங்கி உடலை மீட்டனர்",
-       "உடல் அழுகிய நிலையில், அடையாளம் தெரியாமல் இருந்தது"
+       "மதியம் <b>3:35 மணிக்கு</b> ஆத்தூர் தீயணைப்பு நிலையத்துக்கு தகவல்",
+       "மாலை <b>4:05 மணிக்கு</b> தீயணைப்பு வீரர்கள் வந்தனர்",
+       "ஒரு மணி நேர போராட்டத்திற்கு பின் உடல் மீட்கப்பட்டது"
       ]
      },
      {
       "title": "விசாரணை",
       "lines": [
-       "இறந்தவருக்கு <b>45 வயது</b> இருக்கலாம்",
-       "மது போதையில் தவறி விழுந்தாரா அல்லது கொலையா?",
-       "தீவட்டிப்பட்டி போலீசார் விசாரணை நடத்துகின்றனர்"
+       "தலைவாசல் போலீசார் விசாரணை நடத்தி வருகின்றனர்"
       ]
      }
     ],
     "carousel": false
    },
-   "reel_script": "காடையாம்பட்டி அருகே கிணற்றில் ஆண் சடலம் கிடந்ததால் போலீசார் கொலை கோணத்தில் விசாரணை நடத்துகின்றனர். சேலம் மாவட்டம், காடையாம்பட்டி தாலுகா பண்ணப்பட்டியில் டாஸ்மாக் மதுபானக்கடை அருகே உள்ள 50 அடி ஆழ கிணறு உள்ளது. இன்று நவம்பர் 17ஆம் தேதி காலை அந்தக் கிணற்றில் ஆண் சடலம் கிடப்பதாக அப்பகுதி மக்கள் தீவட்டிப்பட்டி போலீசாருக்குத் தகவல் கொடுத்தனர். சம்பவ இடத்துக்குச் சென்ற போலீசார், உடலை மீட்க காடையாம்பட்டி தீயணைப்புத் துறையினருக்குத் தகவல் கொடுத்தனர். தீயணைப்பு வீரர்கள் கிணற்றில் இறங்கி உடலை மீட்டனர். உடல் முழுவதும் அழுகிய நிலையில், முகம் அரிக்கப்பட்டு அடையாளம் தெரியாத நிலையில் இருந்தது. இறந்தவருக்கு சுமார் 45 வயது இருக்கலாம் என தெரிகிறது. மது போதையில் தவறி விழுந்தாரா அல்லது கொலை செய்யப்பட்டாரா என தீவட்டிப்பட்டி போலீசார் விசாரணை நடத்தி வருகின்றனர். மேலும் செய்திகளுக்கு சேலம் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🚨 காடையாம்பட்டியில் கிணற்றில் ஆண் சடலம்: கொலையா என போலீஸ் விசாரணை\n\n📰 முழு விவரம்:\nகாடையாம்பட்டி தாலுகா பண்ணப்பட்டியில் டாஸ்மாக் மதுபானக்கடை அருகே உள்ள 50 அடி ஆழ கிணற்றில் ஆண் சடலம் கிடந்தது. இன்று (நவ. 17) காலை அப்பகுதி மக்கள் தீவட்டிப்பட்டி போலீசாருக்குத் தகவல் கொடுத்தனர். போலீசார் காடையாம்பட்டி தீயணைப்புத் துறையினரின் உதவியுடன் உடலை மீட்டனர். உடல் அழுகிய நிலையில், முகம் அரிக்கப்பட்டு அடையாளம் தெரியாத நிலையில் இருந்தது. இறந்தவருக்கு 45 வயது இருக்கலாம் என தெரிகிறது.\n📍 இடம்: பண்ணப்பட்டி, காடையாம்பட்டி தாலுகா, சேலம் மாவட்டம்\n🕘 நேரம்: இன்று (நவ. 17) காலை\n👮 நடவடிக்கை: மது போதையில் தவறி விழுந்தாரா அல்லது கொலையா என தீவட்டிப்பட்டி போலீசார் விசாரணை நடத்தி வருகின்றனர்.\nஇதுகுறித்து தகவல் தெரிந்தவர்கள் போலீசாருக்குத் தெரிவிக்கலாம்.\n\nMale body found in well in Kadaiyampatti, police probe murder angle | Salem news\n📍 பண்ணப்பட்டி, காடையாம்பட்டி, சேலம் மாவட்டம் | 17 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Salem360 #Salem #Omalur #SalemNews #சேலம்",
-   "prompts": "A Tamil Nadu fire service team in uniform lowers a rescue rope into a deep open village well in Pannapatti as police in khaki stand at the stone rim. The well sits beside a plain TASMAC liquor shop on a rural road in Kadaiyampatti taluk, near the Salem district countryside with dry fields, palm trees and low village houses in the background. Two or three firefighters in navy uniforms and helmets crouch at the edge, one holding a coiled rope, while two policemen in khaki shirts and trousers stand a few steps back, and a small group of local villagers in shirts, veshti and sarees watch from a distance, seen from behind. A parked two-wheeler and a dusty roadside are visible. It is early morning in soft daylight with a pale sky. Camera at eye level, 35 mm, wide enough to show the well, the shop and the crowd. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up detail of the open village well rim in Pannapatti: a round, weathered concrete and stone wall about waist high, with a rescue rope tied to an iron post and running down into dark water inside the 50-foot well. A firefighter's gloved hand grips the rope, and a khaki police sleeve and boot are visible at the edge of the frame. Damp moss and dust mark the stones, and a few scattered plastic bottles lie on the ground nearby. Early morning daylight falls across the stones, with the faint outline of a rural liquor shop wall out of focus behind. Camera slightly high, 50 mm, shallow depth of field focusing on the rope and well rim. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-salem/man-found-dead-in-well-probe-on/4378918",
-   "published": "2026-11-17T19:36:03+05:30",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: caption misses facts of the article (put every one in 📰 முழு விவரம்): ஓமலூர் ('ஓமலூர்: கிணற்றில் கிடந்த ஆண் சடலத்தை கைப்பற்றி, கொலையா என போ')",
+   "reel_script": "தலைவாசல் அருகே கிணற்றில் தவறி விழுந்த விவசாயி சதீஷ்குமார் உயிரிழந்தார். நேற்று மதியம் சுமார் 3 மணி அளவில் இந்த விபத்து நடந்தது. புத்தூர் வடக்குகாட்டுக்கொட்டாய் பகுதியைச் சேர்ந்த 30 வயது விவசாயி சதீஷ்குமார், தனது தந்தை சங்கருடன் கிணற்றின் அருகில் வேலை செய்து கொண்டிருந்தார். அப்போது அவர் தவறி கிணற்றில் விழுந்தார். மதியம் 3:35 மணிக்கு ஆத்தூர் தீயணைப்பு நிலையத்துக்கு தகவல் அளிக்கப்பட்டது. மாலை 4:05 மணிக்கு வந்த தீயணைப்பு வீரர்கள் ஒரு மணி நேரப் போராட்டத்திற்குப் பின் அவரது உடலை மீட்டனர். சதீஷ்குமார் பழனிவேல் என்பவரது தோட்டத்தைக் குத்தகைக்கு பயிர் செய்து வந்தவர். தலைவாசல் போலீசார் விசாரணை நடத்தி வருகின்றனர். மேலும் செய்திகளுக்கு சேலம் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "⚠️ தலைவாசல் அருகே கிணற்றில் விழுந்த விவசாயி உயிரிழப்பு\n\n📰 முழு விவரம்:\nதலைவாசல் அருகே புத்தூர் வடக்குகாட்டுக்கொட்டாய் பகுதியைச் சேர்ந்த 30 வயது விவசாயி சதீஷ்குமார், நேற்று மதியம் சுமார் 3 மணி அளவில் தனது தந்தை சங்கருடன் கிணற்றின் அருகில் வேலை செய்தபோது, தவறி கிணற்றில் விழுந்தார்.\nமதியம் 3:35 மணிக்கு ஆத்தூர் தீயணைப்பு நிலையத்துக்கு தகவல் அளிக்கப்பட்டது. மாலை 4:05 மணிக்கு சென்ற தீயணைப்பு வீரர்கள், ஒரு மணி நேர போராட்டத்திற்கு பின் அவரது உடலை மீட்டனர்.\nசதீஷ்குமார் பழனிவேல் என்பவரது தோட்டத்தைக் குத்தகைக்கு பயிர் செய்து வந்தவர்.\n📍 இடம்: புத்தூர் வடக்குகாட்டுக்கொட்டாய், தலைவாசல், சேலம் மாவட்டம்\n🗓️ நாள்: 17 நவம்பர் 2026\n👮 நடவடிக்கை: தலைவாசல் போலீசார் விசாரணை நடத்தி வருகின்றனர்\n\nThalaivasal farmer dies after falling into well | Salem news\n📍 தலைவாசல், சேலம் மாவட்டம் | 18 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Salem360 #Salem #Thalaivasal #SalemNews #சேலம்",
+   "prompts": "A fire brigade team works to recover a body from a deep well in a rural farm area. The scene is set in the Puttur Vadakkukottai area near Thalaivasal, characterized by open agricultural land and a concrete well structure. Several fire brigade personnel in khaki uniforms are seen from behind, operating ropes and equipment around the well's edge. Two local farmers, the father and son, stand at a respectful distance, observing the rescue effort. The well is the central focus, with rescue gear visible. It is late afternoon daylight, casting long shadows across the dry farm soil. The camera is positioned at eye level, 35 mm, capturing the urgency of the rescue operation and the somber mood of the onlookers. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up view of the edge of the well where the incident occurred, showing the rough concrete rim and the dark opening below. Rescue ropes and equipment are tangled near the edge, indicating the recent struggle to retrieve the victim. The surrounding ground is dry, dusty earth typical of the Salem district farm lands. No people are in the immediate foreground, focusing entirely on the hazard and the aftermath of the fall. The lighting is natural daylight, highlighting the texture of the concrete and the dust. The camera is slightly high, looking down into the well, emphasizing the depth and danger of the location. This detail shot conveys the specific location of the tragedy without showing the body or faces. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-salem/farmer-dies-after-falling-into-well/4379306",
+   "published": "2026-11-18T06:03:00+05:30",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: slide 4 must have 2-3 lines",
    "note": "free-model draft anthropic/claude-haiku-5-5, 13 attempt(s), 1 validator problem(s)",
    "post_time": "right after your reply, same day",
    "_area": "N",
    "_score": 999,
    "images": [
-    "https://res.cloudinary.com/jrmwajfz/image/upload/v1794935326/salem360/sdo2pn5z6bg9yvicmv3h.jpg",
-    "https://res.cloudinary.com/jrmwajfz/image/upload/v1794935331/salem360/wfxcbyprgqppzii31ir7.jpg"
+    "https://res.cloudinary.com/jrmwajfz/image/upload/v1794967021/salem360/i2wtzrqwn4xtxog4xpb0.jpg",
+    "https://res.cloudinary.com/jrmwajfz/image/upload/v1794967025/salem360/quzxldqcewltrzwzekvk.jpg"
+   ]
+  },
+  {
+   "tamil_headline": "சேலம் சீரகாபாடியில் சாலை விபத்தில் கல்லூரி மாணவன் அஸ்வின் பலி",
+   "english_headline": "Engineering-college student Ashwin, 21, killed in road accident at Uthamasozhapuram, Salem",
+   "category": "Crime & Safety",
+   "location": "Uthamasozhapuram area, Salem city, Salem district",
+   "importance": "Medium",
+   "scope": "local",
+   "post_to": "Salem 360",
+   "slides_spec": {
+    "v": 3,
+    "cat": "சாலை விபத்து",
+    "loc": "உத்தமசோழபுரம், சேலம்",
+    "hl1": "உத்தமசோழபுரத்தில் மாணவன் பலி",
+    "hl2": "லாரியை முந்த முயன்றபோது",
+    "slides": [
+     {
+      "title": "என்ன நடந்தது?",
+      "lines": [
+       "உத்தமசோழபுரம் பகுதியில் விபத்து",
+       "வீடு திரும்பும்போது நள்ளிரவில் நடந்தது",
+       "லாரியை முந்த முயன்றபோது லாரி உரசியது"
+      ]
+     },
+     {
+      "title": "யார்?",
+      "lines": [
+       "அஸ்வின், <b>21 வயது</b>",
+       "தர்மபுரி மாவட்டம் நல்லம்பள்ளியைச் சேர்ந்தவர்",
+       "சேலம் சீரகாபாடியில் தனியார் கல்லூரியில் படித்தவர்"
+      ]
+     },
+     {
+      "title": "என்ன ஆனது?",
+      "lines": [
+       "கீழே விழுந்தபோது பின்னால் வந்த அரசு பஸ் மோதியது",
+       "அஸ்வின் சம்பவ இடத்திலேயே பலியானார்",
+       "சையத் முகமது படுகாயம், மருத்துவமனையில் சிகிச்சை"
+      ]
+     }
+    ],
+    "carousel": false
+   },
+   "reel_script": "சேலம் உத்தமசோழபுரம் பகுதியில் சாலை விபத்தில் 21 வயது கல்லூரி மாணவர் அஸ்வின் உயிரிழந்தார். நேற்று முன்தினம் நள்ளிரவு வீடு திரும்பும்போது இந்த விபத்து நடந்தது. தர்மபுரி மாவட்டம் நல்லம்பள்ளியைச் சேர்ந்த அஸ்வின், சேலம் சீரகாபாடியில் உள்ள தனியார் கல்லூரியில் லேப் டெக்னீசியன் இறுதியாண்டு படித்து வந்தார். அரியானூர் அருகே நண்பர்களுடன் வீடு எடுத்துத் தங்கியிருந்தார். தன்னுடன் படிக்கும் 20 வயது சையத் முகமதுவுடன் புல்லட்டில் சேலம் வந்திருந்தார். உத்தமசோழபுரம் பகுதியில் லாரியை முந்திச் செல்ல முயன்றபோது, லாரி உரசியதால் அஸ்வின் நிலைதடுமாறி கீழே விழுந்தார். அப்போது பின்னால் வந்த அரசு பஸ் மோதியது. அஸ்வின் சம்பவ இடத்திலேயே உயிரிழந்தார். சையத் முகமது படுகாயமடைந்து மருத்துவமனையில் சிகிச்சைக்காகச் சேர்க்கப்பட்டார். அஸ்வின் உடலைக் கொண்டலாம்பட்டி போலீசார் கைப்பற்றி விசாரணை நடத்தி வருகின்றனர். மேலும் செய்திகளுக்கு சேலம் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🚨 உத்தமசோழபுரத்தில் லாரியை முந்த முயன்றபோது விபத்து: கல்லூரி மாணவன் அஸ்வின் பலி\n\n📰 முழு விவரம்:\nசேலம் உத்தமசோழபுரம் பகுதியில் நள்ளிரவில் நடந்த சாலை விபத்தில், தர்மபுரி மாவட்டம் நல்லம்பள்ளியைச் சேர்ந்த 21 வயது அஸ்வின் உயிரிழந்தார்.\nஅரியானூர் அருகே நண்பர்களுடன் தங்கி, சேலம் சீரகாபாடியில் உள்ள தனியார் கல்லூரியில் லேப் டெக்னீசியன் இறுதியாண்டு படித்து வந்தார்.\nவீடு திரும்பும்போது லாரியை முந்த முயன்றபோது லாரி உரசியதில் நிலைதடுமாறி கீழே விழுந்தார்.\nஅப்போது பின்னால் வந்த அரசு பஸ் மோதியது; அஸ்வின் சம்பவ இடத்திலேயே பலியானார்.\nஅவருடன் வந்த 20 வயது சையத் முகமது படுகாயமடைந்து மருத்துவமனையில் சிகிச்சையில் உள்ளார்.\n👮 நடவடிக்கை: அஸ்வின் உடலைக் கைப்பற்றிய கொண்டலாம்பட்டி போலீசார் விசாரணை நடத்தி வருகின்றனர்.\n\nSalem student killed in road accident Uthamasozhapuram | Salem news\n📍 உத்தமசோழபுரம், சேலம் மாவட்டம் | 18 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Salem360 #Salem #SalemNews #சேலம்",
+   "prompts": "A Tamil Nadu police jeep stands parked at the roadside on a city road at Uthamasozhapuram in Salem city, its red and blue lights turned off, while a khaki-uniformed police constable stands at a distance beside a stretch of tarmac. Behind them a government TNSTC town bus is parked with its front slightly dented, and a lorry is stopped further down the road under sodium street lights. The road is a busy two-lane stretch lined with concrete compound walls, a few small roadside shops shuttered for the night, and a concrete electric pole. A cluster of onlookers in shirts and veshti or trousers stands well back on the pavement, seen from behind and slightly blurred. The scene is at night around midnight, lit only by orange street lamps and the headlights of a passing autorickshaw. Shot at eye level, 35 mm lens, wide enough to show the full road, the bus, the police jeep and the lorry together. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up on the damaged front of a black Bullet motorcycle lying on the tarmac of a Salem city road at night, its bent handlebar, cracked headlamp and scraped fuel tank clearly visible in the glow of a nearby street lamp. Fragments of broken plastic and a dropped helmet lie on the wet asphalt beside it, and a yellow-painted road divider curb runs along the edge of the frame. In the soft background, a khaki-uniformed police constable stands at a distance, seen from behind, near a parked government bus. The light is dim and orange from sodium street lamps, with dark shadows on the road. The camera is at low height, close to the ground, using a 35 mm lens to focus on the bike's damage with the road and police faintly visible behind. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-salem/student-killed-in-road-accident/4379303",
+   "published": "2026-11-18T06:01:00+05:30",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - fact-check: no problems found",
+   "note": "free-model draft anthropic/claude-haiku-5-5, 11 attempt(s), 0 validator problem(s)",
+   "post_time": "right after your reply, same day",
+   "_area": "N",
+   "_score": 999,
+   "images": [
+    "https://res.cloudinary.com/jrmwajfz/image/upload/v1794967035/salem360/skonnsp90emv4miokpkg.jpg",
+    "https://res.cloudinary.com/jrmwajfz/image/upload/v1794967040/salem360/a7qj2kst3zl9ijnmhv0d.jpg"
+   ]
+  },
+  {
+   "tamil_headline": "சேலத்தில் வெவ்வேறு இடங்களில் 3 முதியவர்கள் சாலை விபத்தில் பலி",
+   "english_headline": "Three elderly men die in separate road accidents at different places in Salem",
+   "category": "Crime & Safety",
+   "location": "Karuppur, Omalur and Veeranam areas, Salem district",
+   "importance": "High",
+   "scope": "local",
+   "post_to": "Salem 360",
+   "slides_spec": {
+    "v": 3,
+    "cat": "விபத்து",
+    "loc": "கருப்பூர், ஓமலூர், வீராணம்",
+    "hl1": "கருப்பூரில் நடந்து சென்ற முதியவர் பலி",
+    "hl2": "3 முதியவர்கள் உயிரிழப்பு",
+    "slides": [
+     {
+      "title": "கருப்பூர் விபத்து",
+      "lines": [
+       "கருப்பூர் நாரணம்பாளையம் பிரிவு சர்வீஸ் சாலையில் விபத்து",
+       "நடந்து சென்ற 65 வயது அம்சத் உயிரிழப்பு",
+       "அடையாளம் தெரியாத வாகனம் மோதியது"
+      ]
+     },
+     {
+      "title": "ஓமலூர் விபத்து",
+      "lines": [
+       "ஓமலூர் அருகே குப்பூரில் சேலம் - தர்மபுரி தேசிய",
+       "சாலையைக் கடக்க முயன்ற 60 வயது முதியவர் உயிரிழப்பு",
+       "டிப்பர் லாரி மோதியது; டிரைவர் தப்பியோட்டம்"
+      ]
+     },
+     {
+      "title": "வீராணம் விபத்து",
+      "lines": [
+       "வீராணம், சுக்கம்பட்டி பஸ் ஸ்டாண்ட் அருகே விபத்து",
+       "மயங்கி சாலையில் விழுந்த 65 வயது மனோன்மணி உயிரிழப்பு",
+       "லாரி ஏறி இறங்கியதில் தலை நசுங்கியது"
+      ]
+     }
+    ],
+    "carousel": false
+   },
+   "reel_script": "கருப்பூரில் நள்ளிரவில் நடந்து சென்ற 65 வயது அம்சத் வாகனம் மோதி உயிரிழந்தார். அக்டோபர் 16ஆம் தேதி நள்ளிரவு 12:30 மணிக்கு கருப்பூர் நாரணம்பாளையம் பிரிவு சர்வீஸ் சாலையில் இந்தச் சம்பவம் நடந்தது. அம்சத் கொண்டப்பநாயக்கன்பட்டி, அசோக் நகரைச் சேர்ந்தவர். அடையாளம் தெரியாத வாகனம் மோதியதில் அவர் சம்பவ இடத்திலேயே இறந்தார். கருப்பூர் போலீசார் உடலை மீட்டு விசாரித்து வருகின்றனர். ஓமலூர் அருகே குப்பூரில் சேலம் - தர்மபுரி தேசிய நெடுஞ்சாலையில் நேற்று காலை 11:10 மணிக்கு விபத்து நடந்தது. சாலையைக் கடக்க முயன்ற அடையாளம் தெரியாத 60 வயது முதியவர் மீது டிப்பர் லாரி மோதியது. அவர் சம்பவ இடத்திலேயே கால் முறிந்த நிலையில் கிடந்தார். சேலம் அரசு மருத்துவமனையில் மருத்துவர்கள் அவர் ஏற்கனவே இறந்ததாகத் தெரிவித்தனர். டிப்பர் லாரி பறிமுதல் செய்யப்பட்டது; தப்பியோடிய டிரைவர் குறித்து விசாரணை நடைபெறுகிறது. வீராணம், சுக்கம்பட்டியைச் சேர்ந்த 65 வயது மனோன்மணி நேற்று மாலை 6 மணிக்கு மளிகைக் கடைக்குச் சென்று வீடு திரும்பினார். வழியில் மயங்கி சாலையில் விழுந்தார். அப்போது வந்த லாரி அவர் தலை மீது ஏறி இறங்கியதில் உயிரிழந்தார். வீராணம் போலீசார் விசாரிக்கின்றனர். மேலும் செய்திகளுக்கு சேலம் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🚨 கருப்பூரில் நள்ளிரவில் முதியவர் வாகனம் மோதி பலி; சேலத்தில் மேலும் 2 முதியவர்கள் உயிரிழப்பு\n\n📰 முழு விவரம்:\nகருப்பூர் நாரணம்பாளையம் பிரிவு சர்வீஸ் சாலையில் நள்ளிரவு 12:30 மணிக்கு நடந்து சென்ற 65 வயது அம்சத் அடையாளம் தெரியாத வாகனம் மோதி சம்பவ இடத்திலேயே உயிரிழந்தார்.\nஓமலூர் அருகே குப்பூரில் சேலம் - தர்மபுரி தேசிய நெடுஞ்சாலையை கடக்க முயன்ற 60 வயது முதியவர் மீது டிப்பர் லாரி மோதியதில் உயிரிழந்தார்.\nவீராணம், சுக்கம்பட்டி பஸ் ஸ்டாண்ட் அருகே மயங்கி விழுந்த 65 வயது மனோன்மணி மீது லாரி ஏறி இறங்கியதில் உயிரிழந்தார்.\n📍 இடங்கள்: கருப்பூர், ஓமலூர் (குப்பூர்), வீராணம் (சுக்கம்பட்டி)\n👮 நடவடிக்கை: கருப்பூர் மற்றும் வீராணம் போலீசார் விசாரணை; ஓமலூர் போலீசார் டிப்பர் லாரியைப் பறிமுதல் செய்து தப்பியோடிய டிரைவரைத் தேடுகின்றனர்.\n\nSalem three elderly accidents | Salem news\n📍 கருப்பூர், ஓமலூர், வீராணம், சேலம் மாவட்டம் | 18 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Salem360 #Salem #Omalur #SalemNews #சேலம்",
+   "prompts": "A dark, empty service road at a junction in Karuppur, Salem, shortly after midnight, where an unidentified vehicle has just struck an elderly man walking alone. Only the faint orange glow of a few street lights reaches the tarred road, and a Tamil Nadu police jeep with its roof light flashing sits at a distance under a neem tree. Two khaki-clad constables stand far back, seen from behind, speaking quietly and looking toward the road. A few bystanders in shirts and veshti stand well away at the roadside, their faces hidden in shadow. A parked two-wheeler and a row of autorickshaws line the edge of the road, and a closed tea stall has its shutter pulled down. No body is visible; the focus is the empty stretch of road where the impact happened, with a single streak of tyre marks on the dark tar. Camera at eye level, 35 mm, wide enough to show the junction, the police jeep and the street lights, with the night sky above and the silhouettes of the Shevaroy hills faintly beyond the city. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA broad Tamil Nadu national highway in Omalur, Salem district, in bright daylight, with a tipper lorry parked on the shoulder of the road. The lorry is a large dark-coloured tipper with its empty bed raised, and a police vehicle is parked nearby with its doors open. Two Tamil Nadu police constables in khaki stand far off, seen from behind, looking at the lorry. Traffic moves in both lanes: two-wheelers, a private bus and a lorry pass by at a slow pace. Along the roadside, a few onlookers in shirts and sarees stand at a distance under a mango tree, their backs turned. A patch of dried mud and a few scattered broken tyre marks lie on the road edge, with no injured people or blood visible. Time is late morning, bright sunlight, clear weather. Camera at eye level, 35 mm, wide enough to show the highway, the lorry and the parked police vehicle. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-salem/3-dead-in-salem-road-accident/4379307",
+   "published": "2026-11-18T06:03:00+05:30",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: caption misses facts of the article (put every one in 📰 முழு விவரம்): 11 ('*ஓமலூர் அருகே காமலாபுரம் அடுத்துள்ள குப்பூரில், சேலம் - தர்ம'); 10 ('*ஓமலூர் அருகே காமலாபுரம் அடுத்துள்ள குப்பூரில், சேலம் - தர்ம'); தீவட்டிப்பட்டி ('அப்போது காமலாபுரம் பகுதியிலிருந்து, தீவட்டிப்பட்டி நோக்கி செ'); 6 ('*சேலம் வீராணம், சுக்கம்பட்டி மாரியம்மன் கோவில் தெருவை சேர்ந்'); 3 ('சேலம் விபத்தில் பல்வேறு இடங்களில் 3 முதியவர் பலி')",
+   "note": "free-model draft anthropic/claude-haiku-5-5, 13 attempt(s), 1 validator problem(s)",
+   "post_time": "right after your reply, same day",
+   "_area": "N",
+   "_score": 999,
+   "images": [
+    "https://res.cloudinary.com/jrmwajfz/image/upload/v1794967048/salem360/he7dkuaoi1rbwqiiekin.jpg",
+    "https://res.cloudinary.com/jrmwajfz/image/upload/v1794967053/salem360/ap3xg1bnqu9eep7rso9a.jpg"
+   ]
+  },
+  {
+   "tamil_headline": "மின் மோட்டார் பொருத்தினால் குடிநீர் இணைப்பு நிரந்தரமாக துண்டிக்கப்படும்",
+   "english_headline": "Illegal motor on water pipe in Salem Corporation area means seizure and permanent disconnection, says Commissioner",
+   "category": "Civic Issues",
+   "location": "Salem Corporation area, Salem district",
+   "importance": "Medium",
+   "scope": "local",
+   "post_to": "Salem 360",
+   "slides_spec": {
+    "v": 3,
+    "cat": "குடிநீர் எச்சரிக்கை",
+    "loc": "சேலம் மாநகராட்சி",
+    "hl1": "சேலம் மாநகராட்சி: மின் மோட்டாருக்கு",
+    "hl2": "இணைப்பு நிரந்தர துண்டிப்பு",
+    "slides": [
+     {
+      "title": "என்ன எச்சரிக்கை?",
+      "lines": [
+       "குடிநீர் குழாயில் சட்டவிரோதமாக மின் மோட்டார்",
+       "மோட்டார் பறிமுதல் செய்யப்படும்",
+       "குடிநீர் இணைப்பு <b>நிரந்தரமாக</b> துண்டிக்கப்படும்"
+      ]
+     },
+     {
+      "title": "ஏன் இந்த",
+      "lines": [
+       "சிலர் மின் மோட்டாரால் தண்ணீரை உறிஞ்சுகின்றனர்",
+       "இதனால் மற்றவர்களுக்குப் போதிய குடிநீர் கிடைப்பதில்லை",
+       "சீரான குடிநீர் வழங்கவே ஆய்வு நடத்தப்படுகிறது"
+      ]
+     },
+     {
+      "title": "தண்ணீர் விவரம்",
+      "lines": [
+       "சேலம் மாநகராட்சியில் 60 வார்டுகளுக்கு குடிநீர்",
+       "தினமும் மொத்தம் <b>158 எம்.எல்.டி.</b> தண்ணீர் வழங்கப்படுகிறது",
+       "தனி நபருக்கு நாளொன்றுக்கு <b>135 லிட்டர்</b> கிடைக்கிறது"
+      ]
+     },
+     {
+      "title": "விதிமீறினால்",
+      "lines": [
+       "விதிமீறல் கண்டுபிடிக்கப்பட்டால் அபராதம் விதிக்கப்படும்",
+       "சம்பந்தப்பட்ட குடிநீர் இணைப்பு நிரந்தரமாக துண்டிக்கப்படும்",
+       "கமிஷனர் லலித் ஆதித்ய நீலம் அறிக்கை வெளியிட்டுள்ளார்"
+      ]
+     }
+    ],
+    "carousel": false
+   },
+   "reel_script": "சேலம் மாநகராட்சியில் சட்டவிரோத மின் மோட்டாருக்கு குடிநீர் இணைப்பு நிரந்தரமாக துண்டிக்கப்படும். குடிநீர் குழாயில் சட்டவிரோதமாக மின் மோட்டார் பொருத்தி தண்ணீர் உறிஞ்சினால் மோட்டார் பறிமுதல் செய்யப்படும். மாநகராட்சி கமிஷனர் லலித் ஆதித்ய நீலம் இந்த எச்சரிக்கையை விடுத்துள்ளார். வணிக நிறுவனங்கள் மற்றும் குடியிருப்புகளில் சிலர் இவ்வாறு தண்ணீரை உறிஞ்சுவதால் மற்றவர்களுக்குப் போதிய குடிநீர் கிடைப்பதில்லை. சேலம் மாநகராட்சியில் 4 மண்டலங்களில் உள்ள 60 வார்டுகளுக்கு குடிநீர் வழங்கப்படுகிறது. மேட்டூர் தொட்டில்பட்டி சுத்திகரிப்பு நிலையம் மூலம் 147 எம் எல் டி தண்ணீரும், நங்கவள்ளி சுத்திகரிப்பு நிலையம் மூலம் 11 எம் எல் டி தண்ணீரும் வழங்கப்படுகிறது. தினமும் மொத்தம் 158 எம் எல் டி தண்ணீர் மாநகரம் முழுவதும் வழங்கப்படுகிறது. இதன் மூலம் தனி நபருக்கு நாளொன்றுக்கு 135 லிட்டர் குடிநீர் கிடைக்கிறது. சீரான குடிநீர் வழங்குவதை உறுதி செய்ய ஆய்வு நடத்தப்படுகிறது. விதிமீறல் கண்டுபிடிக்கப்பட்டால் அபராதம் விதிக்கப்படும். மேலும் செய்திகளுக்கு சேலம் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🚰 சேலம் மாநகராட்சியில் மின் மோட்டார் பொருத்தினால் குடிநீர் இணைப்பு நிரந்தர துண்டிப்பு\n\n📰 முழு விவரம்:\nசேலம் மாநகராட்சி பகுதியில் குடிநீர் குழாயில் சட்டவிரோதமாக மின் மோட்டார் பொருத்தி தண்ணீர் உறிஞ்சினால், மோட்டார் பறிமுதல் செய்யப்படும் என மாநகராட்சி கமிஷனர் லலித் ஆதித்ய நீலம் எச்சரித்துள்ளார். மோட்டாருடன் அபராதமும் விதிக்கப்படும், சம்பந்தப்பட்ட குடிநீர் இணைப்பு நிரந்தரமாக துண்டிக்கப்படும். வணிக நிறுவனங்கள் மற்றும் குடியிருப்புகளில் சிலர் இவ்வாறு தண்ணீரை உறிஞ்சுவதால் மற்றவர்களுக்குப் போதிய குடிநீர் கிடைப்பதில்லை. சீரான குடிநீர் வழங்குவதை உறுதி செய்ய ஆய்வுகள் நடத்தப்படுகின்றன.\n📊 4 மண்டலங்களில் உள்ள 60 வார்டுகளுக்கு தனிக்குடிநீர் மற்றும் நங்கவள்ளி குடிநீர் திட்டங்கள் மூலம் தண்ணீர் வழங்கப்படுகிறது. தினமும் மொத்தம் 158 எம்.எல்.டி. தண்ணீர் வழங்கப்படுகிறது; தனி நபருக்கு நாளொன்றுக்கு 135 லிட்டர் கிடைக்கிறது.\n\nSalem Corporation illegal motor water connection cut | Salem news\n📍 சேலம் மாநகராட்சி, சேலம் மாவட்டம் | 18 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Salem360 #Salem #SalemNews #சேலம் #குடிநீர்",
+   "prompts": "A Salem Corporation inspector in a khaki-green uniform stands beside an exposed drinking water pipe on a residential street in Salem city, while a corporation worker in a shirt and trousers lifts a seized black electric water pump onto the roadside. The street has low concrete houses with tiled roofs, a row of two-wheelers parked along the kerb, and a pale blue corporation water tanker parked at a distance. Residents, seen from behind and far away, stand near their gates watching quietly. The seized motor sits on a plastic sheet on the road, its cable coiled beside it, with the cut ends of a grey PVC water pipe visible on the ground. It is bright daylight with a clear sky and the Shevaroy hills faintly visible in the far background. Shot at eye level, 35 mm, wide enough to show the street and the officials. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up detail of a black electric water motor, its metal body and wiring clamped onto a grey PVC drinking water pipe on a Salem street, with a corporation inspector's gloved hand resting on the pipe and a rubber-tipped tool beside it. Wet patches of spilled water glisten on the tarmac and a few plastic water pots sit blurred in the background. The motor's power cable runs along the pavement toward a concrete wall. Harsh daylight casts sharp shadows, with the grit and dust of a city road in focus. Shot close at eye level, 35 mm, shallow depth of field so the background people are soft and unidentifiable. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-salem/electric-motor-will-disconnect-water-supply-commissioner/4379297",
+   "published": "2026-11-18T05:57:00+05:30",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: caption misses facts of the article (put every one in 📰 முழு விவரம்): 147 ('மேட்டூர் தொட்டில்பட்டி சுத்திகரிப்பு நிலையம் மூலம், 147 எம்.'); 11 ('மேட்டூர் தொட்டில்பட்டி சுத்திகரிப்பு நிலையம் மூலம், 147 எம்.'); மேட்டூர் ('மேட்டூர் தொட்டில்பட்டி சுத்திகரிப்பு நிலையம் மூலம், 147 எம்.')",
+   "note": "free-model draft anthropic/claude-haiku-5-5, 12 attempt(s), 1 validator problem(s)",
+   "post_time": "right after your reply, same day",
+   "_area": "N",
+   "_score": 999,
+   "images": [
+    "https://res.cloudinary.com/jrmwajfz/image/upload/v1794967073/salem360/wdcq834jl9fh7begoczg.jpg",
+    "https://res.cloudinary.com/jrmwajfz/image/upload/v1794967077/salem360/zsbcbtm4aft3m7egyfla.jpg"
+   ]
+  },
+  {
+   "tamil_headline": "உழவர் சந்தையில் சின்ன வெங்காயம் கிலோ ரூ.100க்கு விற்பனை",
+   "english_headline": "Small onion sells at Rs.100 a kg in Uzhavar Santhai as supply falls short",
+   "category": "Business & Prices",
+   "location": "Panamarathupatti, Salem district",
+   "importance": "High",
+   "scope": "district",
+   "post_to": "Salem 360",
+   "slides_spec": {
+    "v": 3,
+    "cat": "விலை உயர்வு",
+    "loc": "பனமரத்துப்பட்டி",
+    "hl1": "உழவர் சந்தையில் வெங்காயம் கிலோ ரூ.100",
+    "hl2": "நேற்று <b>ரூ.100</b> வரை",
+    "slides": [
+     {
+      "title": "என்ன நடந்தது?",
+      "lines": [
+       "சின்ன வெங்காயம் விலை உயர்ந்துள்ளது",
+       "கடந்த வாரம் <b>ரூ.85</b> ஆக இருந்த ஒரு கிலோ, நேற்று <b>ரூ.100</b>",
+       "தாதகாப்பட்டி உழவர் சந்தையில் விற்பனை"
+      ]
+     },
+     {
+      "title": "ஏன் விலை உயர்வு?",
+      "lines": [
+       "மழை இல்லாததால் நடவு தாமதம்",
+       "அறுவடைக்கு இன்னும் ஓரிரு மாதம் ஆகும்",
+       "அதற்குள் தட்டுப்பாடு ஏற்பட்டது"
+      ]
+     },
+     {
+      "title": "சந்தை நிலவரம்",
+      "lines": [
+       "நாள்தோறும் <b>2000 கிலோ</b>க்கு மேல் தேவை",
+       "சந்தைக்கு வருவது <b>500 கிலோ</b> மட்டுமே",
+       "அரை மணி நேரத்தில் விற்று தீர்ந்துவிடும்"
+      ]
+     },
+     {
+      "title": "வெளி மார்க்கெட்",
+      "lines": [
+       "வெளி மார்க்கெட்டில் <b>ரூ.150 முதல் ரூ.180</b> வரை",
+       "வியாபாரிகள் தோட்டத்தில் <b>ரூ.120 முதல் ரூ.150</b>க்கு",
+       "விவசாயிகள் உழவர் சந்தைக்கு கொண்டு வருவது குறைந்தது"
+      ]
+     }
+    ],
+    "carousel": false
+   },
+   "reel_script": "சின்ன வெங்காயம் விலை கிலோ ரூ.100க்கு உயர்ந்துள்ளது. கடந்த வாரம் ரூ.85க்கு விற்பனையான ஒரு கிலோ சின்ன வெங்காயம், நேற்று தாதகாப்பட்டி உழவர் சந்தையில் ரூ.100க்கு விற்கப்பட்டது. சேலம் மாவட்டத்தில் வீரபாண்டி, பனமரத்துப்பட்டி, அயோத்தியாபட்டணம், வாழப்பாடி பகுதிகளில் சின்ன வெங்காயம் பயிரிடப்படுகிறது. மழை இல்லாததால் நடவு தாமதமானது. அறுவடைக்கு இன்னும் ஓரிரு மாதம் ஆகும். அதுவரை தட்டுப்பாடு ஏற்பட்டு விலை உயர்ந்துள்ளது. உழவர் சந்தைக்கு நாள்தோறும் 2000 கிலோவுக்கு மேல் தேவைப்படுகிறது. ஆனால் 500 கிலோ மட்டுமே வருகிறது. அதுவும் அரை மணி நேரத்தில் விற்றுத் தீர்ந்துவிடுகிறது. வெளி மார்க்கெட்டில் ஒரு கிலோ ரூ.150 முதல் ரூ.180 வரை விற்கப்படுகிறது. வியாபாரிகள் விவசாயிகளின் தோட்டத்தில் ரூ.120 முதல் ரூ.150க்கு வாங்கி, கூடுதல் விலைக்கு விற்கின்றனர். இதனால் விவசாயிகள் உழவர் சந்தைக்கு வெங்காயம் கொண்டு வருவது குறைந்துள்ளது. மேலும் செய்திகளுக்கு சேலம் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🧅 பனமரத்துப்பட்டி உழவர் சந்தையில் சின்ன வெங்காயம் கிலோ ரூ.100\n\n📰 முழு விவரம்:\nசின்ன வெங்காயம் விலை உயர்ந்துள்ளது. கடந்த வாரம் ரூ.85க்கு விற்ற ஒரு கிலோ, நேற்று தாதகாப்பட்டி உழவர் சந்தையில் ரூ.100க்கு விற்கப்பட்டது. மழை இல்லாததால் நடவு தாமதமானது; அறுவடைக்கு இன்னும் ஓரிரு மாதம் ஆகும். அதற்குள் தட்டுப்பாடு ஏற்பட்டதால் விலை உயர்ந்தது.\nஉழவர் சந்தைக்கு நாள்தோறும் 2000 கிலோவுக்கு மேல் தேவைப்படும் நிலையில், 500 கிலோ மட்டுமே வருகிறது. அது அரை மணி நேரத்தில் விற்றுத் தீர்ந்துவிடுகிறது.\nவெளி மார்க்கெட்டில் ஒரு கிலோ ரூ.150 முதல் ரூ.180 வரை விற்கப்படுகிறது. வியாபாரிகள் தோட்டத்தில் ரூ.120 முதல் ரூ.150க்கு வாங்கி கூடுதல் விலைக்கு விற்பதால், விவசாயிகள் உழவர் சந்தைக்கு வெங்காயம் கொண்டு வருவது குறைந்துள்ளது.\n📍 இடம்: பனமரத்துப்பட்டி, சேலம் மாவட்டம்\n\nSmall onion Rs.100 per kg Panamarathupatti Uzhavar Santhai | Salem news\n📍 பனமரத்துப்பட்டி, சேலம் மாவட்டம் | 18 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Salem360 #Salem #Panamarathupatti #SalemNews #சேலம்",
+   "prompts": "A farmers' market stall in Panamarathupatti is piled with small onions in woven baskets and gunny sacks, and a few customers with cloth bags stand at the counter while a farmer in a shirt and veshti weighs onions on a hanging scale. The setting is an open-sided Uzhavar Santhai shed on the edge of Panamarathupatti in Salem district, with a tin roof, concrete floor, plastic crates stacked at the side and a few sparse piles of onions, showing how little stock is on sale. Two women in cotton sarees and a man in a half-sleeved shirt are seen from behind, buying from the small heap, while another farmer sits beside an almost empty basket. Mid-morning daylight, soft and clear, with a dusty road and distant mango groves beyond the shed and the faint blue outline of the Shevaroy hills in the background. Camera at eye level, 35 mm, wide enough to show the shed, the stall and the market crowd. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up of a heap of small pinkish-red onions spilling from a jute sack and a brass weighing scale on a wooden table at a farmers' market in Salem district, Tamil Nadu. The onions are small, round and freshly harvested, with dry papery skins and a few green stalks, and a pile of loose onions is being scooped into a steel tray. A farmer's hand in the frame, with a worn wristwatch and a thin cotton shirt sleeve, rests near the scale, while blurred customers in sarees stand far behind. The surface is worn wood under a tin shed, lit by bright daytime sun from one side that gives warm highlights on the onion skins. Camera slightly high and close, 35 mm, shallow depth of field so the onions are sharp and the background is softly blurred. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-salem/-injury-sold-at-farmers-market-for-rs-100--kg/4379299",
+   "published": "2026-11-18T05:59:00+05:30",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: hl1 (the first headline on screen) must name the place 'பனமரத்துப்பட்டி', e.g. 'பனமரத்துப்பட்டி: ...' or 'பனமரத்துப்பட்டி-இல் ...' - viewers share news of their own area; caption misses facts of the article (put every one in 📰 முழு விவரம்): வாழப்பாடி ('பனமரத்துப்பட்டி:சேலம் மாவட்டத்தில், வீரபாண்டி, பனமரத்துப்பட்'); வீரபாண்டி ('பனமரத்துப்பட்டி:சேலம் மாவட்டத்தில், வீரபாண்டி, பனமரத்துப்பட்')",
+   "note": "free-model draft anthropic/claude-haiku-5-5, 13 attempt(s), 2 validator problem(s)",
+   "post_time": "right after your reply, same day",
+   "_area": "N",
+   "_score": 999,
+   "images": [
+    "https://res.cloudinary.com/jrmwajfz/image/upload/v1794967091/salem360/pnqho3jsgyfegdxueubd.jpg",
+    "https://res.cloudinary.com/jrmwajfz/image/upload/v1794967095/salem360/tztpiiaagjezfff52tsh.jpg"
+   ]
+  },
+  {
+   "tamil_headline": "சேலம் வெள்ளி பட்டறை கொள்ளை: 2 பேர் குண்டர் சட்டத்தில் கைது",
+   "english_headline": "Two men held under Goondas Act in Salem silver workshop robbery of 550 kg silver",
+   "category": "Crime & Safety",
+   "location": "Pallapatti, Salem city, Salem district",
+   "importance": "High",
+   "scope": "local",
+   "post_to": "Salem 360",
+   "slides_spec": {
+    "v": 3,
+    "cat": "கொள்ளை வழக்கு",
+    "loc": "பள்ளப்பட்டி, சேலம்",
+    "hl1": "பள்ளப்பட்டியில் 550 கிலோ வெள்ளி கொள்ளை",
+    "hl2": "2 பேர் குண்டர் சட்டத்தில்",
+    "slides": [
+     {
+      "title": "என்ன நடந்தது?",
+      "lines": [
+       "பள்ளப்பட்டி வெள்ளி பட்டறையில் <b>550 கிலோ</b> வெள்ளி கொள்ளை",
+       "அக்டோபர் <b>12</b> நள்ளிரவில் மர்ம கும்பல் உள்ளே புகுந்தது",
+       "காவலாளியைத் தாக்கிவிட்டு வெள்ளிப் பொருட்களைத் திருடியது"
+      ]
+     },
+     {
+      "title": "கைது விவரம்",
+      "lines": [
+       "திருவாரூரைச் சேர்ந்த முருகானந்தம், <b>47</b> வயது",
+       "கோவையைச் சேர்ந்த அபிஷேக், <b>21</b> வயது",
+       "இருவரிடமிருந்தும் பெரும்பாலான வெள்ளிப் பொருட்கள் பறிமுதல்"
+      ]
+     },
+     {
+      "title": "குண்டர் சட்டம்",
+      "lines": [
+       "முருகானந்தம் மீது <b>100க்கும்</b> மேற்பட்ட திருட்டு வழக்குகள்",
+       "அபிஷேக் மீது கொலை, கொள்ளை வழக்குகள் உள்ளன",
+       "ஜாமினில் வெளியே வந்து குற்றங்களில் ஈடுபட்டதால் கைது"
+      ]
+     }
+    ],
+    "carousel": false
+   },
+   "reel_script": "பள்ளப்பட்டியில் 550 கிலோ வெள்ளி கொள்ளையடித்த 2 பேர் குண்டர் சட்டத்தில் கைது. சேலம் பள்ளப்பட்டி சின்னேரி வயல்காட்டில் கார்த்திகேயனுக்குச் சொந்தமான வெள்ளிப் பட்டறை உள்ளது. அக்டோபர் 12ஆம் தேதி நள்ளிரவில் மர்ம கும்பல் பட்டறைக்குள் புகுந்தது. காவலாளியைத் தாக்கிவிட்டு, 550 கிலோ வெள்ளிப் பொருட்களைத் திருடிச் சென்றது. இது தொடர்பாக பள்ளப்பட்டி போலீசார் வழக்குப் பதிவு செய்தனர். திருவாரூர் மாவட்டத்தைச் சேர்ந்த 47 வயது முருகானந்தம், கோவையைச் சேர்ந்த 21 வயது அபிஷேக் ஆகியோர் கைது செய்யப்பட்டனர். இருவரிடமிருந்தும் பெரும்பாலான வெள்ளிப் பொருட்கள் பறிமுதல் செய்யப்பட்டன. இருவரும் சேலம் மத்திய சிறையில் அடைக்கப்பட்டனர். முருகானந்தம் மீது பல்வேறு மாவட்டங்களில் 100க்கும் மேற்பட்ட திருட்டு வழக்குகள் உள்ளன. அபிஷேக் மீது செட்டிபாளையம் காவல் நிலையத்தில் ஒரு கொலை வழக்கும், அன்னூர் காவல் நிலையத்தில் ஒரு கொள்ளை வழக்கும் உள்ளன. ஜாமினில் வெளியே வந்து தொடர்ந்து குற்றங்களில் ஈடுபட்டதால், இருவரையும் குண்டர் சட்டத்தில் கைது செய்ய சேலம் போலீஸ் கமிஷனர் பாபு உத்தரவிட்டுள்ளார். மேலும் செய்திகளுக்கு சேலம் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🚨 பள்ளப்பட்டியில் 550 கிலோ வெள்ளி கொள்ளை: 2 பேர் குண்டர் சட்டத்தில் கைது\n\n📰 முழு விவரம்:\nசேலம் பள்ளப்பட்டி சின்னேரி வயல்காட்டில் உள்ள வெள்ளிப் பட்டறையில், அக். 12 நள்ளிரவில் மர்ம கும்பல் புகுந்து, காவலாளியைத் தாக்கிவிட்டு 550 கிலோ வெள்ளிப் பொருட்களைத் திருடிச் சென்றது.\nபள்ளப்பட்டி போலீசார் வழக்குப் பதிவு செய்து, திருவாரூரைச் சேர்ந்த முருகானந்தம் (47 வயது), கோவையைச் சேர்ந்த அபிஷேக் (21 வயது) ஆகியோரைக் கைது செய்தனர். இருவரிடமிருந்தும் பெரும்பாலான வெள்ளிப் பொருட்கள் பறிமுதல் செய்யப்பட்டன. இருவரும் சேலம் மத்திய சிறையில் அடைக்கப்பட்டனர்.\nமுருகானந்தம் மீது 100க்கும் மேற்பட்ட திருட்டு வழக்குகள் உள்ளன. அபிஷேக் மீது செட்டிபாளையம் காவல் நிலையத்தில் ஒரு கொலை வழக்கும், அன்னூர் காவல் நிலையத்தில் ஒரு கொள்ளை வழக்கும் உள்ளன.\nஜாமினில் வெளியே வந்து தொடர்ந்து குற்றங்களில் ஈடுபட்டதால், இருவரையும் குண்டர் சட்டத்தில் கைது செய்ய சேலம் போலீஸ் கமிஷனர் பாபு உத்தரவிட்டுள்ளார்.\n\n👮 நடவடிக்கை: 2 பேர் குண்டர் சட்டத்தில் கைது; சேலம் போலீஸ் கமிஷனர் பாபு உத்தரவு\n\nSalem silver workshop robbery 550 kg, two held under Goondas Act | Salem news\n📍 பள்ளப்பட்டி, சேலம் | 18 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Salem360 #Salem #SalemNews #சேலம்",
+   "prompts": "Inside a silver workshop in Pallapatti, Salem city, a group of Tamil Nadu police in khaki uniforms stand beside a long table piled with seized silver articles: heavy silver utensils, bowls, plates, lamp stands and bars, all heaped in a large mound under the bright light of a tube light. Behind the table, two men are seen only from behind, wearing plain shirts and trousers, their heads lowered and their hands held together, flanked by two police constables. The room is a plain concrete industrial shed with bare brick walls, steel shelves holding more silver items, and a dusty concrete floor. The scene shows a bright daytime light coming through the open shutter door, a few cardboard boxes and gunny sacks on the floor, and a sense of order after a recovery. Camera at eye level, 35 mm lens, wide enough to show the table of seized silver, the police, and the workshop interior. No faces visible, no readable labels, no text. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up on a heap of seized silver articles spread on a plain wooden table in a police station room or workshop: heavy silver utensils, tumblers, bowls, small ingots and a pile of silver chains and bangles catching the light, with a few dull gunny sacks and a steel almirah at the edge of the frame. A khaki-clad police constable's sleeve and hand rest at the edge of the table, partly visible, but no face. The surface is scratched and dusty, the silver slightly tarnished, and soft daylight falls from a barred window. The composition is tight, shot at a slightly high angle with a 35 mm lens, emphasising the quantity of recovered silver. No readable text, labels or logos. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-salem/550-kg-2-arrested-in-silver-robbery-case-under-goondas-act-arrested/4379295",
+   "published": "2026-11-18T05:56:00+05:30",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - fact-check: no problems found",
+   "note": "free-model draft anthropic/claude-haiku-5-5, 12 attempt(s), 0 validator problem(s)",
+   "post_time": "right after your reply, same day",
+   "_area": "N",
+   "_score": 999,
+   "images": [
+    "https://res.cloudinary.com/jrmwajfz/image/upload/v1794967114/salem360/j703ohmzjqpe6kck2tew.jpg",
+    "https://res.cloudinary.com/jrmwajfz/image/upload/v1794967120/salem360/f7dfxlnnu2x66dmysyrf.jpg"
    ]
   }
  ]
