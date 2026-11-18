@@ -1,25 +1,40 @@
-writing [N]: சபரிமலைக்கு சிறப்பு ரயில் அறிவிப்பு
+writing [N]: தாறுமாறாக ஓடிய கார் மரத்தில் மோதி டிரைவர் பலி
+writing [N]: காய்ச்சலுக்கு தொழிலாளி பலி
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
 gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
 groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
-writing [N]: சூப்பர் ஸ்பெஷாலிட்டி மருத்துவமனையில் அதிநவீன அவசர சிகிச்சை ப
-writing [N]: ‘இரட்டை சதம்’ அடித்தது சின்ன வெங்காயம் விலை
-gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
 groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
-ok gemini/gemini-3.6-flash (36s)
-attempt 1 gemini/gemini-3.6-flash: 3 problems
-  numbers not found in the article: 23
-  hl1 (the first headline on screen) must name the place 'சேலம் அரசு மருத்துவமனை', e.g. 'சேலம் அரசு மருத்துவமனை: ...' or 'சேலம் அரசு மருத்துவமனை-இல் ...' - viewers share news of their own area
-  caption misses facts of the article (put every one in 📰 முழு விவரம்): 10 ('இந்த விழாவுக்கு, தி.மு.க.,வை சேர்ந்த சேலம் மாநகராட்சி மேயர் '); 30 ('இந்த விழாவுக்கு, தி.மு.க.,வை சேர்ந்த சேலம் மாநகராட்சி மேயர் ')
-gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
+fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 503: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high d
+fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 503: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high d
+fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 503: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high d
+switching away from gemini/gemini-3.6-flash for 10 min
 fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 429: {
   "error": {
     "code": 429,
     "message": "You exceeded your current quota, please che
 dead for this round: gemini/gemini-3.6-flash
-ok gemini/gemini-3.6-flash (41s)
+fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {
+  "error": {
+    "code": 429,
+    "message": "You exceeded your current quota, please che
+dead for this round: gemini/gemini-3.5-flash
+fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 503: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high d
+ok gemini/gemini-3-flash-preview (11s)
+attempt 1 gemini/gemini-3-flash-preview: 2 problems
+  caption needs 5 hashtags (Instagram max), has 6
+  known issue meta_article: caption talks about the article instead of the news ('விவரம் தெரியவரும்') - rewrite so it does not happen again
 gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
 groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
 fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {
@@ -27,21 +42,15 @@ fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {
     "code": 429,
     "message": "You exceeded your current quota, please che
 dead for this round: gemini/gemini-3.5-flash
-fail gemini/gemini-3.6-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=60)
-poor answer - skipped for 30 min: gemini/gemini-3.6-flash
-ok gemini/gemini-3-flash-preview (26s)
-factcheck by gemini/gemini-3-flash-preview: 2 problems
-  The name of the wholesale merchant 'Srinivasan' is missing from the reel_script
-  The detail about merchants and the public being shocked is an invented detail not found in the article
-attempt 1 gemini/gemini-3.6-flash: 2 problems
-  fact-check: The name of the wholesale merchant 'Srinivasan' is missing from the reel_script
-  fact-check: The detail about merchants and the public being shocked is an invented detail not found in the article
+ok gemini/gemini-3-flash-preview (13s)
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
+ok gemini/gemini-3-flash-preview (11s)
+attempt 1 gemini/gemini-3-flash-preview: 1 problems
+  caption needs 5 hashtags (Instagram max), has 6
 gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
 groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
-ok gemini/gemini-3-flash-preview (11s)
-attempt 1 gemini/gemini-3-flash-preview: 2 problems
-  not grounded: location 'நிலையம்' is not in the article
-  caption misses facts of the article (put every one in 📰 முழு விவரம்): 9 ('அதன்படி வரும், 22 முதல் ஜன., 24 வரை ஞாயிறுதோறும் காலை, 9:20க'); 30 ('அதன்படி வரும், 22 முதல் ஜன., 24 வரை ஞாயிறுதோறும் காலை, 9:20க'); 26 ('மறுமார்க்க ரயில், வரும், 24 முதல் ஜன., 26 வரை செவ்வாய்தோறும்'); 30 ('மறுமார்க்க ரயில், வரும், 24 முதல் ஜன., 26 வரை செவ்வாய்தோறும்'); 4 ('மறுமார்க்க ரயில், வரும், 24 முதல் ஜன., 26 வரை செவ்வாய்தோறும்'); 50 ('மறுமார்க்க ரயில், வரும், 24 முதல் ஜன., 26 வரை செவ்வாய்தோறும்')
+ok gemini/gemini-3-flash-preview (12s)
 gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
 groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
 fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 429: {
@@ -49,206 +58,110 @@ fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 429: {
     "code": 429,
     "message": "You exceeded your current quota, plea
 dead for this round: gemini/gemini-3-flash-preview
-fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 400: {"error":{"message":"Failed to validate JSON. Please adjust your prompt. See 'failed_gener
-ok gemini/gemini-3-flash-preview (12s)
-attempt 2 gemini/gemini-3-flash-preview: 2 problems
-  caption needs 5 hashtags (Instagram max), has 6
-  caption misses facts of the article (put every one in 📰 முழு விவரம்): 60 ('கடந்த செப்டம்பர் முதல் கிலோ, 60 -– 70 ரூபாய்க்கு மேல் விலை உ'); 70 ('கடந்த செப்டம்பர் முதல் கிலோ, 60 -– 70 ரூபாய்க்கு மேல் விலை உ'); 150 ('இதற்கு முன், 2023ல் சின்ன வெங்காயம் கிலோ, 150 -– 170 ரூபாய் ')
+ok gemini/gemini-3-flash-preview (14s)
+factcheck by gemini/gemini-3-flash-preview: 3 problems
+  The date '18 நவம்பர் 2026' in the caption is not mentioned in the article
+  The name of the deceased person (Boopathi) is missing from the reel_script
+  The name of the health officer (Soundammal) who provided the statement is missing from the reel_script
+attempt 2 gemini/gemini-3-flash-preview: 3 problems
+  fact-check: The date '18 நவம்பர் 2026' in the caption is not mentioned in the article
+  fact-check: The name of the deceased person (Boopathi) is missing from the reel_script
+  fact-check: The name of the health officer (Soundammal) who provided the statement is missing from the reel_script
 gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
 groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
 fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {"error":{"message":"Rate limit reached for model `openai/gpt-oss-120b` in organization `o
-ok groq/qwen/qwen3.8-27b (5s)
-attempt 2 groq/qwen/qwen3.8-27b: 3 problems
-  missing key: reel_script
-  missing key: caption
-  missing key: scenes
+ok groq/openai/gpt-oss-120b (6s)
+factcheck by groq/openai/gpt-oss-120b: 6 problems
+  Reel script incorrectly says the government bus lost control ("கட்டுப்பாட்டை இழந்த அரசு பஸ்"), which is not stated in the article
+  Slides headline misspells the vehicle as "கோர்" instead of "கார்"
+  Slides slide 2 misspells the driver’s hometown as "நாமக்கல்லை" instead of the article’s "மின்னக்கல்லை"
+  Caption contains typo "கோர விபத்து" instead of "கார் விபத்து", an ungrammatical error
+  Caption and slides use the misspelled word "கோர்"/"கோர" which is not in the article
+  Headline claims "11 பேர் காயம்" while the article only says 11 persons were rescued and sent to hospitals, not that all 11 were injured
+attempt 2 gemini/gemini-3-flash-preview: 6 problems
+  fact-check: Reel script incorrectly says the government bus lost control ("கட்டுப்பாட்டை இழந்த அரசு பஸ்"), which is not stated in the article
+  fact-check: Slides headline misspells the vehicle as "கோர்" instead of "கார்"
+  fact-check: Slides slide 2 misspells the driver’s hometown as "நாமக்கல்லை" instead of the article’s "மின்னக்கல்லை"
+  fact-check: Caption contains typo "கோர விபத்து" instead of "கார் விபத்து", an ungrammatical error
+  fact-check: Caption and slides use the misspelled word "கோர்"/"கோர" which is not in the article
+  fact-check: Headline claims "11 பேர் காயம்" while the article only says 11 persons were rescued and sent to hospitals, not that all 11 were injured
 gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
 groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
-fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {"error":{"message":"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m
+fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {"error":{"message":"Rate limit reached for model `openai/gpt-oss-120b` in organization `o
 fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {"error":{"message":"Rate limit reached for model `openai/gpt-oss-120b` in organization `o
 switching away from groq/openai/gpt-oss-120b for 10 min
-fail gemini/gemini-3.5-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=60)
-poor answer - skipped for 30 min: gemini/gemini-3.5-flash
+ok groq/qwen/qwen3.8-27b (4s)
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
 fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {"error":{"message":"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m
+fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 400: {"error":{"message":"Failed to generate JSON. Please adjust your prompt. See 'failed_gener
 fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {"error":{"message":"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m
+ok groq/qwen/qwen3.8-27b (0s)
+factcheck by groq/qwen/qwen3.8-27b: 0 problems
+attempt 3 groq/qwen/qwen3.8-27b: 0 problems
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
+fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {"error":{"message":"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7
+proofread skipped: no free model answered: groq qwen/qwen3.8-27b 429: {"error":{"message":"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7a2xrr0edj82ech8tq0xtz4` service tier `on_demand` on output tokens per minute (OTPM): Limit 1000, Requested 1698. The request's expected output tokens exceed the enforced limit; reduce max_tokens (or the request's expected output) and try again. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing","type":"tokens","code":"rate_limit_exceeded"}}
+
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
 fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {"error":{"message":"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m
-switching away from groq/qwen/qwen3.8-27b for 10 min
-free models unavailable: no free model answered: groq qwen/qwen3.8-27b 429: {"error":{"message":"Rate limit reached for model `qwen/qwen3.8-27b` 
+fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {"error":{"message":"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7
+free models unavailable: no free model answered: groq qwen/qwen3.8-27b 429: {"error":{"message":"Request too large for model `qwen/qwen3.8-27b` i
+fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {"error":{"message":"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7
 ok anthropic/claude-haiku-5-5
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
+ok groq/qwen/qwen3.8-27b (0s)
+factcheck by groq/qwen/qwen3.8-27b: 1 problems
+  tamil_headline states the accident happened near 'Attaiyampatti' (ஆட்டையாம்பட்டி), but the article states it happened in 'Veerapandi' (வீரபாண்டி); Attaiyampatti is only the police station investigating the case.
 claude rewrite 1 anthropic/claude-haiku-5-5: 1 problems
-  slides_spec.loc 'சேலம் மாவட்டம்' is only the district: write the town / village / area the article names (people share news of their own area)
-fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {"error":{"message":"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m
-switching away from groq/qwen/qwen3.8-27b for 10 min
-free models unavailable: no free model answered: groq qwen/qwen3.8-27b 429: {"error":{"message":"Rate limit reached for model `qwen/qwen3.8-27b` 
-fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {"error":{"message":"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m
-switching away from groq/qwen/qwen3.8-27b for 10 min
-free models unavailable: no free model answered: groq qwen/qwen3.8-27b 429: {"error":{"message":"Rate limit reached for model `qwen/qwen3.8-27b` 
+  fact-check: tamil_headline states the accident happened near 'Attaiyampatti' (ஆட்டையாம்பட்டி), but the article states it happened in 'Veerapandi' (வீரபாண்டி); Attaiyampatti is only the police station investigating the case.
 ok anthropic/claude-haiku-5-5
-claude rewrite 2 anthropic/claude-haiku-5-5: 2 problems
-  not grounded: location 'நிலையம்' is not in the article
-  caption misses facts of the article (put every one in 📰 முழு விவரம்): 4 ('மறுமார்க்க ரயில், வரும், 24 முதல் ஜன., 26 வரை செவ்வாய்தோறும்'); 50 ('மறுமார்க்க ரயில், வரும், 24 முதல் ஜன., 26 வரை செவ்வாய்தோறும்'); 7 ('திருச்சி – ஈரோடு பயணியர் ரயில், 20ம் தேதி காலை, 7:25க்கு திர'); 25 ('திருச்சி – ஈரோடு பயணியர் ரயில், 20ம் தேதி காலை, 7:25க்கு திர'); 3 ('ஈரோடு – செங்கோட்டை எக்ஸ்பிரஸ், 20ம் தேதி மதியம், 2:00 மணிக்க'); 05 ('ஈரோடு – செங்கோட்டை எக்ஸ்பிரஸ், 20ம் தேதி மதியம், 2:00 மணிக்க')
-ok anthropic/claude-haiku-5-5
-gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
-free fact-check unavailable, using Claude: no free model answered: None
-ok anthropic/claude-haiku-5-5
-gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-ok anthropic/claude-haiku-5-5
-factcheck by anthropic/claude-haiku-5-5: 5 problems
-  reel_script says the 2023 price 'was the highest until then' (அதுவரை அதிகபட்ச விலை) and caption says 'அதுவரை அதிகபட்சமாக இருந்தது' — the article only says 2023's ~Rs150-170 was the maximum before this (முன், 2023ல்... அதிகபட்சம்); the wording is acceptable but 'முதல்முறை' claim in reel_script is supported; no clear error here
-  reel_script and caption say the price rose 'முதலில் கிலோ 60-70 ரூபாய்க்கு மேல் சென்றது' under the heading of September, but the article says prices rose to Rs60-70 from September and then gradually to Rs200; the reel_script phrase 'முதலில்' and the 'படிப்படியாக' sentence are consistent, so this is minor
-  reel_script omits the article's point that the price was Rs10-20 last year due to reduced cultivation consequence — the causal link 'இதனால் சாகுபடி வெகுவாகக் குறைந்தது' is present, so not missing
-  slides_spec line 'கடந்த ஆண்டு கிலோ ரூ.10 முதல் ரூ.20 வரை விற்றது' is placed under 'வரத்து குறைவு' with the cause 'சாகுபடி பரப்பு குறைந்ததே காரணம', mixing the reason for low supply with last year's price, which are two different facts in one slide
-  reel_script states 'வரத்து குறைந்தது' due to reduced cultivation without noting it was the price drop that caused reduced cultivation, merging two causal facts into one sentence (cultivation reduced because of low prices last year, supply reduced because cultivation fell)
-claude rewrite 1 anthropic/claude-haiku-5-5: 5 problems
-  fact-check: reel_script says the 2023 price 'was the highest until then' (அதுவரை அதிகபட்ச விலை) and caption says 'அதுவரை அதிகபட்சமாக இருந்தது' — the article only says 2023's ~Rs150-170 was the maximum before this (முன், 2023ல்... அதிகபட்சம்); the wording is acceptable but 'முதல்முறை' claim in reel_script is supported; no clear error here
-  fact-check: reel_script and caption say the price rose 'முதலில் கிலோ 60-70 ரூபாய்க்கு மேல் சென்றது' under the heading of September, but the article says prices rose to Rs60-70 from September and then gradually to Rs200; the reel_script phrase 'முதலில்' and the 'படிப்படியாக' sentence are consistent, so this is minor
-  fact-check: reel_script omits the article's point that the price was Rs10-20 last year due to reduced cultivation consequence — the causal link 'இதனால் சாகுபடி வெகுவாகக் குறைந்தது' is present, so not missing
-  fact-check: slides_spec line 'கடந்த ஆண்டு கிலோ ரூ.10 முதல் ரூ.20 வரை விற்றது' is placed under 'வரத்து குறைவு' with the cause 'சாகுபடி பரப்பு குறைந்ததே காரணம', mixing the reason for low supply with last year's price, which are two different facts in one slide
-  fact-check: reel_script states 'வரத்து குறைந்தது' due to reduced cultivation without noting it was the price drop that caused reduced cultivation, merging two causal facts into one sentence (cultivation reduced because of low prices last year, supply reduced because cultivation fell)
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
-free fact-check unavailable, using Claude: no free model answered: None
-ok anthropic/claude-haiku-5-5
-factcheck by anthropic/claude-haiku-5-5: 6 problems
-  Reel script says the 50-bed emergency unit was opened and the caption says the 50-bed block was opened, but the article describes 50 beds as part of the unit; more importantly the reel_script and caption say the building was built 'in 2024' while the article says the facility was to start in 2024 (timing wording differs from the article)
-  Reel script and slides say the 5-storey building was built with a value of Rs.20 crore as 'கட்டப்பட்ட' and the 3.75 crore is for equipment; the slide 'என்ன திறப்பு?' claims the 5-storey building was built 'ரூ.20 கோடி மதிப்பில்' while the article says the funds were allocated for the building (acceptable), but the caption says the building 'கட்டப்பட்டது' while the article says construction was completed, which is consistent; no issue here, but the reel_script says the 3.75 crore equipment was 'ஒதுக்கப்பட்டது' versus the slide saying 'வாங்கப்பட்டன' (purchase claim not stated in article)
-  Reel script omits the arrest/result-type key facts only if present; however the reel_script misstates that the Mayor 'விழாவுக்கு வந்த மேயர் ராமச்சந்திரன் விழா தொடங்காத நிலையில் அரங்கைவிட்டு வெளியேறினார்' combines two facts (arriving at 10:30 and leaving after the deputy mayor arrived) without the deputy mayor's arrival as the trigger, mixing the sequence of events
-  Slide 'எப்போது, யார்' says the Chief Minister 'திறந்து வைத்தார்' and the Collector 'குத்துவிளக்கு ஏற்றி' in one slide, mixing two different facts into one sentence; the caption also says the Collector 'பார்வையிட்டார்' after lighting the lamp, consistent with the article
-  The caption says the Mayor left 'கலெக்டர் உள்ளிட்டோர் அழைத்தும் அவர் திரும்பவில்லை' which matches the article; however the caption line 'துணை மேயர் சாரதா தேவி மூன்றாம் மாடிக்கு வந்ததும்' is a causal link the article implies but does not state as the reason for leaving, presented as fact
-  Slide 'விழாவில் யார்?' lists the Mayor's exit with 'அரங்கைவிட்டு' which is cut off mid-sentence, leaving the line incomplete and without a clear meaning in Tamil
-claude rewrite 1 anthropic/claude-haiku-5-5: 6 problems
-  fact-check: Reel script says the 50-bed emergency unit was opened and the caption says the 50-bed block was opened, but the article describes 50 beds as part of the unit; more importantly the reel_script and caption say the building was built 'in 2024' while the article says the facility was to start in 2024 (timing wording differs from the article)
-  fact-check: Reel script and slides say the 5-storey building was built with a value of Rs.20 crore as 'கட்டப்பட்ட' and the 3.75 crore is for equipment; the slide 'என்ன திறப்பு?' claims the 5-storey building was built 'ரூ.20 கோடி மதிப்பில்' while the article says the funds were allocated for the building (acceptable), but the caption says the building 'கட்டப்பட்டது' while the article says construction was completed, which is consistent; no issue here, but the reel_script says the 3.75 crore equipment was 'ஒதுக்கப்பட்டது' versus the slide saying 'வாங்கப்பட்டன' (purchase claim not stated in article)
-  fact-check: Reel script omits the arrest/result-type key facts only if present; however the reel_script misstates that the Mayor 'விழாவுக்கு வந்த மேயர் ராமச்சந்திரன் விழா தொடங்காத நிலையில் அரங்கைவிட்டு வெளியேறினார்' combines two facts (arriving at 10:30 and leaving after the deputy mayor arrived) without the deputy mayor's arrival as the trigger, mixing the sequence of events
-  fact-check: Slide 'எப்போது, யார்' says the Chief Minister 'திறந்து வைத்தார்' and the Collector 'குத்துவிளக்கு ஏற்றி' in one slide, mixing two different facts into one sentence; the caption also says the Collector 'பார்வையிட்டார்' after lighting the lamp, consistent with the article
-  fact-check: The caption says the Mayor left 'கலெக்டர் உள்ளிட்டோர் அழைத்தும் அவர் திரும்பவில்லை' which matches the article; however the caption line 'துணை மேயர் சாரதா தேவி மூன்றாம் மாடிக்கு வந்ததும்' is a causal link the article implies but does not state as the reason for leaving, presented as fact
-  fact-check: Slide 'விழாவில் யார்?' lists the Mayor's exit with 'அரங்கைவிட்டு' which is cut off mid-sentence, leaving the line incomplete and without a clear meaning in Tamil
-ok anthropic/claude-haiku-5-5
-claude rewrite 3 anthropic/claude-haiku-5-5: 1 problems
-  reel_script has numbers without their meaning (20); write what each number is: '15 வயது', '30 பாட்டில்கள்', 'அக்டோபர் 26ஆம் தேதி'
-gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
-proofread skipped: no free model answered: None
-gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
-ok anthropic/claude-haiku-5-5
-gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
-free fact-check unavailable, using Claude: no free model answered: None
-ok anthropic/claude-haiku-5-5
-factcheck by anthropic/claude-haiku-5-5: 5 problems
-  The reel_script says the 2023 price was 150 to 170 rupees, which matches the article; however the reel_script and slides say the price rose 'படிப்படியாக' to 200 and the cause is stated as 'சாகுபடி' loss which is in article; no mismatch found there.
-  The caption says 'நேற்று முதல்தர வெங்காயம் கிலோ ரூ.200 வரை விற்பனையானது' which matches the article, but the reel_script's first line states the price 'தலைவாசலில்... 200 ரூபாய் வரை விற்பனையாகிறது' in present tense, which is a shift from the article's yesterday-sales report; this is a minor timing difference rather than a fabricated fact.
-  The slide 'புதிய உச்சம்' states 'இதுவரை இல்லாத அளவுக்கு' (never before), which is an inference beyond the article's 'முதல்முறையாக' and is not explicitly stated as the all-time high wording.
-  The reel_script states the vendor's name as 'காய்கறி மொத்த வியாபாரி சீனிவாசன்' which matches; no issue there.
-  The reel_script omits that the price increase came from a sharp fall in cultivation area causing reduced supply in the market; this is present, so no omission.
-claude rewrite 2 anthropic/claude-haiku-5-5: 5 problems
-  fact-check: The reel_script says the 2023 price was 150 to 170 rupees, which matches the article; however the reel_script and slides say the price rose 'படிப்படியாக' to 200 and the cause is stated as 'சாகுபடி' loss which is in article; no mismatch found there.
-  fact-check: The caption says 'நேற்று முதல்தர வெங்காயம் கிலோ ரூ.200 வரை விற்பனையானது' which matches the article, but the reel_script's first line states the price 'தலைவாசலில்... 200 ரூபாய் வரை விற்பனையாகிறது' in present tense, which is a shift from the article's yesterday-sales report; this is a minor timing difference rather than a fabricated fact.
-  fact-check: The slide 'புதிய உச்சம்' states 'இதுவரை இல்லாத அளவுக்கு' (never before), which is an inference beyond the article's 'முதல்முறையாக' and is not explicitly stated as the all-time high wording.
-  fact-check: The reel_script states the vendor's name as 'காய்கறி மொத்த வியாபாரி சீனிவாசன்' which matches; no issue there.
-  fact-check: The reel_script omits that the price increase came from a sharp fall in cultivation area causing reduced supply in the market; this is present, so no omission.
-ok anthropic/claude-haiku-5-5
-ok anthropic/claude-haiku-5-5
-claude rewrite 2 anthropic/claude-haiku-5-5: 2 problems
-  sentence 1 (one-line story) has 12 words; make it 6-9 words (about 2-3 seconds), the details follow in the next sentences
-  hl1 (the first headline on screen) must name the place 'சேலம் அரசு மருத்துவமனை', e.g. 'சேலம் அரசு மருத்துவமனை: ...' or 'சேலம் அரசு மருத்துவமனை-இல் ...' - viewers share news of their own area
+real photo: no picture on the source page -> AI pictures
 gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
 image match check unavailable: gemini-3.5-flash: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/g
 ok anthropic/claude-haiku-5-5
 gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
 groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
-free fact-check unavailable, using Claude: no free model answered: None
-image match check unavailable: gemini-3.5-flash: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/g
-images made: 2 for 'Special weekly train to Sabarimala via S'
-ok anthropic/claude-haiku-5-5
-claude rewrite 3 anthropic/claude-haiku-5-5: 1 problems
-  reel_script must have no English letters (write English words and abbreviations in Tamil script)
+ok groq/qwen/qwen3.8-27b (0s)
+factcheck by groq/qwen/qwen3.8-27b: 0 problems
+claude rewrite 2 anthropic/claude-haiku-5-5: 0 problems
 gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
 groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
-proofread skipped: no free model answered: None
+fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {"error":{"message":"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7
+proofread skipped: no free model answered: groq qwen/qwen3.8-27b 429: {"error":{"message":"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7a2xrr0edj82ech8tq0xtz4` service tier `on_demand` on output tokens per minute (OTPM): Limit 1000, Requested 1698. The request's expected output tokens exceed the enforced limit; reduce max_tokens (or the request's expected output) and try again. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing","type":"tokens","code":"rate_limit_exceeded"}}
+
 gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
 groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
-ok anthropic/claude-haiku-5-5
-factcheck by anthropic/claude-haiku-5-5: 5 problems
-  reel_script says the Thalaivasal market received 40% less supply and the price rise is attributed to 'traders' statements' (vyaapaarigal) rather than only the cultivation area drop; the article ties the reduced supply to cultivation area, which is fine, but the reel_script adds 'விவசாயிகள் சாகுபடியைக் குறைத்தனர்' (farmers reduced cultivation) as a cause of the 2025 price drop, which the article does not state - it says the low price (Rs 10-20 last year) reduced cultivation, which is a reasonable reading but the reel_script attributes it to farmers specifically as a stated fact
-  slides_spec second slide says the 40% drop is due to cultivation area decline ('சாகுபடி பரப்பு குறைந்ததே காரணம'), which matches the article, but the reel_script says 'வியாபாரிகள் தெரிவிக்கின்றனர்' (traders say) about cause, attributing the cause to traders not the article's reporting - minor attribution shift
-  reel_script states the 2023 peak as 'கிலோ 150 முதல் 170 ரூபாய் வரை சென்றதே அதிகபட்சமாக இருந்தது' and the caption says it was 'இதுவரை இருந்த உச்ச விலை' - consistent with article, but the caption attributes the 2023 remark to Srinivasan while the article says it is Srinivasan's statement, which matches; no issue there
-  caption says 'கடந்த செப்டம்பர் முதல் கிலோ ரூ.60 – ரூ.70க்கு மேல் உயர்ந்து' while the article says prices rose above Rs 60-70 from last September; accurate
-  reel_script omits the article's key point that the price rose gradually from Rs 60-70 to Rs 200 - partly included; no major omission identified
-claude rewrite 3 anthropic/claude-haiku-5-5: 5 problems
-  fact-check: reel_script says the Thalaivasal market received 40% less supply and the price rise is attributed to 'traders' statements' (vyaapaarigal) rather than only the cultivation area drop; the article ties the reduced supply to cultivation area, which is fine, but the reel_script adds 'விவசாயிகள் சாகுபடியைக் குறைத்தனர்' (farmers reduced cultivation) as a cause of the 2025 price drop, which the article does not state - it says the low price (Rs 10-20 last year) reduced cultivation, which is a reasonable reading but the reel_script attributes it to farmers specifically as a stated fact
-  fact-check: slides_spec second slide says the 40% drop is due to cultivation area decline ('சாகுபடி பரப்பு குறைந்ததே காரணம'), which matches the article, but the reel_script says 'வியாபாரிகள் தெரிவிக்கின்றனர்' (traders say) about cause, attributing the cause to traders not the article's reporting - minor attribution shift
-  fact-check: reel_script states the 2023 peak as 'கிலோ 150 முதல் 170 ரூபாய் வரை சென்றதே அதிகபட்சமாக இருந்தது' and the caption says it was 'இதுவரை இருந்த உச்ச விலை' - consistent with article, but the caption attributes the 2023 remark to Srinivasan while the article says it is Srinivasan's statement, which matches; no issue there
-  fact-check: caption says 'கடந்த செப்டம்பர் முதல் கிலோ ரூ.60 – ரூ.70க்கு மேல் உயர்ந்து' while the article says prices rose above Rs 60-70 from last September; accurate
-  fact-check: reel_script omits the article's key point that the price rose gradually from Rs 60-70 to Rs 200 - partly included; no major omission identified
-gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
-proofread skipped: no free model answered: None
-gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
-bridge: 200 {"ok":true,"added":1,"auto_queued":1,"emailed":0,"reoffered":0,"batch":"B20261118-2218","first":"RN-129"}
+fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {"error":{"message":"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m
+image match check unavailable: gemini-3.5-flash: 503 Server Error: Service Unavailable for url: https://generativelanguage.googleapis.com/v1beta/models
+images made: 2 for 'Weaver dies of fever at Omalur Governmen'
+bridge: 200 {"ok":true,"added":1,"auto_queued":1,"emailed":0,"reoffered":0,"batch":"B20261119-0234","first":"RN-133"}
 posting job started at once
-ok anthropic/claude-haiku-5-5
+ok groq/qwen/qwen3.8-27b (1s)
 real photo: no picture on the source page -> AI pictures
-ok anthropic/claude-haiku-5-5
-writing [N]: கலெக்டர் அலுவலகத்தில் தர்ணா தாய், மகளுக்கு ‘கவுன்சிலிங்’
-gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
-free models unavailable: no free model answered: None
-image match check unavailable: gemini-3.5-flash: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/g
-ok anthropic/claude-haiku-5-5
-claude rewrite 1 anthropic/claude-haiku-5-5: 1 problems
-  slide 1 line 1 longer than 60 characters
-ok anthropic/claude-haiku-5-5
-claude rewrite 2 anthropic/claude-haiku-5-5: 1 problems
-  sentence 1 (one-line story) has 14 words; make it 6-9 words (about 2-3 seconds), the details follow in the next sentences
-ok anthropic/claude-haiku-5-5
-claude rewrite 3 anthropic/claude-haiku-5-5: 2 problems
-  slide 1 line 1 longer than 60 characters
-  sentence 1 (one-line story) has 12 words; make it 6-9 words (about 2-3 seconds), the details follow in the next sentences
-gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
-proofread skipped: no free model answered: None
-gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
-ok anthropic/claude-haiku-5-5
-image match check unavailable: gemini-3.5-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout
-images made: 2 for 'Advanced emergency treatment block opene'
-bridge: 200 {"ok":true,"added":1,"auto_queued":1,"emailed":0,"reoffered":0,"batch":"B20261118-2219","first":"RN-130"}
-real photo: vision check unavailable: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-3.6-flash:ge
-real photo: vision check out of free quota
 image match check unavailable: gemini-3.5-flash: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/g
 image match check unavailable: gemini-3.5-flash: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/g
-images made: 2 for 'Mother and daughter protest at Salem Col'
-bridge: 200 {"ok":true,"added":1,"auto_queued":1,"emailed":0,"reoffered":0,"batch":"B20261118-2220","first":"RN-131"}
-real photo: no picture on the source page -> AI pictures
-image match check unavailable: gemini-3.5-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout
-image match check unavailable: gemini-3.5-flash: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/g
-images made: 2 for 'Small onion price hits ₹200 per kg in Th'
-bridge: 200 {"ok":true,"added":1,"auto_queued":1,"emailed":0,"reoffered":0,"batch":"B20261118-2221","first":"RN-132"}
+images made: 2 for 'Driver killed as car hits tree near Veer'
+bridge: 200 {"ok":true,"added":1,"auto_queued":1,"emailed":0,"reoffered":0,"batch":"B20261119-0234","first":"RN-134"}
 earlier stories still waiting for images: []
 instagram check: 50 recent posts read from the page
 pick round: only the picked links are written (research_free/pick.py)
-manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-salem/dharna-counselling-for-mother-daughter-at-collector-s-office/4379883
-manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-salem/small-onion-prices-hit-double-digit/4379641
-manual link added: https://www.dinamalar.com/news/tamil-nadu-news/special-train-to-sabarimala-announced/4379589
-manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-salem/super-speciality-hospital-gets-state-of-the-art-emergency-ward/4379886
-candidate filter: collected=4
-to write: 4 Salem district candidates (max 4 stories)
-round: top 4 of 4 candidates
-candidates waiting: 4 Salem; time left 79 min
+manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-salem/labourer-dies-of-fever/4380198
+manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-salem/driver-killed-as-car-rams-into-tree/4380208
+candidate filter: collected=2
+to write: 2 Salem district candidates (max 2 stories)
+round: top 2 of 2 candidates
+candidates waiting: 2 Salem; time left 79 min
 try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-sale
-try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-news/special-train
 try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-sale
 auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 2})
 posting job started at once
-try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-sale
 auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 4})
-auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 6})
-auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 8})
-candidate loop ended: left 0, tried={'N': 4}, done={'N': 4}, time left 74 min
-filed: 4 Salem district stories (target 4), reels only
+candidate loop ended: left 0, tried={'N': 2}, done={'N': 2}, time left 77 min
+filed: 2 Salem district stories (target 2), reels only
 queue: 0 news waiting to be written
-All News sheet: {"ok":true,"added":4,"updated":0} 
-stories: 4
+All News sheet: {"ok":true,"added":2,"updated":0} 
+stories: 2

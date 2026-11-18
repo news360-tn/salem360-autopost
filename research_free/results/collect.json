@@ -3,367 +3,216 @@
   "earlier stories still waiting for images: []",
   "instagram check: 50 recent posts read from the page",
   "pick round: only the picked links are written (research_free/pick.py)",
-  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-salem/dharna-counselling-for-mother-daughter-at-collector-s-office/4379883",
-  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-salem/small-onion-prices-hit-double-digit/4379641",
-  "manual link added: https://www.dinamalar.com/news/tamil-nadu-news/special-train-to-sabarimala-announced/4379589",
-  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-salem/super-speciality-hospital-gets-state-of-the-art-emergency-ward/4379886",
-  "candidate filter: collected=4",
-  "to write: 4 Salem district candidates (max 4 stories)",
-  "round: top 4 of 4 candidates",
-  "candidates waiting: 4 Salem; time left 79 min",
+  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-salem/labourer-dies-of-fever/4380198",
+  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-salem/driver-killed-as-car-rams-into-tree/4380208",
+  "candidate filter: collected=2",
+  "to write: 2 Salem district candidates (max 2 stories)",
+  "round: top 2 of 2 candidates",
+  "candidates waiting: 2 Salem; time left 79 min",
   "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-sale",
-  "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-news/special-train",
   "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-sale",
   "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 2})",
   "posting job started at once",
-  "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-sale",
   "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 4})",
-  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 6})",
-  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 8})",
-  "candidate loop ended: left 0, tried={'N': 4}, done={'N': 4}, time left 74 min",
-  "filed: 4 Salem district stories (target 4), reels only",
+  "candidate loop ended: left 0, tried={'N': 2}, done={'N': 2}, time left 77 min",
+  "filed: 2 Salem district stories (target 2), reels only",
   "queue: 0 news waiting to be written",
-  "All News sheet: {\"ok\":true,\"added\":4,\"updated\":0}"
+  "All News sheet: {\"ok\":true,\"added\":2,\"updated\":0}"
  ],
  "llm": [
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok gemini/gemini-3.6-flash (36s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high d",
+  "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high d",
+  "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high d",
+  "switching away from gemini/gemini-3.6-flash for 10 min",
   "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
   "dead for this round: gemini/gemini-3.6-flash",
-  "ok gemini/gemini-3.6-flash (41s)",
+  "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
+  "dead for this round: gemini/gemini-3.5-flash",
+  "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high d",
+  "ok gemini/gemini-3-flash-preview (11s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
   "dead for this round: gemini/gemini-3.5-flash",
-  "fail gemini/gemini-3.6-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=60)",
-  "poor answer - skipped for 30 min: gemini/gemini-3.6-flash",
-  "ok gemini/gemini-3-flash-preview (26s)",
+  "ok gemini/gemini-3-flash-preview (13s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok gemini/gemini-3-flash-preview (11s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok gemini/gemini-3-flash-preview (11s)",
+  "ok gemini/gemini-3-flash-preview (12s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, plea",
   "dead for this round: gemini/gemini-3-flash-preview",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 400: {\"error\":{\"message\":\"Failed to validate JSON. Please adjust your prompt. See 'failed_gener",
-  "ok gemini/gemini-3-flash-preview (12s)",
+  "ok gemini/gemini-3-flash-preview (14s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
-  "ok groq/qwen/qwen3.8-27b (5s)",
+  "ok groq/openai/gpt-oss-120b (6s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
   "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
   "switching away from groq/openai/gpt-oss-120b for 10 min",
-  "fail gemini/gemini-3.5-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=60)",
-  "poor answer - skipped for 30 min: gemini/gemini-3.5-flash",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
-  "switching away from groq/qwen/qwen3.8-27b for 10 min",
-  "ok anthropic/claude-haiku-5-5",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
-  "switching away from groq/qwen/qwen3.8-27b for 10 min",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
-  "switching away from groq/qwen/qwen3.8-27b for 10 min",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
+  "ok groq/qwen/qwen3.8-27b (4s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok anthropic/claude-haiku-5-5",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 400: {\"error\":{\"message\":\"Failed to generate JSON. Please adjust your prompt. See 'failed_gener",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
+  "ok groq/qwen/qwen3.8-27b (0s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "ok anthropic/claude-haiku-5-5",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok anthropic/claude-haiku-5-5",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
   "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
+  "ok groq/qwen/qwen3.8-27b (0s)",
   "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok anthropic/claude-haiku-5-5",
+  "ok groq/qwen/qwen3.8-27b (0s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok anthropic/claude-haiku-5-5"
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
+  "ok groq/qwen/qwen3.8-27b (1s)"
  ],
  "stories": [
   {
-   "tamil_headline": "சபரிமலைக்கு சிறப்பு ரயில்: சேலம் வழியாக ஸ்ரீகாகுளம் ரோடு – கொல்லம் இடையே வாரந்தோறும்",
-   "english_headline": "Special weekly train to Sabarimala via Salem between Srikakulam Road and Kollam from 22 Nov to 24 Jan",
-   "category": "Roads & Transport",
-   "location": "Salem town, Salem district",
-   "importance": "High",
-   "scope": "district",
-   "post_to": "Salem 360",
-   "slides_spec": {
-    "v": 3,
-    "cat": "ரயில் அறிவிப்பு",
-    "loc": "சேலம்",
-    "hl1": "சபரிமலைக்கு சேலம் வழியாக சிறப்பு ரயில்",
-    "hl2": "ஞாயிறு, செவ்வாய் ரயில்கள்",
-    "slides": [
-     {
-      "title": "எந்த ரயில்?",
-      "lines": [
-       "ஸ்ரீகாகுளம் ரோடு – கொல்லம் இடையே சிறப்பு வார ரயில்",
-       "சபரிமலை செல்லும் பக்தர்களுக்காக அறிவிப்பு",
-       "சேலம் ரயில் நிலையத்தில் நின்று செல்லும்"
-      ]
-     },
-     {
-      "title": "புறப்படும் நேரம்",
-      "lines": [
-       "<b>22 நவம்பர்</b> முதல் <b>24 ஜனவரி</b> வரை ஞாயிறுதோறும்",
-       "சேலம் வருகை: திங்கள் காலை <b>8:37</b> மணி",
-       "கொல்லம் வருகை: திங்கள் இரவு <b>9:30</b> மணி"
-      ]
-     },
-     {
-      "title": "மறுமார்க்கம்",
-      "lines": [
-       "<b>24 நவம்பர்</b> முதல் <b>26 ஜனவரி</b> வரை செவ்வாய்தோறும்",
-       "சேலம் வருகை: செவ்வாய் மதியம் <b>2:22</b> மணி",
-       "ஸ்ரீகாகுளம் ரோடு வருகை: புதன் மாலை <b>4:50</b> மணி"
-      ]
-     },
-     {
-      "title": "ஈரோடு பாதை மாற்றம்",
-      "lines": [
-       "ஈரோடு ரயில் பாதை பராமரிப்பால் <b>20ம் தேதி</b> சில ரயில்கள் மாற்றம்",
-       "செங்கோட்டை – ஈரோடு எக்ஸ்பிரஸ் சாவடிபாளையத்தில் நிறுத்தம்",
-       "கரூர் – ஈரோடு சேவை ரத்து; இத்தகவலை சேலம் ரயில்வே கோட்டம்"
-      ]
-     }
-    ],
-    "carousel": false
-   },
-   "reel_script": "சபரிமலைக்குச் செல்வோருக்கு சேலம் வழியாக சிறப்பு ரயில் அறிவிக்கப்பட்டுள்ளது. இந்த ரயில் ஸ்ரீகாகுளம் ரோடு மற்றும் கொல்லம் இடையே இயக்கப்படும். நவம்பர் 22ஆம் தேதி முதல் ஜனவரி 24ஆம் தேதி வரை ஞாயிறுதோறும் காலை 9:20 மணிக்கு ஸ்ரீகாகுளம் ரோடில் ரயில் புறப்படும். திங்கள் காலை 8:37 மணிக்கு சேலம் வந்து செல்லும். திங்கள் இரவு 9:30 மணிக்கு கொல்லத்தை அடையும். மறுமார்க்கமாக நவம்பர் 24ஆம் தேதி முதல் ஜனவரி 26ஆம் தேதி வரை செவ்வாய்தோறும் அதிகாலை 2:30 மணிக்கு கொல்லத்தில் ரயில் புறப்படும். செவ்வாய் மதியம் 2:22 மணிக்கு சேலம் வந்து செல்லும். புதன் மாலை 4:50 மணிக்கு ஸ்ரீகாகுளம் ரோடை அடையும். ஈரோடு ரயில்வே நிலைய பாதையில் பராமரிப்பு பணி நடைபெறுவதால் சில ரயில்களில் மாற்றம் உள்ளது. செங்கோட்டை – ஈரோடு எக்ஸ்பிரஸ் 20ஆம் தேதி அதிகாலை 5:20 மணிக்குப் புறப்பட்டு சாவடிபாளையத்தில் நிறுத்தப்படும். திருச்சி – ஈரோடு பயணியர் ரயில் 20ஆம் தேதி காலை 7:25 மணிக்குத் திருச்சியில் புறப்பட்டு கரூரில் நிறுத்தப்படும். கரூர் – ஈரோடு சேவை ரத்து செய்யப்படுகிறது. ஈரோடு – செங்கோட்டை எக்ஸ்பிரஸ் 20ஆம் தேதி மதியம் 3:05 மணிக்குக் கரூரில் புறப்படும். திருச்சி – பாலக்காடு டவுன் எக்ஸ்பிரஸ் 20, 22 ஆகிய தேதிகளில் மதியம் 1:00 மணிக்குத் திருச்சியில் புறப்பட்டு கரூரில் நிறுத்தப்படும். இத்தகவலை சேலம் ரயில்வே கோட்ட நிர்வாகம் தெரிவித்துள்ளது. மேலும் செய்திகளுக்கு சேலம் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🚆 சபரிமலை பக்தர்களுக்கு சேலம் வழியாக சிறப்பு ரயில் அறிவிப்பு\n\n📰 முழு விவரம்:\nஆந்திரா மாநிலம் ஸ்ரீகாகுளம் ரோடு – கொல்லம் இடையே சபரிமலை செல்ல வசதியாக சிறப்பு வார ரயில் அறிவிக்கப்பட்டுள்ளது. நவம்பர் 22 முதல் ஜனவரி 24 வரை ஞாயிறுதோறும் காலை 9:20 மணிக்கு ஸ்ரீகாகுளம் ரோடில் புறப்படும். திங்கள் காலை 8:37 மணிக்கு சேலம் வந்து செல்லும்; திங்கள் இரவு 9:30 மணிக்கு கொல்லத்தை அடையும்.\nமறுமார்க்க ரயில் நவம்பர் 24 முதல் ஜனவரி 26 வரை செவ்வாய்தோறும் அதிகாலை 2:30 மணிக்கு கொல்லத்தில் புறப்படும். செவ்வாய் மதியம் 2:22 மணிக்கு சேலம் வந்து செல்லும்; புதன் மாலை 4:50 மணிக்கு ஸ்ரீகாகுளம் ரோடை அடையும்.\nஈரோடு ரயில் நிலைய பாதையில் பராமரிப்புப் பணி நடைபெறுவதால் இயக்கத்தில் மாற்றம் உள்ளது:\n• செங்கோட்டை – ஈரோடு எக்ஸ்பிரஸ் நவம்பர் 20 அதிகாலை 5:20 மணிக்குப் புறப்பட்டு சாவடிபாளையம் நிலையத்தில் நிறுத்தப்படும். பணி முடிந்த பின் அங்கிருந்து ஈரோடுக்கு முன்பதிவற்ற சிறப்பு ரயிலாக இயக்கப்படும்.\n• திருச்சி – ஈரோடு பயணியர் ரயில் நவம்பர் 20 காலை 7:25 மணிக்குத் திருச்சியில் புறப்பட்டு கரூரில் நிறுத்தப்படும். கரூர் – ஈரோடு இடையே ரத்து.\n• ஈரோடு – செங்கோட்டை எக்ஸ்பிரஸ் நவம்பர் 20 மதியம் 2:00 மணிக்குப் பதிலாக மதியம் 3:05 மணிக்குக் கரூரில் புறப்படும். ஈரோடு – கரூர் சேவை ரத்து.\n• திருச்சி – பாலக்காடு டவுன் எக்ஸ்பிரஸ் நவம்பர் 20, 22 மதியம் 1:00 மணிக்குத் திருச்சியில் புறப்பட்டு கரூரில் நிறுத்தப்படும். பணி முடிந்த பின் பாலக்காடு டவுன் வரை முன்பதிவற்ற சிறப்பு ரயிலாக இயக்கப்படும்.\nஇத்தகவலை சேலம் ரயில்வே கோட்ட நிர்வாகம் தெரிவித்துள்ளது.\n\nSabarimala special train via Salem, Srikakulam Road to Kollam | Salem news\n📍 சேலம், சேலம் மாவட்டம் | 18 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Salem360 #Salem #SalemNews #சேலம்",
-   "prompts": "A long Southern Railway passenger train with several coaches stands at the Salem Junction railway platform in the early morning as pilgrims board with their bags and bundles. Salem railway station is an open platform with a canopy of concrete and steel, tracks running alongside, and a few overhead lamps still on in the morning light. Many people are seen from behind or far away: men in shirts and veshti, women in sarees and salwar, and a few carrying cloth bags and water bottles, with some wearing black and blue clothes typical of Sabarimala pilgrims. The train's coaches are painted in standard railway livery and a station staff member in uniform stands near the carriage door. It is early morning, soft daylight with a light haze, and the Shevaroy hills faintly visible far in the background. Shot at eye level, 35 mm, wide enough to show the platform, the train and the crowd. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up of a railway timetable display board at Salem railway station, with its panels of schedule details mounted on a pillar beside the platform. Behind it, a few pilgrims stand reading the board, seen from behind and slightly blurred, carrying cloth bags and a rolled mat. The steel railing and a section of the train coach are visible at the edge of the frame. The light is early daytime, natural and even, with the concrete platform floor in the foreground. No readable text is shown; the board is depicted only as a blank panelled display. Camera at eye level, 35 mm, close enough to focus on the board and the waiting travellers. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamalar.com/news/tamil-nadu-news/special-train-to-sabarimala-announced/4379589",
-   "published": "2026-11-18T17:50:45+05:30",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: reel_script has numbers without their meaning (20); write what each number is: '15 வயது', '30 பாட்டில்கள்', 'அக்டோபர் 26ஆம் தேதி'",
-   "note": "free-model draft anthropic/claude-haiku-5-5, 13 attempt(s), 1 validator problem(s)",
-   "post_time": "right after your reply, same day",
-   "_area": "N",
-   "_score": 999,
-   "images": [
-    "https://res.cloudinary.com/jrmwajfz/image/upload/v1795020499/salem360/suz0shib6ab0jn3gilen.jpg",
-    "https://res.cloudinary.com/jrmwajfz/image/upload/v1795020503/salem360/jaae1qijze4zae1rzebc.jpg"
-   ]
-  },
-  {
-   "tamil_headline": "சேலம் அரசு மருத்துவமனையில் அதிநவீன அவசர சிகிச்சைப் பிரிவு திறப்பு",
-   "english_headline": "Advanced emergency treatment block opened at Salem Government Hospital Super Speciality wing",
+   "tamil_headline": "ஓமலூர் அரசு மருத்துவமனையில் காய்ச்சலால் தொழிலாளி உயிரிழப்பு",
+   "english_headline": "Weaver dies of fever at Omalur Government Hospital",
    "category": "Health",
-   "location": "Salem Government Hospital Super Speciality, Salem district",
-   "importance": "High",
-   "scope": "district",
-   "post_to": "Salem 360",
-   "slides_spec": {
-    "v": 3,
-    "cat": "மருத்துவம்",
-    "loc": "சேலம் அரசு மருத்துவமனை",
-    "hl1": "சேலம் அரசு மருத்துவமனை: அவசர",
-    "hl2": "50 படுக்கைகள், 3 அறுவை",
-    "slides": [
-     {
-      "title": "என்ன திறப்பு?",
-      "lines": [
-       "சேலம் அரசு மருத்துவமனை சூப்பர் ஸ்பெஷாலிட்டியில் அதிநவீன",
-       "5 மாடி கட்டடம், <b>20 கோடி ரூபாய்</b> மதிப்பில் கட்டப்பட்டது",
-       "மருத்துவ உபகரணங்களுக்கு <b>3.75 கோடி ரூபாய்</b> ஒதுக்கப்பட்டது"
-      ]
-     },
-     {
-      "title": "எப்போது திறப்பு?",
-      "lines": [
-       "நவம்பர் <b>18</b> ஆம் தேதி, தமிழக முதல்வர் விஜய் காணொளி",
-       "கலெக்டர் இளம்பகவத் புதிய கட்டடத்தில் குத்துவிளக்கு ஏற்றி",
-       "இந்தப் பிரிவு 2024ல் தொடங்க நிதி ஒதுக்கப்பட்டது"
-      ]
-     },
-     {
-      "title": "வசதிகள்",
-      "lines": [
-       "<b>50</b> படுக்கைகள், <b>3</b> அறுவை சிகிச்சை அரங்குகள்",
-       "இ.சி.ஜி., எக்ஸ்ரே, அல்ட்ரா சவுண்ட் ஸ்கேன், வெண்டிலேட்டர்",
-       "மருத்துவர், செவிலியர், நோயாளிகளுக்கு தனித்தனி ஓய்வறை"
-      ]
-     }
-    ],
-    "carousel": false
-   },
-   "reel_script": "சேலம் அரசு மருத்துவமனையில் அதிநவீன அவசர சிகிச்சைப் பிரிவு திறக்கப்பட்டது. தமிழக அரசின் மருத்துவக் கல்வி மற்றும் மக்கள் நல்வாழ்வுத்துறை சார்பில் இந்தக் கட்டடம் கட்டப்பட்டது. ஐந்து மாடி கட்டடம் <b>20 கோடி ரூபாய்</b> மதிப்பில் கட்டப்பட்டது. மருத்துவ உபகரணங்கள் வாங்க <b>3.75 கோடி ரூபாய்</b> ஒதுக்கப்பட்டது. கட்டுமானப் பணிகள் முடிந்த நிலையில், நவம்பர் 18ஆம் தேதி தமிழக முதல்வர் விஜய் சென்னையில் இருந்து காணொளி வாயிலாக இந்தக் கட்டடத்தைத் திறந்து வைத்தார். அதைத் தொடர்ந்து, சேலம் கலெக்டர் இளம்பகவத் புதிய கட்டடத்தில் குத்துவிளக்கு ஏற்றி பார்வையிட்டார். அவசர சிகிச்சைப் பிரிவில் <b>50</b> படுக்கைகள் உள்ளன. <b>3</b> அறுவை சிகிச்சை அரங்குகள், இ சி ஜி, எக்ஸ்ரே, அல்ட்ரா சவுண்ட் ஸ்கேன், வெண்டிலேட்டர், ஆக்சிஜன் ஆகிய உபகரணங்கள் உள்ளன. மருத்துவர்கள், செவிலியர்கள், நோயாளிகளுக்குத் தனித்தனி ஓய்வறை, கழிப்பறை வசதிகளும் செய்யப்பட்டுள்ளன. விழாவில் சட்டமன்ற உறுப்பினர் லட்சுமணன், துணை மேயர் சாரதா தேவி, மருத்துவமனை டீன் தேவி மீனாள் ஆகியோர் பங்கேற்றனர். மேலும் செய்திகளுக்கு சேலம் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🏥 சேலம் அரசு மருத்துவமனையில் அதிநவீன அவசர சிகிச்சைப் பிரிவு திறப்பு\n\n📰 முழு விவரம்:\nசேலம் அரசு மருத்துவமனை சூப்பர் ஸ்பெஷாலிட்டியில் அதிநவீன அவசர சிகிச்சைப் பிரிவுக் கட்டடம் நவம்பர் 18ஆம் தேதி திறக்கப்பட்டது. தமிழக முதல்வர் விஜய் சென்னையில் இருந்து காணொளி வாயிலாகத் திறந்து வைத்தார். கலெக்டர் இளம்பகவத் புதிய கட்டடத்தில் குத்துவிளக்கு ஏற்றிப் பார்வையிட்டார். 5 மாடி கட்டடம் 20 கோடி ரூபாய் மதிப்பிலும், மருத்துவ உபகரணங்கள் 3.75 கோடி ரூபாய் மதிப்பிலும் அமைக்கப்பட்டன. இப்பணிக்கு 2024ல் நிதி ஒதுக்கப்பட்டது.\n🛏️ படுக்கைகள்: 50\n🔪 அறுவை சிகிச்சை அரங்குகள்: 3\n🩺 வசதிகள்: இ.சி.ஜி., எக்ஸ்ரே, அல்ட்ரா சவுண்ட் ஸ்கேன், வெண்டிலேட்டர், ஆக்சிஜன்\n👩‍⚕️ மருத்துவர், செவிலியர், நோயாளிகளுக்குத் தனித்தனி ஓய்வறை, கழிப்பறை\n\nSalem Government Hospital emergency block opened | Salem news\n📍 சேலம் அரசு மருத்துவமனை, சேலம் மாவட்டம் | 18 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Salem360 #Salem #SalemNews #சேலம்",
-   "prompts": "A Collector and hospital officials light a brass kuthuvilakku inside the newly completed five-storey emergency treatment block of Salem Government Hospital Super Speciality, with a row of white-coated doctors and nurses in Tamil Nadu government hospital uniform standing behind them. The place is a bright, newly painted hospital corridor and ceremony hall on an upper floor of a large concrete building, with tiled floors, tube lights, wide glass windows and a few plastic chairs arranged for a government function. Seen from behind at slightly high angle, a few officials in shirts and sarees, and hospital staff in white coats and sarees, stand around the lamp; some are in khaki police uniform near the doorway. The time is late morning under bright daylight coming through the windows, and there are no visible signs of an emergency. The camera is at eye level, 35 mm lens, wide enough to show the hall and the lamp together. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up of a polished brass kuthuvilakku with a lit flame and fresh garlands placed beside it on a clean white hospital counter, with a stainless-steel medical trolley and a folded blood-pressure monitor softly out of focus in the background. The setting is an inside corridor of a new hospital emergency block, with pale green walls, tiled floor and a glimpse of an oxygen cylinder rack and a patient bed edge. A few hands of officials in sarees and shirts are visible at the edges, seen from behind and blurred. Morning daylight comes through a large window, giving a soft, warm light. The camera is at eye level, 35 mm, focusing on the lamp and the medical equipment in the background to show the new emergency unit. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-salem/super-speciality-hospital-gets-state-of-the-art-emergency-ward/4379886",
-   "published": "2026-11-18T19:49:02+05:30",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: reel_script must have no English letters (write English words and abbreviations in Tamil script)",
-   "note": "free-model draft anthropic/claude-haiku-5-5, 13 attempt(s), 1 validator problem(s)",
-   "post_time": "right after your reply, same day",
-   "_area": "N",
-   "_score": 999,
-   "images": [
-    "https://res.cloudinary.com/jrmwajfz/image/upload/v1795020514/salem360/detdbz73iu7yy0dhrxx1.jpg",
-    "https://res.cloudinary.com/jrmwajfz/image/upload/v1795020547/salem360/enyxc1vhirpdci2x9zva.jpg"
-   ]
-  },
-  {
-   "tamil_headline": "சேலம் கலெக்டர் அலுவலகத்தில் தர்ணா: தாய், மகளை போலீசார் வேனில் ஏற்றி கவுன்சிலிங்",
-   "english_headline": "Mother and daughter protest at Salem Collectorate; police take them away in a van for counselling",
-   "category": "Crime & Safety",
-   "location": "Salem Collectorate, Salem district",
+   "location": "Omalur, Salem district",
    "importance": "Medium",
    "scope": "local",
    "post_to": "Salem 360",
    "slides_spec": {
     "v": 3,
-    "cat": "போலீஸ் நடவடிக்கை",
-    "loc": "சேலம் கலெக்டர் அலுவலகம்",
-    "hl1": "கலெக்டர் அலுவலகத்தில் தர்ணா: தாய்",
-    "hl2": "போலீசார் வேனில்",
+    "cat": "சுகாதாரம்",
+    "loc": "ஓமலூர், சேலம்",
+    "hl1": "ஓமலூரில் காய்ச்சலால் தொழிலாளி உயிரிழப்பு",
+    "hl2": "36 வயது பூபதி உயிரிழப்பு",
+    "slides": [
+     {
+      "title": "சம்பவம்",
+      "lines": [
+       "ஓமலூர் அரசு மருத்துவமனையில் <b>36</b> வயது பூபதி உயிரிழந்தார்",
+       "பூம்பட்டியை சேர்ந்த நெசவு தொழிலாளி",
+       "மனைவி துர்கா, 2 குழந்தைகள் உள்ளனர்"
+      ]
+     },
+     {
+      "title": "நிகழ்வுகள்",
+      "lines": [
+       "சில நாட்களாக காய்ச்சலால் அவதிப்பட்டார்",
+       "நேற்று முன்தினம் இரவு <b>8:00</b> மணிக்கு மருத்துவமனை வந்தார்",
+       "அவசர சிகிச்சைக்கு பின் வேறு படுக்கைக்கு மாற்றப்பட்டார்"
+      ]
+     },
+     {
+      "title": "விசாரணை",
+      "lines": [
+       "நேற்று அதிகாலை <b>5:00</b> மணிக்கு உயிரிழந்தார்",
+       "சுகாதாரத்துறை அதிகாரிகள் வீட்டை ஆய்வு செய்தனர்",
+       "மது அருந்தும் பழக்கம் காரணம் என தெரிவிக்கப்பட்டது"
+      ]
+     }
+    ],
+    "carousel": false
+   },
+   "reel_script": "ஓமலூர் அரசு மருத்துவமனையில் காய்ச்சலால் ஒரு தொழிலாளி உயிரிழந்தார். பூம்பட்டியை சேர்ந்தவர் பூபதி, 36 வயது. இவர் நெசவு தொழிலாளியாக பணியாற்றி வந்தார். இவரது மனைவி துர்கா, 32 வயது. இவர்களுக்கு 2 குழந்தைகள் உள்ளனர். சில நாட்களாக காய்ச்சலால் பூபதி அவதிப்பட்டு வந்தார். நேற்று முன்தினம் இரவு 8:00 மணிக்கு ஓமலூர் அரசு மருத்துவமனைக்கு வந்தார். அவசர சிகிச்சைக்கு பின் வேறு படுக்கைக்கு மாற்றப்பட்டார். நேற்று அதிகாலை 5:00 மணிக்கு பூபதி உயிரிழந்தார். இதையடுத்து சுகாதாரத்துறை அதிகாரிகள் பூம்பட்டியில் உள்ள அவர்களின் வீட்டை ஆய்வு செய்தனர். சேலம் மாவட்ட சுகாதார அலுவலர் சவுண்டம்மாளிடம் கேட்டபோது, மது அருந்தும் பழக்கத்தால் பூபதியின் உடல்நலம் பாதிக்கப்பட்டுள்ளது என தெரிவித்தார். பிரேத பரிசோதனைக்கு பின் உரிய விபரம் தெரியும் என கூறினார். மேலும் செய்திகளுக்கு சேலம் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "⚠️ ஓமலூரில் காய்ச்சலால் நெசவு தொழிலாளி உயிரிழப்பு\n\n📰 முழு விவரம்:\nஓமலூர், தொளசம்பட்டி அருகே பூம்பட்டியை சேர்ந்தவர் பூபதி, 36. இவர் நெசவு தொழிலாளி. இவரது மனைவி துர்கா, 32. இவர்களுக்கு 2 குழந்தைகள் உள்ளனர். சில நாட்களாக காய்ச்சலால் அவதிப்பட்ட பூபதி, நேற்று முன்தினம் இரவு 8:00 மணிக்கு ஓமலூர் அரசு மருத்துவமனை வந்தார். அவசர சிகிச்சைக்கு பின் வேறு படுக்கைக்கு மாற்றப்பட்டார். நேற்று அதிகாலை 5:00 மணிக்கு அவர் உயிரிழந்தார். சுகாதாரத்துறை அதிகாரிகள் பூம்பட்டியில் உள்ள அவர்களின் வீட்டை ஆய்வு செய்து விசாரித்தனர். சேலம் மாவட்ட சுகாதார அலுவலர் சவுண்டம்மாளிடம் கேட்டபோது, மது அருந்தும் பழக்கத்தால் பூபதி உடல்நலம் பாதிக்கப்பட்டுள்ளது என தெரிவித்தார். பிரேத பரிசோதனைக்கு பின் உரிய விபரம் தெரியும் என கூறினார்.\n\n📍 இடம்: ஓமலூர், சேலம்\n🗓️ நாள்: நேற்று (19 நவம்பர் 2026)\n🕘 நேரம்: அதிகாலை 5:00 மணி\n👮 நடவடிக்கை: சுகாதாரத்துறை அதிகாரிகள் வீட்டை ஆய்வு செய்தனர்\nℹ️ மக்கள் கவனத்திற்கு: மது அருந்தும் பழக்கம் உடல்நலத்தை பாதிக்கும்\n\nதேவைப்படுவோருக்கு Share செய்யுங்கள்\n\nOmalur weaver dies of fever | Salem news\n📍 Omalur, Salem | 19 Nov 2026\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Salem360 #Salem #Omalur #SalemNews #சேலம்",
+   "prompts": "A hospital attendant in white uniform pushes a wheeled stretcher past the emergency entrance of Omalur Government Hospital in the early morning, while a few relatives in simple shirts and sarees stand at a distance with their backs to the camera. The corridor is lit by tube lights, with a row of plastic chairs and a metal drip stand near a ward door, and the sky outside is still dark blue. The stretcher is covered with a plain white sheet, and the scene is calm and sombre with no visible faces. Shot at eye level, 35 mm, wide enough to show the corridor and the entrance, with the hospital's emergency area and the parked two-wheelers outside in the background. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up of a hospital bed in a government ward, its thin mattress and white bedsheet neatly folded, beside an empty metal IV drip stand and a plastic chair. In the soft background, a health department official in a shirt and trousers stands with his back to the camera, holding a clipboard, while a woman in a cotton saree sits far off near the doorway, slightly blurred. Morning light enters through a barred window, falling on the bed. Shot at eye level, 35 mm, focused on the bed and stand, showing the quiet, solemn mood of a hospital room after a death. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-salem/labourer-dies-of-fever/4380198",
+   "published": "2026-11-19T01:36:00+05:30",
+   "verification": "DRAFT (groq/qwen/qwen3.8-27b) - fact-check: no problems found",
+   "note": "free-model draft groq/qwen/qwen3.8-27b, 3 attempt(s), 0 validator problem(s)",
+   "post_time": "right after your reply, same day",
+   "_area": "N",
+   "_score": 999,
+   "images": [
+    "https://res.cloudinary.com/jrmwajfz/image/upload/v1795035840/salem360/ere4acxhsvvigss4rzu0.jpg",
+    "https://res.cloudinary.com/jrmwajfz/image/upload/v1795035846/salem360/vjemmuos5bi9oxvwgtol.jpg"
+   ]
+  },
+  {
+   "tamil_headline": "வீரபாண்டியில் கார் மரத்தில் மோதி டிரைவர் பலி; 11 பேர் மீட்பு",
+   "english_headline": "Driver killed as car hits tree near Veerapandi, Salem; 11 rescued and sent to hospitals",
+   "category": "Crime & Safety",
+   "location": "Veerapandi, Salem district",
+   "importance": "High",
+   "scope": "local",
+   "post_to": "Salem 360",
+   "slides_spec": {
+    "v": 3,
+    "cat": "சாலை விபத்து",
+    "loc": "வீரபாண்டி, சேலம்",
+    "hl1": "வீரபாண்டியில் கார் மரத்தில் மோதி",
+    "hl2": "11 பேர் மீட்பு",
     "slides": [
      {
       "title": "என்ன நடந்தது?",
       "lines": [
-       "சேலம் கலெக்டர் அலுவலகத்தில் தர்ணா போராட்டம்",
-       "அம்மாபேட்டையைச் சேர்ந்த <b>38 வயது</b> தாட்சாயிணி",
-       "தன் <b>14 வயது</b> மகளுடன் தர்ணாவில் ஈடுபட்டார்"
+       "நேற்று இரவு <b>10:50</b> மணிக்கு வீரபாண்டியில் விபத்து",
+       "கட்டுப்பாட்டை இழந்த கார் தாறுமாறாக ஓடியது",
+       "கார் சாலையோர <b>புளிய மரத்தில்</b> மோதியது"
       ]
      },
      {
-      "title": "எங்கே, எப்போது?",
+      "title": "யார் யார்?",
       "lines": [
-       "இன்று (<b>நவ. 18</b>) காலை <b>11 மணிக்கு</b>",
-       "கலெக்டர் கார் நிறுத்துமிடத்தில் தர்ணா",
-       "போலீசார் பேச்சுவார்த்தை நடத்தினர்"
+       "நாமக்கல் மாவட்டம் மின்னக்கல்லைச் சேர்ந்த செல்வபிரியன், <b>45</b>",
+       "காரை ஓட்டிச் சென்றவர் சம்பவ இடத்திலேயே உயிரிழந்தார்",
+       "எதிரே வந்த அரசு பஸ்ஸின் டிரைவர் படுகாயம்"
       ]
      },
      {
-      "title": "தாயின்",
+      "title": "பயணிகள் நிலை",
       "lines": [
-       "சுகவனேஸ்வரர் கோவில் கருவறை முன் பாட அனுமதி இல்லை",
-       "ஒரு தரப்பினர் கோபமாக உள்ளதாகக் கூறினார்",
-       "கலெக்டர் நேரில் வந்து நீதி வழங்க வேண்டும் என்றார்"
+       "பஸ்ஸும் சாலையோர புளிய மரத்தில் மோதியது",
+       "பயணிகள் சிலர் லேசான காயம் அடைந்தனர்",
+       "<b>11 பேர்</b> மீட்கப்பட்டு சேலம் மருத்துவமனைகளுக்கு"
       ]
      },
      {
-      "title": "போலீஸ் நடவடிக்கை",
+      "title": "போலீஸ் விசாரணை",
       "lines": [
-       "தாசில்தார் வள்ளமுனியப்பன் பேச்சு நடத்தினார்",
-       "தாய், மகள் வாக்குவாதம் செய்தனர்",
-       "டவுன் மகளிர் போலீசார் வேனில் ஏற்றி கவுன்சிலிங் கொடுத்தனர்"
+       "ஆட்டையாம்பட்டி போலீசார் விசாரணை நடத்துகின்றனர்",
+       "சேலம் நோக்கி வந்த கார் கட்டுப்பாட்டை இழந்தது",
+       "பஸ் கார் மீது மோதாமல் திருப்பப்பட்டதால் விபத்து"
       ]
      }
     ],
     "carousel": false
    },
-   "reel_script": "சேலம் கலெக்டர் அலுவலகத்தில் தாய், மகள் தர்ணா செய்ததால் போலீசார் அவர்களை வேனில் ஏற்றிச் சென்று கவுன்சிலிங் கொடுத்தனர். அம்மாபேட்டையைச் சேர்ந்த 38 வயது தாட்சாயிணி, தன் 14 வயது மகளுடன் இன்று நவம்பர் 18ஆம் தேதி காலை 11 மணிக்குக் கலெக்டர் அலுவலகத்தில் கலெக்டர் கார் நிறுத்துமிடத்தில் தர்ணாவில் ஈடுபட்டார். போலீசார் அவர்களிடம் பேச்சுவார்த்தை நடத்தினர். தனக்குப் பாதுகாப்பு இல்லை என்று தாட்சாயிணி கூறினார். சுகவனேஸ்வரர் கோவில் கருவறை முன் நின்று பாட அனுமதி இல்லை என்றும், ஒரு தரப்பினர் தங்கள் மீது கோபமாக உள்ளனர் என்றும் அவர் குற்றம் சாட்டினார். கலெக்டர் நேரில் வந்து நீதி வழங்க வேண்டும் என்றும் அவர் கோரினார். தாசில்தார் வள்ளமுனியப்பன் வந்து பேச்சு நடத்தினார். அப்போது தாய், மகள் வாக்குவாதம் செய்தனர். அங்கிருந்த மக்கள் சமாதானப்படுத்த முயன்றபோது, அனைவரையும் ஒருமையில் திட்டி சத்தம் போட்டனர். இதையடுத்து டவுன் மகளிர் போலீசார் தாய், மகளை வலுக்கட்டாயமாக வேனில் ஏற்றிச் சென்று கவுன்சிலிங் கொடுத்தனர். மேலும் செய்திகளுக்கு சேலம் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🚨 சேலம் கலெக்டர் அலுவலகத்தில் தர்ணா: தாய், மகளை போலீசார் வேனில் ஏற்றிச் சென்றனர்\n\n📰 முழு விவரம்:\nசேலம் கலெக்டர் அலுவலகத்தில் இன்று (நவ. 18) காலை 11 மணிக்கு அம்மாபேட்டையைச் சேர்ந்த 38 வயது தாட்சாயிணி, தன் 14 வயது மகளுடன் தர்ணாவில் ஈடுபட்டார். கலெக்டர் கார் நிறுத்துமிடத்தில் நடந்த இந்தப் போராட்டத்தில் போலீசார் பேச்சுவார்த்தை நடத்தினர்.\nசுகவனேஸ்வரர் கோவில் கருவறை முன் நின்று பாட அனுமதி இல்லை என்றும், ஒரு தரப்பினர் கோபமாக உள்ளதாகவும் தாட்சாயிணி குற்றம் சாட்டினார். கலெக்டர் நேரில் வந்து நீதி வழங்க வேண்டும் என்று அவர் கோரினார்.\nதாசில்தார் வள்ளமுனியப்பன் பேச்சு நடத்தினார். தாய், மகள் வாக்குவாதம் செய்தனர். அங்கிருந்தவர்களைத் திட்டியதால், டவுன் மகளிர் போலீசார் அவர்களை வலுக்கட்டாயமாக வேனில் ஏற்றிச் சென்று கவுன்சிலிங் கொடுத்தனர்.\n\nSalem Collectorate protest mother daughter police counselling | Salem news\n📍 சேலம் கலெக்டர் அலுவலகம், சேலம் மாவட்டம் | 18 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Salem360 #Salem #SalemNews #சேலம்",
-   "prompts": "A woman in a saree and her teenage daughter in a school-style salwar are being guided by women police in khaki towards a white police van parked in the Collectorate compound in Salem, with the government office building behind them. The place is the open paved parking area reserved for the Collector's car, with a few parked official vehicles and a low boundary wall, and a small crowd of onlookers standing at a distance near the entrance. Several women police officers in khaki uniforms flank the two, one holding the mother's arm, and a tahsildar in a shirt and trousers stands a few metres away watching. Both the mother and daughter are seen from behind or slightly to the side, their faces not clearly visible, and they appear to be resisting as they are led forward. It is late morning in bright daylight with clear sky and sharp shadows on the pavement. Shot at eye level with a 35 mm lens, wide enough to show the van, the government building, and the crowd. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up of the open side door of a white police van parked on the paved Collectorate compound in Salem, with a folded dupatta or saree end and a pair of sandals left on the floor near the step, showing the forced removal of a protester. The van's interior is dim and the metal step is worn, with a khaki-uniformed woman police officer's hand just visible on the door frame. Behind the van, the edge of a government office building and a few parked official cars are slightly out of focus under bright midday sunlight. No faces are shown; the scene is shot at low eye level with a 35 mm lens to emphasise the van door and the lost footwear as the detail that tells the story of a forced police removal. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-salem/dharna-counselling-for-mother-daughter-at-collector-s-office/4379883",
-   "published": "2026-11-18T19:49:02+05:30",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: sentence 1 (one-line story) has 14 words; make it 6-9 words (about 2-3 seconds), the details follow in the next sentences",
-   "note": "free-model draft anthropic/claude-haiku-5-5, 12 attempt(s), 1 validator problem(s)",
+   "reel_script": "வீரபாண்டியில் கார் மரத்தில் மோதியதில் டிரைவர் உயிரிழந்தார். நேற்று இரவு 10:50 மணிக்கு சேலம் மாவட்டம் வீரபாண்டியில் இந்த விபத்து நடந்தது. நாமக்கல் மாவட்டம் மின்னக்கல்லைச் சேர்ந்த செல்வபிரியன் (45 வயது), சேலம் நோக்கி சான்ட்ரோ காரில் வந்துகொண்டிருந்தார். அப்போது கார் கட்டுப்பாட்டை இழந்து தாறுமாறாக ஓடியது. எதிரே சேலத்திலிருந்து திருச்செங்கோடு நோக்கி வந்த அரசு பஸ்ஸின் டிரைவர், கார் மீது மோதாமல் இருக்க பஸ்ஸைத் திருப்பினார். பஸ் சாலையோர புளிய மரத்தில் மோதியது. கார் அருகிலிருந்த மற்றொரு புளிய மரத்தில் மோதி நொறுங்கியது. செல்வபிரியன் சம்பவ இடத்திலேயே உயிரிழந்தார். பஸ் டிரைவர் படுகாயம் அடைந்தார். பயணிகள் சிலர் லேசான காயம் அடைந்தனர். அப்பகுதி மக்கள் 11 பேரை மீட்டு, சேலம் அரசு மற்றும் தனியார் மருத்துவமனைகளுக்கு அனுப்பினர். ஆட்டையாம்பட்டி போலீசார் விசாரித்து வருகின்றனர். மேலும் செய்திகளுக்கு சேலம் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🚨 வீரபாண்டியில் கார் மரத்தில் மோதி டிரைவர் பலி\n\n📰 முழு விவரம்:\nநேற்று இரவு 10:50 மணிக்கு சேலம் மாவட்டம் வீரபாண்டியில் கார் கட்டுப்பாட்டை இழந்து தாறுமாறாக ஓடி சாலையோர புளிய மரத்தில் மோதியது. நாமக்கல் மாவட்டம் மின்னக்கல்லைச் சேர்ந்த செல்வபிரியன் (45 வயது), சம்பவ இடத்திலேயே உயிரிழந்தார். கார் மீது மோதாமல் இருக்க திருப்பப்பட்ட அரசு பஸ் சாலையோர புளிய மரத்தில் மோதியது; பஸ் டிரைவர் படுகாயம் அடைந்தார். பயணிகள் சிலர் லேசான காயம் அடைந்தனர். அப்பகுதி மக்கள் 11 பேரை மீட்டு சேலம் அரசு மற்றும் தனியார் மருத்துவமனைகளுக்கு அனுப்பினர்.\n📍 இடம்: வீரபாண்டி, சேலம் மாவட்டம்\n🕘 நேரம்: நேற்று இரவு 10:50 மணி\n👮 நடவடிக்கை: ஆட்டையாம்பட்டி போலீசார் விசாரணை நடத்துகின்றனர்\n\nSalem Veerapandi car tree accident driver dead | Salem news\n📍 வீரபாண்டி, சேலம் | 19 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Salem360 #Salem #Veerapandi #விபத்து #SalemNews",
+   "prompts": "A crumpled silver car is smashed against a tamarind tree on the roadside at night, illustrating the fatal accident. The location is the Salem-Tiruchengode road near Veerapandi, with dark rural surroundings and streetlights providing dim illumination. In the background, a government bus is visible, its front end damaged after hitting another tamarind tree while swerving. A group of local residents and police officers in khaki uniforms stand at a safe distance, observing the scene. The car is severely deformed, with its hood crushed. The bus is angled towards the tree. The scene is lit by emergency vehicle lights and ambient street lighting. The camera is positioned at eye level, 35 mm lens, capturing the full extent of the collision and the vehicles involved. No readable text or logos are visible on the vehicles. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up of the crumpled front section of the silver car, showing the metal twisted and bent against the rough bark of the tamarind tree. The car's bumper is missing, and the engine compartment is exposed and damaged. The tree trunk shows signs of impact with broken branches and scattered leaves on the ground. The lighting is artificial, casting sharp shadows on the damaged metal. The focus is tight on the point of impact, highlighting the severity of the crash. The background is blurred, showing only the dark foliage of the tree and the dim road surface. No people or other vehicles are in the immediate frame, ensuring the focus remains on the damaged vehicle and the tree. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-salem/driver-killed-as-car-rams-into-tree/4380208",
+   "published": "2026-11-19T01:42:00+05:30",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - fact-check: no problems found",
+   "note": "free-model draft anthropic/claude-haiku-5-5, 12 attempt(s), 0 validator problem(s)",
    "post_time": "right after your reply, same day",
    "_area": "N",
    "_score": 999,
    "images": [
-    "https://res.cloudinary.com/jrmwajfz/image/upload/v1795020586/salem360/amhu0nctdmciuw86unnu.jpg",
-    "https://res.cloudinary.com/jrmwajfz/image/upload/v1795020621/salem360/bnhfr9vrg2g4ogsjclwm.jpg"
-   ]
-  },
-  {
-   "tamil_headline": "தலைவாசலில் சின்ன வெங்காயம் கிலோ 200 ரூபாய்: வரத்து குறைந்ததால் விலை கடும் உயர்வு",
-   "english_headline": "Small onion price hits ₹200 per kg in Thalaivasal market due to 40% supply drop",
-   "category": "Business & Prices",
-   "location": "Thalaivasal daily vegetable market, Thalaivasal taluk, Salem district",
-   "importance": "High",
-   "scope": "district",
-   "post_to": "Salem 360",
-   "slides_spec": {
-    "v": 3,
-    "cat": "விலை உயர்வு",
-    "loc": "தலைவாசல்",
-    "hl1": "சின்ன வெங்காயம் கிலோ 200 ரூபாய்",
-    "hl2": "தலைவாசலில் விலை கடும் உயர்வு",
-    "slides": [
-     {
-      "title": "விலை நிலவரம்",
-      "lines": [
-       "தலைவாசல் மார்க்கெட்டில் கிலோ <b>200 ரூபாய்</b>",
-       "வரத்து <b>40 சதவீதம்</b> வரை குறைந்தது",
-       "சாகுபடி பரப்பு குறைந்ததால் விலை உயர்வு"
-      ]
-     },
-     {
-      "title": "ஏன் இந்த உயர்வு?",
-      "lines": [
-       "கடந்த ஆண்டு கிலோ <b>10 - 20 ரூபாய்</b>",
-       "இதனால் விவசாயிகள் சாகுபடியைக் குறைத்தனர்",
-       "செப்டம்பர் முதல் விலை படிப்படியாக உயர்வு"
-      ]
-     },
-     {
-      "title": "புதிய உச்சம்",
-      "lines": [
-       "2023-ல் கிலோ 170 ரூபாய் வரை விற்றது",
-       "தற்போது முதல் முறையாக 200-ஐத் தொட்டது",
-       "முதல் தர வெங்காயம் அதிக விலைக்கு விற்பனை"
-      ]
-     }
-    ],
-    "carousel": false
-   },
-   "reel_script": "தலைவாசல் மார்க்கெட்டில் சின்ன வெங்காயம் விலை முதல் முறையாக கிலோ 200 ரூபாயாக உயர்ந்துள்ளது. சேலம் மாவட்டம் தலைவாசல் தினசரி காய்கறி மார்க்கெட்டிற்கு சின்ன வெங்காயம் வரத்து 40 சதவீதம் குறைந்துள்ளது. சாகுபடி பரப்பு குறைந்ததே இந்த விலை உயருக்கு முக்கியக் காரணமாகக் கூறப்படுகிறது. இது குறித்து மொத்த வியாபாரி சீனிவாசன் கூறுகையில், கடந்த ஆண்டில் சின்ன வெங்காயம் கிலோ 10 முதல் 20 ரூபாய் வரை மட்டுமே விற்பனையானது என்றார். இதனால் விவசாயிகள் சின்ன வெங்காயம் சாகுபடி செய்வதை வெகுவாகக் குறைத்தனர். கடந்த செப்டம்பர் மாதம் முதல் கிலோ 60 முதல் 70 ரூபாய்க்கு மேல் விலை உயரத் தொடங்கியது. தற்போது படிப்படியாக உயர்ந்து, முதல் தர வெங்காயம் கிலோ அதிகபட்சமாக 200 ரூபாய்க்கு விற்பனை செய்யப்படுகிறது. இதற்கு முன்னதாக கடந்த 2023ஆம் ஆண்டில் கிலோ 150 முதல் 170 ரூபாய் வரை விற்பனையானதே அதிகபட்ச விலையாக இருந்தது. தற்போது சின்ன வெங்காயம் விலை 200 ரூபாயைத் தொட்டு புதிய உச்சத்தை எட்டியுள்ளது. மேலும் செய்திகளுக்கு சேலம் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🧅 சின்ன வெங்காயம் கிலோ ₹200: தலைவாசல் மார்க்கெட்டில் விலை கடும் உயர்வு!\n\n📰 முழு விவரம்:\nசேலம் மாவட்டம் தலைவாசல் தினசரி காய்கறி மார்க்கெட்டில் சின்ன வெங்காயம் விலை முதல் முறையாக கிலோ 200 ரூபாயைத் தொட்டுள்ளது. சாகுபடி பரப்பு குறைந்ததால் மார்க்கெட்டிற்கு வரும் வெங்காயத்தின் வரத்து 40 சதவீதம் வரை குறைந்துள்ளது.\n📉 கடந்த ஆண்டில் கிலோ 10 முதல் 20 ரூபாய் வரை மட்டுமே விற்றதால், விவசாயிகள் சாகுபடியைக் குறைத்தனர். இதனால் கடந்த செப்டம்பர் முதல் விலை படிப்படியாக உயரத் தொடங்கியது.\n💰 தற்போது முதல் தர சின்ன வெங்காயம் கிலோ 200 ரூபாய்க்கு விற்பனை செய்யப்படுகிறது. இதற்கு முன்பு 2023-ல் கிலோ 170 ரூபாய் வரை விற்றதே அதிகபட்ச விலையாக இருந்தது என மொத்த வியாபாரி சீனிவாசன் தெரிவித்துள்ளார்.\n\nThalaivasal small onion price hike | Salem news\n📍 தலைவாசல், சேலம் | 18 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Salem360 #Salem #Thalaivasal #OnionPrice #SalemNews #சேலம்",
-   "prompts": "A wholesale vegetable trader stands beside heaps of small red onions piled in gunny sacks and plastic baskets at the Thalaivasal daily vegetable market in Salem district, Tamil Nadu, as the market is busy with buyers. The setting is an open-air market shed with a tin or concrete roof, rows of vegetable stalls, green and brown gunny sacks, and wooden crates of shallots stacked on the ground and on tables. Several customers in shirts, veshti and salwar-kameez stand with their backs to the camera, examining the onions, while a few women in sarees carry cloth bags. In the far background, the foothills of the Shevaroy hills are faintly visible through the haze. Daylight, bright morning light filtering through the shed. Camera at eye level, 35 mm lens, wide enough to show the market rows and the onion heaps. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up of a heap of small red shallots spilling out of a gunny sack on a weighing scale at a vegetable stall in Thalaivasal market, Salem district. The onions are plump, dry and reddish-purple, with their papery skins visible, piled high in a rough mound on the metal pan of a traditional balance scale. Behind them, out of focus, a wooden crate and a few more sacks of onions sit on the stall counter, and the hands of a trader in a white shirt rest on the edge of the sack. The background is soft and blurred with stalls and a few shoppers seen from behind. Warm daylight from the side, shallow depth of field, camera slightly high, 35 mm lens. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-salem/small-onion-prices-hit-double-digit/4379641",
-   "published": "2026-11-18T18:12:02+05:30",
-   "verification": "DRAFT (gemini/gemini-3-flash-preview) - NOT CLEAN, held from posting - problems: caption needs 5 hashtags (Instagram max), has 6; caption misses facts of the article (put every one in 📰 முழு விவரம்): 60 ('கடந்த செப்டம்பர் முதல் கிலோ, 60 -– 70 ரூபாய்க்கு மேல் விலை உ'); 70 ('கடந்த செப்டம்பர் முதல் கிலோ, 60 -– 70 ரூபாய்க்கு மேல் விலை உ'); 150 ('இதற்கு முன், 2023ல் சின்ன வெங்காயம் கிலோ, 150 -– 170 ரூபாய் ')",
-   "note": "free-model draft gemini/gemini-3-flash-preview, 2 attempt(s), 2 validator problem(s)",
-   "post_time": "right after your reply, same day",
-   "_area": "N",
-   "_score": 999,
-   "images": [
-    "https://res.cloudinary.com/jrmwajfz/image/upload/v1795020659/salem360/vbslru1ommx2fqmnlzcm.jpg",
-    "https://res.cloudinary.com/jrmwajfz/image/upload/v1795020692/salem360/lpzbspu09xvqhlygbpam.jpg"
+    "https://res.cloudinary.com/jrmwajfz/image/upload/v1795035863/salem360/q75p2itdap2itkoxlk4z.jpg",
+    "https://res.cloudinary.com/jrmwajfz/image/upload/v1795035870/salem360/bmohl5njihxvbh3hr2fh.jpg"
    ]
   }
  ]
