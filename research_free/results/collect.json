@@ -3,291 +3,332 @@
   "earlier stories still waiting for images: []",
   "instagram check: 50 recent posts read from the page",
   "pick round: only the picked links are written (research_free/pick.py)",
-  "manual link added: https://tamil.oneindia.com/news/chennai/edappadi-palaniswami-moves-to-reconcile-aiadmk-rebels-ahead-of-tamil-nadu-bypolls-846575.html",
-  "manual link added: https://www.dinamani.com/all-editions/edition-dharmapuri/salem/2026/Nov/19/bananas-procured-to-prepare-palani-panchamritham-farmers-of-salem-district-east-are-happy",
-  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-salem/collectors-inspection/4380197",
-  "candidate filter: collected=3",
-  "to write: 3 Salem district candidates (max 3 stories)",
-  "round: top 3 of 3 candidates",
-  "candidates waiting: 3 Salem; time left 79 min",
-  "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-sale",
-  "try (N) manual=True: https://www.dinamani.com/all-editions/edition-dharmapuri/sal",
-  "try (N) manual=True: https://tamil.oneindia.com/news/chennai/edappadi-palaniswami",
+  "manual link added: https://www.maalaimalar.com/news/tamilnadu/salem-district-small-onion-prices",
+  "manual link added: https://tamil.oneindia.com/news/chennai/kolathur-mla-v-s-babu-passes-away-after-70-days-of-silence-announcement-comes-after-court-petition-846637.html",
+  "manual link added: https://www.dinamalar.com/news/tamil-nadu-news/ernakulam-patna-special-train-neet-tipu/4380549",
+  "manual link added: https://www.dinakaran.com/news/weekend-state-transport-corporation-special-bus-services",
+  "manual link added: https://tamil.oneindia.com/news/chennai/who-is-kolathur-tvk-mla-v-s-babu-political-career-controversies-and-complete-biography-846615.html",
+  "candidate filter: collected=5",
+  "to write: 5 Salem district candidates (max 5 stories)",
+  "round: top 5 of 5 candidates",
+  "candidates waiting: 5 Salem; time left 79 min",
+  "try (N) manual=True: https://tamil.oneindia.com/news/chennai/who-is-kolathur-tvk-",
+  "try (N) manual=True: https://www.dinakaran.com/news/weekend-state-transport-corpo",
+  "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-news/ernakulam-pat",
   "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 2})",
   "posting job started at once",
+  "try (N) manual=True: https://tamil.oneindia.com/news/chennai/kolathur-mla-v-s-bab",
+  "NOT filed (N) வார இறுதி நாட்களை முன்னிட்டு அரசு போக்குவரத்துக் க: not Salem district news (the story's first lines name another place and no Salem place)",
+  "try (N) manual=True: https://www.maalaimalar.com/news/tamilnadu/salem-district-sm",
   "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 4})",
   "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 6})",
-  "candidate loop ended: left 0, tried={'N': 3}, done={'N': 3}, time left 76 min",
-  "filed: 3 Salem district stories (target 3), reels only",
+  "NOT filed (N) சேலம் மாவட்டத்தில் சின்ன வெங்காயம் விலை கிலோ 200 : duplicate after write",
+  "candidate loop ended: left 0, tried={'N': 5}, done={'N': 3}, time left 76 min",
+  "filed: 3 Salem district stories (target 5), reels only",
   "queue: 0 news waiting to be written",
-  "All News sheet: {\"ok\":true,\"added\":3,\"updated\":0}"
+  "All News sheet: {\"ok\":true,\"added\":5,\"updated\":0}"
  ],
  "llm": [
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
+  "dead for this round: gemini/gemini-3.6-flash",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high d",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high d",
-  "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high d",
-  "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high d",
-  "switching away from gemini/gemini-3.6-flash for 10 min",
-  "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high d",
-  "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high d",
-  "switching away from gemini/gemini-3.6-flash for 10 min",
-  "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high d",
-  "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high d",
-  "switching away from gemini/gemini-3.6-flash for 10 min",
   "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
-  "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high d",
-  "switching away from gemini/gemini-3.5-flash for 10 min",
-  "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
-  "switching away from gemini/gemini-3.5-flash for 10 min",
-  "ok gemini/gemini-3-flash-preview (11s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high d",
-  "switching away from gemini/gemini-3.5-flash for 10 min",
-  "ok gemini/gemini-3-flash-preview (27s)",
+  "dead for this round: gemini/gemini-3.5-flash",
+  "ok gemini/gemini-3-flash-preview (12s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok gemini/gemini-3-flash-preview (8s)",
+  "ok gemini/gemini-3-flash-preview (12s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "ok gemini/gemini-3-flash-preview (11s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok gemini/gemini-3.5-flash (56s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok gemini/gemini-3.6-flash (57s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok gemini/gemini-3-flash-preview (15s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "ok gemini/gemini-3-flash-preview (14s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, plea",
-  "ok gemini/gemini-3-flash-preview (27s)",
+  "ok gemini/gemini-3-flash-preview (11s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok gemini/gemini-3-flash-preview (8s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, plea",
-  "fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, plea",
-  "switching away from gemini/gemini-3-flash-preview for 10 min",
-  "ok gemini/gemini-3-flash-preview (13s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "dead for this round: gemini/gemini-3-flash-preview",
+  "fail gemini/gemini-3-flash-preview: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=60)",
+  "poor answer - skipped for 30 min: gemini/gemini-3-flash-preview",
   "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 400: {\"error\":{\"message\":\"Failed to generate JSON. Please adjust your prompt. See 'failed_gener",
+  "ok groq/openai/gpt-oss-120b (7s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
+  "ok gemini/gemini-3-flash-preview (55s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 413: {\"error\":{\"message\":\"Request too large for model `openai/gpt-oss-120b` in organization `or",
   "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 413: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
   "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
   "switching away from groq/openai/gpt-oss-120b for 10 min",
-  "ok anthropic/claude-haiku-5-5",
-  "ok groq/qwen/qwen3.8-27b (6s)",
+  "ok groq/qwen/qwen3.8-27b (4s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 413: {\"error\":{\"message\":\"Request too large for model `openai/gpt-oss-120b` in organization `or",
+  "ok anthropic/claude-haiku-5-5",
   "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
   "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
+  "ok groq/qwen/qwen3.8-27b (0s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
   "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
   "switching away from groq/qwen/qwen3.8-27b for 10 min",
   "ok anthropic/claude-haiku-5-5",
-  "ok groq/qwen/qwen3.8-27b (4s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "ok anthropic/claude-haiku-5-5",
   "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "fail gemini/gemini-3-flash-preview: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=60)",
-  "poor answer - skipped for 30 min: gemini/gemini-3-flash-preview",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "ok anthropic/claude-haiku-5-5",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "ok anthropic/claude-haiku-5-5"
  ],
  "stories": [
   {
-   "tamil_headline": "அதிமுகவில் அதிருப்தியாளர்களைச் சமாதானம் செய்ய எடப்பாடி பழனிசாமி திட்டம்: இடைத்தேர்தலைச் சந்திக்கப் புதிய வியூகம்",
-   "english_headline": "EPS plans to reconcile with AIADMK dissenters ahead of upcoming by-elections in Trichy East and Ambasamudram",
+   "tamil_headline": "கொளத்தூர் எம்எல்ஏ வி.எஸ். பாபு உடல்நலக்குறைவால் காலமானார்",
+   "english_headline": "Kolathur MLA V.S. Babu passes away after months of treatment; by-election to be held",
    "category": "Government & Services",
-   "location": "Edappadi, Salem district",
-   "importance": "Medium",
+   "location": "Kolathur constituency, Chennai",
+   "importance": "High",
    "scope": "district",
    "post_to": "Salem 360",
    "slides_spec": {
     "v": 3,
-    "cat": "அரசியல்",
-    "loc": "எடப்பாடி, சேலம்",
-    "hl1": "இடைத்தேர்தலுக்கு எடப்பாடி திட்டம்",
-    "hl2": "அதிருப்தியாளர்களைச் சமாதானம்",
-    "slides": [
-     {
-      "title": "இடைத்தேர்தல்",
-      "lines": [
-       "இடைத்தேர்தலில் வெற்றி பெற <b>எடப்பாடி பழனிசாமி</b> புதிய வியூகம்",
-       "திருச்சி கிழக்கு, அம்பாசமுத்திரம் உள்ளிட்ட 5 தொகுதிகள்"
-      ]
-     },
-     {
-      "title": "கட்சிப் பின்னடைவு",
-      "lines": [
-       "சமீபத்திய தேர்தல்களில் அதிமுக <b>3ஆம் இடத்திற்குத்</b> தள்ளப்பட்டது",
-       "<b>6 முன்னாள் எம்.எல்.ஏ.க்கள்</b> தவெக-வில் இணைந்தனர்"
-      ]
-     },
-     {
-      "title": "சமாதானப் பேச்சு",
-      "lines": [
-       "அதிருப்தியைச் சமாளிக்க வேலுமணி தரப்புடன் பேச்சுவார்த்தை",
-       "வலுவான வேட்பாளர்களைக் களமிறக்க அதிமுக திட்டம்"
-      ]
-     }
-    ],
-    "carousel": false
-   },
-   "reel_script": "இடைத்தேர்தலில் வெற்றி பெற எடப்பாடி பழனிசாமி புதிய வியூகம் வகுத்துள்ளார். திருச்சி கிழக்கு மற்றும் அம்பாசமுத்திரம் உள்ளிட்ட 5 தொகுதிகளுக்கு விரைவில் இடைத்தேர்தல் அறிவிக்கப்படலாம் என எதிர்பார்க்கப்படுகிறது. இதில் கௌரவமான வெற்றியைப் பெற அண்ணா திராவிட முன்னேற்றக் கழக பொதுச்செயலாளர் எடப்பாடி பழனிசாமி தீவிரமாகத் திட்டமிட்டு வருகிறார். சமீபத்தில் நடந்த தாராபுரம் மற்றும் மதுராந்தகம் இடைத்தேர்தல்களில் அதிமுக 3ஆம் இடத்திற்குத் தள்ளப்பட்டது அவருக்குப் பலத்த அதிர்ச்சியை ஏற்படுத்தியது. மேலும் அதிமுகவைச் சேர்ந்த 6 முன்னாள் சட்டமன்ற உறுப்பினர்கள் பதவியை ராஜினாமா செய்துவிட்டு தமிழக வெற்றிக் கழகத்தில் இணைந்துள்ளனர். இதனால் கட்சியில் ஏற்பட்டுள்ள அதிருப்தியைச் சமாளிக்க எஸ்பி வேலுமணி மற்றும் சிவி சண்முகம் தரப்பிடம் பேச்சுவார்த்தை தொடங்கப்பட்டுள்ளது. கொங்கு மண்டலம் உள்ளிட்ட பகுதிகளில் கட்சியை வலுப்படுத்த அதிருப்தி நிர்வாகிகளை ஒருங்கிணைக்க எடப்பாடி பழனிசாமி முடிவு செய்துள்ளார். வரவிருக்கும் இடைத்தேர்தலில் திராவிட முன்னேற்றக் கழகம் மற்றும் தமிழக வெற்றிக் கழகத்தை எதிர்த்து வலுவான வேட்பாளர்களைக் களமிறக்க அதிமுக திட்டமிட்டுள்ளது. மேலும் செய்திகளுக்கு சேலம் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🗳️ இடைத்தேர்தலில் வெற்றி பெற எடப்பாடி பழனிசாமி புதிய வியூகம்: அதிருப்தியாளர்களைச் சமாதானம் செய்யத் திட்டம்\n\n📰 முழு விவரம்:\nதிருச்சி கிழக்கு மற்றும் அம்பாசமுத்திரம் உள்ளிட்ட 5 தொகுதிகளுக்கு விரைவில் இடைத்தேர்தல் அறிவிக்கப்படலாம் என எதிர்பார்க்கப்படுகிறது. இந்தத் தேர்தலில் கௌரவமான வெற்றியைப் பெற அதிமுக பொதுச்செயலாளர் எடப்பாடி பழனிசாமி புதிய திட்டங்களை வகுத்து வருகிறார். சமீபத்தில் நடந்த தாராபுரம் மற்றும் மதுராந்தகம் இடைத்தேர்தல்களில் அதிமுக 3ஆம் இடத்திற்குத் தள்ளப்பட்டது கட்சிக்குள் அதிர்ச்சியை ஏற்படுத்தியது. மேலும் 6 முன்னாள் சட்டமன்ற உறுப்பினர்கள் தமிழக வெற்றிக் கழகத்தில் இணைந்ததால் ஏற்பட்டுள்ள பின்னடைவைச் சரிசெய்ய எடப்பாடி பழனிசாமி முயன்று வருகிறார். இதற்காக எஸ்பி வேலுமணி மற்றும் சிவி சண்முகம் தலைமையிலான அதிருப்தி தரப்பினருடன் பேச்சுவார்த்தை தொடங்கப்பட்டுள்ளது. கொங்கு மண்டலம் உள்ளிட்ட பகுதிகளில் கட்சியை ஒருங்கிணைத்து வலுவான வேட்பாளர்களைக் களமிறக்க அதிமுக திட்டமிட்டுள்ளது.\n\n📍 இடம்: எடப்பாடி, சேலம் மாவட்டம்\n🗓️ காலம்: விரைவில் இடைத்தேர்தல்\n👮 நடவடிக்கை: அதிருப்தி நிர்வாகிகளுடன் பேச்சுவார்த்தை\nℹ️ மக்கள் கவனத்திற்கு: அரசியல் மாற்றங்களை உடனுக்குடன் தெரிந்துகொள்ளுங்கள்.\n\nதேவைப்படுவோருக்கு Share செய்யுங்கள்\n\nEPS AIADMK by-election strategy | Salem news\n📍 எடப்பாடி, சேலம் | 19 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Salem360 #Salem #Edappadi #SalemNews #சேலம்",
-   "prompts": "A group of AIADMK party leaders sits in a meeting hall in Edappadi town, Salem district, in discussion over the upcoming by-elections. Seen from behind and slightly to the side, a dozen men in white shirts and veshti sit around a long wooden table covered with papers, a few mobile phones and steel tumblers of water. Behind them hang the red and white flags of the AIADMK tied to a bamboo pole, and a plain white wall with a ceiling fan turning above. Several party workers stand near the doorway, some with folded hands, others gesturing as they talk. The room is lit by tube lights and light from an open window showing a bright daytime sky and a glimpse of a neighbouring building in Edappadi. The atmosphere is serious and tense. Camera at eye level, 35 mm lens, wide enough to show the whole room and the people's backs. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up of a meeting table in a Salem district party office in Edappadi town: stacked sheets of paper with a pen resting on them, a folded party flag in red and white, and a steel tumbler of water beside a few cell phones. In the soft background, the blurred shapes of seated men in white shirts and veshti, seen from behind, reflect the negotiation mood. Natural daylight from a window falls across the papers, showing the serious business of planning the by-election strategy. Camera slightly high, 35 mm, shallow focus on the table objects. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://tamil.oneindia.com/news/chennai/edappadi-palaniswami-moves-to-reconcile-aiadmk-rebels-ahead-of-tamil-nadu-bypolls-846575.html",
-   "published": "2026-11-19T13:32:46+05:30",
-   "verification": "DRAFT (gemini/gemini-3-flash-preview + proofread groq/qwen/qwen3.8-27b) - NOT CLEAN, held from posting - problems: caption misses facts of the article (put every one in 📰 முழு விவரம்): 47 ('47 எம்எல்ஏக்களில் கிட்டத்தட்ட 25 எம்எல்ஏக்கள் எடப்பாடிக்கு எ'); 25 ('47 எம்எல்ஏக்களில் கிட்டத்தட்ட 25 எம்எல்ஏக்கள் எடப்பாடிக்கு எ')",
-   "note": "free-model draft gemini/gemini-3-flash-preview + proofread groq/qwen/qwen3.8-27b, 1 attempt(s), 1 validator problem(s)",
-   "post_time": "right after your reply, same day",
-   "_area": "N",
-   "_score": 999,
-   "images": [
-    "https://res.cloudinary.com/jrmwajfz/image/upload/v1795078463/salem360/td6dt4lwnzdhovwu4a41.jpg",
-    "https://res.cloudinary.com/jrmwajfz/image/upload/v1795078468/salem360/grfvskhkuc06ytgb1uew.jpg"
-   ]
-  },
-  {
-   "tamil_headline": "பழநி பஞ்சாமிர்தத்திற்கு சேலம் தேன்வாழை: மீண்டும் கொள்முதல் தொடக்கம் - விவசாயிகள் மகிழ்ச்சி",
-   "english_headline": "Palani Panchamirtham procurement of Salem Thenvazhai bananas resumes; farmers happy with better prices",
-   "category": "Weather & Agriculture",
-   "location": "வாழப்பாடி, Valapady and Eastern Salem district",
-   "importance": "Medium",
-   "scope": "district",
-   "post_to": "Salem 360",
-   "slides_spec": {
-    "v": 3,
-    "cat": "விவசாயம்",
-    "loc": "வாழப்பாடி, சேலம்",
-    "hl1": "பழநி பஞ்சாமிர்தத்திற்கு சேலம் தேன்வாழை",
-    "hl2": "மீண்டும் கொள்முதல் தொடக்கம்",
-    "slides": [
-     {
-      "title": "மீண்டும் கொள்முதல்",
-      "lines": [
-       "பழநி பஞ்சாமிர்தம் தயாரிக்கத் <b>தேன்வாழை</b> கொள்முதல்",
-       "வாழப்பாடி தனியார் சந்தை மூலம் மீண்டும் தொடக்கம்",
-       "கடந்த <b>2 ஆண்டுகளாக</b> குறைந்திருந்த கொள்முதல்"
-      ]
-     },
-     {
-      "title": "எந்தப் பகுதிகள்?",
-      "lines": [
-       "வாழப்பாடி, ஆத்தூர், தலைவாசல், ஏத்தாப்பூர்",
-       "பெத்தநாயக்கன்பாளையம், நரசிங்கபுரம்",
-       "நாமக்கல் மாவட்ட எல்லைக் கிராமங்கள்"
-      ]
-     },
-     {
-      "title": "விவசாயிகள்",
-      "lines": [
-       "மற்ற ரகங்களை விடத் தேன்வாழைக்கு <b>கூடுதல் விலை</b>",
-       "நவீன நீர் மேலாண்மை மூலம் சாகுபடி",
-       "பல்வேறு பகுதி வியாபாரிகள் கொள்முதல்"
-      ]
-     }
-    ],
-    "carousel": false
-   },
-   "reel_script": "பழநி முருகன் கோயில் பஞ்சாமிர்தம் தயாரிப்பதற்காக சேலம் மாவட்டத் தேன்வாழைகள் மீண்டும் கொள்முதல் செய்யப்படுகின்றன. சேலம் மாவட்டத்தின் கிழக்குப் பகுதிகளான வாழப்பாடி, ஆத்தூர், தலைவாசல், பெத்தநாயக்கன்பாளையம் மற்றும் அயோத்தியாப்பட்டணம் பகுதிகளில் வாழை சாகுபடி அதிகளவில் நடைபெறுகிறது. இங்கு விளையும் தேன்வாழை ரகத்தைப் பழநி கோயில் நிர்வாகமும் தனியார் நிறுவனங்களும் கடந்த 10 ஆண்டுகளாகக் கொள்முதல் செய்து வந்தன. ஆனால் கடந்த 2 ஆண்டுகளாகக் கொள்முதல் குறைந்ததால் தேன்வாழையின் விலை வீழ்ச்சியடைந்தது. தற்போது வாழப்பாடியில் உள்ள தனியார் சந்தை மூலம் முகவர்கள் மீண்டும் தேன்வாழையைக் கொள்முதல் செய்யத் தொடங்கியுள்ளனர். இதனால் மற்ற ரக வாழைகளை விடத் தேன்வாழைக்கு இப்போது கூடுதல் விலை கிடைத்து வருகிறது. வறட்சியிலும் நவீன நீர் மேலாண்மை மூலம் சாகுபடி செய்துள்ள விவசாயிகள் இதனால் மகிழ்ச்சி அடைந்துள்ளனர். நாமக்கல் எல்லைக் கிராமங்களிலும் இந்தத் தேன்வாழை அதிகளவில் விளைவிக்கப்படுகிறது. பல்வேறு பகுதிகளைச் சேர்ந்த வியாபாரிகள் வாழப்பாடி சந்தைக்கு வந்து வாழைத்தார்களைக் கொள்முதல் செய்கின்றனர். மேலும் செய்திகளுக்கு சேலம் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🍌 பழநி பஞ்சாமிர்தத்திற்கு சேலம் தேன்வாழை: மீண்டும் கொள்முதல் தொடக்கம் - விவசாயிகள் மகிழ்ச்சி\n\n📰 முழு விவரம்:\nசேலம் மாவட்டத்தின் கிழக்குப் பகுதிகளான வாழப்பாடி, அயோத்தியாப்பட்டணம், பேளூர், ஏத்தாப்பூர், பெத்தநாயக்கன்பாளையம், நரசிங்கபுரம், ஆத்தூர், தலைவாசல் மற்றும் நாமக்கல் எல்லைக் கிராமங்களில் தேன்வாழை சாகுபடி அதிகளவில் நடைபெறுகிறது. பழநி முருகன் கோயில் பஞ்சாமிர்தம் தயாரிப்பதற்காக, கடந்த 10 ஆண்டுகளாக இங்கிருந்து தேன்வாழை கொள்முதல் செய்யப்பட்டு வந்தது. கடந்த 2 ஆண்டுகளாகக் கொள்முதல் குறைந்ததால் விலை வீழ்ச்சியடைந்த நிலையில், தற்போது வாழப்பாடி தனியார் சந்தை மூலம் முகவர்கள் மீண்டும் கொள்முதலைத் தொடங்கியுள்ளனர். இதனால் மற்ற ரகங்களை விடத் தேன்வாழைக்குக் கூடுதல் விலை கிடைப்பதால் விவசாயிகள் மகிழ்ச்சி அடைந்துள்ளனர். பல்வேறு பகுதிகளைச் சேர்ந்த வியாபாரிகள் இச்சந்தையில் வாழைத்தார்களைக் கொள்முதல் செய்கின்றனர்.\n\n📍 இடம்: வாழப்பாடி, ஆத்தூர், தலைவாசல், பெத்தநாயக்கன்பாளையம் மற்றும் சுற்றுவட்டாரக் கிராமங்கள்.\nℹ️ மக்கள் கவனத்திற்கு: வறட்சியிலும் நவீன நீர் மேலாண்மை முறைகளைக் கையாண்டு விவசாயிகள் தேன்வாழை சாகுபடியில் ஈடுபட்டு வருகின்றனர்.\n\nSalem Thenvazhai banana procurement for Palani Panchamirtham | Salem news\n📍 வாழப்பாடி, சேலம் | 19 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Salem360 #Salem #Valapady #Agriculture #சேலம்",
-   "prompts": "Farmers in a green banana plantation in the eastern Salem countryside of Valapady stand among tall banana plants bearing heavy bunches of ripe yellow-green Thenvazhai bananas, some farmers cutting bunches with a sickle and loading them into a tractor trailer. The plantation lies on a dry, sandy-brown field with drip irrigation pipes and a borewell pump housing visible at the edge, with low hills faintly visible in the background. Three or four men in shirts with veshti and women in cotton sarees work between the rows, seen from behind or from a distance, with some bunches already stacked on the ground. The scene is bright daylight under a clear sky, showing the drought-stricken but productive farmland. Shot at eye level, 35 mm lens, wide enough to show the plantation rows and the workers. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up of a pile of freshly harvested Thenvazhai banana bunches, golden-yellow and firm, stacked in a rough heap on the floor of a busy open vegetable market in Valapady, with a few loose bananas and green leaves scattered around. Behind the pile, the blurred figures of traders in shirts and veshti, seen from behind, inspect and bargain over bunches, and sacks and plastic crates lie stacked on the ground. Bright daylight falls from above the open market shed, with a dusty concrete floor under the bananas. Shot slightly high at about 45 degrees, 35 mm lens, focused on the bananas with the market activity softly blurred behind. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamani.com/all-editions/edition-dharmapuri/salem/2026/Nov/19/bananas-procured-to-prepare-palani-panchamritham-farmers-of-salem-district-east-are-happy",
-   "published": "2026-11-19T01:40:27.596Z",
-   "verification": "DRAFT (gemini/gemini-3-flash-preview) - NOT CLEAN, held from posting - problems: caption misses facts of the article (put every one in 📰 முழு விவரம்): தம்மம்பட்டி ('சேலம் மாவட்டத்தின் கிழக்குப் பகுதி கிராமங்களில் வறட்சியிலும்')",
-   "note": "free-model draft gemini/gemini-3-flash-preview, 3 attempt(s), 1 validator problem(s)",
-   "post_time": "right after your reply, same day",
-   "_area": "N",
-   "_score": 999,
-   "images": [
-    "https://res.cloudinary.com/jrmwajfz/image/upload/v1795078477/salem360/ru86s4h01q6fttly745b.jpg",
-    "https://res.cloudinary.com/jrmwajfz/image/upload/v1795078482/salem360/wadpoidvyls5mcvfytn9.jpg"
-   ]
-  },
-  {
-   "tamil_headline": "ஏற்காட்டில் கலெக்டர் இளம் பகவத் ஆய்வு: தாவரவியல் பூங்கா, மருத்துவமனை உட்பட இடங்களில் வசதிகள் குறித்து கேட்டறிந்தார்",
-   "english_headline": "Collector Ilam Bhagavath inspects Yercaud botanical garden, eco-tourism park, horticulture station and government hospital; checks facilities and asks officials about needed changes",
-   "category": "Government & Services",
-   "location": "Yercaud, Salem district",
-   "importance": "Medium",
-   "scope": "local",
-   "post_to": "Salem 360",
-   "slides_spec": {
-    "v": 3,
-    "cat": "அரசு ஆய்வு",
-    "loc": "ஏற்காடு",
-    "hl1": "ஏற்காட்டில் கலெக்டர் ஆய்வு",
-    "hl2": "பூங்கா, மருத்துவமனையில்",
+    "cat": "அரசியல் செய்தி",
+    "loc": "கொளத்தூர், சென்னை",
+    "hl1": "கொளத்தூர் எம்எல்ஏ வி.எஸ். பாபு காலமானார்",
+    "hl2": "இடைத்தேர்தல் நடத்தப்பட",
     "slides": [
      {
       "title": "என்ன நடந்தது?",
       "lines": [
-       "'உங்களை தேடி உங்கள் ஊரில்' திட்டத்தில் ஆய்வு",
-       "ஏற்காட்டில் அனைத்து துறை அரசு அதிகாரிகள் நேற்று ஆய்வு",
-       "கலெக்டர் <b>இளம் பகவத்</b> தனியாக ஆய்வு மேற்கொண்டார்"
+       "கொளத்தூர் எம்எல்ஏ வி.எஸ். பாபு உடல்நலக்குறைவால் காலமானார்",
+       "செப்டம்பர் முதல் சென்னை அமைந்தகரை மருத்துவமனையில் சிகிச்சை",
+       "சுமார் <b>2 மாதங்களுக்கு</b> மேல் சிகிச்சை பெற்று வந்தார்"
       ]
      },
      {
-      "title": "எந்த இடங்கள்?",
+      "title": "அவர் யார்?",
       "lines": [
-       "அரசு தாவரவியல் பூங்கா",
-       "சூழல் சுற்றுலா பூங்கா",
-       "அரசு தோட்டக்கலை ஆராய்ச்சி நிலையம்"
+       "1951ம் ஆண்டு பிறந்தார்",
+       "தி.மு.க.வில் வடசென்னை மாவட்டச் செயலாளராகப் பணியாற்றினார்",
+       "2016ல் அ.தி.மு.க.வில் இணைந்தார்"
       ]
      },
      {
-      "title": "அதிகாரிகளிடம்",
+      "title": "அடுத்து என்ன?",
       "lines": [
-       "அங்குள்ள வசதிகள் குறித்து கேட்டறிந்தார்",
-       "செய்ய வேண்டிய மாற்றங்கள் குறித்தும் கேட்டறிந்தார்"
+       "2026 பிப்ரவரி 7ல் தமிழக வெற்றிக் கழகத்தில் இணைந்தார்",
+       "2026 தேர்தலில் கொளத்தூர் தொகுதியில் <b>82,997</b> வாக்குகள்",
+       "தொகுதி காலியானதாக அறிவிக்கப்பட்டு இடைத்தேர்தல் நடத்தப்பட"
       ]
      }
     ],
     "carousel": false
    },
-   "reel_script": "ஏற்காட்டில் கலெக்டர் இளம் பகவத் பூங்காக்கள், தோட்டக்கலை ஆராய்ச்சி நிலையம், அரசு மருத்துவமனை ஆகிய இடங்களில் ஆய்வு செய்தார். 'உங்களை தேடி உங்கள் ஊரில்' திட்டத்தின் கீழ் ஏற்காட்டில் அனைத்துத் துறை அரசு அதிகாரிகள் நேற்று ஆய்வு செய்தனர். இதைத் தொடர்ந்து கலெக்டர் இளம் பகவத் தனியாக ஆய்வு மேற்கொண்டார். அவர் அரசு தாவரவியல் பூங்கா, சூழல் சுற்றுலா பூங்கா, அரசு தோட்டக்கலை ஆராய்ச்சி நிலையம், ஏற்காடு அரசு மருத்துவமனை ஆகிய இடங்களைப் பார்வையிட்டார். அங்குள்ள வசதிகள் குறித்தும், செய்ய வேண்டிய மாற்றங்கள் குறித்தும் அதிகாரிகளிடம் கேட்டறிந்தார். மேலும் செய்திகளுக்கு சேலம் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🏛️ ஏற்காட்டில் கலெக்டர் இளம் பகவத் ஆய்வு: பூங்காக்கள், மருத்துவமனையில் வசதிகள் குறித்து கேட்டறிந்தார்\n\n📰 முழு விவரம்:\n'உங்களை தேடி உங்கள் ஊரில்' திட்டத்தின் கீழ் ஏற்காட்டில் அனைத்துத் துறை அரசு அதிகாரிகள் நேற்று ஆய்வு செய்தனர்.\nதொடர்ந்து கலெக்டர் இளம் பகவத் ஆய்வு மேற்கொண்டார். அரசு தாவரவியல் பூங்கா, சூழல் சுற்றுலா பூங்கா, அரசு தோட்டக்கலை ஆராய்ச்சி நிலையம், ஏற்காடு அரசு மருத்துவமனை ஆகிய இடங்களைப் பார்வையிட்டார்.\nஅங்குள்ள வசதிகள், செய்ய வேண்டிய மாற்றங்கள் குறித்து அதிகாரிகளிடம் கேட்டறிந்தார்.\n\nCollector inspects Yercaud parks and hospital | Salem news\n📍 ஏற்காடு, சேலம் மாவட்டம்\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Salem360 #Salem #Yercaud #SalemNews #சேலம்",
-   "prompts": "A district collector in a formal shirt walks through the government botanical garden at Yercaud, pausing with a group of government officials from different departments as they inspect the flower beds and tree-lined paths. The setting is a hill-station garden in Yercaud, Salem district, with neatly trimmed lawns, rows of flowering plants, tall shade trees and the green Shevaroy hills rising in the background. Officials in shirts and trousers, some carrying files, stand in a loose group, seen from behind and at a distance, while one man gestures towards a flower bed as if pointing out changes needed. The light is soft daylight under a clear sky with a gentle mountain breeze moving the leaves. The camera is at eye level, 35 mm, wide enough to show the garden paths, the greenery and the hills, with the people small in the frame and no readable signs. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up of a neatly kept flower bed and green garden path at the Yercaud government horticulture station, with potted saplings in rows, freshly watered soil and a low stone edging along the walkway. In the soft background, a few officials in shirts stand together in discussion, seen from behind and slightly blurred, as though checking the plants and facilities. Trees and mist-touched green hills fill the far background. The light is gentle morning daylight, the air cool and fresh. The camera is slightly high, 35 mm, focused on the plants and pathway so the garden care and inspection feel central, with no readable text or signboards visible. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-salem/collectors-inspection/4380197",
-   "published": "2026-11-19T01:36:00+05:30",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: sentence 1 (one-line story) has 14 words; make it 6-9 words (about 2-3 seconds), the details follow in the next sentences",
-   "note": "free-model draft anthropic/claude-haiku-5-5, 12 attempt(s), 1 validator problem(s)",
+   "reel_script": "கொளத்தூர் எம்எல்ஏ வி எஸ் பாபு உடல்நலக்குறைவால் காலமானார். செப்டம்பர் மாதம் முதல் சென்னை அமைந்தகரை மருத்துவமனையில் அவர் தீவிர சிகிச்சையில் இருந்தார். சுமார் 2 மாதங்களுக்கும் மேலாக சிகிச்சை பெற்று வந்த நிலையில், சிகிச்சை பலனின்றி அவர் உயிரிழந்தார். 1951ம் ஆண்டு சென்னை வடசென்னைப் பகுதியில் பிறந்த வி எஸ் பாபு, இளம் வயதிலேயே அரசியலில் ஈடுபட்டார். தி மு க வில் வடசென்னை மாவட்டச் செயலாளராகப் பணியாற்றினார். 2006ல் புரசைவாக்கம் தொகுதியில் வெற்றி பெற்று சட்டமன்ற உறுப்பினரானார். பின்னர் கட்சித் தலைமையால் நீக்கப்பட்டார். 2016ல் அ தி மு க வில் இணைந்தார். 2026 பிப்ரவரி 7ல் தமிழக வெற்றிக் கழகத்தில் சேர்ந்தார். 2026 தேர்தலில் கொளத்தூர் தொகுதியில் 82,997 வாக்குகள் பெற்று, மு க ஸ்டாலினை விட 8,795 வாக்குகள் கூடுதலாகப் பெற்று வெற்றி பெற்றார். 2026 மே மாதம் பதவியேற்ற அவர், நான்கு மாதங்களிலேயே உடல்நலக்குறைவால் மருத்துவமனையில் அனுமதிக்கப்பட்டார். அவரது மறைவைத் தொடர்ந்து கொளத்தூர் தொகுதி காலியானதாக விரைவில் அறிவிக்கப்பட்டு, இடைத்தேர்தல் நடத்தப்பட உள்ளது. மேலும் செய்திகளுக்கு சேலம் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🚨 கொளத்தூர் எம்எல்ஏ வி.எஸ். பாபு காலமானார் - இடைத்தேர்தல் வருகிறது\n\n📰 முழு விவரம்:\nகொளத்தூர் சட்டமன்றத் தொகுதி தமிழக வெற்றிக் கழக உறுப்பினர் வி.எஸ். பாபு உடல்நலக்குறைவால் காலமானார். செப்டம்பர் மாதம் முதல் சென்னை அமைந்தகரையில் உள்ள தனியார் மருத்துவமனையில் தீவிர சிகிச்சை பெற்று வந்தார். சிகிச்சை பலனின்றி அவரது உயிர் பிரிந்தது.\nவி.எஸ். பாபு 1951ம் ஆண்டு வி. சுந்தரம்பிள்ளைக்கு மகனாகப் பிறந்தார். சென்னை வில்லிவாக்கத்தில் உள்ள சிங்காரப்பிள்ளை மேல்நிலைப் பள்ளியில் 8ம் வகுப்பு வரை படித்தார். அயனாவரம், ஐ.சி.எஃப், புரசைவாக்கம், ஜமாலியா பகுதிகளில் அரசியல் செய்ததால் புரசை பாபு என்று அழைக்கப்பட்டார்.\nதி.மு.க.வில் வடசென்னை மாவட்டச் செயலாளராகப் பணியாற்றிய அவர், 2006ல் புரசைவாக்கம் தொகுதியில் வெற்றி பெற்றார். 2011ல் அவர் மீது அதிக வட்டி வசூல், சொத்து அபகரிப்பு புகார்கள் எழுந்தன. சில வழக்குகளில் கைது செய்யப்பட்டார். பின்னர் கட்சியிலிருந்து நீக்கப்பட்டார். 2016ல் அ.தி.மு.க.வில் இணைந்தார்.\n2026 பிப்ரவரி 7ல் விஜய் முன்னிலையில் தமிழக வெற்றிக் கழகத்தில் இணைந்தார். 2026 தேர்தலில் கொளத்தூர் தொகுதியில் 82,997 வாக்குகள் பெற்று, மு.க. ஸ்டாலினை விட 8,795 வாக்குகள் கூடுதலாகப் பெற்று வெற்றி பெற்றார். 2026 மே மாதம் பதவியேற்றார்.\nஅவரது நீண்டகால சிகிச்சையால் தொகுதிப் பணிகள் முடங்கியதாகக் கூறி, அதிகாரப்பூர்வ விளக்கம் கோரி ஒரு வாக்காளர் சென்னை உயர்நீதிமன்றத்தில் மனு தாக்கல் செய்திருந்தார். அவரது மறைவைத் தொடர்ந்து கொளத்தூர் தொகுதி காலியானதாக விரைவில் அறிவிக்கப்பட்டு இடைத்தேர்தல் நடத்தப்பட உள்ளது.\n\nKolathur MLA VS Babu passes away | Chennai news\n📍 கொளத்தூர், சென்னை | 19 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Salem360 #Salem #SalemNews #சேலம்",
+   "prompts": "A group of Chennai voters and party workers stand quietly outside a Kolathur constituency office on a busy Chennai street, seen from behind, as a government notice board is pinned to the wall beside them. Kolathur is a dense residential and commercial area of north-west Chennai with two-wheelers parked along the road, an autorickshaw passing and a government office building with a flat concrete facade. The people are men in plain shirts and trousers and women in cotton sarees, standing in a loose cluster, some with folded hands in respect, one holding a sheet of paper. The notice board holds an official election document under a glass cover, and a few two-wheelers and a TNSTC town bus are visible at the edge of the road. It is bright daylight with a clear sky and soft shadows on the pavement. Shot at eye level on a 35 mm lens, wide enough to show the street, the office front and the group of people. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up of an official election notice pinned on a wooden board inside a government office in Chennai, showing a neatly typed document, a stamped office seal area and a row of folded papers beside it. On a nearby table, a pair of black-rimmed spectacles and a steel tumbler of water rest on a government file cover in a quiet room. The background is slightly out of focus, with a tube light overhead and a distant doorway where a person in a white shirt stands seen from behind. The light is soft indoor daylight from a window, with a calm, sombre mood. Shot close up at eye level on a 35 mm lens, focusing on the notice and the papers. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://tamil.oneindia.com/news/chennai/who-is-kolathur-tvk-mla-v-s-babu-political-career-controversies-and-complete-biography-846615.html",
+   "published": "2026-11-19T15:36:10+05:30",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: reel_script must tell how the story ENDED, as the article's last lines say ('யாரிந்த கொளத்தூர் வி.எஸ் பாபு?') - say what finally happened (complaint, action promised, released, arrested, case filed, how long it lasted); never write that details are unknown; caption misses facts of the article (put every one in 📰 முழு விவரம்): 9 ('கடந்த செப்டம்பர் மாதம் முதல் சென்னை அமைந்தகரையில் உள்ள தனியா')",
+   "note": "free-model draft anthropic/claude-haiku-5-5, 13 attempt(s), 2 validator problem(s)",
    "post_time": "right after your reply, same day",
    "_area": "N",
    "_score": 999,
    "images": [
-    "https://res.cloudinary.com/jrmwajfz/image/upload/v1795078488/salem360/lqialpb8x8gezgxaiwia.jpg",
-    "https://res.cloudinary.com/jrmwajfz/image/upload/v1795078492/salem360/yrs3kz2b8eyldcnoyt1y.jpg"
+    "https://res.cloudinary.com/jrmwajfz/image/upload/v1795093911/salem360/iqw2dw0jqdp3xaufbkub.jpg",
+    "https://res.cloudinary.com/jrmwajfz/image/upload/v1795093914/salem360/gmhcgzze88qcc3ilmh4d.jpg"
+   ]
+  },
+  {
+   "tamil_headline": "சேலம் வழியாக எர்ணாகுளம் – பாட்னா சிறப்பு ரயில் டிசம்பர் 11 வரை நீட்டிப்பு",
+   "english_headline": "Ernakulam–Patna special weekly train extended till 11 Dec; return train extended till 15 Dec, via Salem",
+   "category": "Roads & Transport",
+   "location": "Salem, Salem district",
+   "importance": "Medium",
+   "scope": "district",
+   "post_to": "Salem 360",
+   "slides_spec": {
+    "v": 3,
+    "cat": "ரயில் நீட்டிப்பு",
+    "loc": "சேலம்",
+    "hl1": "சேலம்: சிறப்பு ரயில் நீட்டிப்பு",
+    "hl2": "டிச. 11 வரை நீட்டிப்பு",
+    "slides": [
+     {
+      "title": "எந்த ரயில்?",
+      "lines": [
+       "எர்ணாகுளம் – பாட்னா சிறப்பு வார ரயில்",
+       "வெள்ளிதோறும் இரவு <b>9:30</b> மணிக்கு எர்ணாகுளத்தில் புறப்படும்",
+       "சேலம் வழியாகச் செல்லும்"
+      ]
+     },
+     {
+      "title": "எவ்வளவு நாள்?",
+      "lines": [
+       "இந்த ரயில் <b>டிசம்பர் 11</b> வரை நீட்டிக்கப்பட்டுள்ளது",
+       "திங்கள் அதிகாலை <b>3:30</b> மணிக்கு பாட்னாவை அடையும்",
+       "மறுமார்க்க ரயிலும் நீட்டிக்கப்பட்டுள்ளது"
+      ]
+     },
+     {
+      "title": "மறுமார்க்க ரயில்",
+      "lines": [
+       "செவ்வாய்தோறும் நள்ளிரவு <b>12:10</b> மணிக்கு பாட்னாவில் புறப்படும்",
+       "வியாழன் காலை <b>10:45</b> மணிக்கு எர்ணாகுளத்தை அடையும்",
+       "இந்த ரயில் <b>டிசம்பர் 15</b> வரை நீட்டிப்பு"
+      ]
+     },
+     {
+      "title": "அறிவிப்பு",
+      "lines": [
+       "சேலம் ரயில்வே கோட்ட நிர்வாகம் அறிவித்துள்ளது",
+       "பயணத்தைத் திட்டமிடும் முன் நேரத்தை உறுதி செய்யுங்கள்"
+      ]
+     }
+    ],
+    "carousel": false
+   },
+   "reel_script": "சேலம் வழியாகச் செல்லும் எர்ணாகுளம் – பாட்னா சிறப்பு ரயில் டிசம்பர் 11 வரை நீட்டிக்கப்பட்டுள்ளது. இந்த வார ரயில் வெள்ளிக்கிழமைதோறும் இரவு 9:30 மணிக்கு எர்ணாகுளத்தில் புறப்படும். ஆலுவா, திருச்சூர், பாலக்காடு, போத்தனூர், திருப்பூர், ஈரோடு, சேலம், ஜோலார்பேட்டை, காட்பாடி, பெரம்பூர், விஜயவாடா, ராஜமுந்திரி, புவனேஸ்வர், கரக்பூர் வழியாகச் செல்லும். திங்கள் அதிகாலை 3:30 மணிக்கு பாட்னாவை அடையும். மறுமார்க்க ரயில் செவ்வாய்க்கிழமைதோறும் நள்ளிரவு 12:10 மணிக்கு பாட்னாவில் புறப்படும். வியாழக்கிழமை காலை 10:45 மணிக்கு எர்ணாகுளத்தை அடையும். இந்த ரயில் டிசம்பர் 15 வரை நீட்டிக்கப்பட்டுள்ளதாக சேலம் ரயில்வே கோட்ட நிர்வாகம் அறிவித்துள்ளது. பயணத்தைத் திட்டமிடுவோர் நேரத்தை உறுதி செய்துகொள்ளுங்கள். மேலும் செய்திகளுக்கு சேலம் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🚆 சேலம் வழியாக எர்ணாகுளம் – பாட்னா சிறப்பு ரயில் டிசம்பர் 11 வரை நீட்டிப்பு\n\n📰 முழு விவரம்:\nஎர்ணாகுளம் – பாட்னா சிறப்பு வார ரயில் வெள்ளிதோறும் இரவு 9:30 மணிக்கு எர்ணாகுளத்தில் புறப்பட்டு, சேலம் வழியாகச் செல்கிறது. இந்த ரயில் டிசம்பர் 11 வரை நீட்டிக்கப்பட்டுள்ளது. திங்கள் அதிகாலை 3:30 மணிக்கு பாட்னாவை அடையும்.\nமறுமார்க்க ரயில் செவ்வாய்தோறும் நள்ளிரவு 12:10 மணிக்கு பாட்னாவில் புறப்பட்டு, வியாழன் காலை 10:45 மணிக்கு எர்ணாகுளத்தை அடையும். இந்த ரயில் டிசம்பர் 15 வரை நீட்டிக்கப்பட்டுள்ளது.\nஇந்த அறிவிப்பை சேலம் ரயில்வே கோட்ட நிர்வாகம் வெளியிட்டுள்ளது.\n\n📍 இடம்: சேலம், ஆலுவா, திருச்சூர், பாலக்காடு, போத்தனூர், திருப்பூர், ஈரோடு, ஜோலார்பேட்டை, காட்பாடி, பெரம்பூர், விஜயவாடா, ராஜமுந்திரி, புவனேஸ்வர், கரக்பூர்\n🗓️ நாள்: வெள்ளிதோறும் புறப்பாடு; மறுமார்க்கம் செவ்வாய்தோறும்\n🕘 நேரம்: எர்ணாகுளம் புறப்பாடு இரவு 9:30; பாட்னா புறப்பாடு நள்ளிரவு 12:10\nℹ️ மக்கள் கவனத்திற்கு: பயணத்தைத் திட்டமிடும் முன் நேரத்தை உறுதி செய்துகொள்ளுங்கள்.\n\nErnakulam Patna special train extended till Dec 11 via Salem | Salem news\n📍 சேலம், சேலம் மாவட்டம் | 19 நவம்பர் 2026\n\nதேவைப்படுவோருக்கு Share செய்யுங்கள்\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Salem360 #Salem #SalemNews #சேலம்",
+   "prompts": "A long passenger train with several coaches stands at a platform of Salem Junction railway station in Salem city, Tamil Nadu, as its doors open and passengers with luggage board. The platform is busy with railway staff in uniform and travellers carrying bags and trolleys, seen from behind and at a distance. Behind the platform, steel railway tracks run beside an overhead electric wire and a concrete station building with a plain roof. The scene is set in daylight with a clear sky, with the distant green hills of Yercaud faintly visible on the horizon. Taken at eye level with a 35 mm lens, wide enough to show the full length of the train, the platform and the tracks, with no readable signboards or text. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up of steel railway tracks running along a ballast bed at Salem railway station, with the wheels and bogie of a passenger coach just visible at the edge of the frame. The rails gleam in daylight, and wooden sleepers and grey stones fill the foreground. Beyond the track, a railway signal post and an overhead electric wire stretch into the distance. No people are in close focus; a railway worker in uniform may be seen far away and slightly blurred. The lighting is clear daytime sun, and the camera sits low at track level with a 35 mm lens, emphasising the line that the extended train will run on. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamalar.com/news/tamil-nadu-news/ernakulam-patna-special-train-neet-tipu/4380549",
+   "published": "2026-11-19T17:52:29+05:30",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: sentence 1 (one-line story) has 12 words; make it 6-9 words (about 2-3 seconds), the details follow in the next sentences",
+   "note": "free-model draft anthropic/claude-haiku-5-5, 13 attempt(s), 1 validator problem(s)",
+   "post_time": "right after your reply, same day",
+   "_area": "N",
+   "_score": 999,
+   "images": [
+    "https://res.cloudinary.com/jrmwajfz/image/upload/v1795093950/salem360/ozfdhguuvxppg0lf7wvl.jpg",
+    "https://res.cloudinary.com/jrmwajfz/image/upload/v1795093954/salem360/xzchgwywf0cl9hiaja8v.jpg"
+   ]
+  },
+  {
+   "tamil_headline": "70 நாட்களாக மர்மம்: கொளத்தூர் எம்.எல்.ஏ. வி.எஸ். பாபு மாரடைப்பால் காலமானார்",
+   "english_headline": "Kolathur MLA V.S. Babu dies of heart attack after 70 days of silence on his health; announced a day after a PIL was filed in Madras High Court",
+   "category": "Government & Services",
+   "location": "Kolathur constituency, Chennai",
+   "importance": "High",
+   "scope": "local",
+   "post_to": "Salem 360",
+   "slides_spec": {
+    "v": 3,
+    "cat": "அரசியல் செய்தி",
+    "loc": "கொளத்தூர், சென்னை",
+    "hl1": "கொளத்தூர் எம்.எல்.ஏ. பாபு காலமானார்",
+    "hl2": "70 நாள் மர்மத்துக்குப் பின்",
+    "slides": [
+     {
+      "title": "என்ன நடந்தது?",
+      "lines": [
+       "கொளத்தூர் தொகுதி எம்.எல்.ஏ. வி.எஸ். பாபு காலமானார்",
+       "இன்று பிற்பகல் <b>2.24 மணிக்கு</b> மாரடைப்பு ஏற்பட்டது",
+       "அவருக்கு வயது <b>75</b>"
+      ]
+     },
+     {
+      "title": "70 நாள் மௌனம்",
+      "lines": [
+       "செப்டம்பர் 9 நள்ளிரவு அமைந்தகரை மருத்துவமனையில் அனுமதி",
+       "இரண்டு மாதங்களாக எந்த அதிகாரப்பூர்வ அறிக்கையும் இல்லை",
+       "நவம்பர் 23 வரை நிலை குறித்து கேள்விகள் தொடர்ந்தன"
+      ]
+     },
+     {
+      "title": "நீதிமன்ற வழக்கு",
+      "lines": [
+       "ஜி. தேவராஜன் உயர்நீதிமன்றத்தில் பொதுநல மனு தாக்கல்",
+       "தகவல் கேட்டு நவம்பர் 5, 12 தேதிகளில் மனு அளித்தார்",
+       "வழக்கு தாக்கல் செய்த மறுநாளே மரண அறிவிப்பு"
+      ]
+     },
+     {
+      "title": "அடுத்து என்ன?",
+      "lines": [
+       "கொளத்தூர் தொகுதி காலியானது",
+       "இடைத்தேர்தல் குறித்து விவாதம் தொடங்கியுள்ளது",
+       "அரசியல் வட்டாரத்தில் பெரும் விவாதம்"
+      ]
+     }
+    ],
+    "carousel": false
+   },
+   "reel_script": "கொளத்தூர் சட்டமன்ற உறுப்பினர் வி எஸ் பாபு இன்று பிற்பகல் 2 மணி 24 நிமிடத்துக்கு மாரடைப்பால் காலமானார். அவருக்கு வயது 75. சென்னை கொளத்தூர் சட்டமன்றத் தொகுதியின் தமிழக வெற்றிக் கழக உறுப்பினராக அவர் இருந்தார். செப்டம்பர் 9ஆம் தேதி நள்ளிரவில் கடுமையான மூச்சுத்திணறல் காரணமாக சென்னை அமைந்தகரையில் உள்ள எம்ஜிஎம் ஹெல்த்கேர் மருத்துவமனையில் அவர் அனுமதிக்கப்பட்டார். அதன் பிறகு சுமார் 70 நாட்களாக அவரது உடல்நிலை குறித்து எந்த அதிகாரப்பூர்வ அறிவிப்பும் வெளியிடப்படவில்லை. செப்டம்பர் 23ஆம் தேதி முதலமைச்சர் விஜய் மருத்துவமனைக்குச் சென்று அவரைப் பார்த்தார். இந்நிலையில் கொளத்தூர் தொகுதியைச் சேர்ந்த ஜி. தேவராஜன் நவம்பர் 5, 12 தேதிகளில் சுகாதாரத்துறை செயலாளர், சென்னை மாவட்ட ஆட்சியர் மற்றும் காவல்துறை இயக்குநரிடம் மனு அளித்தார். பதில் வராததால் நேற்று சென்னை உயர்நீதிமன்றத்தில் பொதுநல மனு தாக்கல் செய்தார். அந்த மனு விரைவில் விசாரணைக்கு வரவிருந்த நிலையில், இன்று மருத்துவமனை நிர்வாகம் மரண அறிவிப்பை வெளியிட்டது. கொளத்தூர் தொகுதி காலியானதால் இடைத்தேர்தல் குறித்தும் விவாதம் தொடங்கியுள்ளது. மேலும் செய்திகளுக்கு சேலம் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🚨 கொளத்தூர் எம்.எல்.ஏ. வி.எஸ். பாபு மாரடைப்பால் காலமானார்\n\n📰 முழு விவரம்:\nகொளத்தூர் சட்டமன்றத் தொகுதியின் தமிழக வெற்றிக் கழக உறுப்பினர் வி.எஸ். பாபு (வயது 75) இன்று பிற்பகல் 2.24 மணிக்கு மாரடைப்பால் காலமானார். செப்டம்பர் 9ஆம் தேதி நள்ளிரவில் கடுமையான மூச்சுத்திணறல் காரணமாக சென்னை அமைந்தகரையில் உள்ள எம்ஜிஎம் ஹெல்த்கேர் மருத்துவமனையில் அனுமதிக்கப்பட்டார். செப்டம்பர் 23ஆம் தேதி முதலமைச்சர் விஜய் மருத்துவமனைக்குச் சென்று அவரைப் பார்த்தார்.\nஅதன் பிறகு சுமார் 70 நாட்களாக அவரது உடல்நிலை குறித்து மருத்துவமனை, தமிழக அரசு அல்லது ஆளுங்கட்சியான த.வெ.க. தலைமை எந்த அதிகாரப்பூர்வ அறிக்கையையும் வெளியிடவில்லை. இதனால் தொகுதி மக்களிடையேயும் சமூக வலைதளங்களிலும் பல்வேறு வதந்திகள் பரவின.\nகொளத்தூர் தொகுதியைச் சேர்ந்த ஜி. தேவராஜன் பாபுவின் உடல்நிலை குறித்து அதிகாரப்பூர்வத் தகவல் கோரி நவம்பர் 5, 12 தேதிகளில் சுகாதாரத்துறை செயலாளர், சென்னை மாவட்ட ஆட்சியர் மற்றும் காவல்துறை இயக்குநரிடம் மனு அளித்தார். பதில் வராததால் நேற்று சென்னை உயர்நீதிமன்றத்தில் பொதுநல மனு தாக்கல் செய்தார். அந்த மனுவில் எம்.எல்.ஏ.வின் நிலை குறித்து அரசு தெளிவுபடுத்த வேண்டும், தொகுதி மக்களின் குறைகளுக்கு மாற்று ஏற்பாடு செய்யப்பட்டுள்ளதா என்பதையும் தெரிவிக்க வேண்டும் என்று கோரப்பட்டது.\nமனு விரைவில் விசாரணைக்கு வரவிருந்த நிலையில், இன்று பிற்பகல் எம்ஜிஎம் மருத்துவமனை நிர்வாகம் அதிகாரப்பூர்வ அறிக்கையை வெளியிட்டு மரண அறிவிப்பைச் செய்தது. கொளத்தூர் தொகுதி காலியானதால் இடைத்தேர்தல் குறித்தும் விவாதம் எழுந்துள்ளது.\n\nKolathur MLA V.S. Babu dies after 70 days | Chennai news\n📍 கொளத்தூர், சென்னை | 19 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Salem360 #Chennai #Kolathur #SalemNews #சேலம்",
+   "prompts": "A group of Kolathur residents and party workers stand quietly outside a private hospital entrance in Chennai's Aminjikarai area in the afternoon, grieving after learning that their MLA has died of a heart attack. Seen from behind and at a distance, about a dozen people in plain shirts, trousers and sarees stand together on the hospital forecourt beside a concrete pillar, some with folded hands, others looking at a closed glass entrance. A few two-wheelers are parked at the roadside and a white ambulance stands near the gate with its doors shut. The hospital building is a multi-storey concrete structure with rows of windows, and a busy Chennai street with autorickshaws and a town bus passes behind them. The light is bright afternoon daylight with a hazy sky. Camera at eye level, 35 mm, wide enough to show the hospital facade and the crowd together. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up of a folded official medical bulletin lying on a metal table in a hospital reception area, its paper slightly curled at the edges, placed beside a stack of files. Behind the table, out of focus, a uniformed police constable in khaki and a hospital staff member in a white coat stand at a distance, seen from behind. The table surface is plain grey laminate, with a glass water bottle and a blue ballpoint pen beside the document. Soft afternoon light comes through a tall window in the background, giving the paper a warm glow. The mood is quiet and tense, suggesting an announcement just made. Camera slightly above the table, 50 mm close-up with shallow depth of field, no readable text visible on the paper. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://tamil.oneindia.com/news/chennai/kolathur-mla-v-s-babu-passes-away-after-70-days-of-silence-announcement-comes-after-court-petition-846637.html",
+   "published": "2026-11-19T16:27:51+05:30",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: sentence 1 (one-line story) has 14 words; make it 6-9 words (about 2-3 seconds), the details follow in the next sentences",
+   "note": "free-model draft anthropic/claude-haiku-5-5, 13 attempt(s), 1 validator problem(s)",
+   "post_time": "right after your reply, same day",
+   "_area": "N",
+   "_score": 999,
+   "images": [
+    "https://res.cloudinary.com/jrmwajfz/image/upload/v1795093963/salem360/rtau6dhshkzbezah7fd9.jpg",
+    "https://res.cloudinary.com/jrmwajfz/image/upload/v1795093966/salem360/lvsghp8es5cjzmfmfon9.jpg"
    ]
   }
  ]
