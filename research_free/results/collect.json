@@ -3,11 +3,11 @@
   "earlier stories still waiting for images: []",
   "instagram check: 50 recent posts read from the page",
   "pick round: only the picked links are written (research_free/pick.py)",
-  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-salem/6-member-committee-formed-to-set-up-farmersmarket/4380210",
-  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-salem/part-time-ration-shop-mla-open/4380215",
-  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-salem/medical-check-up-centre-inaugurated/4380196",
-  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-salem/town-bus-on-new-track/4380201",
-  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-salem/technical-training-on-micro-spinach-cultivation/4380214",
+  "manual link added: https://www.dinakaran.com/district/salem-19112026-01/amp",
+  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-salem/ministers-birthday-party/4380195",
+  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-salem/love-conductor-student-dum-dum-while-on-a-bus/4380200",
+  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-salem/rowdy-among-2-rescued-for-trying-to-kill-labourer/4380206",
+  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-salem/student-takes-shelter-with-mistress/4380212",
   "candidate filter: collected=5",
   "to write: 5 Salem district candidates (max 5 stories)",
   "round: top 5 of 5 candidates",
@@ -19,53 +19,37 @@
   "posting job started at once",
   "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-sale",
   "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 4})",
-  "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-sale",
+  "try (N) manual=True: https://www.dinakaran.com/district/salem-19112026-01/amp",
+  "NOT filed (N) மேஸ்திரியுடன் மாணவி தஞ்சம்: duplicate after write",
   "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 6})",
+  "addStories failed: Expecting value: line 1 column 1 (char 0)",
   "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 8})",
-  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 10})",
-  "candidate loop ended: left 0, tried={'N': 5}, done={'N': 5}, time left 77 min",
-  "filed: 5 Salem district stories (target 5), reels only",
+  "candidate loop ended: left 0, tried={'N': 5}, done={'N': 4}, time left 71 min",
+  "filed: 4 Salem district stories (target 5), reels only",
   "queue: 0 news waiting to be written",
   "All News sheet: {\"ok\":true,\"added\":5,\"updated\":0}"
  ],
  "llm": [
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
   "dead for this round: gemini/gemini-3.6-flash",
-  "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
-  "dead for this round: gemini/gemini-3.6-flash",
-  "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
-  "dead for this round: gemini/gemini-3.6-flash",
   "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
   "dead for this round: gemini/gemini-3.5-flash",
-  "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
-  "dead for this round: gemini/gemini-3.5-flash",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing ",
+  "ok gemini/gemini-3-flash-preview (12s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, plea",
   "dead for this round: gemini/gemini-3-flash-preview",
-  "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high d",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 400: {\"error\":{\"message\":\"Failed to generate JSON. Please adjust your prompt. See 'failed_gener",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
-  "ok gemini/gemini-3-flash-preview (10s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, plea",
+  "dead for this round: gemini/gemini-3-flash-preview",
   "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
-  "dead for this round: gemini/gemini-3.5-flash",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
-  "ok groq/openai/gpt-oss-120b (3s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
-  "switching away from groq/openai/gpt-oss-120b for 10 min",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 400: {\"error\":{\"message\":\"Failed to validate JSON. Please adjust your prompt. See 'failed_gener",
   "ok groq/qwen/qwen3.8-27b (4s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
@@ -73,18 +57,24 @@
   "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
   "switching away from groq/openai/gpt-oss-120b for 10 min",
   "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
-  "ok groq/openai/gpt-oss-120b (6s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
   "ok groq/qwen/qwen3.8-27b (0s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
-  "ok anthropic/claude-haiku-5-5",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
   "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
   "switching away from groq/qwen/qwen3.8-27b for 10 min",
+  "ok anthropic/claude-haiku-5-5",
+  "ok groq/qwen/qwen3.8-27b (3s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "fail gemini/gemini-3.6-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=60)",
+  "poor answer - skipped for 30 min: gemini/gemini-3.6-flash",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok anthropic/claude-haiku-5-5",
   "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
@@ -93,45 +83,45 @@
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "ok anthropic/claude-haiku-5-5",
   "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "ok anthropic/claude-haiku-5-5",
   "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "ok anthropic/claude-haiku-5-5",
   "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok anthropic/claude-haiku-5-5",
   "ok anthropic/claude-haiku-5-5",
   "ok anthropic/claude-haiku-5-5",
   "ok anthropic/claude-haiku-5-5",
@@ -143,286 +133,242 @@
  ],
  "stories": [
   {
-   "tamil_headline": "தலைவாசல் வசந்தபுரத்துக்கு புதிய டவுன் பஸ் சேவை தொடக்கம்",
-   "english_headline": "New town bus route starts into Vasanthapuram, Thalaivasal, after villagers' petition",
-   "category": "Roads & Transport",
-   "location": "Vasanthapuram, Manivizhundan panchayat, Thalaivasal, Salem district",
-   "importance": "Medium",
+   "tamil_headline": "தாரமங்கலத்தில் பஸ் கண்டக்டருடன் மாணவி திருமணம் - போலீஸ் நிலையத்தில் தஞ்சம்",
+   "english_headline": "Student marries bus conductor in Tharamangalam, seeks police shelter",
+   "category": "Crime & Safety",
+   "location": "Tharamangalam, Salem district",
+   "importance": "Low",
    "scope": "local",
    "post_to": "Salem 360",
    "slides_spec": {
     "v": 3,
-    "cat": "பேருந்து சேவை",
-    "loc": "வசந்தபுரம், தலைவாசல்",
-    "hl1": "வசந்தபுரத்துக்கு புதிய டவுன் பஸ்",
-    "hl2": "தடம் எண்: 10",
+    "cat": "சமூக செய்தி",
+    "loc": "தாரமங்கலம், சேலம்",
+    "hl1": "தாரமங்கலத்தில் மாணவி - கண்டக்டர்",
+    "hl2": "போலீஸ் நிலையத்தில் தஞ்சம்",
     "slides": [
      {
-      "title": "என்ன மாற்றம்?",
+      "title": "சம்பவம்",
       "lines": [
-       "வசந்தபுரம் ஊருக்குள் புதிய பஸ் தடம் தொடக்கம்",
-       "அரசு டவுன் பஸ், தடம் எண்: <b>10</b>",
-       "நேற்று முதல் பஸ் இயக்கம் தொடங்கியது"
+       "தாரமங்கலத்தில் மாணவி கண்டக்டருடன் திருமணம்",
+       "பஸ் சேவையில் இருவருக்கு பழக்கம் ஏற்பட்டது"
       ]
      },
      {
-      "title": "பஸ் நேரம்",
+      "title": "விவரங்கள்",
       "lines": [
-       "காலையில் ஆத்தூரில் இருந்து தலைவாசல் வரை",
-       "வசந்தபுரம் வழியாக பஸ் செல்லும்",
-       "மாலையில் தலைவாசலில் இருந்து ஆத்தூர் வரை"
+       "கார்த்திகா 19 வயது, ரவிக்குமார் 23 வயது",
+       "மேட்டூர் கல்லூரியில் பி.எஸ்சி. 2ம் ஆண்டு படிக்கிறார்"
       ]
      },
      {
-      "title": "ஏன் இந்த பஸ்?",
+      "title": "நடவடிக்கை",
       "lines": [
-       "வசந்தபுரத்தில் 100க்கும் மேற்பட்ட குடியிருப்புகள்",
-       "பள்ளி மாணவர்கள் பிரிவு சாலை வரை நடக்க வேண்டியிருந்தது",
-       "கடந்த அக்டோபரில் அமைச்சரிடம் மனு அளிக்கப்பட்டது"
+       "பாதுகாப்புக்காக நேற்று போலீஸ் நிலையத்தில் தஞ்சம்",
+       "பெற்றோரை அழைத்து பேசி அனுப்பிவைத்தனர்"
       ]
      }
     ],
     "carousel": false
    },
-   "reel_script": "வசந்தபுரத்துக்கு நேற்று முதல் அரசு டவுன் பஸ் இயக்கப்பட்டது. தலைவாசல் மணிவிழுந்தான் ஊராட்சி வசந்தபுரத்தில் 100க்கும் மேற்பட்ட குடியிருப்புகள் உள்ளன. இதுவரை அப்பகுதி மக்களும் பள்ளி மாணவ, மாணவியரும் வசந்தபுரம் பிரிவு சாலை வரை வந்து பஸ் ஏற வேண்டியிருந்தது. இதனால் ஊருக்குள் பஸ் இயக்கக் கோரி கடந்த அக்டோபரில் போக்குவரத்துத்துறை அமைச்சர் விஜய் தமிழன் பார்த்திபனிடம் மக்கள் மனு அளித்தனர். அமைச்சரின் உத்தரவுப்படி, தடம் எண் 10 கொண்ட அரசு டவுன் பஸ் புதிய தடத்தில் இயக்கப்படுகிறது. காலையில் ஆத்தூரில் இருந்து வசந்தபுரம் வழியாக தலைவாசல் வரை பஸ் செல்லும். மாலையில் தலைவாசலில் இருந்து வசந்தபுரம் வழியாக ஆத்தூர் வரை பஸ் செல்லும் என போக்குவரத்துத்துறை அலுவலர்கள் தெரிவித்தனர். புதிய தடத்தில் பஸ் இயக்கப்பட்டதால் மக்கள் மகிழ்ச்சி அடைந்தனர். மேலும் செய்திகளுக்கு சேலம் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🚌 தலைவாசல் வசந்தபுரத்துக்கு புதிய டவுன் பஸ் சேவை தொடக்கம்\n\n📰 முழு விவரம்:\nதலைவாசல், மணிவிழுந்தான் ஊராட்சி வசந்தபுரத்தில் 100க்கும் மேற்பட்ட குடியிருப்புகள் உள்ளன. இதுவரை மக்களும் பள்ளி மாணவ, மாணவியரும் வசந்தபுரம் பிரிவு சாலை வரை சென்று பஸ் ஏற வேண்டியிருந்தது.\nகடந்த அக்டோபரில் ஊருக்குள் பஸ் இயக்கக் கோரி போக்குவரத்துத்துறை அமைச்சர் விஜய் தமிழன் பார்த்திபனிடம் மனு அளிக்கப்பட்டது.\nஅமைச்சரின் உத்தரவுப்படி நேற்று முதல் அரசு டவுன் பஸ் (தடம் எண்: 10) புதிய தடத்தில் இயக்கப்படுகிறது.\n🕘 காலை: ஆத்தூரில் இருந்து வசந்தபுரம் வழியாக தலைவாசல் வரை\n🕘 மாலை: தலைவாசலில் இருந்து வசந்தபுரம் வழியாக ஆத்தூர் வரை\nபுதிய தடத்தில் பஸ் இயக்கப்பட்டதால் மக்கள் மகிழ்ச்சி அடைந்தனர்.\n\nNew town bus to Vasanthapuram, Thalaivasal | Salem news\n📍 வசந்தபுரம், தலைவாசல், சேலம் மாவட்டம் | 19 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Salem360 #Salem #Thalaivasal #SalemNews #சேலம்",
-   "prompts": "A government town bus with route number 10 pulls up at a small village bus stop in Vasanthapuram, Thalaivasal, as villagers gather to board it for the first time on the new route. The bus is a red-and-white Tamil Nadu State Transport town bus, its front and side visible but with no readable route boards or text. Inside the village lane, about a dozen residents stand near a simple shelter, men in shirts and veshti and women in sarees, some with school bags, seen from slightly behind and at a distance. Behind the bus are single-storey houses with tiled roofs, a few palm trees and a dirt-and-tar road lined with plain village homes. Bright morning daylight falls across the road. The camera is at eye level, 35 mm lens, wide enough to show the bus, the stop and the village street together. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up of a Tamil Nadu town bus entrance step and handrail at a rural village stop in Vasanthapuram, with a school student's hand gripping the rail as she steps up, seen from behind. The bus door is open, the metal steps are slightly worn, and the surrounding tar road has a little dust and a roadside wall in the background. The step detail shows the bus has just arrived at the new stop. Soft morning sunlight, a few schoolchildren in Tamil Nadu school uniform waiting behind her, and blurred green fields beyond the village road. The camera is slightly high, 35 mm, focused on the bus step with the village edge softly visible behind. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-salem/town-bus-on-new-track/4380201",
-   "published": "2026-11-19T01:38:00+05:30",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5) - fact-check: no problems found",
-   "note": "free-model draft anthropic/claude-haiku-5-5, 11 attempt(s), 0 validator problem(s)",
+   "reel_script": "தாரமங்கலத்தில் 19 வயது மாணவி பஸ் கண்டக்டருடன் திருமணம் செய்து கொண்டார். ராமிரெட்டிப்பட்டியை சேர்ந்த ரவிக்குமார் 23 வயது. இவர் தனியார் பஸ் கண்டக்டராக பணியாற்றுகிறார். ஜலகண்டாபுரம் அருகே சமுத்திரம் காளியம்மன் கோவில் பகுதியை சேர்ந்த கார்த்திகா 19 வயது. இவர் மேட்டூரில் உள்ள கல்லூரியில் பி.எஸ்சி. 2ம் ஆண்டு படிக்கிறார். கல்லூரிக்கு பஸ்சில் சென்று வந்தபோது இருவருக்கு பழக்கம் ஏற்பட்டது. பின்னர் இருவரும் காதலித்தனர். வீட்டை விட்டு வெளியேறி திருமணம் செய்து கொண்டனர். பாதுகாப்பு கேட்டு நேற்று தாரமங்கலம் போலீஸ் நிலையத்தில் தஞ்சம் அடைந்தனர். போலீசார் இருவரது பெற்றோரை அழைத்து பேசி அனுப்பிவைத்தனர். மேலும் செய்திகளுக்கு சேலம் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🚨 தாரமங்கலத்தில் 19 வயது மாணவி பஸ் கண்டக்டருடன் திருமணம் - போலீஸ் நிலையத்தில் தஞ்சம்\n\n📰 முழு விவரம்:\nதாரமங்கலத்தில் ஒரு மாணவி பஸ் கண்டக்டருடன் திருமணம் செய்து கொண்டார். ராமிரெட்டிப்பட்டியை சேர்ந்த ரவிக்குமார் 23 வயது. இவர் தனியார் பஸ் கண்டக்டராக பணியாற்றுகிறார். ஜலகண்டாபுரம் அருகே சமுத்திரம் காளியம்மன் கோவில் பகுதியை சேர்ந்த கார்த்திகா 19 வயது. இவர் மேட்டூரில் உள்ள கல்லூரியில் பி.எஸ்சி. 2ம் ஆண்டு படிக்கிறார். கல்லூரிக்கு பஸ்சில் சென்று வந்தபோது இருவருக்கு பழக்கம் ஏற்பட்டது. பின்னர் இருவரும் காதலித்து வீட்டை விட்டு வெளியேறி திருமணம் செய்து கொண்டனர். பாதுகாப்பு கேட்டு நேற்று தாரமங்கலம் போலீஸ் நிலையத்தில் தஞ்சம் அடைந்தனர். போலீசார் இருவரது பெற்றோரை அழைத்து பேசி அனுப்பிவைத்தனர்.\n\n📍 இடம்: தாரமங்கலம், சேலம்\n🗓️ நாள்: நேற்று\n👮 நடவடிக்கை: பெற்றோரை அழைத்து பேசி அனுப்பிவைத்தனர்\n\nதேவைப்படுவோருக்கு Share செய்யுங்கள்\n\nStudent marries bus conductor in Tharamangalam | Salem news\n📍 Tharamangalam, Salem | 19 Nov 2026\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Salem360 #Salem #Tharamangalam #SalemNews #சேலம்",
+   "prompts": "A young couple stands quietly at the entrance of the Tharamangalam police station, seen from behind, as a khaki-uniformed Tamil Nadu police constable stands nearby. The woman wears a cotton saree and the man wears a plain shirt and trousers, both looking down. The police station is a modest single-storey government building with a verandah, tiled roof and a few plastic chairs under a fan. A small group of onlookers and a parked two-wheeler sit at a distance on the roadside in a small town, with no readable signboards. Daylight, soft overcast light from late morning. Camera at eye level, 35 mm, wide enough to show the station front and the couple, with the couple slightly off-centre and blurred faces turned away. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up of a wooden bench in a police station verandah where a folded saree end, a pair of worn sandals and a small cloth bag rest beside each other, suggesting a couple who has just arrived to seek shelter. Behind them, a khaki police constable's boots and the edge of a registration table are visible, with an old ceiling fan above. Plain whitewashed wall and a tiled floor in soft daylight from a doorway. No text, no signboards or labels visible. Camera slightly high, 35 mm, shallow depth of field keeping the bench in focus and the background softly blurred. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-salem/love-conductor-student-dum-dum-while-on-a-bus/4380200",
+   "published": "2026-11-19T01:37:00+05:30",
+   "verification": "DRAFT (groq/qwen/qwen3.8-27b) - fact-check: no problems found",
+   "note": "free-model draft groq/qwen/qwen3.8-27b, 2 attempt(s), 0 validator problem(s)",
    "post_time": "right after your reply, same day",
    "_area": "N",
    "_score": 999,
    "images": [
-    "https://res.cloudinary.com/jrmwajfz/image/upload/v1795058153/salem360/qyjp0efpsgwzru4ftquh.jpg",
-    "https://res.cloudinary.com/jrmwajfz/image/upload/v1795058160/salem360/vlhcpahrp7mu83rpubwc.jpg"
+    "https://res.cloudinary.com/jrmwajfz/image/upload/v1795064571/salem360/odgifbwlwn9jcoq5g4ai.jpg",
+    "https://res.cloudinary.com/jrmwajfz/image/upload/v1795064574/salem360/mhjbwp9rvuduv9atjfw8.jpg"
    ]
   },
   {
-   "tamil_headline": "பனமரத்துப்பட்டியில் நுண் கீரை வளர்ப்பு தொழில்நுட்பப் பயிற்சி",
-   "english_headline": "Micro greens cultivation training held at Sandiyur Agricultural Science Centre, Panamarathupatti",
-   "category": "Education",
-   "location": "Panamarathupatti, Salem district",
+   "tamil_headline": "ஓமலூரில் தொழிலாளியை கொல்ல முயற்சி: ரவுடி உள்பட 2 பேர் கைது",
+   "english_headline": "Two arrested, including a rowdy, for attempting to murder a worker in Omalur",
+   "category": "Crime & Safety",
+   "location": "Omalur, Salem district",
    "importance": "Medium",
    "scope": "local",
    "post_to": "Salem 360",
    "slides_spec": {
     "v": 3,
-    "cat": "பயிற்சி",
-    "loc": "பனமரத்துப்பட்டி",
-    "hl1": "பனமரத்துப்பட்டியில் நுண் கீரை பயிற்சி",
-    "hl2": "தொழில் முனைவோர் பயன்",
-    "slides": [
-     {
-      "title": "என்ன பயிற்சி?",
-      "lines": [
-       "ஊட்டச்சத்து நிறைந்த நுண் கீரை வளர்ப்புப் பயிற்சி",
-       "சந்தியூர் வேளாண் அறிவியல் நிலையத்தில் நடந்தது",
-       "நேற்று நடந்தது"
-      ]
-     },
-     {
-      "title": "யார் பேசினர்?",
-      "lines": [
-       "திட்ட ஒருங்கிணைப்பாளர் விஜயன் தலைமை வகித்தார்",
-       "தோட்டக்கலை வல்லுனர் முல்லைமாறன் உற்பத்தி முறை விளக்கினார்",
-       "பூச்சியியல் வல்லுனர் ரவி பயிர் பாதுகாப்பு குறித்து"
-      ]
-     },
-     {
-      "title": "யார் பயன்",
-      "lines": [
-       "விற்பனை, மதிப்பூட்டல் பற்றி ஆனந்த் விளக்கம் அளித்தார்",
-       "சேலம், நாமக்கல், ஈரோடு, கரூர் தொழில் முனைவோர் பயன் அடைந்தனர்"
-      ]
-     }
-    ],
-    "carousel": false
-   },
-   "reel_script": "பனமரத்துப்பட்டியில் நுண் கீரை வளர்ப்பு குறித்த தொழில்நுட்பப் பயிற்சி நடைபெற்றது. சந்தியூர் வேளாண் அறிவியல் நிலையத்தில் நேற்று இந்தப் பயிற்சி நடந்தது. ஊட்டச்சத்து நிறைந்த நுண் கீரையை வளர்க்கும் முறை இதில் விளக்கப்பட்டது. திட்ட ஒருங்கிணைப்பாளர் விஜயன் தலைமை வகித்தார். தோட்டக்கலை தொழில்நுட்ப வல்லுனர் முல்லைமாறன் நுண் கீரை உற்பத்தி முறை, விதை தேர்வு, அதில் உள்ள ஊட்டச்சத்துகள் குறித்து விளக்கினார். பூச்சியியல் வல்லுனர் ரவி பயிர் பாதுகாப்பு, நோய் மேலாண்மை முறைகளை விளக்கினார். தொழில்நுட்ப வல்லுனர் ஆனந்த் சந்தை நிலவரம், விற்பனை உத்தி, மதிப்பூட்டல் குறித்து விளக்கம் அளித்தார். சேலம், நாமக்கல், ஈரோடு, கரூர் உள்ளிட்ட பகுதிகளைச் சேர்ந்த தொழில் முனைவோர் பயன் அடைந்தனர். மேலும் செய்திகளுக்கு சேலம் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🌱 பனமரத்துப்பட்டியில் நுண் கீரை வளர்ப்பு பயிற்சி: தொழில் முனைவோர் பயன்\n\n📰 முழு விவரம்:\nபனமரத்துப்பட்டி சந்தியூர் வேளாண் அறிவியல் நிலையத்தில் நேற்று ஊட்டச்சத்து நிறைந்த நுண் கீரை வளர்ப்பு தொழில்நுட்பப் பயிற்சி நடைபெற்றது. திட்ட ஒருங்கிணைப்பாளர் விஜயன் தலைமை வகித்தார். நுண் கீரை உற்பத்தி முறை, விதை தேர்வு, ஊட்டச்சத்துகள் குறித்து தோட்டக்கலை தொழில்நுட்ப வல்லுனர் முல்லைமாறன் விளக்கினார். பயிர் பாதுகாப்பு, நோய் மேலாண்மை குறித்து பூச்சியியல் வல்லுனர் ரவி விளக்கினார். சந்தை நிலவரம், விற்பனை உத்தி, மதிப்பூட்டல் குறித்து தொழில்நுட்ப வல்லுனர் ஆனந்த் விளக்கம் அளித்தார். சேலம், நாமக்கல், ஈரோடு, கரூர் உள்ளிட்ட பகுதிகளைச் சேர்ந்த தொழில் முனைவோர் பயன் அடைந்தனர்.\n\nMicro greens training Panamarathupatti | Salem news\n📍 பனமரத்துப்பட்டி, சேலம் மாவட்டம் | 18 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Salem360 #Salem #SalemNews #சேலம்",
-   "prompts": "Trainees sit attentively in a rural agricultural training hall at the Sandiyur Agricultural Science Centre in Panamarathupatti, Salem district, as a horticulture expert stands at the front explaining micro greens cultivation. The hall is a simple concrete-roofed building with plain white walls, rows of plastic chairs and a few wooden tables set with notebooks. Entrepreneurs and farmers, mostly men in shirts and veshti and women in cotton sarees, are seen from behind or from a distance, listening to the speaker; a projector screen glows faintly at the front. Through an open doorway, green farm fields and a few mango trees are visible under bright daylight with a soft haze. Camera at eye level, 35 mm lens, wide enough to show the whole hall and the speaker, natural daylight from the windows. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up of shallow plastic trays filled with dense, fresh green micro green seedlings growing on moist soil in a raised bed at an agricultural science centre near Panamarathupatti, Salem district. The tender leaves are bright green with fine stems, showing the small size that defines micro greens, while a few loose seeds and a small wooden tray lie at the edge of the frame. Behind the beds, slightly out of focus, a shade net and a row of trainees in shirts and sarees stand observing from a distance. Soft morning daylight falls across the leaves, with a faint dusty rural backdrop. Camera slightly high, 35 mm lens, shallow depth of field focused on the seedlings. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-salem/technical-training-on-micro-spinach-cultivation/4380214",
-   "published": "2026-11-19T01:45:00+05:30",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5) - fact-check: no problems found",
-   "note": "free-model draft anthropic/claude-haiku-5-5, 11 attempt(s), 0 validator problem(s)",
-   "post_time": "right after your reply, same day",
-   "_area": "N",
-   "_score": 999,
-   "images": [
-    "https://res.cloudinary.com/jrmwajfz/image/upload/v1795058173/salem360/gfansvdhawe20gojynsb.jpg",
-    "https://res.cloudinary.com/jrmwajfz/image/upload/v1795058179/salem360/tlj6t2hol1rprug4ft1h.jpg"
-   ]
-  },
-  {
-   "tamil_headline": "சேலத்தில் ஏ.வி.எம். மருத்துவமனையின் அரவிந்த் ரத்தப்பரிசோதனை நிலையம் திறப்பு",
-   "english_headline": "A.V.M. hospital's Aravind blood test centre opened near Karungalpatti vegetable market, Salem",
-   "category": "Health",
-   "location": "Karungalpatti vegetable market area, Salem city, Salem district",
-   "importance": "Medium",
-   "scope": "local",
-   "post_to": "Salem 360",
-   "slides_spec": {
-    "v": 3,
-    "cat": "மருத்துவம்",
-    "loc": "கருங்கல்பட்டி, சேலம்",
-    "hl1": "சேலத்தில் ரத்தப்பரிசோதனை நிலையம் திறப்பு",
-    "hl2": "கருங்கல்பட்டி காய்கறி",
-    "slides": [
-     {
-      "title": "எங்கே, எப்போது?",
-      "lines": [
-       "சேலம், கருங்கல்பட்டி காய்கறி மார்க்கெட் அருகே திறப்பு விழா",
-       "ஏ.வி.எம். மருத்துவமனையின் அரவிந்த் ரத்தப்பரிசோதனை நிலையம்"
-      ]
-     },
-     {
-      "title": "யார் திறந்து",
-      "lines": [
-       "ஈரோடு தங்கவேல் அண்ட் சன்ஸ் தங்கவேல்",
-       "ஏ.வி.எம். மருத்துவமனை தலைவர் அப்பு செட்டியார்",
-       "ஸ்ரீசவுடேஸ்வரி நற்பணி மன்ற தலைவர் ஓம் சரவணா"
-      ]
-     },
-     {
-      "title": "நிர்வாகிகள்",
-      "lines": [
-       "அறக்கட்டளைத் தலைவர் அழகரசன் தலைமை வகித்தார்",
-       "செயலர் சரவணன், பொருளாளர் வீரபத்திரன் பங்கேற்றனர்",
-       "தேவாங்கர் அமைப்பு, கோவில் நிர்வாகிகளும் பங்கேற்றனர்"
-      ]
-     }
-    ],
-    "carousel": false
-   },
-   "reel_script": "சேலம் கருங்கல்பட்டி காய்கறி மார்க்கெட் அருகே ஏ வி எம் மருத்துவமனையின் அரவிந்த் ரத்தப்பரிசோதனை நிலையம் திறக்கப்பட்டுள்ளது. சேலம் தேவாங்கர் கல்வி மருத்துவ அறக்கட்டளையின் மெடிக்கல் என்ற பெயரில் இந்த நிலையம் இயங்குகிறது. அறக்கட்டளைத் தலைவர் அழகரசன் தலைமை வகித்தார். ஈரோடு தங்கவேல் அண்ட் சன்ஸ் தங்கவேல், ஏ வி எம் மருத்துவமனைத் தலைவர் அப்பு செட்டியார், அனைத்திந்திய ஸ்ரீசவுடேஸ்வரி நற்பணி மன்றத் தலைவர் ஓம் சரவணா ஆகியோர் நிலையத்தைத் திறந்து வைத்தனர். செயலர் சரவணன், பொருளாளர் வீரபத்திரன், துணைத்தலைவர்கள் உள்ளிட்ட நிர்வாகிகளும், அறங்காவலர்களும் பங்கேற்றனர். தேவாங்கர் அமைப்பு நிர்வாகிகள், கோவில் நிர்வாகிகள், வீரக்குமாரர்களும் நிகழ்ச்சியில் பங்கேற்றனர். மேலும் செய்திகளுக்கு சேலம் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🩸 சேலம் கருங்கல்பட்டியில் ஏ.வி.எம். மருத்துவமனையின் ரத்தப்பரிசோதனை நிலையம் திறப்பு\n\n📰 முழு விவரம்:\nசேலம் தேவாங்கர் கல்வி மருத்துவ அறக்கட்டளையின் மெடிக்கல் சார்பில், ஏ.வி.எம். மருத்துவமனையின் அரவிந்த் ரத்தப்பரிசோதனை நிலையம் கருங்கல்பட்டி காய்கறி மார்க்கெட் அருகே திறக்கப்பட்டது. அறக்கட்டளைத் தலைவர் அழகரசன் தலைமை வகித்தார். ஈரோடு தங்கவேல் அண்ட் சன்ஸ் தங்கவேல், ஏ.வி.எம். மருத்துவமனைத் தலைவர் அப்பு செட்டியார், அனைத்திந்திய ஸ்ரீசவுடேஸ்வரி நற்பணி மன்றத் தலைவர் ஓம் சரவணா ஆகியோர் திறந்து வைத்தனர்.\n\n📍 இடம்: கருங்கல்பட்டி காய்கறி மார்க்கெட் அருகே, சேலம்\n👥 பங்கேற்றோர்: செயலர் சரவணன், பொருளாளர் வீரபத்திரன், துணைத்தலைவர்கள், அறங்காவலர்கள், ஆலோசகர்கள், அறக்கட்டளை, தேவாங்கர் அமைப்பு, கோவில் நிர்வாகிகள், வீரக்குமாரர்கள்\n\nSalem Aravind blood test centre opens near Karungalpatti | Salem news\n📍 கருங்கல்பட்டி, சேலம் | 19 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Salem360 #Salem #SalemNews #சேலம்",
-   "prompts": "A row of Devangar trust office-bearers in white veshti and shirts, with garlands around their necks, stand at the entrance of a newly opened blood test laboratory on a busy Salem city street next to the Karungalpatti vegetable market, while one of them cuts a red ribbon stretched across the doorway. The new single-storey clinic building has a freshly painted front wall and a glass door, with a brass kuthu vilakku lamp and flower garlands placed on a small table beside the entrance. Behind the group, a cluster of onlookers in sarees and shirts stands at a distance, and vegetable sacks, banana bunches and piles of cabbages are visible on the adjoining market stalls under a row of tarpaulin awnings. Daylight, clear morning sky, Salem city dusty road with two-wheelers and an autorickshaw parked at the kerb. Camera at eye level, 35 mm lens, wide enough to show the clinic, the ceremony group and the market behind them. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up of a brass kuthu vilakku lamp and a bunch of red and white flower garlands resting on a small decorated table in front of a newly opened blood test laboratory entrance, with a red ribbon hanging down from the doorway and a clean white glass door behind it. Beside the table, a few sacks of fresh green vegetables and a basket of tomatoes from the nearby Karungalpatti market are partly visible at the edge of the frame. Soft daylight, dusty Salem street blurred in the background, a pair of hands from a trust office-bearer in a white shirt is just visible at the edge. Camera slightly above the table, 35 mm, shallow depth of field keeping the lamp and garlands sharp. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-salem/medical-check-up-centre-inaugurated/4380196",
-   "published": "2026-11-19T01:35:00+05:30",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: sentence 1 (one-line story) has 13 words; make it 6-9 words (about 2-3 seconds), the details follow in the next sentences",
-   "note": "free-model draft anthropic/claude-haiku-5-5, 12 attempt(s), 1 validator problem(s)",
-   "post_time": "right after your reply, same day",
-   "_area": "N",
-   "_score": 999,
-   "images": [
-    "https://res.cloudinary.com/jrmwajfz/image/upload/v1795058186/salem360/olxvbg6tn0rlidtz7z1p.jpg",
-    "https://res.cloudinary.com/jrmwajfz/image/upload/v1795058191/salem360/h8ubz6nx2mbf1hahojbb.jpg"
-   ]
-  },
-  {
-   "tamil_headline": "ஏழரைமத்திகாடு, காந்தி நகரில் பகுதி நேர ரேஷன் கடை திறப்பு",
-   "english_headline": "Part-time ration shop opened at Ezharaimathikadu, Gandhi Nagar, Mettur; MLA Venkatajalam inaugurates",
-   "category": "Government & Services",
-   "location": "Ezharaimathikadu, Gandhi Nagar, Mettur, Salem district",
-   "importance": "Medium",
-   "scope": "local",
-   "post_to": "Salem 360",
-   "slides_spec": {
-    "v": 3,
-    "cat": "ரேஷன் கடை",
-    "loc": "ஏழரைமத்திகாடு, மேட்டூர்",
-    "hl1": "ஏழரைமத்திகாடுவில் புதிய ரேஷன் கடை",
-    "hl2": "171 கார்டுதாரர்களுக்கு பயன்",
-    "slides": [
-     {
-      "title": "எங்கே?",
-      "lines": [
-       "ஏழரைமத்திகாடு, காந்தி நகரில் பகுதி நேர ரேஷன் கடை",
-       "கொளத்தூர், ஆலமரத்துப்பட்டி முழு நேர கடையில் <b>902</b>",
-       "இவர்களில் <b>171</b> கார்டுதாரர்கள் புதிய கடைக்கு மாற்றம்"
-      ]
-     },
-     {
-      "title": "திறப்பு விழா",
-      "lines": [
-       "திறப்பு விழா நேற்று நடைபெற்றது",
-       "மேட்டூர் எம்.எல்.ஏ. வெங்கடாஜலம் கடையைத் திறந்து வைத்தார்",
-       "அட்டைதாரர்களுக்கு அரிசி வழங்கி தொடங்கி வைத்தார்"
-      ]
-     },
-     {
-      "title": "யார் பங்கேற்பு?",
-      "lines": [
-       "வட்ட வழங்கல் அலுவலர் ஜெயமணி பங்கேற்றார்",
-       "அ.தி.மு.க. கொளத்தூர் ஒன்றிய செயலர்கள் செல்வராஜ், சுப்ரமணி",
-       "அ.தி.மு.க. ஐ.டி. மண்டல செயலர் நிர்மல் ஆனந்த் பங்கேற்றார்"
-      ]
-     }
-    ],
-    "carousel": false
-   },
-   "reel_script": "மேட்டூர் அருகே ஏழரைமத்திகாடு, காந்தி நகரில் புதிய பகுதி நேர ரேஷன் கடை திறக்கப்பட்டுள்ளது. கொளத்தூர், ஆலமரத்துப்பட்டி முழு நேர ரேஷன் கடையில் 902 கார்டுதாரர்கள் உள்ளனர். இவர்களில் 171 கார்டுதாரர்கள் பிரித்து, இந்தப் புதிய பகுதி நேர கடைக்கு மாற்றப்பட்டுள்ளனர். திறப்பு விழா நேற்று நடைபெற்றது. அ தி மு க மேட்டூர் சட்டமன்ற உறுப்பினர் வெங்கடாஜலம் கடையைத் திறந்து வைத்தார். அவர் அட்டைதாரர்களுக்கு அரிசி வழங்கித் தொடங்கி வைத்தார். வட்ட வழங்கல் அலுவலர் ஜெயமணி உள்ளிட்டோர் பங்கேற்றனர். அ தி மு க கொளத்தூர் ஒன்றிய செயலர்கள் செல்வராஜ், சுப்ரமணி, ஐ டி மண்டல செயலர் நிர்மல் ஆனந்தும் பங்கேற்றனர். மேலும் செய்திகளுக்கு சேலம் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🏪 ஏழரைமத்திகாடு, காந்தி நகரில் புதிய பகுதி நேர ரேஷன் கடை திறப்பு\n\n📰 முழு விவரம்:\nகொளத்தூர், ஆலமரத்துப்பட்டி முழு நேர ரேஷன் கடையில் 902 கார்டுதாரர்கள் உள்ளனர். இவர்களில் 171 கார்டுதாரர்கள் பிரித்து, ஏழரைமத்திகாடு, காந்தி நகரில் புதிய பகுதி நேர ரேஷன் கடைக்கு மாற்றப்பட்டுள்ளனர். திறப்பு விழா நேற்று நடைபெற்றது. மேட்டூர் அ.தி.மு.க. எம்.எல்.ஏ. வெங்கடாஜலம் கடையைத் திறந்து வைத்து, அட்டைதாரர்களுக்கு அரிசி வழங்கித் தொடங்கி வைத்தார்.\n📍 இடம்: ஏழரைமத்திகாடு, காந்தி நகர், மேட்டூர்\n🏛️ பங்கேற்றோர்: வட்ட வழங்கல் அலுவலர் ஜெயமணி, அ.தி.மு.க. கொளத்தூர் ஒன்றிய செயலர்கள் செல்வராஜ், சுப்ரமணி, ஐ.டி. மண்டல செயலர் நிர்மல் ஆனந்த்\n\nMettur part-time ration shop opened | Salem news\n📍 ஏழரைமத்திகாடு, மேட்டூர், சேலம் மாவட்டம் | 19 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Salem360 #Salem #Mettur #SalemNews #சேலம்",
-   "prompts": "A new part-time ration shop in Gandhi Nagar, Mettur, is being inaugurated as a government official and a Mettur MLA stand near its open shutter and hand out rice sacks to a few cardholders in a small queue. The place is a freshly built single-storey ration shop in a residential colony of Ezharaimathikadu: a plain concrete front with a rolled-up steel shutter, a low compound wall, a few tiled-roof houses and a dusty lane behind it, with a mango grove and the Shevaroy hills faintly visible far away. Seen from slightly behind and at a distance, the MLA in a white shirt and veshti stands beside a Tamil Nadu civil supplies officer in a cotton saree and two AIADMK party functionaries in white shirts and dhotis, while several local men and women in sarees and salwar wait in line with cloth bags to collect their rice. A stack of rice sacks sits on the counter inside the open shop and a small bunch of flower garlands hangs near the doorway. The time is daylight under a clear sky, with soft morning sunlight. Camera at eye level, 35 mm lens, wide enough to show the shop front, the officials and the queue of cardholders. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close detail of the rice sacks stacked on the wooden counter of the newly opened ration shop, with a cardholder's hand placing a steel vessel under the measuring scoop and a government ration card resting on the counter. The place is the interior corner of a small new ration shop in Gandhi Nagar, Mettur: bare concrete walls, a tiled floor, a plain wooden counter, a metal weighing scale and a row of gunny sacks of rice piled against the wall, with daylight coming through the open shutter from the street. Only a hand in a faded saree sleeve or a man's shirt cuff is visible, and a few other people's feet stand at the edge of the frame outside, all shot from behind or cropped, with no faces. A ration card lies on the counter, and a small garland of flowers hangs on the doorway frame, with a glimpse of the dusty residential lane beyond. The time is daylight, with natural light from the doorway. Camera at a slightly high angle, 50 mm lens, shallow depth of field to keep the sacks and counter sharp. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-salem/part-time-ration-shop-mla-open/4380215",
-   "published": "2026-11-19T01:46:00+05:30",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: fact-check: The reel_script says the new ration shop is opened 'மேட்டூர் அருகே' (near Mettur); the article only says the Mettur MLA attended and the shop is at Ezharaimathikadu, Gandhi Nagar, not that it is near Mettur town, so this location phrasing is not supported.; fact-check: The reel_script states the MLA 'கடையைத் திறந்து வைத்தார்' and also that 'அ தி மு க' is the party, but the slide and caption describe Venkatachalam as 'மேட்டூர் எம்.எல்.ஏ.' while the article says the AIADMK MLA; the party attribution is consistent, however the reel_script's 'சட்டமன்ற உறுப்பினர்' wording adds a title not in the article (minor, but unsupported).",
-   "note": "free-model draft anthropic/claude-haiku-5-5, 13 attempt(s), 2 validator problem(s)",
-   "post_time": "right after your reply, same day",
-   "_area": "N",
-   "_score": 999,
-   "images": [
-    "https://res.cloudinary.com/jrmwajfz/image/upload/v1795058212/salem360/yepr6jyevadqyq9yn39o.jpg",
-    "https://res.cloudinary.com/jrmwajfz/image/upload/v1795058215/salem360/kphb7ypsxmjdjuo6a31m.jpg"
-   ]
-  },
-  {
-   "tamil_headline": "சங்ககிரியில் உழவர் சந்தை அமைக்க 6 பேர் குழு அமைப்பு",
-   "english_headline": "6-member committee formed to study setting up a farmers' market in Sankagiri",
-   "category": "Government & Services",
-   "location": "Sankagiri town, Salem district",
-   "importance": "Medium",
-   "scope": "local",
-   "post_to": "Salem 360",
-   "slides_spec": {
-    "v": 3,
-    "cat": "அரசு அறிவிப்பு",
-    "loc": "சங்ககிரி",
-    "hl1": "சங்ககிரியில் உழவர் சந்தை அமைக்க குழு",
-    "hl2": "6 பேர் குழு அமைப்பு",
+    "cat": "குற்றம் & பாதுகாப்பு",
+    "loc": "ஓமலூர்",
+    "hl1": "ஓமலூரில் தொழிலாளியை கொல்ல முயற்சி",
+    "hl2": "ரவுடி உள்பட 2 பேர் கைது",
     "slides": [
      {
       "title": "என்ன நடந்தது?",
       "lines": [
-       "சங்ககிரி புது பஸ் ஸ்டாண்ட் அருகே உழவர் சந்தை",
-       "கால்நடை உதவி மருந்தகம் செயல்பட்ட இடத்தில் அமைக்கப்படும்",
-       "நகராட்சி தீர்மானம் நிறைவேற்றி மாவட்ட நிர்வாகத்துக்கு"
+       "ஓமலூர் அருகே ஆடு மேய்க்கும் தொழிலாளி குமார் தாக்கப்பட்டார்",
+       "கடந்த <b>17</b> இரவு <b>10 மணி</b> அளவில் சம்பவம்",
+       "குப்பூர் அய்யனாரப்பன் கோவில் அருகே நடந்தது"
       ]
      },
      {
-      "title": "6 பேர் குழு",
+      "title": "எப்படி நடந்தது?",
       "lines": [
-       "வேளாண் துணை இயக்குனர் சுஜாதா <b>6 பேர்</b> குழு அமைத்து உத்தரவு",
-       "சேலம் வேளாண் இணை இயக்குனர் குழுத் தலைவர்",
-       "சங்ககிரி ஆர்.டி.ஓ., நகராட்சி கமிஷனர் உள்பட உறுப்பினர்கள்"
+       "குமார் பைக்கில் சென்றபோது 4 பேர் சாலையில் மது அருந்தினர்",
+       "ஹாரன் அடித்ததால் ஆத்திரமடைந்து திட்டித் தாக்கினர்",
+       "கத்தியால் குத்த முயன்றனர்"
       ]
      },
      {
-      "title": "குழுவின் பணி",
+      "title": "கைது நடவடிக்கை",
       "lines": [
-       "காய்கறி, பழங்கள் சாகுபடி பரப்பளவு ஆய்வு",
-       "விவசாயிகள், நுகர்வோர் எண்ணிக்கை ஆய்வு",
-       "சந்தைப்படுத்தல் முறை குறித்து பரிந்துரை"
+       "குமார் ஓமலூர் அரசு மருத்துவமனையில் அனுமதிக்கப்பட்டார்",
+       "போலீசார் <b>2 பேரை</b> கைது செய்தனர்",
+       "ரவுடி பிரவீன்குமார், சுந்தரம் மீது கொலை முயற்சி வழக்கு"
       ]
      }
     ],
     "carousel": false
    },
-   "reel_script": "சங்ககிரியில் உழவர் சந்தை அமைக்க 6 பேர் குழு அமைக்கப்பட்டுள்ளது. சங்ககிரி புது பஸ் ஸ்டாண்ட் அருகே, கால்நடை உதவி மருந்தகம் செயல்பட்ட இடத்தில் புதிய உழவர் சந்தை அமைக்கத் திட்டமிடப்பட்டுள்ளது. இதற்காக நகராட்சி சார்பில் தீர்மானம் நிறைவேற்றப்பட்டு, மாவட்ட நிர்வாகம் மூலம் வேளாண் துறைக்கு அனுப்பப்பட்டது. பல்வேறு தரப்பிலிருந்தும் கோரிக்கைகள் எழுந்ததால் இந்த நடவடிக்கை எடுக்கப்பட்டது. வேளாண் துணை இயக்குனர் சுஜாதா உத்தரவின்படி இக்குழு அமைக்கப்பட்டுள்ளது. சேலம் வேளாண் இணை இயக்குனர் இக்குழுவின் தலைவராக உள்ளார். சங்ககிரி வருவாய் கோட்டாட்சியர் சேலம் வேளாண் துணை இயக்குனர் (வேளாண் வணிகம்), சேலம் விற்பனைக்குழு முதுநிலை செயலர், சேலம் தோட்டக்கலைத் துணை இயக்குனர், சங்ககிரி நகராட்சி கமிஷனர் ஆகியோர் உறுப்பினர்களாக உள்ளனர். இக்குழு சுற்றியுள்ள பகுதிகளில் காய்கறி, பழங்களின் சாகுபடி பரப்பளவு, உற்பத்தி திறன், விவசாயிகள் மற்றும் நுகர்வோர் எண்ணிக்கை, சந்தைப்படுத்தல் முறை ஆகியவற்றை ஆய்வு செய்து பரிந்துரை வழங்கும். இதன் மூலம் உழவர் சந்தை அமைப்பது குறித்து இறுதி முடிவு எடுக்கப்படும். மேலும் செய்திகளுக்கு சேலம் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🥬 சங்ககிரியில் உழவர் சந்தை அமைக்க 6 பேர் குழு அமைப்பு\n\n📰 முழு விவரம்:\nசங்ககிரி புது பஸ் ஸ்டாண்ட் அருகே, கால்நடை உதவி மருந்தகம் செயல்பட்ட இடத்தில் புதிய உழவர் சந்தை அமைக்கத் திட்டமிடப்பட்டுள்ளது. இதற்காக நகராட்சி தீர்மானம் நிறைவேற்றி மாவட்ட நிர்வாகத்துக்கு அனுப்பியது. பல்வேறு தரப்பிலும் கோரிக்கை எழுந்ததையடுத்து, வேளாண் துணை இயக்குனர் சுஜாதா உத்தரவின்படி 6 பேர் குழு அமைக்கப்பட்டுள்ளது. இக்குழு காய்கறி, பழங்களின் சாகுபடி பரப்பளவு, உற்பத்தி திறன், விவசாயிகள், நுகர்வோர் எண்ணிக்கை, சந்தைப்படுத்தல் முறை ஆகியவற்றை ஆய்வு செய்து பரிந்துரை வழங்கும். அதன் அடிப்படையில் உழவர் சந்தை அமைப்பது குறித்து முடிவு எடுக்கப்படும்.\n👥 குழுத் தலைவர்: சேலம் வேளாண் இணை இயக்குனர்\n👥 உறுப்பினர்கள்: சங்ககிரி ஆர்.டி.ஓ., சேலம் வேளாண் துணை இயக்குனர் (வேளாண் வணிகம்), சேலம் விற்பனைக்குழு முதுநிலை செயலர், சேலம் தோட்டக்கலைத் துணை இயக்குனர், சங்ககிரி நகராட்சி கமிஷனர்\n\nSankagiri farmers market 6-member committee | Salem news\n📍 சங்ககிரி, சேலம் மாவட்டம் | 19 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Salem360 #Salem #Sankagiri #SalemNews #சேலம்",
-   "prompts": "A group of farmers and officials stands in front of an empty single-storey government building plot beside the new bus stand in Sankagiri town, Salem district, as a six-member committee is formed to plan a farmers' market. In the foreground, a few men in shirts and veshti stand with their backs to the camera, and a woman in a saree carries a cloth bag of vegetables, facing the open site. Sankagiri's new bus stand is visible at the edge of the frame with a town bus and a few two-wheelers parked along the road, and the stretch of land ahead is cleared where the old cattle dispensary once stood. Mid-morning daylight with a clear sky and soft warm light falls across the street. Shot at eye level with a 35 mm lens, wide enough to show the bus stand, the empty plot and the road, with the people seen from behind or in soft focus. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up of a stack of fresh green vegetables and a crate of bananas and mangoes placed on the ground beside a low concrete wall at the edge of an empty plot near the bus stand in Sankagiri, Salem district. Several cloth sacks of produce and a weighing scale sit on a rough cement platform, while a few empty plastic crates are stacked nearby, suggesting a future market. Behind the produce, a blurred town bus and two-wheelers pass along the road under bright daylight. Shot at a slightly high angle with a 35 mm lens, shallow depth of field keeping the produce sharp and the background softly out of focus, with no readable signs or text. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-salem/6-member-committee-formed-to-set-up-farmersmarket/4380210",
-   "published": "2026-11-19T01:43:00+05:30",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: reel_script must tell how the story ENDED, as the article's last lines say ('உழவர் சந்தை அமைக்க 6 பேர் குழு அமைப்பு') - say what finally happened (complaint, action promised, released, arrested, case filed, how long it lasted); never write that details are unknown",
+   "reel_script": "ஓமலூரில் தொழிலாளி ஒருவரை கொல்ல முயன்ற வழக்கில் ரவுடி உள்பட இரண்டு பேர் கைது செய்யப்பட்டனர். காடையாம்பட்டி, ஜோடுகுழியைச் சேர்ந்த 42 வயது ஆடு மேய்க்கும் தொழிலாளி குமார் தாக்கப்பட்டுள்ளார். கடந்த 17ஆம் தேதி இரவு 10 மணி அளவில், அவர் ஸ்டார் சிட்டி பைக்கில் தாராபுரம் செல்லும் வழியில், குப்பூர் அய்யனாரப்பன் கோவில் அருகே இந்தச் சம்பவம் நடைபெற்றது. அங்கு சாலையில் அமர்ந்து மது அருந்திக்கொண்டிருந்த 4 பேரிடம், குமார் ஹாரன் அடித்தார். ஆத்திரமடைந்த அவர்கள் அவரை கெட்ட வார்த்தைகளால் திட்டித் தாக்கினர். கத்தியால் குத்தவும் முயன்றனர். காயமடைந்த குமார் ஓமலூர் அரசு மருத்துவமனையில் அனுமதிக்கப்பட்டார். அவரது புகாரின் பேரில் ஓமலூர் போலீசார் விசாரணை நடத்தினர். பொட்டியபுரத்தைச் சேர்ந்த ரவுடி பிரவீன்குமார் (29 வயது), சுந்தரம் (42 வயது), ஆகிய இருவர் மீது கொலை முயற்சி உள்பட 4 பிரிவுகளில் வழக்குப் பதிவு செய்யப்பட்டது. நேற்று அவர்கள் இருவரும் கைது செய்யப்பட்டனர். மேலும் செய்திகளுக்கு சேலம் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🚨 ஓமலூரில் தொழிலாளியை கொல்ல முயற்சி: ரவுடி உள்பட 2 பேர் கைது\n\n📰 முழு விவரம்:\nகாடையாம்பட்டி, ஜோடுகுழியைச் சேர்ந்த 42 வயது ஆடு மேய்க்கும் தொழிலாளி குமார், கடந்த 17ஆம் தேதி இரவு 10 மணி அளவில் குப்பூர் அய்யனாரப்பன் கோவில் அருகே தாக்கப்பட்டார். சாலையில் மது அருந்திக்கொண்டிருந்த 4 பேர், அவர் ஹாரன் அடித்ததால் திட்டித் தாக்கினர்; கத்தியால் குத்தவும் முயன்றனர். குமார் ஓமலூர் அரசு மருத்துவமனையில் அனுமதிக்கப்பட்டார். அவரது புகாரின் பேரில் ஓமலூர் போலீசார் விசாரித்து, பொட்டியபுரத்தைச் சேர்ந்த ரவுடி பிரவீன்குமார் (29 வயது), சுந்தரம் (42 வயது), ஆகிய இருவர் மீது கொலை முயற்சி உள்பட 4 பிரிவுகளில் வழக்குப் பதிவு செய்து நேற்று கைது செய்தனர்.\n\n📍 இடம்: குப்பூர் அய்யனாரப்பன் கோவில் அருகே, ஓமலூர்\n🗓️ நாள்: கடந்த 17ஆம் தேதி\n🕘 நேரம்: இரவு 10 மணி\n👮 நடவடிக்கை: ரவுடி உள்பட 2 பேர் கைது\n\nOmalur worker attacked, two arrested | Salem news\n📍 ஓமலூர், சேலம் மாவட்டம் | 19 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Salem360 #Salem #Omalur #SalemNews #சேலம்",
+   "prompts": "Two Tamil Nadu police in khaki uniform lead two men with their hands held behind their backs from a police jeep toward the gate of a rural police station in Omalur, Salem district. Seen from behind at a distance, the men wear a shirt and veshti and trousers, one slightly hunched. The police station is a plain low concrete building with a flat roof and a small compound, daylight, with a few two-wheelers and an autorickshaw parked by the road. Behind them a dusty road lined with mango trees stretches toward the Shevaroy hills in the far background, the sky pale blue in morning light. The camera is at eye level, 35 mm, wide enough to show the police jeep, the building and the road, with no readable signboards or text. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up of a motorcycle of the Star City model parked on the edge of a rural road beside a small roadside shrine at night, its handlebar and front wheel in focus. Beside it lie a few empty liquor bottles and a scatter of plastic cups on the dusty ground, faintly lit by a single dim streetlight. Behind, a blurred stone temple wall with a small lamp glowing, and far in the background a khaki-clad police jeep with its headlights on. Night, low light, the road empty. The camera is slightly high, close, 35 mm, with shallow depth of field, showing the motorcycle and bottles clearly and nothing readable. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-salem/rowdy-among-2-rescued-for-trying-to-kill-labourer/4380206",
+   "published": "2026-11-19T01:41:00+05:30",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: sentence 1 (one-line story) has 12 words; make it 6-9 words (about 2-3 seconds), the details follow in the next sentences",
+   "note": "free-model draft anthropic/claude-haiku-5-5, 11 attempt(s), 1 validator problem(s)",
+   "post_time": "right after your reply, same day",
+   "_area": "N",
+   "_score": 999,
+   "images": [
+    "https://res.cloudinary.com/jrmwajfz/image/upload/v1795064601/salem360/n0xukby4vpdncl5qj8cq.jpg",
+    "https://res.cloudinary.com/jrmwajfz/image/upload/v1795064604/salem360/zxynpntwc1r5qryaibp1.jpg"
+   ]
+  },
+  {
+   "tamil_headline": "ஓமலூரில் அமைச்சர் பிறந்தநாளை ஒட்டி சமபந்தி விருந்து, கண் பரிசோதனை முகாம்",
+   "english_headline": "Omalur celebrates minister's 52nd birthday with equal-dining feast and free eye check-up camp",
+   "category": "Temples & Events",
+   "location": "Omalur, Salem district",
+   "importance": "Medium",
+   "scope": "local",
+   "post_to": "Salem 360",
+   "slides_spec": {
+    "v": 3,
+    "cat": "நிகழ்ச்சி",
+    "loc": "ஓமலூர்",
+    "hl1": "ஓமலூரில் அமைச்சர் பிறந்தநாள் விழா",
+    "hl2": "சமபந்தி விருந்து, கண் முகாம்",
+    "slides": [
+     {
+      "title": "சிறப்பு பூஜை",
+      "lines": [
+       "அமைச்சர் விஜய் தமிழன் பார்த்திபனின் <b>52வது</b> பிறந்தநாள்",
+       "ஓமலூர் செவ்வாய் சந்தை அருகே காசி விஸ்வநாதர் ஆலயத்தில்"
+      ]
+     },
+     {
+      "title": "சமபந்தி விருந்து",
+      "lines": [
+       "பஸ் ஸ்டாண்ட் அருகே த.வெ.க. சார்பில் சமபந்தி விருந்து",
+       "வடமேற்கு மாவட்ட பொருளாளர் பெருமாள் விருந்தைத் தொடங்கி",
+       "மக்களுக்கு <b>1 கிலோ</b> தக்காளி பொட்டலங்கள் வழங்கப்பட்டன"
+      ]
+     },
+     {
+      "title": "மருத்துவ முகாம்",
+      "lines": [
+       "த.வெ.க. சார்பில் மருத்துவ முகாம் நடைபெற்றது",
+       "புனித ஜோசப் மருத்துவமனை சார்பில் இலவச கண் பரிசோதனை முகாம்"
+      ]
+     },
+     {
+      "title": "நிகழ்ச்சி தலைமை",
+      "lines": [
+       "ஓமலூர் நகர செயலர் மணி தலைமை வகித்தார்",
+       "ஓமலூர் ஒன்றிய செயலர் சீனிவாசன் உள்பட பலர் பங்கேற்றனர்",
+       "நலத்திட்ட உதவி வழங்கும் விழாவும் நடைபெற்றது"
+      ]
+     }
+    ],
+    "carousel": false
+   },
+   "reel_script": "ஓமலூரில் அமைச்சர் பிறந்தநாளை ஒட்டி சமபந்தி விருந்தும் கண் பரிசோதனை முகாமும் நடைபெற்றன. தமிழக போக்குவரத்துத்துறை அமைச்சர் விஜய் தமிழன் பார்த்திபனின் 52வது பிறந்தநாளை முன்னிட்டு நேற்று ஓமலூர் செவ்வாய் சந்தை அருகே உள்ள காசி விஸ்வநாதர் ஆலயத்தில் சிறப்பு பூஜை நடைபெற்றது. தொடர்ந்து பஸ் ஸ்டாண்ட் அருகே த வெ க சார்பில் மருத்துவ முகாம், சமபந்தி விருந்து, நலத்திட்ட உதவி வழங்கும் விழா நடைபெற்றது. ஓமலூர் நகர செயலர் மணி தலைமை வகித்தார். வடமேற்கு மாவட்ட பொருளாளர் பெருமாள் சமபந்தி விருந்தைத் தொடங்கி வைத்தார். மக்களுக்கு 1 கிலோ தக்காளி பொட்டலங்கள் வழங்கப்பட்டன. புனித ஜோசப் மருத்துவமனை சார்பில் இலவச கண் பரிசோதனை முகாம் நடைபெற்றது. ஓமலூர் ஒன்றிய செயலர் சீனிவாசன் உள்பட பலர் பங்கேற்றனர். மேலும் செய்திகளுக்கு சேலம் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🎉 ஓமலூரில் அமைச்சர் பிறந்தநாள்: சமபந்தி விருந்து, கண் பரிசோதனை முகாம்\n\n📰 முழு விவரம்:\nதமிழக போக்குவரத்துத்துறை அமைச்சர் விஜய் தமிழன் பார்த்திபனின் 52வது பிறந்தநாளை முன்னிட்டு நேற்று ஓமலூர் செவ்வாய் சந்தை அருகே உள்ள காசி விஸ்வநாதர் ஆலயத்தில் சிறப்பு பூஜை நடைபெற்றது. தொடர்ந்து பஸ் ஸ்டாண்ட் அருகே த.வெ.க. சார்பில் மருத்துவ முகாம், சமபந்தி விருந்து, நலத்திட்ட உதவி வழங்கும் விழா நடைபெற்றது. வடமேற்கு மாவட்ட பொருளாளர் பெருமாள் சமபந்தி விருந்தைத் தொடங்கி வைத்தார். மக்களுக்கு 1 கிலோ தக்காளி பொட்டலங்கள் வழங்கப்பட்டன. புனித ஜோசப் மருத்துவமனை சார்பில் இலவச கண் பரிசோதனை முகாம் நடைபெற்றது. ஓமலூர் நகர செயலர் மணி தலைமை வகித்தார்; ஓமலூர் ஒன்றிய செயலர் சீனிவாசன் உள்பட பலர் பங்கேற்றனர்.\n\nOmalur minister birthday feast eye camp | Salem news\n📍 ஓமலூர், சேலம் மாவட்டம் | 19 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Salem360 #Salem #Omalur #SalemNews #சேலம்",
+   "prompts": "A long row of villagers sits on the floor in an open pandal near the Omalur bus stand, eating a community feast together as part of an equal-dining lunch held for a minister's birthday. Behind them a few people in white shirts and veshti stand serving food from steel vessels, and a small stage with a garlanded chair and a banner area is visible at a distance without any readable text. Women in sarees and men in shirts and veshti sit side by side on mats, some with banana leaves and tomato packets placed nearby. Town buses and two-wheelers pass along the road beyond the pandal, and the Shevaroy hills show faintly in the background. Daylight, afternoon. Camera at eye level, 35 mm, wide enough to show the pandal, the seated crowd and the street. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up of a stack of small packets of fresh red tomatoes, each about one kilogram, placed on a plastic table beside a steel vessel and banana leaves, with a few volunteers' hands in white shirt sleeves visible at the edge of the frame. Behind the table, a row of seated villagers waits blurred in the background, and a temple gopuram peeks over the roof of a nearby building. Warm daylight, shallow depth of field, camera slightly high, 35 mm. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-salem/ministers-birthday-party/4380195",
+   "published": "2026-11-19T01:34:00+05:30",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: fact-check: The article names the minister as 'விஜய் தமிழன் பார்த்திபன்' and the draft matches; however the article says the health camp is held by 'த.வெ.க.' while the reel_script adds the 'மருத்துவ முகாம்' under the party, which is consistent, so no issue there. Problem: the reel_script says 'வடமேற்கு மாவட்ட பொருளாளர்' while the article says 'பொருளார்' (spelling only, meaning unchanged, so not a problem).; fact-check: The reel_script omits the 'நலத்திட்ட உதவி' detail only partially; no factual error found in reel_script except that it states the 'மருத்துவ முகாம்' was held by த வெ க, which matches the article.; fact-check: The slides_spec 'நிகழ்ச்சி தலைமை' slide states 'நலத்திட்ட உதவி வழங்கும் விழாவும் நடைபெற்றது' which is supported, but the 'நகர செயலர் மணி' is given as presiding over the event in general, while the article says he presided over the event; consistent.; fact-check: The caption states 'மக்களுக்கு 1 கிலோ தக்காளி பொட்டலங்கள்' and the caption's 'முழு விவரம்' paragraph repeats the article accurately; no discrepancy found.",
+   "note": "free-model draft anthropic/claude-haiku-5-5, 13 attempt(s), 4 validator problem(s)",
+   "post_time": "right after your reply, same day",
+   "_area": "N",
+   "_score": 999,
+   "images": [
+    "https://res.cloudinary.com/jrmwajfz/image/upload/v1795064627/salem360/todkpl0qcvd9iyledwna.jpg",
+    "https://res.cloudinary.com/jrmwajfz/image/upload/v1795064630/salem360/eqsd5mwnqp8rolqykuo1.jpg"
+   ]
+  },
+  {
+   "tamil_headline": "சேலம் புத்தகத் திருவிழாவில் 3.06 லட்சம் பள்ளி மாணவர்கள் புத்தகம் வாங்க திட்டம்",
+   "english_headline": "Salem book festival: 3.06 lakh school students to be encouraged to buy books using savings boxes",
+   "category": "Education",
+   "location": "Salem city (Puthu Bus Stand area, municipal ground), Salem district",
+   "importance": "High",
+   "scope": "district",
+   "post_to": "Salem 360",
+   "slides_spec": {
+    "v": 3,
+    "cat": "கல்வி",
+    "loc": "சேலம்",
+    "hl1": "சேலம் புத்தகத் திருவிழா நவ. 27-இல்",
+    "hl2": "3.06 லட்சம் மாணவர்களுக்கு",
+    "slides": [
+     {
+      "title": "எப்போது, எங்கே?",
+      "lines": [
+       "புத்தகத் திருவிழா <b>நவ. 27</b>ஆம் தேதி தொடங்குகிறது",
+       "புது பஸ் ஸ்டாண்ட் அருகில் உள்ள மாநகராட்சி திடலில்",
+       "தமிழ்நாடு, இந்தியாவின் முன்னணி பதிப்பகங்கள் பங்கேற்பு"
+      ]
+     },
+     {
+      "title": "மாணவர்களுக்கு",
+      "lines": [
+       "மாவட்டம் முழுவதும் <b>3.06 லட்சம்</b> பள்ளி மாணவர்கள்",
+       "<b>1,033</b> பள்ளிகளில் மாணவர்கள் உண்டியல் தயாரிக்கின்றனர்",
+       "சேமித்த பணத்தில் பிடித்த புத்தகங்களை வாங்குவர்"
+      ]
+     },
+     {
+      "title": "ஆசிரியர் பயிற்சி",
+      "lines": [
+       "<b>1,033</b> ஆசிரியர்களுக்கு உண்டியல் தயாரிப்பு பயிற்சி",
+       "<b>8</b> மையங்களில் காலை, மதியம் என இரு அமர்வுகள்",
+       "மறுசுழற்சிப் பொருட்களைக் கொண்டு உண்டியல் தயாரிப்பு"
+      ]
+     },
+     {
+      "title": "பெற்றோருக்கு",
+      "lines": [
+       "மாணவர்கள் சிறு தொகைகளைத் தொடர்ந்து சேமிக்க வேண்டும்",
+       "பெற்றோருடன் புத்தகத் திருவிழாவுக்கு வந்து புத்தகம் வாங்கலாம்",
+       "சேமிப்பு, வாசிப்பு ஆர்வம் வளர்க்க இத்திட்டம் உதவும்"
+      ]
+     }
+    ],
+    "carousel": false
+   },
+   "reel_script": "சேலத்தில் 3 லட்சத்து 6 ஆயிரம் மாணவர்கள் புத்தகம் வாங்க சேமிப்பு திட்டம். சேலம் மாவட்ட நிர்வாகம் சார்பில் புத்தகத் திருவிழா நவம்பர் 27ஆம் தேதி தொடங்குகிறது. புது பஸ் ஸ்டாண்ட் அருகில் உள்ள மாநகராட்சி திடலில் இந்தத் திருவிழா நடைபெறும். தென்னிந்தியப் புத்தக விற்பனையாளர்கள் மற்றும் பதிப்பாளர்கள் சங்கத்துடன் இணைந்து பிரம்மாண்ட புத்தக அரங்குகள் அமைக்கப்படுகின்றன. தமிழ்நாடு மற்றும் இந்தியாவின் முன்னணிப் பதிப்பகங்கள் கலந்து கொள்ளவுள்ளன. மாவட்டம் முழுவதும் 3 லட்சத்து 6 ஆயிரத்து 865 பள்ளி மாணவர்களிடம் இத்திட்டம் கொண்டு சேர்க்கப்படும். 1,033 பள்ளிகளில் மாணவர்கள் தங்களுக்கான உண்டியல்களைத் தாங்களே தயாரித்து வருகின்றனர். இதற்காக 1,033 ஆசிரியர்களுக்கு உண்டியல் தயாரிப்பு பயிற்சி வழங்கப்பட்டது. மாவட்டத்தில் 8 மையங்களில் காலை, மதியம் என இரு அமர்வுகளாக பயிற்சி நடத்தப்பட்டது. அட்டை, வண்ணக் காகிதம், பழைய செய்தித்தாள்கள் போன்ற மறுசுழற்சிப் பொருட்களைக் கொண்டு உண்டியல் தயாரிக்கும் முறை கற்றுத் தரப்பட்டது. மாணவர்கள் சிறு தொகைகளைச் சேமித்து, புத்தகத் திருவிழா நேரத்தில் பிடித்த புத்தகங்களை வாங்கலாம். சேமிப்பின் முக்கியத்துவம், பணத்தின் மதிப்பு, வாசிப்பு ஆர்வம் ஆகியவை வளர்க்கப்படும். பள்ளி மாணவர்கள் பெற்றோருடன் புத்தகத் திருவிழாவுக்கு வந்து புத்தகங்களை வாங்கிப் பயன்பெற வேண்டும் என அதிகாரிகள் அறிவுறுத்தியுள்ளனர். மேலும் செய்திகளுக்கு சேலம் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "📚 சேலம் புத்தகத் திருவிழா நவ. 27 - 3.06 லட்சம் மாணவர்களுக்கு சேமிப்புத் திட்டம்\n\n📰 முழு விவரம்:\nசேலம் மாவட்ட நிர்வாகத்தின் சார்பில் சேலம் புத்தகத் திருவிழா நவம்பர் 27ஆம் தேதி தொடங்குகிறது. புது பஸ் ஸ்டாண்ட் அருகில் உள்ள மாநகராட்சி திடலில் பிரம்மாண்ட புத்தக அரங்குகள் அமைக்கப்படுகின்றன. தென்னிந்தியப் புத்தக விற்பனையாளர்கள் மற்றும் பதிப்பாளர்கள் சங்கத்துடன் இணைந்து நடத்தப்படுகிறது.\nமாவட்டம் முழுவதும் 3,06,865 பள்ளி மாணவர்கள் சேமிப்புத் திட்டத்தில் சேர்க்கப்படுவர். 1,033 பள்ளிகளில் மாணவர்கள் தங்களுக்கான உண்டியல்களைத் தாங்களே தயாரித்து வருகின்றனர்.\nஇதற்காக 1,033 ஆசிரியர்களுக்கு உண்டியல் தயாரிப்பு பயிற்சி வழங்கப்பட்டது. மாவட்டத்தில் 8 மையங்களில் காலை, மதியம் என இரு அமர்வுகளாக பயிற்சி நடத்தப்பட்டது.\nமாணவர்கள் சேமித்த பணத்தைக் கொண்டு புத்தகத் திருவிழாவில் தங்களுக்குப் பிடித்த புத்தகங்களை வாங்குவர். இதன் மூலம் சேமிப்பின் முக்கியத்துவம், பணத்தின் மதிப்பு, வாசிப்பு ஆர்வம் வளர்க்கப்படும்.\n📅 நாள்: நவம்பர் 27 முதல்\n📍 இடம்: புது பஸ் ஸ்டாண்ட் அருகில், மாநகராட்சி திடல், சேலம்\nℹ️ மக்கள் கவனத்திற்கு: பள்ளி மாணவர்கள் பெற்றோருடன் புத்தகத் திருவிழாவுக்கு வந்து புத்தகங்கள் வாங்கலாம். தேவைப்படுவோருக்கு Share செய்யுங்கள்.\n\nSalem book festival Nov 27, 3 lakh students | Salem news\n📍 Salem city, Salem district | 19 November 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Salem360 #Salem #SalemNews #சேலம்",
+   "prompts": "A group of Tamil Nadu school students in school uniform sits at a classroom desk in a Salem city government school, cutting coloured paper and pasting it onto cardboard boxes to make their own savings boxes (undiyal) under a teacher's guidance. The classroom has plain painted walls, wooden benches and desks, and a chalkboard at the front. Students are seen from behind or in soft focus, with their heads bent over the desks. Scattered on the desks are chart paper, old newspaper sheets, small cardboard boxes, glue bottles and scissors. Daylight comes through the windows, and the scene looks ordinary and everyday. Shot at eye level, 35 mm, wide enough to show the classroom and the group of children. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up detail of a handmade savings box (undiyal) made from a small cardboard box covered with coloured chart paper and decorated with stickers, with a narrow coin slot cut into the top. It rests on a wooden school desk beside a pair of scissors, a glue bottle, and folded coloured paper and old newspaper. A child's hand, in a school uniform sleeve, is partly visible at the edge of the frame, placing a coin near the slot. Soft daylight falls across the desk, the background is blurred classroom wall, and the mood is calm and focused. Shot at slightly high angle, 35 mm, close enough to make the box the clear subject. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinakaran.com/district/salem-19112026-01/amp",
+   "published": "2026-11-19T04:05:16+05:30",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: reel_script sentence 1 (heard in the first 3 seconds) must name the place 'சேலம்' and the news itself, e.g. 'சேலம்-இல் ... 3 பேர் கைது.' - viewers decide in 3 seconds whether the news is about their area",
    "note": "free-model draft anthropic/claude-haiku-5-5, 13 attempt(s), 1 validator problem(s)",
    "post_time": "right after your reply, same day",
    "_area": "N",
    "_score": 999,
    "images": [
-    "https://res.cloudinary.com/jrmwajfz/image/upload/v1795058223/salem360/tyy6v5c6w1qtgbh2652v.jpg",
-    "https://res.cloudinary.com/jrmwajfz/image/upload/v1795058229/salem360/xbgpm2rp7mpjosljgzay.jpg"
+    "https://res.cloudinary.com/jrmwajfz/image/upload/v1795064936/salem360/lrenwgvelvdfrysnw4il.jpg",
+    "https://res.cloudinary.com/jrmwajfz/image/upload/v1795064940/salem360/qbtnk1uiu00tr1mld3vs.jpg"
    ]
   }
  ]
