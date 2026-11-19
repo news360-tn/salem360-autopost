@@ -153,7 +153,8 @@
    "score": 2.95,
    "power_cut": false,
    "listed_at": "2026-11-19T10:30:40.720979+05:30",
-   "picked_at": "2026-11-19T22:16:38.037030+05:30"
+   "picked_at": "2026-11-19T22:16:38.037030+05:30",
+   "refused": "not filed: duplicate after write"
   },
   "C3e9d2b3": {
    "id": "C3e9d2b3",
@@ -236,7 +237,8 @@
    "score": 2.7800000000000002,
    "power_cut": false,
    "listed_at": "2026-11-19T18:35:25.689837+05:30",
-   "picked_at": "2026-11-19T22:16:38.037028+05:30"
+   "picked_at": "2026-11-19T22:16:38.037028+05:30",
+   "refused": "not filed: duplicate after write"
   },
   "C57c5e58": {
    "id": "C57c5e58",
@@ -249,7 +251,8 @@
    "score": 12.5,
    "power_cut": false,
    "listed_at": "2026-11-19T22:14:36.682358+05:30",
-   "picked_at": "2026-11-19T22:16:38.037022+05:30"
+   "picked_at": "2026-11-19T22:16:38.037022+05:30",
+   "posted": true
   },
   "Cfc2219a": {
    "id": "Cfc2219a",
@@ -262,7 +265,8 @@
    "score": 10.5,
    "power_cut": false,
    "listed_at": "2026-11-19T22:14:36.682358+05:30",
-   "picked_at": "2026-11-19T22:16:38.037026+05:30"
+   "picked_at": "2026-11-19T22:16:38.037026+05:30",
+   "posted": true
   }
  },
  "rounds": {
@@ -1145,7 +1149,11 @@
     "C57c5e58",
     "C9c980aa",
     "Cfc2219a"
-   ]
+   ],
+   "refused": {
+    "C243e800": "not filed: duplicate after write",
+    "C9c980aa": "not filed: duplicate after write"
+   }
   }
  },
  "retry": {
