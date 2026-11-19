@@ -28,7 +28,8 @@
    "category": "குற்றம்",
    "score": 11.0,
    "power_cut": false,
-   "listed_at": "2026-11-19T02:28:37.023914+05:30"
+   "listed_at": "2026-11-19T02:28:37.023914+05:30",
+   "picked_at": "2026-11-19T06:47:32.704012+05:30"
   },
   "C099d185": {
    "id": "C099d185",
@@ -40,7 +41,8 @@
    "category": "குற்றம்",
    "score": 11.0,
    "power_cut": false,
-   "listed_at": "2026-11-19T02:28:37.023914+05:30"
+   "listed_at": "2026-11-19T02:28:37.023914+05:30",
+   "picked_at": "2026-11-19T06:47:32.704014+05:30"
   },
   "Ce194c43": {
    "id": "Ce194c43",
@@ -52,7 +54,8 @@
    "category": "பொது",
    "score": 10.0,
    "power_cut": false,
-   "listed_at": "2026-11-19T02:28:37.023914+05:30"
+   "listed_at": "2026-11-19T02:28:37.023914+05:30",
+   "picked_at": "2026-11-19T06:47:32.704016+05:30"
   },
   "C79be26b": {
    "id": "C79be26b",
@@ -247,7 +250,8 @@
    "alts": [
     "https://www.dinamani.com/all-editions/edition-dharmapuri/salem/2026/Nov/19/%E0%AE%B0%E0%AE%AF%E0%AE%BF%E0%AE%B2%E0%AE%BF%E0%AE%B2%E0%AF%8D-4-%E0%AE%95%E0%AE%BF%E0%AE%B2%E0%AF%8B-%E0%AE%95%E0%AF%81%E0%AE%9F%E0%AF%8D%E0%AE%95%E0%AE%BE-%E0%AE%AA%E0%AE%B1%E0%AE%BF%E0%AE%AE%E0%AF%81%E0%AE%A4%E0%AE%B2%E0%AF%8D"
    ],
-   "listed_at": "2026-11-19T06:45:46.288701+05:30"
+   "listed_at": "2026-11-19T06:45:46.288701+05:30",
+   "picked_at": "2026-11-19T06:47:32.704009+05:30"
   },
   "Cf03a1f9": {
    "id": "Cf03a1f9",
@@ -262,7 +266,8 @@
    "alts": [
     "https://www.dinamani.com/all-editions/edition-dharmapuri/salem/2026/Nov/19/%E0%AE%87%E0%AE%B3%E0%AF%88%E0%AE%9E%E0%AE%BE%E0%AF%8D-%E0%AE%89%E0%AE%AF%E0%AE%BF%E0%AE%B0%E0%AE%BF%E0%AE%B4%E0%AE%AA%E0%AF%8D%E0%AE%AA%E0%AF%81-%E0%AE%AA%E0%AF%8B%E0%AE%B2%E0%AF%80%E0%AE%B8%E0%AE%BE%E0%AE%BE%E0%AF%8D-%E0%AE%B5%E0%AE%BF%E0%AE%9A%E0%AE%BE%E0%AE%B0%E0%AE%A3%E0%AF%88-2"
    ],
-   "listed_at": "2026-11-19T06:45:46.288701+05:30"
+   "listed_at": "2026-11-19T06:45:46.288701+05:30",
+   "picked_at": "2026-11-19T06:47:32.704007+05:30"
   },
   "C2409460": {
    "id": "C2409460",
@@ -286,7 +291,8 @@
    "category": "நீதிமன்றம்",
    "score": 4.5,
    "power_cut": false,
-   "listed_at": "2026-11-19T06:45:46.288701+05:30"
+   "listed_at": "2026-11-19T06:45:46.288701+05:30",
+   "picked_at": "2026-11-19T06:47:32.704017+05:30"
   },
   "C8187c74": {
    "id": "C8187c74",
@@ -1195,8 +1201,26 @@
    ],
    "sent": false,
    "deadline": "2026-11-19T07:45:46.288701+05:30",
-   "decided": null,
-   "written": []
+   "decided": {
+    "how": "automatic: top 5 of 25 by insights + 1 more well-watched",
+    "ids": [
+     "Cf03a1f9",
+     "C0c16cd4",
+     "Cf328707",
+     "C099d185",
+     "Ce194c43",
+     "Ca10d7ba"
+    ],
+    "at": "2026-11-19T06:47:32.703993+05:30"
+   },
+   "written": [
+    "C099d185",
+    "C0c16cd4",
+    "Ca10d7ba",
+    "Ce194c43",
+    "Cf03a1f9",
+    "Cf328707"
+   ]
   }
  },
  "retry": {}
