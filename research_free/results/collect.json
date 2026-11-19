@@ -3,216 +3,389 @@
   "earlier stories still waiting for images: []",
   "instagram check: 50 recent posts read from the page",
   "pick round: only the picked links are written (research_free/pick.py)",
-  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-salem/labourer-dies-of-fever/4380198",
-  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-salem/driver-killed-as-car-rams-into-tree/4380208",
-  "candidate filter: collected=2",
-  "to write: 2 Salem district candidates (max 2 stories)",
-  "round: top 2 of 2 candidates",
-  "candidates waiting: 2 Salem; time left 79 min",
+  "manual link added: https://www.dinamani.com/all-editions/edition-dharmapuri/salem/2026/Nov/19/இளைஞா்-உயிரிழப்பு-போலீஸாா்-விசாரணை-2",
+  "manual link added: https://www.dinamani.com/all-editions/edition-dharmapuri/salem/2026/Nov/19/ரயிலில்-4-கிலோ-குட்கா-பறிமுதல்",
+  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-salem/hidden-mobile-in-jail-seized/4380199",
+  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-salem/liquor-dealers-caught-seized/4380211",
+  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-salem/reminder-training-for-handling-guns/4380204",
+  "manual link added: https://www.dinamani.com/all-editions/edition-dharmapuri/salem/2026/Nov/19/karnataka-fails-to-respect-supreme-court-verdict-durai-vaikos-accusation",
+  "candidate filter: collected=6",
+  "to write: 6 Salem district candidates (max 6 stories)",
+  "round: top 6 of 6 candidates",
+  "candidates waiting: 6 Salem; time left 79 min",
+  "try (N) manual=True: https://www.dinamani.com/all-editions/edition-dharmapuri/sal",
   "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-sale",
   "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-sale",
   "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 2})",
   "posting job started at once",
+  "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-sale",
   "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 4})",
-  "candidate loop ended: left 0, tried={'N': 2}, done={'N': 2}, time left 77 min",
-  "filed: 2 Salem district stories (target 2), reels only",
+  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 6})",
+  "try (N) manual=True: https://www.dinamani.com/all-editions/edition-dharmapuri/sal",
+  "try (N) manual=True: https://www.dinamani.com/all-editions/edition-dharmapuri/sal",
+  "NOT filed (N) சிறையில் துளையிட்டு  பதுக்கிய மொபைல் பறிமுதல்: duplicate after write",
+  "NOT filed (N) ரயிலில் 4 கிலோ குட்கா பறிமுதல்: not Salem district news (the story's first lines name another place and no Salem place)",
+  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 8})",
+  "candidate loop ended: left 0, tried={'N': 6}, done={'N': 4}, time left 77 min",
+  "filed: 4 Salem district stories (target 6), reels only",
   "queue: 0 news waiting to be written",
-  "All News sheet: {\"ok\":true,\"added\":2,\"updated\":0}"
+  "All News sheet: {\"ok\":true,\"added\":6,\"updated\":0}"
  ],
  "llm": [
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high d",
-  "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high d",
-  "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high d",
-  "switching away from gemini/gemini-3.6-flash for 10 min",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
   "dead for this round: gemini/gemini-3.6-flash",
   "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
   "dead for this round: gemini/gemini-3.5-flash",
-  "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high d",
-  "ok gemini/gemini-3-flash-preview (11s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
-  "dead for this round: gemini/gemini-3.5-flash",
-  "ok gemini/gemini-3-flash-preview (13s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok gemini/gemini-3-flash-preview (11s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok gemini/gemini-3-flash-preview (12s)",
+  "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high d",
+  "ok gemini/gemini-3-flash-preview (10s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, plea",
   "dead for this round: gemini/gemini-3-flash-preview",
-  "ok gemini/gemini-3-flash-preview (14s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
+  "dead for this round: gemini/gemini-3.6-flash",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
+  "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
+  "dead for this round: gemini/gemini-3.6-flash",
   "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
   "ok groq/openai/gpt-oss-120b (6s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
   "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
   "switching away from groq/openai/gpt-oss-120b for 10 min",
-  "ok groq/qwen/qwen3.8-27b (4s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
+  "switching away from groq/openai/gpt-oss-120b for 10 min",
   "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 400: {\"error\":{\"message\":\"Failed to generate JSON. Please adjust your prompt. See 'failed_gener",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
+  "switching away from groq/openai/gpt-oss-120b for 10 min",
   "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
-  "ok groq/qwen/qwen3.8-27b (0s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
+  "ok groq/qwen/qwen3.8-27b (5s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
   "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
+  "switching away from groq/qwen/qwen3.8-27b for 10 min",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
+  "switching away from groq/qwen/qwen3.8-27b for 10 min",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok groq/qwen/qwen3.8-27b (0s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok groq/qwen/qwen3.8-27b (0s)",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
-  "ok groq/qwen/qwen3.8-27b (1s)"
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok anthropic/claude-haiku-5-5"
  ],
  "stories": [
   {
-   "tamil_headline": "ஓமலூர் அரசு மருத்துவமனையில் காய்ச்சலால் தொழிலாளி உயிரிழப்பு",
-   "english_headline": "Weaver dies of fever at Omalur Government Hospital",
-   "category": "Health",
-   "location": "Omalur, Salem district",
+   "tamil_headline": "மேட்டூர் அருகே மதுபாட்டில் பறிமுதல்: இருவர் கைது",
+   "english_headline": "Two arrested for illegal liquor sale near Mettur; 11 and 16 bottles seized",
+   "category": "Crime & Safety",
+   "location": "Mettur, Salem district",
    "importance": "Medium",
    "scope": "local",
    "post_to": "Salem 360",
    "slides_spec": {
     "v": 3,
-    "cat": "சுகாதாரம்",
-    "loc": "ஓமலூர், சேலம்",
-    "hl1": "ஓமலூரில் காய்ச்சலால் தொழிலாளி உயிரிழப்பு",
-    "hl2": "36 வயது பூபதி உயிரிழப்பு",
+    "cat": "சட்டவிரோத மது விற்பனை",
+    "loc": "மேட்டூர்",
+    "hl1": "மேட்டூர் அருகே மது விற்றவர்கள் கைது",
+    "hl2": "11, 16 மதுபாட்டில்கள்",
     "slides": [
      {
-      "title": "சம்பவம்",
+      "title": "முதல் சம்பவம்",
       "lines": [
-       "ஓமலூர் அரசு மருத்துவமனையில் <b>36</b> வயது பூபதி உயிரிழந்தார்",
-       "பூம்பட்டியை சேர்ந்த நெசவு தொழிலாளி",
-       "மனைவி துர்கா, 2 குழந்தைகள் உள்ளனர்"
+       "பென்னாகரம், காவக்காடையைச் சேர்ந்த சக்தி வேல், <b>42</b>",
+       "நேற்று மாலை <b>5:30</b> மணிக்கு வேங்கானூர் பிரிவு அருகே விற்பனை",
+       "மேச்சேரி போலீசார் கைது செய்து <b>11</b> மதுபாட்டில்களை பறிமுதல்"
       ]
      },
      {
-      "title": "நிகழ்வுகள்",
+      "title": "இரண்டாம் சம்பவம்",
       "lines": [
-       "சில நாட்களாக காய்ச்சலால் அவதிப்பட்டார்",
-       "நேற்று முன்தினம் இரவு <b>8:00</b> மணிக்கு மருத்துவமனை வந்தார்",
-       "அவசர சிகிச்சைக்கு பின் வேறு படுக்கைக்கு மாற்றப்பட்டார்"
-      ]
-     },
-     {
-      "title": "விசாரணை",
-      "lines": [
-       "நேற்று அதிகாலை <b>5:00</b> மணிக்கு உயிரிழந்தார்",
-       "சுகாதாரத்துறை அதிகாரிகள் வீட்டை ஆய்வு செய்தனர்",
-       "மது அருந்தும் பழக்கம் காரணம் என தெரிவிக்கப்பட்டது"
+       "பாரக்கல்லூரில் தாரமங்கலம் போலீசார் ரோந்து",
+       "வீடு அருகே மது விற்ற சதீஷ், <b>30</b>, கைது",
+       "<b>16</b> மதுபாட்டில்கள், <b>350</b> ரூபாய் பறிமுதல்"
       ]
      }
     ],
     "carousel": false
    },
-   "reel_script": "ஓமலூர் அரசு மருத்துவமனையில் காய்ச்சலால் ஒரு தொழிலாளி உயிரிழந்தார். பூம்பட்டியை சேர்ந்தவர் பூபதி, 36 வயது. இவர் நெசவு தொழிலாளியாக பணியாற்றி வந்தார். இவரது மனைவி துர்கா, 32 வயது. இவர்களுக்கு 2 குழந்தைகள் உள்ளனர். சில நாட்களாக காய்ச்சலால் பூபதி அவதிப்பட்டு வந்தார். நேற்று முன்தினம் இரவு 8:00 மணிக்கு ஓமலூர் அரசு மருத்துவமனைக்கு வந்தார். அவசர சிகிச்சைக்கு பின் வேறு படுக்கைக்கு மாற்றப்பட்டார். நேற்று அதிகாலை 5:00 மணிக்கு பூபதி உயிரிழந்தார். இதையடுத்து சுகாதாரத்துறை அதிகாரிகள் பூம்பட்டியில் உள்ள அவர்களின் வீட்டை ஆய்வு செய்தனர். சேலம் மாவட்ட சுகாதார அலுவலர் சவுண்டம்மாளிடம் கேட்டபோது, மது அருந்தும் பழக்கத்தால் பூபதியின் உடல்நலம் பாதிக்கப்பட்டுள்ளது என தெரிவித்தார். பிரேத பரிசோதனைக்கு பின் உரிய விபரம் தெரியும் என கூறினார். மேலும் செய்திகளுக்கு சேலம் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "⚠️ ஓமலூரில் காய்ச்சலால் நெசவு தொழிலாளி உயிரிழப்பு\n\n📰 முழு விவரம்:\nஓமலூர், தொளசம்பட்டி அருகே பூம்பட்டியை சேர்ந்தவர் பூபதி, 36. இவர் நெசவு தொழிலாளி. இவரது மனைவி துர்கா, 32. இவர்களுக்கு 2 குழந்தைகள் உள்ளனர். சில நாட்களாக காய்ச்சலால் அவதிப்பட்ட பூபதி, நேற்று முன்தினம் இரவு 8:00 மணிக்கு ஓமலூர் அரசு மருத்துவமனை வந்தார். அவசர சிகிச்சைக்கு பின் வேறு படுக்கைக்கு மாற்றப்பட்டார். நேற்று அதிகாலை 5:00 மணிக்கு அவர் உயிரிழந்தார். சுகாதாரத்துறை அதிகாரிகள் பூம்பட்டியில் உள்ள அவர்களின் வீட்டை ஆய்வு செய்து விசாரித்தனர். சேலம் மாவட்ட சுகாதார அலுவலர் சவுண்டம்மாளிடம் கேட்டபோது, மது அருந்தும் பழக்கத்தால் பூபதி உடல்நலம் பாதிக்கப்பட்டுள்ளது என தெரிவித்தார். பிரேத பரிசோதனைக்கு பின் உரிய விபரம் தெரியும் என கூறினார்.\n\n📍 இடம்: ஓமலூர், சேலம்\n🗓️ நாள்: நேற்று (19 நவம்பர் 2026)\n🕘 நேரம்: அதிகாலை 5:00 மணி\n👮 நடவடிக்கை: சுகாதாரத்துறை அதிகாரிகள் வீட்டை ஆய்வு செய்தனர்\nℹ️ மக்கள் கவனத்திற்கு: மது அருந்தும் பழக்கம் உடல்நலத்தை பாதிக்கும்\n\nதேவைப்படுவோருக்கு Share செய்யுங்கள்\n\nOmalur weaver dies of fever | Salem news\n📍 Omalur, Salem | 19 Nov 2026\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Salem360 #Salem #Omalur #SalemNews #சேலம்",
-   "prompts": "A hospital attendant in white uniform pushes a wheeled stretcher past the emergency entrance of Omalur Government Hospital in the early morning, while a few relatives in simple shirts and sarees stand at a distance with their backs to the camera. The corridor is lit by tube lights, with a row of plastic chairs and a metal drip stand near a ward door, and the sky outside is still dark blue. The stretcher is covered with a plain white sheet, and the scene is calm and sombre with no visible faces. Shot at eye level, 35 mm, wide enough to show the corridor and the entrance, with the hospital's emergency area and the parked two-wheelers outside in the background. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up of a hospital bed in a government ward, its thin mattress and white bedsheet neatly folded, beside an empty metal IV drip stand and a plastic chair. In the soft background, a health department official in a shirt and trousers stands with his back to the camera, holding a clipboard, while a woman in a cotton saree sits far off near the doorway, slightly blurred. Morning light enters through a barred window, falling on the bed. Shot at eye level, 35 mm, focused on the bed and stand, showing the quiet, solemn mood of a hospital room after a death. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-salem/labourer-dies-of-fever/4380198",
-   "published": "2026-11-19T01:36:00+05:30",
-   "verification": "DRAFT (groq/qwen/qwen3.8-27b) - fact-check: no problems found",
-   "note": "free-model draft groq/qwen/qwen3.8-27b, 3 attempt(s), 0 validator problem(s)",
+   "reel_script": "மேட்டூர் அருகே சட்டவிரோதமாக மது விற்ற இருவர் போலீசாரால் கைது செய்யப்பட்டனர். முதல் சம்பவத்தில், தர்மபுரி மாவட்டம் பென்னாகரம், காவக்காடையைச் சேர்ந்த சக்தி வேல் (42 வயது), நேற்று மாலை 5:30 மணிக்கு மேச்சேரி - பென்னாகரம் சாலையில் வேங்கானூர் பிரிவு அருகே அரசு மதுபானங்களை வைத்து விற்பனையில் ஈடுபட்டார். இதையறிந்து சென்ற மேச்சேரி போலீசார் அவரைக் கைது செய்தனர். அவர் விற்பனைக்கு வைத்திருந்த 11 மதுபாட்டில்கள் பறிமுதல் செய்யப்பட்டன. இரண்டாம் சம்பவத்தில், தாரமங்கலம் போலீசார் பாரக்கல்லூரில் நேற்று ரோந்து சென்றனர். அப்போது பாரக்கல்லூரைச் சேர்ந்த சதீஷ் (30 வயது), வீட்டு அருகே மதுபாட்டில்களை விற்பனைக்கு வைத்திருந்தது தெரியவந்தது. அவரைக் கைது செய்த போலீசார், 16 மதுபாட்டில்கள் மற்றும் 350 ரூபாயைப் பறிமுதல் செய்தனர். மேலும் செய்திகளுக்கு சேலம் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🚨 மேட்டூர் அருகே மது விற்ற இருவர் கைது; 11, 16 மதுபாட்டில்கள் பறிமுதல்\n\n📰 முழு விவரம்:\nமேச்சேரி - பென்னாகரம் சாலையில் வேங்கானூர் பிரிவு அருகே, நேற்று மாலை 5:30 மணிக்கு அரசு மதுபானங்களை சட்டவிரோதமாக விற்ற பென்னாகரம், காவக்காடையைச் சேர்ந்த சக்தி வேல் (42 வயது), மேச்சேரி போலீசாரால் கைது செய்யப்பட்டார். அவரிடமிருந்து 11 மதுபாட்டில்கள் பறிமுதல் செய்யப்பட்டன.\nபாரக்கல்லூரில் நேற்று ரோந்து சென்ற தாரமங்கலம் போலீசார், வீடு அருகே மதுபாட்டில்களை விற்பனைக்கு வைத்திருந்த சதீஷ் (30 வயது), என்பவரைக் கைது செய்தனர். அவரிடமிருந்து 16 மதுபாட்டில்கள் மற்றும் 350 ரூபாய் பறிமுதல் செய்யப்பட்டன.\n\n📍 இடம்: மேட்டூர் அருகே வேங்கானூர் பிரிவு; தாரமங்கலம் பகுதி பாரக்கல்லூர்\n🗓️ நாள்: நேற்று (நவ. 18, 2026)\n🕘 நேரம்: மாலை 5:30 மணி (வேங்கானூர் சம்பவம்)\n👮 நடவடிக்கை: இருவரும் கைது; மதுபாட்டில்கள், பணம் பறிமுதல்\n\nMettur illegal liquor sale two arrested | Salem news\n📍 மேட்டூர், சேலம் மாவட்டம் | 19 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Salem360 #Salem #Mettur #SalemNews #சேலம்",
+   "prompts": "Police in khaki uniform stand beside a roadside spot on the Mecheri-Pennagaram road near Mettur as evening light fades, where a row of government liquor bottles lies on a small wooden table at the edge of the road. Two-wheelers and a private bus pass slowly along the tarmac behind the table, and shops with shutters half-closed line the roadside. A police jeep is parked nearby with its lights on. A few men in shirts and veshti stand at a distance, seen from behind. The scene is set in late afternoon daylight with a soft orange sky over the Shevaroy hills in the far background. Shot at eye level in a 35 mm wide frame so the road, the police, and the bottles are all visible. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up of 16 government liquor bottles and a small bundle of cash notes spread out on a plain table in a village street outside a house in Barakkallur, Salem district. A police officer's khaki-sleeved arm rests beside the table, and the blurred edge of a concrete house wall with a closed door sits behind it. Late afternoon daylight falls across the table from the side, showing the bottles' shapes and the folded notes clearly. Shot at slightly high eye level in a tight 35 mm frame, with the bottles in sharp focus and the background softly blurred. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-salem/liquor-dealers-caught-seized/4380211",
+   "published": "2026-11-19T01:44:00+05:30",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: slides must have 3 or 4 items",
+   "note": "free-model draft anthropic/claude-haiku-5-5, 13 attempt(s), 1 validator problem(s)",
    "post_time": "right after your reply, same day",
    "_area": "N",
    "_score": 999,
    "images": [
-    "https://res.cloudinary.com/jrmwajfz/image/upload/v1795035840/salem360/ere4acxhsvvigss4rzu0.jpg",
-    "https://res.cloudinary.com/jrmwajfz/image/upload/v1795035846/salem360/vjemmuos5bi9oxvwgtol.jpg"
+    "https://res.cloudinary.com/jrmwajfz/image/upload/v1795051148/salem360/wtzqd9bastqzhijofaiv.jpg",
+    "https://res.cloudinary.com/jrmwajfz/image/upload/v1795051150/salem360/bl61qnnqzbz4xhty7bmf.jpg"
    ]
   },
   {
-   "tamil_headline": "வீரபாண்டியில் கார் மரத்தில் மோதி டிரைவர் பலி; 11 பேர் மீட்பு",
-   "english_headline": "Driver killed as car hits tree near Veerapandi, Salem; 11 rescued and sent to hospitals",
+   "tamil_headline": "சேலத்தில் உச்சநீதிமன்றத் தீர்ப்பை மதிக்காத கர்நாடகம்: துரை வைகோ குற்றச்சாட்டு",
+   "english_headline": "Karnataka not respecting Supreme Court verdict on Cauvery, alleges Durai Vaiko in Salem",
+   "category": "Government & Services",
+   "location": "Salem city, Salem district",
+   "importance": "Medium",
+   "scope": "district",
+   "post_to": "Salem 360",
+   "slides_spec": {
+    "v": 3,
+    "cat": "அரசியல் கருத்து",
+    "loc": "சேலம்",
+    "hl1": "சேலம்: கர்நாடகம் தீர்ப்பை மதிக்கவில்லை",
+    "hl2": "துரை வைகோ குற்றச்சாட்டு",
+    "slides": [
+     {
+      "title": "என்ன சொன்னார்?",
+      "lines": [
+       "பிரதமர் முன்னிலையில் கர்நாடக முதல்வர் தவறாகப் பேசினார்",
+       "உச்சநீதிமன்றத் தீர்ப்புக்கு எதிராகப் பேசினார்",
+       "துரை வைகோ சேலத்தில் செய்தியாளர்களிடம் கூறினார்"
+      ]
+     },
+     {
+      "title": "காவிரி நீர்",
+      "lines": [
+       "வெள்ளம் வரும் காலங்களில் மட்டும் கர்நாடகம் தண்ணீர்",
+       "மற்ற நேரங்களில் தண்ணீர் திறப்பதில்லை",
+       "உச்சநீதிமன்றத் தீர்ப்பின்படி கர்நாடக அரசு செயல்படவில்லை"
+      ]
+     },
+     {
+      "title": "மேக்கேதாட்டு அணை",
+      "lines": [
+       "மேக்கேதாட்டு அணைக்கு மத்திய அரசு அனுமதி தரக்கூடாது",
+       "தமிழக முதல்வர் இதை தொடர்ந்து வலியுறுத்துகிறார்",
+       "தவெக அரசு உச்சநீதிமன்றத்தில் மனு தாக்கல் செய்துள்ளது"
+      ]
+     },
+     {
+      "title": "கோரிக்கை",
+      "lines": [
+       "உச்சநீதிமன்றம் இந்தப் பிரச்னையில் தலையிட வேண்டும்",
+       "தீர்ப்பை கர்நாடகம் பின்பற்றவில்லை என்றால் மத்திய அரசு",
+       "மத்திய அரசும் உச்சநீதிமன்றமும் முடிவெடுக்க வேண்டும்"
+      ]
+     }
+    ],
+    "carousel": false
+   },
+   "reel_script": "சேலத்தில் காவிரி விவகாரத்தில் கர்நாடகம் உச்சநீதிமன்றத் தீர்ப்பை மதிக்கவில்லை என துரை வைகோ குற்றம்சாட்டினார். பிரதமர் பங்கேற்ற மேடையிலேயே கர்நாடக முதல்வர் உச்சநீதிமன்றத் தீர்ப்புக்கு எதிராகப் பேசியுள்ளார் என்று அவர் கூறினார். சேலத்தில் புதன்கிழமை நடைபெற்ற திருமண நிகழ்வில் பங்கேற்ற பின்னர் அவர் செய்தியாளர்களிடம் இதனைத் தெரிவித்தார். வெள்ளப்பெருக்கு ஏற்படும் காலங்களில் மட்டுமே கர்நாடகம் தண்ணீர் திறந்துவிடுகிறது என்றும், மற்ற நேரங்களில் தண்ணீர் திறப்பதில்லை என்றும் அவர் தெரிவித்தார். தவெக அரசு உச்சநீதிமன்றத்தில் மனு தாக்கல் செய்துள்ளது. மேக்கேதாட்டு அணை கட்டுவதற்கு மத்திய அரசு அனுமதியும் ஒப்புதலும் வழங்கக் கூடாது என்று அவர் வலியுறுத்தினார். இந்தப் பிரச்னையில் உச்சநீதிமன்றம் தலையிட வேண்டும் என்றும், தீர்ப்பின்படி கர்நாடகம் செயல்படவில்லை என்றால் மத்திய அரசு கேள்வி கேட்க வேண்டும் என்றும் கூறினார். மேலும் செய்திகளுக்கு சேலம் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🏛️ சேலம்: உச்சநீதிமன்றத் தீர்ப்பை மதிக்காத கர்நாடகம் - துரை வைகோ குற்றச்சாட்டு\n\n📰 முழு விவரம்:\nகாவிரி விவகாரத்தில் பிரதமர் பங்கேற்ற நிகழ்ச்சியின் மேடையிலேயே உச்சநீதிமன்றத் தீர்ப்புக்கு எதிராக கர்நாடக முதல்வர் பேசியுள்ளதாக மதிமுக முதன்மைச் செயலாளர் துரை வைகோ குற்றம்சாட்டினார்.\nசேலத்தில் புதன்கிழமை நடைபெற்ற திருமண நிகழ்வில் பங்கேற்ற பின்னர் அவர் செய்தியாளர்களிடம் இதனைத் தெரிவித்தார்.\nவெள்ளப்பெருக்கு ஏற்படும் காலங்களில் மட்டுமே கர்நாடகம் தண்ணீர் திறந்துவிடுகிறது; மற்ற நேரங்களில் திறப்பதில்லை என்றார்.\nதவெக அரசு உச்சநீதிமன்றத்தில் மனு தாக்கல் செய்துள்ளது. மேக்கேதாட்டு அணை கட்ட மத்திய அரசு அனுமதி, ஒப்புதல் வழங்கக் கூடாது என்றார்.\n⚖️ உச்சநீதிமன்றம் இந்தப் பிரச்னையில் தலையிட வேண்டும் என்றும், தீர்ப்பின்படி கர்நாடகம் செயல்படவில்லை என்றால் மத்திய அரசு கேள்வி கேட்க வேண்டும் என்றும் கூறினார்.\n\nDurai Vaiko Cauvery Karnataka Supreme Court | Salem news\n📍 சேலம் மாவட்டம் | 19 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Salem360 #Salem #SalemNews #சேலம்",
+   "prompts": "A group of press reporters with microphones and notepads surrounds a politician in white veshti and shirt, speaking outside a wedding hall in Salem city, Tamil Nadu. The politician is shown from behind or far away and slightly blurred, gesturing as he speaks. Around him stand a few men in shirts and veshti, some reporters holding voice recorders on sticks toward him, and a few party cadres in the background near the hall entrance. The setting is a wide, busy urban street in Salem with two-wheelers parked along the road, a tall concrete electric pole, and the low hills of Yercaud faintly visible in the far background. It is Wednesday daytime with bright natural light and clear sky. Camera at eye level, 35 mm, wide enough to show the hall entrance, the crowd of reporters and the street. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up detail of a cluster of reporters' microphones and voice recorders bunched together, held forward toward an unseen speaker, with notepads and a pen visible in the hands of the reporters. The microphones carry no readable logos or text. Behind them is a blurred view of a wedding hall entrance with decorated pillars and a garland of flowers hung over the doorway, and the blurred figure of a man in a white shirt and veshti speaking, seen from behind. Soft daylight falls across the microphones. Shallow depth of field, 35 mm, camera slightly high to capture the hands and equipment and the blurred hall beyond. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamani.com/all-editions/edition-dharmapuri/salem/2026/Nov/19/karnataka-fails-to-respect-supreme-court-verdict-durai-vaikos-accusation",
+   "published": "2026-11-19T00:41:29.389Z",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: reel_script sentence 1 (heard in the first 3 seconds) must name the place 'சேலம்' and the news itself, e.g. 'சேலம்-இல் ... 3 பேர் கைது.' - viewers decide in 3 seconds whether the news is about their area",
+   "note": "free-model draft anthropic/claude-haiku-5-5, 13 attempt(s), 1 validator problem(s)",
+   "post_time": "right after your reply, same day",
+   "_area": "N",
+   "_score": 999,
+   "images": [
+    "https://res.cloudinary.com/jrmwajfz/image/upload/v1795051157/salem360/t0b2usdmuymbidfwplts.jpg",
+    "https://res.cloudinary.com/jrmwajfz/image/upload/v1795051163/salem360/rebozuqnrzki1kpzxybc.jpg"
+   ]
+  },
+  {
+   "tamil_headline": "சேலம் மாநகர போலீசாருக்கு துப்பாக்கி கையாளும் நினைவூட்டல் பயிற்சி",
+   "english_headline": "Refresher firearms training held for Salem city police selected for VIP security duty",
    "category": "Crime & Safety",
-   "location": "Veerapandi, Salem district",
-   "importance": "High",
+   "location": "Annadanapatti, Salem city, Salem district",
+   "importance": "Medium",
    "scope": "local",
    "post_to": "Salem 360",
    "slides_spec": {
     "v": 3,
-    "cat": "சாலை விபத்து",
-    "loc": "வீரபாண்டி, சேலம்",
-    "hl1": "வீரபாண்டியில் கார் மரத்தில் மோதி",
-    "hl2": "11 பேர் மீட்பு",
+    "cat": "போலீஸ் பயிற்சி",
+    "loc": "அன்னதானப்பட்டி, சேலம்",
+    "hl1": "அன்னதானப்பட்டி: சேலத்தில் போலீசாருக்கு",
+    "hl2": "50க்கும் மேற்பட்டோர்",
+    "slides": [
+     {
+      "title": "என்ன பயிற்சி?",
+      "lines": [
+       "அமைச்சர், நீதிபதிகள் பாதுகாப்புப் பணிக்குத் தேர்வானோருக்கு",
+       "பிஸ்டல், ரிவால்வர், ஏ.கே.47, இன்சாஸ் துப்பாக்கிகள்",
+       "துப்பாக்கி வகை, செயல்படும் விதம் விளக்கப்பட்டது"
+      ]
+     },
+     {
+      "title": "எங்கே, எப்போது?",
+      "lines": [
+       "அன்னதானப்பட்டி ஆயுதப்படை மைதானம்",
+       "நேற்று நடைபெற்றது",
+       "சேலம் மாநகர போலீசார் ஏற்பாடு செய்தனர்"
+      ]
+     },
+     {
+      "title": "அடுத்தது என்ன?",
+      "lines": [
+       "நகரமலை அடிவாரத்தில் உள்ள துப்பாக்கி சுடும் பயிற்சி",
+       "துப்பாக்கியை பராமரிக்கும், எடுத்துச்செல்லும் பாதுகாப்பு",
+       "போலீஸ் அதிகாரிகள் இதைத் தெரிவித்தனர்"
+      ]
+     }
+    ],
+    "carousel": false
+   },
+   "reel_script": "சேலத்தில் 50க்கும் மேற்பட்ட மாநகர போலீசாருக்கு துப்பாக்கி கையாளும் நினைவூட்டல் பயிற்சி நடைபெற்றது. இவர்கள் அமைச்சர்கள், நீதிபதிகள், உயர் அதிகாரிகள் போன்ற வி ஐ பி களின் பாதுகாப்புப் பணியில் ஈடுபடுவார்கள். இவர்கள் சேலம் மாநகர போலீசாரால் தேர்வு செய்யப்பட்டவர்கள். பயிற்சி நேற்று அன்னதானப்பட்டியில் உள்ள ஆயுதப்படை மைதானத்தில் அளிக்கப்பட்டது. பிஸ்டல், ரிவால்வர், ஏ.கே.47, இன்சாஸ் உள்ளிட்ட அனைத்து வகை துப்பாக்கிகள் கையாளப்பட்டன. துப்பாக்கி வகை, அவை செயல்படும் விதம், ஒவ்வொரு வகையிலும் எவ்வளவு தூரம் சுட முடியும் என்பது குறித்து செயல்முறை விளக்கம் அளிக்கப்பட்டது. துப்பாக்கிகளை பராமரிக்கும் முறை மற்றும் எடுத்துச்செல்லும்போது பின்பற்ற வேண்டிய பாதுகாப்பு வழிமுறைகளும் கற்றுத்தரப்பட்டன. தொடர்ந்து நகரமலை அடிவாரத்தில் உள்ள துப்பாக்கி சுடும் பயிற்சி மைதானத்தில் பயிற்சி அளிக்கப்படும் என போலீஸ் அதிகாரிகள் தெரிவித்தனர். மேலும் செய்திகளுக்கு சேலம் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🔫 சேலத்தில் போலீசாருக்கு துப்பாக்கிப் பயிற்சி: 50க்கும் மேற்பட்டோர் பங்கேற்பு\n\n📰 முழு விவரம்:\nசேலத்தில் நடைபெறும் நிகழ்ச்சிகளில் பங்கேற்க வரும் அமைச்சர்கள், நீதிபதிகள், உயர் அதிகாரிகள் போன்ற வி.ஐ.பி.களின் பாதுகாப்புப் பணியில் 50க்கும் மேற்பட்ட சேலம் மாநகர போலீசார் ஈடுபடுவார்கள். அவர்களுக்கு நேற்று அன்னதானப்பட்டியில் உள்ள ஆயுதப்படை மைதானத்தில் நினைவூட்டல் பயிற்சி அளிக்கப்பட்டது.\n🔫 பிஸ்டல், ரிவால்வர், ஏ.கே.47, இன்சாஸ் உள்ளிட்ட அனைத்து வகை துப்பாக்கிகள் கையாளப்பட்டன.\n🎯 துப்பாக்கி வகை, செயல்படும் விதம், ஒவ்வொன்றும் எவ்வளவு தூரம் சுட முடியும் என்பது குறித்து செயல்முறை விளக்கம் அளிக்கப்பட்டது.\n🛠️ துப்பாக்கிகளை பராமரிக்கும் வழிமுறை, எடுத்துச்செல்லும்போது பாதுகாப்பு வழிமுறைகள் குறித்தும் விளக்கப்பட்டன.\n📍 தொடர்ந்து நகரமலை அடிவாரத்தில் உள்ள துப்பாக்கி சுடும் பயிற்சி மைதானத்தில் பயிற்சி அளிக்கப்படும் என போலீஸ் அதிகாரிகள் தெரிவித்தனர்.\n\nRefresher firearms training for 50+ Salem city police at Annadanapatti | Salem news\n📍 அன்னதானப்பட்டி, சேலம் மாநகரம், சேலம் மாவட்டம் | 19 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Salem360 #Salem #SalemNews #சேலம்",
+   "prompts": "Rows of Tamil Nadu police personnel in khaki uniforms stand on the open Armed Reserve ground at Annadanapatti, Salem city, listening to an instructor as they practise handling firearms during a refresher training session. Seen from behind at a distance, about fifty officers are arranged in neat lines on the dusty parade ground, some holding pistols and revolvers at the ready while others hold AK-47 and INSAS rifles pointed safely downward. Beyond them stand low barracks, a tall flagpole and a few neem trees, with the outline of distant hills at the edge of the frame. The officers wear khaki shirts and trousers and caps, and the instructor in front gestures toward a demonstration table. It is a bright daylight scene with clear sky and soft shadows on the ground, shot at eye level with a 35 mm lens wide enough to show the whole parade ground and the lines of officers. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up of a pistol and a revolver lying on a wooden table in the Armed Reserve ground at Annadanapatti, Salem city, placed beside a row of AK-47 and INSAS rifles resting on a rack. The metal of the weapons gleams in bright daylight, with the barrels pointed safely and no fingers on triggers. Behind the table, out of focus, a khaki-uniformed police instructor stands seen from behind, his cap and shoulders visible while he explains the weapons. The background shows the dusty parade ground and a few neem trees. Shot slightly high at about 35 mm, the frame concentrates on the rifles and pistols laid out for the maintenance and handling lesson, with shallow focus softening the people and buildings behind. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-salem/reminder-training-for-handling-guns/4380204",
+   "published": "2026-11-19T01:40:00+05:30",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: reel_script sentence 1 (heard in the first 3 seconds) must name the place 'அன்னதானப்பட்டி' and the news itself, e.g. 'அன்னதானப்பட்டி-இல் ... 3 பேர் கைது.' - viewers decide in 3 seconds whether the news is about their area",
+   "note": "free-model draft anthropic/claude-haiku-5-5, 13 attempt(s), 1 validator problem(s)",
+   "post_time": "right after your reply, same day",
+   "_area": "N",
+   "_score": 999,
+   "images": [
+    "https://res.cloudinary.com/jrmwajfz/image/upload/v1795051170/salem360/lvh6ml1vb5gqqttpubad.jpg",
+    "https://res.cloudinary.com/jrmwajfz/image/upload/v1795051173/salem360/hxa34hxdrkehnwtlmzfx.jpg"
+   ]
+  },
+  {
+   "tamil_headline": "ஓமலூர் அருகே இளைஞர் உயிரிழப்பு: போலீஸார் விசாரணை",
+   "english_headline": "Youth dies in Omalur area; police investigating the death",
+   "category": "Crime & Safety",
+   "location": "Thotasampatti area, Omalur taluk, Salem district",
+   "importance": "Medium",
+   "scope": "local",
+   "post_to": "Salem 360",
+   "slides_spec": {
+    "v": 3,
+    "cat": "போலீஸ் விசாரணை",
+    "loc": "தொளசம்பட்டி, ஓமலூர்",
+    "hl1": "ஓமலூர் அருகே இளைஞர் உயிரிழப்பு",
+    "hl2": "போலீஸார் விசாரணை",
     "slides": [
      {
       "title": "என்ன நடந்தது?",
       "lines": [
-       "நேற்று இரவு <b>10:50</b> மணிக்கு வீரபாண்டியில் விபத்து",
-       "கட்டுப்பாட்டை இழந்த கார் தாறுமாறாக ஓடியது",
-       "கார் சாலையோர <b>புளிய மரத்தில்</b> மோதியது"
+       "ஓமலூர் அருகே பூம்பட்டியைச் சேர்ந்த இளைஞர் உயிரிழந்தார்",
+       "இறந்தவர் பூபதி, <b>32 வயது</b> தறித்தொழிலாளி",
+       "அவர் ஓமலூர் அரசு மருத்துவமனையில் புதன்கிழமை உயிரிழந்தார்"
       ]
      },
      {
-      "title": "யார் யார்?",
+      "title": "சிகிச்சை விவரம்",
       "lines": [
-       "நாமக்கல் மாவட்டம் மின்னக்கல்லைச் சேர்ந்த செல்வபிரியன், <b>45</b>",
-       "காரை ஓட்டிச் சென்றவர் சம்பவ இடத்திலேயே உயிரிழந்தார்",
-       "எதிரே வந்த அரசு பஸ்ஸின் டிரைவர் படுகாயம்"
-      ]
-     },
-     {
-      "title": "பயணிகள் நிலை",
-      "lines": [
-       "பஸ்ஸும் சாலையோர புளிய மரத்தில் மோதியது",
-       "பயணிகள் சிலர் லேசான காயம் அடைந்தனர்",
-       "<b>11 பேர்</b> மீட்கப்பட்டு சேலம் மருத்துவமனைகளுக்கு"
+       "கடந்த <b>17ஆம் தேதி</b> தொளசம்பட்டி தனியார் மருத்துவமனையில்",
+       "பின்னர் உயர் சிகிச்சைக்காக ஓமலூர் அரசு மருத்துவமனையில்",
+       "காய்ச்சல் காரணமாக வீட்டில் இருந்தார்"
       ]
      },
      {
       "title": "போலீஸ் விசாரணை",
       "lines": [
-       "ஆட்டையாம்பட்டி போலீசார் விசாரணை நடத்துகின்றனர்",
-       "சேலம் நோக்கி வந்த கார் கட்டுப்பாட்டை இழந்தது",
-       "பஸ் கார் மீது மோதாமல் திருப்பப்பட்டதால் விபத்து"
+       "தாய் மாதம்மாள் அளித்த புகாரில் தொளசம்பட்டி போலீஸார்",
+       "உடல் பிரேத பரிசோதனைக்காக சேலம் அரசு மருத்துவமனைக்கு",
+       "காய்ச்சல் காரணமா அல்லது வேறு காரணமா என விசாரணை நடக்கிறது"
       ]
      }
     ],
     "carousel": false
    },
-   "reel_script": "வீரபாண்டியில் கார் மரத்தில் மோதியதில் டிரைவர் உயிரிழந்தார். நேற்று இரவு 10:50 மணிக்கு சேலம் மாவட்டம் வீரபாண்டியில் இந்த விபத்து நடந்தது. நாமக்கல் மாவட்டம் மின்னக்கல்லைச் சேர்ந்த செல்வபிரியன் (45 வயது), சேலம் நோக்கி சான்ட்ரோ காரில் வந்துகொண்டிருந்தார். அப்போது கார் கட்டுப்பாட்டை இழந்து தாறுமாறாக ஓடியது. எதிரே சேலத்திலிருந்து திருச்செங்கோடு நோக்கி வந்த அரசு பஸ்ஸின் டிரைவர், கார் மீது மோதாமல் இருக்க பஸ்ஸைத் திருப்பினார். பஸ் சாலையோர புளிய மரத்தில் மோதியது. கார் அருகிலிருந்த மற்றொரு புளிய மரத்தில் மோதி நொறுங்கியது. செல்வபிரியன் சம்பவ இடத்திலேயே உயிரிழந்தார். பஸ் டிரைவர் படுகாயம் அடைந்தார். பயணிகள் சிலர் லேசான காயம் அடைந்தனர். அப்பகுதி மக்கள் 11 பேரை மீட்டு, சேலம் அரசு மற்றும் தனியார் மருத்துவமனைகளுக்கு அனுப்பினர். ஆட்டையாம்பட்டி போலீசார் விசாரித்து வருகின்றனர். மேலும் செய்திகளுக்கு சேலம் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🚨 வீரபாண்டியில் கார் மரத்தில் மோதி டிரைவர் பலி\n\n📰 முழு விவரம்:\nநேற்று இரவு 10:50 மணிக்கு சேலம் மாவட்டம் வீரபாண்டியில் கார் கட்டுப்பாட்டை இழந்து தாறுமாறாக ஓடி சாலையோர புளிய மரத்தில் மோதியது. நாமக்கல் மாவட்டம் மின்னக்கல்லைச் சேர்ந்த செல்வபிரியன் (45 வயது), சம்பவ இடத்திலேயே உயிரிழந்தார். கார் மீது மோதாமல் இருக்க திருப்பப்பட்ட அரசு பஸ் சாலையோர புளிய மரத்தில் மோதியது; பஸ் டிரைவர் படுகாயம் அடைந்தார். பயணிகள் சிலர் லேசான காயம் அடைந்தனர். அப்பகுதி மக்கள் 11 பேரை மீட்டு சேலம் அரசு மற்றும் தனியார் மருத்துவமனைகளுக்கு அனுப்பினர்.\n📍 இடம்: வீரபாண்டி, சேலம் மாவட்டம்\n🕘 நேரம்: நேற்று இரவு 10:50 மணி\n👮 நடவடிக்கை: ஆட்டையாம்பட்டி போலீசார் விசாரணை நடத்துகின்றனர்\n\nSalem Veerapandi car tree accident driver dead | Salem news\n📍 வீரபாண்டி, சேலம் | 19 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Salem360 #Salem #Veerapandi #விபத்து #SalemNews",
-   "prompts": "A crumpled silver car is smashed against a tamarind tree on the roadside at night, illustrating the fatal accident. The location is the Salem-Tiruchengode road near Veerapandi, with dark rural surroundings and streetlights providing dim illumination. In the background, a government bus is visible, its front end damaged after hitting another tamarind tree while swerving. A group of local residents and police officers in khaki uniforms stand at a safe distance, observing the scene. The car is severely deformed, with its hood crushed. The bus is angled towards the tree. The scene is lit by emergency vehicle lights and ambient street lighting. The camera is positioned at eye level, 35 mm lens, capturing the full extent of the collision and the vehicles involved. No readable text or logos are visible on the vehicles. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up of the crumpled front section of the silver car, showing the metal twisted and bent against the rough bark of the tamarind tree. The car's bumper is missing, and the engine compartment is exposed and damaged. The tree trunk shows signs of impact with broken branches and scattered leaves on the ground. The lighting is artificial, casting sharp shadows on the damaged metal. The focus is tight on the point of impact, highlighting the severity of the crash. The background is blurred, showing only the dark foliage of the tree and the dim road surface. No people or other vehicles are in the immediate frame, ensuring the focus remains on the damaged vehicle and the tree. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-salem/driver-killed-as-car-rams-into-tree/4380208",
-   "published": "2026-11-19T01:42:00+05:30",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5) - fact-check: no problems found",
-   "note": "free-model draft anthropic/claude-haiku-5-5, 12 attempt(s), 0 validator problem(s)",
+   "reel_script": "ஓமலூர் அருகே 32 வயது இளைஞர் ஒருவர் உயிரிழந்தது குறித்து போலீஸார் விசாரணை நடத்தி வருகின்றனர். பூம்பட்டியைச் சேர்ந்த பூபதி, தறித்தொழிலாளி. கடந்த சில நாட்களாகக் காய்ச்சல் காரணமாக வீட்டில் இருந்தார். கடந்த 17ஆம் தேதி தொளசம்பட்டியில் உள்ள தனியார் மருத்துவமனையில் சேர்க்கப்பட்டார். பின்னர் உயர் சிகிச்சைக்காக ஓமலூர் அரசு மருத்துவமனைக்கு மாற்றப்பட்டார். அங்கு அவர் புதன்கிழமை உயிரிழந்தார். இதுகுறித்து அவரது தாய் மாதம்மாள் அளித்த புகாரின் பேரில் தொளசம்பட்டி போலீஸார் வழக்குப் பதிவு செய்துள்ளனர். பிரேத பரிசோதனைக்காக உடல் சேலம் அரசு மருத்துவமனைக்கு அனுப்பப்பட்டுள்ளது. காய்ச்சல் காரணமா அல்லது வேறு ஏதேனும் காரணம் உள்ளதா என்பது குறித்து போலீஸார் விசாரித்து வருகின்றனர். இதற்கிடையே, அவரது மனைவியும் காய்ச்சல் பாதிப்பால் சிகிச்சை பெற்று வருகிறார். மேலும் செய்திகளுக்கு சேலம் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🚨 ஓமலூர் அருகே இளைஞர் உயிரிழப்பு: போலீஸார் விசாரணை\n\n📰 முழு விவரம்:\nஓமலூர் வட்டம் தொளசம்பட்டியை அடுத்த பூம்பட்டியைச் சேர்ந்த பூபதி (32 வயது), தறித்தொழிலாளி, உயிரிழந்தார். கடந்த சில நாட்களாகக் காய்ச்சல் காரணமாக வீட்டில் இருந்தார். கடந்த 17ஆம் தேதி தொளசம்பட்டி தனியார் மருத்துவமனையில் சேர்க்கப்பட்டார். பின்னர் ஓமலூர் அரசு மருத்துவமனையில் உயர் சிகிச்சை பெற்று, புதன்கிழமை உயிரிழந்தார். அவரது மனைவியும் காய்ச்சல் பாதிப்பால் சிகிச்சை பெற்று வருகிறார்.\n📍 இடம்: பூம்பட்டி, தொளசம்பட்டி அருகே, ஓமலூர் வட்டம்\n🗓️ நாள்: நவம்பர் 19, 2026 (வியாழக்கிழமை)\n👮 நடவடிக்கை: தாய் மாதம்மாளின் புகாரின் பேரில் தொளசம்பட்டி போலீஸார் வழக்குப் பதிவு. உடல் பிரேத பரிசோதனைக்காக சேலம் அரசு மருத்துவமனைக்கு அனுப்பப்பட்டது.\nℹ️ மரணத்துக்கான காரணம் காய்ச்சலா அல்லது வேறு ஏதேனும் காரணமா என போலீஸார் விசாரித்து வருகின்றனர்.\n\nOmalur youth death, police probe | Salem news\n📍 ஓமலூர், சேலம் மாவட்டம் | 19 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Salem360 #Salem #Omalur #SalemNews #சேலம்",
+   "prompts": "A Tamil Nadu police sub-inspector in khaki uniform stands at the entrance of a small police station in Thotasampatti, Omalur taluk, Salem district, taking notes in a register as he begins an inquiry into a death. The station is a single-storey concrete building with a tiled veranda and a plain wooden bench outside; a rolled-up police flag hangs by the gate and a dusty road with a parked two-wheeler and an autorickshaw runs past in the background. Two villagers in shirts and veshti stand at a distance, their backs to the camera, waiting near the gate. Daylight, slightly overcast and humid, with the Shevaroy hills faintly visible far behind the village. Camera at eye level, 35 mm, wide enough to show the station veranda, the road and the surrounding village houses, with no faces visible and no readable signboards. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up of an open government hospital case-sheet file and a plain steel medicine tray on a wooden table in the outpatient corridor of a government hospital in Omalur, Salem district, with a pen resting across the papers and a folded khaki police handkerchief beside them. Behind the table, a faded blue-painted wall and a row of empty plastic chairs show the quiet, worried atmosphere of a hospital waiting area. Soft daylight falls through a barred window, casting gentle shadows across the papers and the tray. Camera slightly high, 35 mm close-up focused on the papers and tray, with no readable text, names or labels visible and no people in frame. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamani.com/all-editions/edition-dharmapuri/salem/2026/Nov/19/இளைஞா்-உயிரிழப்பு-போலீஸாா்-விசாரணை-2",
+   "published": "2026-11-19T00:44:27.122Z",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: sentence 1 (one-line story) has 12 words; make it 6-9 words (about 2-3 seconds), the details follow in the next sentences",
+   "note": "free-model draft anthropic/claude-haiku-5-5, 13 attempt(s), 1 validator problem(s)",
    "post_time": "right after your reply, same day",
    "_area": "N",
    "_score": 999,
    "images": [
-    "https://res.cloudinary.com/jrmwajfz/image/upload/v1795035863/salem360/q75p2itdap2itkoxlk4z.jpg",
-    "https://res.cloudinary.com/jrmwajfz/image/upload/v1795035870/salem360/bmohl5njihxvbh3hr2fh.jpg"
+    "https://res.cloudinary.com/jrmwajfz/image/upload/v1795051215/salem360/zorhgwzsafzodgtc4ak6.jpg",
+    "https://res.cloudinary.com/jrmwajfz/image/upload/v1795051218/salem360/y4o30qhw73sw19y2uywt.jpg"
    ]
   }
  ]
