@@ -151,7 +151,8 @@
    "score": 13.5,
    "power_cut": true,
    "listed_at": "2026-11-20T04:28:55.397416+05:30",
-   "picked_at": "2026-11-20T04:31:19.853070+05:30"
+   "picked_at": "2026-11-20T04:31:19.853070+05:30",
+   "refused": "not filed: stale: announced date 19 Nov has passed"
   },
   "C30ac276": {
    "id": "C30ac276",
@@ -176,7 +177,8 @@
    "score": 12.5,
    "power_cut": false,
    "listed_at": "2026-11-20T04:28:55.397416+05:30",
-   "picked_at": "2026-11-20T04:31:19.853073+05:30"
+   "picked_at": "2026-11-20T04:31:19.853073+05:30",
+   "posted": true
   },
   "Cfbf8708": {
    "id": "Cfbf8708",
@@ -189,7 +191,8 @@
    "score": 11.5,
    "power_cut": false,
    "listed_at": "2026-11-20T04:28:55.397416+05:30",
-   "picked_at": "2026-11-20T04:31:19.853075+05:30"
+   "picked_at": "2026-11-20T04:31:19.853075+05:30",
+   "posted": true
   },
   "C53f7bd7": {
    "id": "C53f7bd7",
@@ -202,7 +205,8 @@
    "score": 11.5,
    "power_cut": false,
    "listed_at": "2026-11-20T04:28:55.397416+05:30",
-   "picked_at": "2026-11-20T04:31:19.853076+05:30"
+   "picked_at": "2026-11-20T04:31:19.853076+05:30",
+   "posted": true
   },
   "C2763398": {
    "id": "C2763398",
@@ -215,7 +219,8 @@
    "score": 10.0,
    "power_cut": false,
    "listed_at": "2026-11-20T04:28:55.397416+05:30",
-   "picked_at": "2026-11-20T04:31:19.853078+05:30"
+   "picked_at": "2026-11-20T04:31:19.853078+05:30",
+   "posted": true
   },
   "C45946c7": {
    "id": "C45946c7",
@@ -228,7 +233,8 @@
    "score": 10.0,
    "power_cut": false,
    "listed_at": "2026-11-20T04:28:55.397416+05:30",
-   "picked_at": "2026-11-20T04:31:19.853079+05:30"
+   "picked_at": "2026-11-20T04:31:19.853079+05:30",
+   "posted": true
   },
   "Ca3df8f3": {
    "id": "Ca3df8f3",
@@ -241,7 +247,8 @@
    "score": 9.85,
    "power_cut": false,
    "listed_at": "2026-11-20T04:28:55.397416+05:30",
-   "picked_at": "2026-11-20T04:31:19.853081+05:30"
+   "picked_at": "2026-11-20T04:31:19.853081+05:30",
+   "posted": true
   },
   "C0def0f3": {
    "id": "C0def0f3",
@@ -266,7 +273,8 @@
    "score": 8.85,
    "power_cut": false,
    "listed_at": "2026-11-20T04:28:55.397416+05:30",
-   "picked_at": "2026-11-20T04:31:19.853082+05:30"
+   "picked_at": "2026-11-20T04:31:19.853082+05:30",
+   "posted": true
   },
   "C3dae6d3": {
    "id": "C3dae6d3",
@@ -1381,7 +1389,10 @@
     "Ca3df8f3",
     "Cfa63cc6",
     "Cfbf8708"
-   ]
+   ],
+   "refused": {
+    "C970e164": "not filed: stale: announced date 19 Nov has passed"
+   }
   }
  },
  "retry": {
