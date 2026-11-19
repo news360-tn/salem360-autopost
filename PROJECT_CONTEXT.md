@@ -83,6 +83,17 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 <!-- recent-changes:start (updated automatically by .github/workflows/context.yml - do not edit by hand) -->
 | Date | Commit | Change |
 |---|---|---|
+| 2026-11-19 | `95ea0c7` | 19 Nov owner changes: reel length / wording, source first comment, 360 gold reel, posting windows, rasipalan before 9 AM |
+| 2026-11-19 | `307c4bb` | powercut: notices written |
+| 2026-11-19 | `9cd493d` | powercut: notices written |
+| 2026-11-19 | `a735f7c` | pick: written and posted |
+| 2026-11-19 | `12b4698` | pick: picked news saved |
+| 2026-11-19 | `61c173b` | pick: picked news saved |
+| 2026-11-19 | `b2b936f` | pick: list sent |
+| 2026-11-19 | `a340777` | pick: written and posted |
+| 2026-11-19 | `2cb3f3c` | pick: picked news saved |
+| 2026-11-19 | `5008e31` | pick: picked news saved |
+| 2026-11-19 | `f0be598` | pick: list sent |
 | 2026-11-19 | `afb0509` | rasipalan + goldrate: publish again when Instagram says 'media not ready' (9007, nothing posted - Erode 19 Nov); Cloudinary upload tried 3 times with its reason in the log (Rasipuram rasipalan posted 18:43 on 18 Nov after 3 refusals) |
 | 2026-11-19 | `5dced0f` | PROJECT_CONTEXT.md: wording ('<district>-district news') |
 | 2026-11-19 | `64c4eb4` | PROJECT_CONTEXT.md: page names with a space (Salem 360 style), not an underscore |
@@ -102,15 +113,4 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 | 2026-11-19 | `5df711a` | pick: picked news saved |
 | 2026-11-19 | `5f35977` | pick: picked news saved |
 | 2026-11-19 | `b7150c8` | pick: list sent |
-| 2026-11-19 | `e1444c4` | pick: written and posted |
-| 2026-11-19 | `588bfa3` | goldrate posted |
-| 2026-11-19 | `c9cc39c` | pick: picked news saved |
-| 2026-11-19 | `de51fba` | pick: picked news saved |
-| 2026-11-19 | `62ed79e` | pick: list sent |
-| 2026-11-19 | `e10d110` | pick: written and posted |
-| 2026-11-19 | `6e579e0` | rasipalan posted |
-| 2026-11-19 | `ce98d8b` | pick: picked news saved |
-| 2026-11-19 | `22777ff` | pick: picked news saved |
-| 2026-11-19 | `c58cdc6` | pick: list sent |
-| 2026-11-18 | `de1f605` | pick: written and posted |
 <!-- recent-changes:end -->
