@@ -165,7 +165,8 @@
    "score": 6.92,
    "power_cut": false,
    "listed_at": "2026-11-19T18:35:25.689837+05:30",
-   "picked_at": "2026-11-19T18:39:07.763278+05:30"
+   "picked_at": "2026-11-19T18:39:07.763278+05:30",
+   "refused": "not filed: duplicate after write"
   },
   "Ccbbd488": {
    "id": "Ccbbd488",
@@ -181,7 +182,8 @@
     "https://www.dailythanthi.com/news/tamilnadu/3195-special-buses-to-operate-for-the-weekend"
    ],
    "listed_at": "2026-11-19T18:35:25.689837+05:30",
-   "picked_at": "2026-11-19T18:39:07.763284+05:30"
+   "picked_at": "2026-11-19T18:39:07.763284+05:30",
+   "refused": "not filed: not Salem district news (the story's first lines name another place and no Salem place)"
   },
   "C961205e": {
    "id": "C961205e",
@@ -194,7 +196,8 @@
    "score": 6.0,
    "power_cut": false,
    "listed_at": "2026-11-19T18:35:25.689837+05:30",
-   "picked_at": "2026-11-19T18:39:07.763280+05:30"
+   "picked_at": "2026-11-19T18:39:07.763280+05:30",
+   "posted": true
   },
   "C478857e": {
    "id": "C478857e",
@@ -207,7 +210,8 @@
    "score": 6.0,
    "power_cut": false,
    "listed_at": "2026-11-19T18:35:25.689837+05:30",
-   "picked_at": "2026-11-19T18:39:07.763282+05:30"
+   "picked_at": "2026-11-19T18:39:07.763282+05:30",
+   "posted": true
   },
   "C0388b51": {
    "id": "C0388b51",
@@ -235,7 +239,8 @@
    "score": 3.0,
    "power_cut": false,
    "listed_at": "2026-11-19T18:35:25.689837+05:30",
-   "picked_at": "2026-11-19T18:39:07.763286+05:30"
+   "picked_at": "2026-11-19T18:39:07.763286+05:30",
+   "posted": true
   },
   "C78b6610": {
    "id": "C78b6610",
@@ -1168,7 +1173,11 @@
     "C478857e",
     "C961205e",
     "Ccbbd488"
-   ]
+   ],
+   "refused": {
+    "Ccbbd488": "not filed: not Salem district news (the story's first lines name another place and no Salem place)",
+    "C3e9d2b3": "not filed: duplicate after write"
+   }
   }
  },
  "retry": {
