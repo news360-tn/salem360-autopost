@@ -1,7 +1,7 @@
 # salem360-autopost - project context
 
-Automatic Salem_360-district news reels for the Instagram page **சேலம்_360** (`@salem360.official`, placeholder; hashtag `#Salem_360`;
-`post_to` value in the Sheet: `Salem_360`). A separate, fully independent copy of the Namakkal project `news360-autopost`:
+Automatic Salem 360-district news reels for the Instagram page **சேலம் 360** (`@salem360.official`, placeholder; hashtag `#Salem360`;
+`post_to` value in the Sheet: `Salem 360`). A separate, fully independent copy of the Namakkal project `news360-autopost`:
 own GitHub repository, own Google account / Sheet / Apps Script, own Instagram token, own Cloudinary account and own free API keys.
 Namakkal 360 / Rasipuram 360 are never touched. Same file structure and function names as Namakkal, so Namakkal fixes can be
 ported by diff. Everything runs on GitHub Actions; the Google Sheet (through the Apps Script bridge) is the working store.
@@ -29,7 +29,7 @@ daily        insights.yml       Instagram insights -> learned topic weights (wri
 | Area | Rule |
 |---|---|
 | News scope | Only Coimbatore-district news, published today or yesterday (Coimbatore city, Pollachi, Mettupalayam, Sulur, Annur, Valparai, Kinathukadavu, Madukkarai, Perur, Thondamuthur, Anaimalai, Karamadai ...). Tiruppur, Nilgiris, Erode, Palakkad and every other district are not ours, even when close. "Avinashi Road" is a Coimbatore city road: a headline that also names a Coimbatore place is ours |
-| One page | Only சேலம்_360. No second page, no collaborator, no Rasipuram routing |
+| One page | Only சேலம் 360. No second page, no collaborator, no Rasipuram routing |
 | Priority | power cut (TNEB) > crime > accident > civic > the rest |
 | Never miss news | Everything eligible is queued and written; duplicates and other-district news are skipped; nothing eligible is dropped |
 | Daily cap | 50 reels a day (Instagram's limit) (`DAILY_CAP` in post.yml, also in the collector / writer); urgent news first |
@@ -54,12 +54,12 @@ daily        insights.yml       Instagram insights -> learned topic weights (wri
 | `poster/freshness.py` | stale / duplicate / power-cut timing rules |
 | `poster/config.json` | voice (Valluvar), prime time, design switches |
 | `reel/reel4.py` | reel renderer (one image, camera moves, voice, opening, dates) |
-| `apps_script/Code.gs` | Google Sheet bridge for the Salem_360 account (set the `..._HERE` values; redeploy after changes) |
+| `apps_script/Code.gs` | Google Sheet bridge for the Salem 360 account (set the `..._HERE` values; redeploy after changes) |
 | `tests/test_regressions.py` | regression tests (run before every push) |
 
 ## Sheet bridge (apps_script/Code.gs)
 
-- Page key `salem`, label `சேலம்_360`, `post_to` `Salem_360`, token property `IG_TOKEN_SALEM` (refreshed weekly).
+- Page key `salem`, label `சேலம் 360`, `post_to` `Salem 360`, token property `IG_TOKEN_SALEM` (refreshed weekly).
 - Columns: same 31 as Namakkal; column 25 `spare_link` (unused), column 26 `coimbatore_link` (carousel link, unused while reel only),
   27 `reel_link`.
 - GET actions: `queue`, `posted_rows`, `token`, `voice`, `recent`, `ping`, `autoPending`.
