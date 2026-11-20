@@ -3,45 +3,52 @@
   "earlier stories still waiting for images: []",
   "instagram check: 50 recent posts read from the page",
   "pick round: only the picked links are written (research_free/pick.py)",
-  "manual link added: https://www.polimernews.com/justnownews/chief-minister-vijay-carries-vs-babus-body-on-his-shoulder-12826953",
-  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-salem/request-for-additional-funds-for-airport-expansion-with-the-present-value-of-the-acquired-land/4381101",
-  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-salem/flu-test-for-air-passenger/4381111",
-  "manual link added: https://www.hindutamil.in/news/tamilnadu/permission-granted-to-take-former-mla-muthukumar-into-one-day-police-custody",
-  "candidate filter: collected=4",
-  "to write: 4 Salem district candidates (max 4 stories)",
-  "round: top 4 of 4 candidates",
-  "candidates waiting: 4 Salem; time left 79 min",
-  "try (N) manual=True: https://www.hindutamil.in/news/tamilnadu/permission-granted-",
+  "manual link added: https://www.dinamalar.com/news/tamil-nadu-news/tipper-truck-owners-urge-toll-plazas-to-collect-old-fare/4381757",
+  "manual link added: https://tamil.oneindia.com/news/thirunelveli/dmk-mp-constantine-ravindran-says-dmk-leader-mk-stalin-will-take-call-on-kolathur-by-election-846933.html",
+  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-salem/aiadmk-mla-submit-petition-to-collector/4381106",
+  "candidate filter: collected=3",
+  "to write: 3 Salem district candidates (max 3 stories)",
+  "round: top 3 of 3 candidates",
+  "candidates waiting: 3 Salem; time left 79 min",
   "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-sale",
-  "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-sale",
-  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 2})",
+  "try (N) manual=True: https://tamil.oneindia.com/news/thirunelveli/dmk-mp-constant",
+  "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-news/tipper-truck-",
+  "auto images: 1 of 1 stories ({'pollinations': 2})",
   "posting job started at once",
-  "try (N) manual=True: https://www.polimernews.com/justnownews/chief-minister-vijay",
-  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 4})",
-  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 6})",
-  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 8})",
-  "candidate loop ended: left 0, tried={'N': 4}, done={'N': 4}, time left 77 min",
-  "filed: 4 Salem district stories (target 4), reels only",
+  "auto images: 1 of 1 stories ({'pollinations': 4})",
+  "auto images: 1 of 1 stories ({'pollinations': 6})",
+  "candidate loop ended: left 0, tried={'N': 3}, done={'N': 3}, time left 74 min",
+  "filed: 3 Salem district stories (target 3), reels only",
   "queue: 0 news waiting to be written",
-  "All News sheet: {\"ok\":true,\"added\":4,\"updated\":0}"
+  "All News sheet: {\"ok\":true,\"added\":3,\"updated\":0}"
  ],
  "llm": [
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
-  "dead for this round: gemini/gemini-3.6-flash",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "fail gemini/gemini-3.6-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=60)",
+  "poor answer - skipped for 30 min: gemini/gemini-3.6-flash",
   "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
   "dead for this round: gemini/gemini-3.5-flash",
-  "fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing ",
-  "fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing ",
-  "switching away from gemini/gemini-3-flash-preview for 10 min",
-  "ok groq/openai/gpt-oss-120b (7s)",
+  "fail gemini/gemini-3.6-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=60)",
+  "poor answer - skipped for 30 min: gemini/gemini-3.6-flash",
+  "fail gemini/gemini-3.6-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=60)",
+  "poor answer - skipped for 30 min: gemini/gemini-3.6-flash",
+  "ok gemini/gemini-3-flash-preview (11s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok gemini/gemini-3-flash-preview (11s)",
+  "fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, plea",
+  "dead for this round: gemini/gemini-3-flash-preview",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
+  "ok groq/openai/gpt-oss-120b (7s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
   "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
   "switching away from groq/openai/gpt-oss-120b for 10 min",
@@ -49,278 +56,223 @@
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
-  "fail gemini/gemini-3.6-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=60)",
-  "poor answer - skipped for 30 min: gemini/gemini-3.6-flash",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
-  "fail gemini/gemini-3.6-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=60)",
-  "poor answer - skipped for 30 min: gemini/gemini-3.6-flash",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
+  "switching away from groq/openai/gpt-oss-120b for 10 min",
   "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
   "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
   "switching away from groq/qwen/qwen3.8-27b for 10 min",
   "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok gemini/gemini-3-flash-preview (55s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "ok anthropic/claude-haiku-5-5",
   "ok anthropic/claude-haiku-5-5",
   "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok anthropic/claude-haiku-5-5"
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "ok anthropic/claude-haiku-5-5",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash"
  ],
  "stories": [
   {
-   "tamil_headline": "ஓமலூர்: விமான நிலைய விரிவாக்க நிலத்துக்கு கூடுதல் நிதி கோரிக்கை",
-   "english_headline": "Omalur: landowners seek extra compensation at current market value for land taken for Salem airport expansion",
-   "category": "Government & Services",
-   "location": "Omalur, Salem district",
-   "importance": "High",
-   "scope": "",
-   "post_to": "Salem 360",
-   "slides_spec": {
-    "v": 3,
-    "cat": "நில இழப்பீடு",
-    "loc": "ஓமலூர்",
-    "hl1": "ஓமலூர்: விமான நிலைய நிதி கோரிக்கை",
-    "hl2": "571 ஏக்கர் நிலம் கையகம்",
-    "slides": [
-     {
-      "title": "என்ன நடந்தது?",
-      "lines": [
-       "காமலாபுரம், பொட்டியபுரம், சிக்கனம்பட்டி, தும்பிப்பாடி",
-       "சேலம் விமான நிலைய விரிவாக்கத்துக்காக நிலம் எடுக்கும் பணி",
-       "4 கிராம மக்களும் எதிர்ப்பு தெரிவித்தனர்"
-      ]
-     },
-     {
-      "title": "இழப்பீடு நிலவரம்",
-      "lines": [
-       "2025 நவ. 28ல் <b>364 கோடி ரூபாய்</b> முதல்கட்டமாக ஒதுக்கீடு",
-       "2009 முதல் அந்த நிலத்தை விற்கவோ பட்டா மாற்றவோ தடை",
-       "ஆட்சி மாற்றத்தால் விரிவாக்கப் பணி கிடப்பில்"
-      ]
-     },
-     {
-      "title": "புதிய கோரிக்கை",
-      "lines": [
-       "நில உரிமையாளர்கள் தற்போதைய வழிகாட்டி மதிப்புடன் கூடுதல்",
-       "இதனால் விரிவாக்கப் பணியில் மீண்டும் சுணக்கம்",
-       "மகன், மகள் பெயரில் பட்டா மாற்ற அனுமதி கோரிக்கை"
-      ]
-     }
-    ],
-    "carousel": false
-   },
-   "reel_script": "ஓமலூர் பகுதியில் விமான நிலைய விரிவாக்கத்துக்கு கையகப்படுத்திய நிலத்துக்கு கூடுதல் நிதி கோரிக்கை எழுந்துள்ளது. சேலம் விமான நிலைய விரிவாக்கத்துக்கு காமலாபுரம், பொட்டியபுரம், சிக்கனம்பட்டி, தும்பிப்பாடி பகுதிகளில் 571 ஏக்கர் நிலம் கையகப்படுத்தப்பட்டது. நிலம் கையகப்படுத்தும் பணியை வருவாய்த்துறையினர் தொடங்கியபோது, 4 கிராம மக்களும் எதிர்ப்பு தெரிவித்தனர். பின்னர் அதிகாரிகள் பேசி, ஏரியல் சர்வே நடத்தி, நில விபரங்களை அரசுக்கு அனுப்பினர். 2009 முதல் அந்த நிலத்தை விற்கவோ பட்டா மாற்றவோ முடியாதபடி வருவாய்த்துறையினர் தடை விதித்தனர். 2025 நவம்பர் 28ஆம் தேதி தமிழக அரசு இழப்பீட்டுக்காக 364 கோடி ரூபாயை முதல்கட்டமாக ஒதுக்கியது. பின்னர் ஆட்சி மாற்றம் ஏற்பட்டதால் விரிவாக்கப் பணி கிடப்பில் போடப்பட்டது. கடந்த வாரம் வீடியோ கான்பரன்ஸ் மூலம் நடந்த கூட்டத்தில், நில உரிமையாளர்கள் தற்போதைய நில வழிகாட்டி மதிப்புடன் கூடுதல் தொகை வழங்க கோரியதாகத் தெரிவித்தனர். இதனால் விரிவாக்கப் பணியில் மீண்டும் சுணக்கம் ஏற்பட்டுள்ளது. மேலும் செய்திகளுக்கு சேலம் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🛫 ஓமலூரில் விமான நிலைய நிலத்துக்கு கூடுதல் நிதி கோரிக்கை\n\n📰 முழு விவரம்:\nசேலம் விமான நிலைய விரிவாக்கத்துக்கு காமலாபுரம், பொட்டியபுரம், சிக்கனம்பட்டி, தும்பிப்பாடி பகுதிகளில் 571 ஏக்கர் நிலம் கையகப்படுத்தப்பட்டது. நிலம் எடுக்கும் பணி தொடங்கியபோது 4 கிராம மக்களும் எதிர்ப்பு தெரிவித்தனர்.\n2009 முதல் அந்த நிலத்தை விற்கவோ பட்டா மாற்றவோ முடியாதபடி வருவாய்த்துறையினர் தடை விதித்தனர். 2025 நவம்பர் 28ஆம் தேதி இழப்பீட்டுக்காக 364 கோடி ரூபாயை தமிழக அரசு முதல்கட்டமாக ஒதுக்கியது.\nஆட்சி மாற்றத்தால் விரிவாக்கப் பணி கிடப்பில் போடப்பட்டது. கடந்த வாரம் நடந்த வீடியோ கான்பரன்ஸ் கூட்டத்தில், நில உரிமையாளர்கள் தற்போதைய நில வழிகாட்டி மதிப்புடன் கூடுதல் தொகை கோரினர்.\n👥 எதிர்ப்பு குழு ஒருங்கிணைப்பாளர் சுகுமார் (36 வயது) கூறுகையில், தற்போதைய மார்க்கெட் விலையை விட கூடுதல் நிதி ஒதுக்க வேண்டும் என்றும், மகன், மகள் பெயர்களில் பட்டா மாற்ற வருவாய்த்துறை அனுமதி வழங்க வேண்டும் என்றும் கோரினார். பல குடும்பங்கள் பல ஆண்டுகளாக பாதிக்கப்பட்டுள்ளதாகவும் தெரிவித்தார்.\n\nOmalur airport land compensation demand | Salem news\n📍 ஓமலூர், சேலம் மாவட்டம் | 20 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Salem360 #Salem #Omalur #SalemNews #சேலம்",
-   "prompts": "A group of villagers in shirts, veshtis and sarees stands on dry open farmland at the edge of Omalur village in Salem district, Tamil Nadu, discussing the land taken for the airport expansion. Behind them stretches a flat, dusty field with scattered scrub and a few mango trees, and in the far background the faint outline of the Shevaroy hills of Yercaud. Some villagers are gathered in a loose circle, one man in a white shirt gestures with an open hand while others listen, all seen from behind or at a distance. A bare dirt track runs through the field, with a motorcycle parked at its edge. The scene is in bright daylight under a clear sky, with dry-season haze softening the distance. Photographed at eye level with a 35 mm lens, wide enough to show the open land, the gathered villagers and the far hills. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up of a bundle of land-title (patta) documents held in the hands of a villager, resting on a wooden table or cloth, with a pair of reading glasses and a small steel tumbler beside them. The papers are plain and unreadable, showing only the blurred stamp of an official-looking office. Behind the table, out of focus, a dry paddy field and a wooden stake marking the boundary of the acquired land. Natural daylight from a window falls across the papers, with soft shadows and a warm dry-season tone. Shot at a slightly high angle with a 35 mm lens to show the documents clearly with the field faintly visible behind. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-salem/request-for-additional-funds-for-airport-expansion-with-the-present-value-of-the-acquired-land/4381101",
-   "published": "2026-11-20T01:16:00+05:30",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5) - fact-check: no problems found",
-   "note": "free-model draft anthropic/claude-haiku-5-5, 13 attempt(s), 0 validator problem(s)",
-   "post_time": "right after your reply, same day",
-   "_area": "N",
-   "_score": 999,
-   "images": [
-    "https://res.cloudinary.com/jrmwajfz/image/upload/v1795181621/salem360/cr77tppvsjfvfa2ks4rq.jpg",
-    "https://res.cloudinary.com/jrmwajfz/image/upload/v1795181625/salem360/jhhbfqmhiauidmnt4cdk.jpg"
-   ]
-  },
-  {
-   "tamil_headline": "கல்வி நிறுவன முறைகேடு வழக்கு: முன்னாள் எம்எல்ஏ முத்துக்குமாரை ஒருநாள் காவலில் விசாரிக்க அனுமதி",
-   "english_headline": "Education institution fraud case: court allows one-day police custody of ex-MLA Muthukumar for questioning",
-   "category": "Crime & Safety",
-   "location": "Salem court, Salem district",
-   "importance": "High",
-   "scope": "",
-   "post_to": "Salem 360",
-   "slides_spec": {
-    "v": 3,
-    "cat": "வழக்கு விசாரணை",
-    "loc": "சேலம் நீதிமன்றம்",
-    "hl1": "சேலம் நீதிமன்றம்: ஒருநாள் காவல் அனுமதி",
-    "hl2": "முன்னாள் எம்எல்ஏ",
-    "slides": [
-     {
-      "title": "நீதிமன்ற உத்தரவு",
-      "lines": [
-       "சேலம் நீதிமன்றம் <b>ஒருநாள் காவல்</b> அனுமதி அளித்தது",
-       "முன்னாள் எம்எல்ஏ முத்துக்குமாரை போலீசார் விசாரிக்கலாம்",
-       "போலீசார் 2 நாள் காவல் கோரினர்"
-      ]
-     },
-     {
-      "title": "வழக்கின் பின்னணி",
-      "lines": [
-       "கல்வி நிறுவனங்கள் அனுமதி, புதுப்பித்தலுக்கு முறைகேடாக பணம்",
-       "முன்னாள் அமைச்சர் அன்பில் மகேஸ் ஏற்கெனவே கைது",
-       "முத்துக்குமார், தினேஷ், அரசகுமார் ஆகியோரும் கைது"
-      ]
-     },
-     {
-      "title": "சேலத்தில் புகார்",
-      "lines": [
-       "சேலத்தில் சில தனியார் பள்ளிகளுக்கு அனுமதி தருவதில் பணம்",
-       "சங்ககிரி பள்ளி நிர்வாகிகள் மூவர் புகார் செய்தனர்",
-       "மாவட்ட குற்றப்பிரிவு போலீசார் விசாரணை நடத்தினர்"
-      ]
-     }
-    ],
-    "carousel": false
-   },
-   "reel_script": "முன்னாள் எம்எல்ஏ முத்துக்குமாரை ஒருநாள் காவலில் எடுத்து விசாரிக்க சேலம் நீதிமன்றம் அனுமதி அளித்துள்ளது. கல்வி நிறுவனங்களின் அனுமதி மற்றும் புதுப்பித்தலுக்கு முறைகேடாகப் பணம் வாங்கியதாக வழக்கு பதிவு செய்யப்பட்டுள்ளது. தமிழகம் முழுவதும் தனியார் பள்ளிகளுக்கு அனுமதி வழங்குவதில் முறைகேடு நடந்ததாக புகார் உள்ளது. முன்னாள் கல்வி அமைச்சர் அன்பில் மகேஸ் ஏற்கெனவே கைது செய்யப்பட்டு புழல் சிறையில் அடைக்கப்பட்டுள்ளார். இந்த வழக்கில் திருச்சியைச் சேர்ந்த முன்னாள் எம்எல்ஏ முத்துக்குமார், நங்கவள்ளியைச் சேர்ந்த தினேஷ், சென்னையைச் சேர்ந்த அரசகுமார் ஆகியோரும் கைது செய்யப்பட்டுள்ளனர். சேலத்தில் சில தனியார் பள்ளிகளுக்கு அனுமதி வழங்குவதில் முத்துக்குமார் பணம் பெற்றதாக குற்றச்சாட்டு எழுந்துள்ளது. சங்ககிரி பள்ளி நிர்வாகிகள் மூவர் மாவட்ட குற்றப்பிரிவு போலீசில் புகார் அளித்திருந்தனர். போலீசார் அரசகுமார், தினேஷ் ஆகியோரிடம் விசாரணை நடத்தி முடித்துள்ளனர். முத்துக்குமாரை 2 நாள் காவலில் விசாரிக்க போலீசார் மனு தாக்கல் செய்திருந்தனர். நேற்று சென்னை புழல் சிறையிலிருந்து முத்துக்குமார் சேலம் நீதிமன்றத்தில் ஆஜர்படுத்தப்பட்டார். நீதிமன்றம் ஒருநாள் காவல் விசாரணைக்கு உத்தரவிட்டுள்ளது. யார் யாரிடம் எவ்வளவு தொகை பெறப்பட்டது உள்ளிட்ட முக்கியக் கேள்விகளுடன் போலீசார் விசாரணையைத் தொடங்கவுள்ளனர். அன்பில் மகேஸ் உள்ளிட்ட மூன்று பேரையும் ஒன்றாக விசாரிக்க அனுமதி கோரி மனு தாக்கல் செய்யப்பட்டுள்ளது. மேலும் செய்திகளுக்கு சேலம் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "⚖️ சேலம் நீதிமன்றம்: முன்னாள் எம்எல்ஏ முத்துக்குமாரை ஒருநாள் காவலில் விசாரிக்க அனுமதி\n\n📰 முழு விவரம்:\nகல்வி நிறுவனங்கள் அனுமதி, புதுப்பித்தலுக்கு முறைகேடாகப் பணம் வாங்கிய வழக்கில் கைதான முன்னாள் எம்எல்ஏ முத்துக்குமாரை ஒருநாள் காவலில் எடுத்து விசாரிக்க சேலம் மத்திய குற்றப்பிரிவு போலீசாருக்கு சேலம் நீதிமன்றம் அனுமதி அளித்துள்ளது.\nசேலத்தில் சில தனியார் பள்ளிகளுக்கு புதுப்பித்தல், புதிய பள்ளி அனுமதியில் பணம் பெற்றதாக முத்துக்குமார் மீது குற்றச்சாட்டு எழுந்துள்ளது. சங்ககிரி பள்ளி நிர்வாகிகள் தமிழ்மணி, பிரகாஷ், சங்கர் ஆகியோர் மாவட்ட குற்றப்பிரிவு போலீசில் புகார் அளித்திருந்தனர்.\nஅரசகுமார், தினேஷ் ஆகியோரிடம் மாவட்ட குற்றப்பிரிவு போலீசார் விசாரணை நடத்தி முடித்துள்ளனர். முத்துக்குமாரை 2 நாள் காவலில் எடுத்து விசாரிக்க போலீசார் மனு தாக்கல் செய்திருந்தனர். நேற்று சென்னை புழல் சிறையிலிருந்து அவர் சேலம் நீதிமன்றத்தில் ஆஜர்படுத்தப்பட்டார். நீதிமன்றம் ஒருநாள் காவலுக்கு உத்தரவிட்டது.\nயார் யாரிடம் எவ்வளவு தொகை பெறப்பட்டது உள்ளிட்ட முக்கியக் கேள்விகளுடன் போலீசார் விசாரணையைத் தொடங்கவுள்ளனர். அன்பில் மகேஸ் உள்ளிட்ட மூவரையும் ஒன்றாக விசாரிக்க அனுமதி கோரி மனு தாக்கல் செய்யப்பட்டுள்ளது.\nமுன்னாள் அமைச்சர் அன்பில் மகேஸ் ஏற்கெனவே கைது செய்யப்பட்டு புழல் சிறையில் உள்ளார்.\n\nSalem court allows one-day custody of ex-MLA Muthukumar | Salem news\n📍 சேலம் நீதிமன்றம், சேலம் மாவட்டம் | 20 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Salem360 #Salem #SalemNews #சேலம்",
-   "prompts": "A group of Tamil Nadu police in khaki uniforms escort a middle-aged man in a white shirt and veshti out of the entrance of a government court building in Salem city, moving through a short crowd of lawyers in black coats and court staff. The setting is the front steps and compound of the Salem integrated court complex, a plain concrete government building with a tiled roof, a few palm trees and a parked police jeep near the gate. Several police constables walk on either side of the man, one holding a file folder under his arm. Onlookers are lawyers and clerks in shirts and trousers, seen from behind or far away. It is midday in bright daylight with clear sky and strong shadows on the pavement. Camera at eye level, 35 mm, wide enough to show the court building and the entire group. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up on a wooden table inside a court room in Salem, covered with a stack of official case files tied with red tape and a few loose sheets of paper with handwritten Tamil notes, a black ink pen and a steel water tumbler beside them. Behind the table, out of focus, a khaki-uniformed police constable stands near a window with grey window grilles, and daylight comes in through the window across the table. The papers and folders show no readable text and no signboards are visible. The scene conveys a case file being prepared for questioning in a government court hall. Camera slightly high, 35 mm, shallow depth of field with the file stack sharp and the background softened. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.hindutamil.in/news/tamilnadu/permission-granted-to-take-former-mla-muthukumar-into-one-day-police-custody",
-   "published": "2026-11-20T01:24:52Z",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: caption misses facts of the article (put every one in 📰 முழு விவரம்): 6 ('இதில், முத்​துக்​குமாரை 2 நாள் காவலில் எடுத்து விசா​ரணை செய்'); 3 ('யார் யாரிடம் எவ்​வளவு தொகை பெறப்​பட்​டது உள்​ளிட்ட முக்​கிய ')",
-   "note": "free-model draft anthropic/claude-haiku-5-5, 12 attempt(s), 1 validator problem(s)",
-   "post_time": "right after your reply, same day",
-   "_area": "N",
-   "_score": 999,
-   "images": [
-    "https://res.cloudinary.com/jrmwajfz/image/upload/v1795181634/salem360/xlehvir3ssea7awmrnte.jpg",
-    "https://res.cloudinary.com/jrmwajfz/image/upload/v1795181637/salem360/tiazfnbp1tgzlsdjccgo.jpg"
-   ]
-  },
-  {
-   "tamil_headline": "ஓமலூரில் விமானப் பயணிகளுக்கு காய்ச்சல் பரிசோதனை",
-   "english_headline": "Omalur: fever screening of air passengers at Salem airport after Ebola cases abroad",
-   "category": "Government & Services",
-   "location": "Omalur, Salem district",
-   "importance": "High",
+   "tamil_headline": "சுங்கச்சாவடியில் பழைய கட்டணம் வசூலிக்க டிப்பர் லாரி உரிமையாளர்கள் வலியுறுத்தல்",
+   "english_headline": "Tipper lorry owners demand old toll rate at Karupur toll plaza near Omalur; threaten blockade in 15 days",
+   "category": "Roads & Transport",
+   "location": "Karupur toll plaza near Omalur, Salem district",
+   "importance": "Medium",
    "scope": "local",
    "post_to": "Salem 360",
    "slides_spec": {
     "v": 3,
-    "cat": "சுகாதாரம்",
+    "cat": "சுங்கக் கட்டணம்",
     "loc": "ஓமலூர்",
-    "hl1": "சேலம் விமான நிலையத்தில் காய்ச்சல் சோதனை",
-    "hl2": "ஓமலூர் செவிலியர்கள் பணி",
+    "hl1": "ஓமலூர் சுங்கச்சாவடியில் கட்டணம் கோரிக்கை",
+    "hl2": "15 நாட்களில்",
     "slides": [
      {
-      "title": "ஏன் சோதனை?",
+      "title": "என்ன மாற்றம்?",
       "lines": [
-       "காங்கோ உள்ளிட்ட வெளிநாடுகளில் <b>எபோலா</b> காய்ச்சல் பரவல்",
-       "இதனால் இந்தியா முழுவதும் விமான நிலையங்களில் கண்காணிப்பு",
-       "சுகாதாரத்துறைக்கு உத்தரவு"
+       "கருப்பூர் சுங்கச்சாவடியில் <b>செப். 1</b> முதல் புதிய கட்டணம்",
+       "உள்ளூர் வாகனங்களுக்கு பழைய கட்டணத்தை <b>3 மடங்கு</b> உயர்த்தி வசூல்",
+       "பல்வேறு கட்சியினர் போராட்டம் நடத்தினர்"
       ]
      },
      {
-      "title": "எப்படி சோதனை?",
+      "title": "லாரி உரிமையாளர்கள்",
       "lines": [
-       "சேலம் விமான நிலையத்தில் ஒரு மாதமாக சோதனை",
-       "<b>டிஜிட்டல் தெர்மல் ஸ்கேனர்</b> மூலம் பயணியர் பரிசோதனை",
-       "தமிழகத்தில் பல இடங்களில் காய்ச்சல் அதிகரிப்பு"
+       "காடையாம்பட்டி டிப்பர் லாரி உரிமையாளர் சங்கம் மனு அளித்தது",
+       "சங்கத்தில் <b>500 டிப்பர் லாரிகள்</b> உள்ளன",
+       "தினமும் <b>5 சுற்று</b> வரை சேலம் சென்று வருகின்றன"
       ]
      },
      {
-      "title": "யார் பணி",
+      "title": "கோரிக்கை",
       "lines": [
-       "ஓமலூர் சரக்கப்பிள்ளையூர் ஆரம்ப சுகாதார நிலையம்",
-       "இரு செவிலியர்கள் தினமும் சேலம் விமான நிலையம் வருகை",
-       "பயணியரை பரிசோதிக்கும் பணியில் ஈடுபாடு"
+       "கூடுதல் கட்டணத்தால் வாழ்வாதாரம் பாதிப்பதாக மனு",
+       "பழைய கட்டணம் வசூலிக்க வேண்டும் என வலியுறுத்தல்",
+       "தலைவர் செல்வம்: <b>15 நாட்களில்</b> நிறைவேற்றாவிட்டால் முற்றுகை"
       ]
      }
     ],
     "carousel": false
    },
-   "reel_script": "சேலம் விமான நிலையத்தில் பயணியருக்குத் தினமும் காய்ச்சல் பரிசோதனை நடைபெறுகிறது. காங்கோ உள்ளிட்ட வெளிநாடுகளில் எபோலா காய்ச்சலால் பலர் பாதிக்கப்பட்டதையடுத்து இந்த நடவடிக்கை எடுக்கப்பட்டுள்ளது. இந்தியா முழுவதும் விமான நிலையங்களில் காய்ச்சலால் பாதிக்கப்பட்டவர்களைக் கண்காணிக்க சுகாதாரத்துறைக்கு உத்தரவிடப்பட்டது. ஒரு மாதமாக சேலம் விமான நிலையத்தில் சுகாதாரத்துறையினர் டிஜிட்டல் தெர்மல் ஸ்கேனர் மூலம் பயணியரைச் சோதனை செய்து வருகின்றனர். தமிழகத்தின் பல்வேறு பகுதிகளில் காய்ச்சல் அதிகரித்துள்ளது. இதனால் ஓமலூர் சரக்கப்பிள்ளையூர் ஆரம்ப சுகாதார நிலையத்திலிருந்து இரு செவிலியர்கள் தினமும் சேலம் விமான நிலையம் வந்து பயணியரைப் பரிசோதிக்கும் பணியை மேற்கொண்டுள்ளனர். மேலும் செய்திகளுக்கு சேலம் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🩺 ஓமலூர் செவிலியர்கள் சேலம் விமான நிலையத்தில் காய்ச்சல் பரிசோதனை\n\n📰 முழு விவரம்:\nகாங்கோ உள்ளிட்ட வெளிநாடுகளில் எபோலா காய்ச்சலால் பலர் பாதிக்கப்பட்டதால், இந்தியா முழுவதும் விமான நிலையங்களில் காய்ச்சல் கண்காணிப்புக்கு சுகாதாரத்துறைக்கு உத்தரவிடப்பட்டது. ஒரு மாதமாக சேலம் விமான நிலையத்தில் சுகாதாரத்துறையினர் டிஜிட்டல் தெர்மல் ஸ்கேனர் மூலம் பயணியரைச் சோதனை செய்கின்றனர். தமிழகத்தின் பல பகுதிகளில் காய்ச்சல் அதிகரித்துள்ளதால், ஓமலூர் சரக்கப்பிள்ளையூர் ஆரம்ப சுகாதார நிலையத்திலிருந்து இரு செவிலியர்கள் தினமும் சேலம் விமான நிலையம் வந்து பயணியரைப் பரிசோதிக்கின்றனர்.\n\nSalem airport fever screening by Omalur nurses | Salem news\n📍 ஓமலூர், சேலம் மாவட்டம் | 20 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Salem360 #Salem #Omalur #SalemNews #சேலம்",
-   "prompts": "Two nurses in white saris with health department identity lanyards stand at the arrivals hall of Salem airport in Omalur area, Salem district, screening travellers. One nurse holds a digital thermal scanner pointed at a passenger's forehead while passengers with trolley bags and backpacks wait in a short queue behind a metal barrier. The setting is a modern airport terminal interior with tiled floors, glass windows letting in daylight, and a few airport staff in the background. Women in sarees and men in shirts and trousers are seen from behind or in profile, faces kept soft and not recognisable. Daylight streams through the windows, showing a busy but orderly morning. Camera at eye level, 35 mm, wide enough to show the nurses, the queue and the terminal space. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up of a digital thermal scanner gun held in a nurse's gloved hand, its display showing a temperature reading, aimed at the forehead of a passenger whose face is turned away and partly out of focus. A few travellers' luggage trolley handles and a blue plastic health-check table sit in the foreground. The background is a blurred airport waiting area with tiled floor and daylight from windows. Camera at slightly high angle, 50 mm, shallow depth of field, daylight, showing the thermal screening device as the key object. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-salem/flu-test-for-air-passenger/4381111",
-   "published": "2026-11-20T01:24:00+05:30",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: reel_script sentence 1 (heard in the first 3 seconds) must name the place 'ஓமலூர்' and the news itself, e.g. 'ஓமலூர்-இல் ... 3 பேர் கைது.' - viewers decide in 3 seconds whether the news is about their area",
-   "note": "free-model draft anthropic/claude-haiku-5-5, 12 attempt(s), 1 validator problem(s)",
-   "post_time": "right after your reply, same day",
-   "_area": "N",
-   "_score": 999,
-   "images": [
-    "https://res.cloudinary.com/jrmwajfz/image/upload/v1795181645/salem360/dmsnfezerplegnf6yjqh.jpg",
-    "https://res.cloudinary.com/jrmwajfz/image/upload/v1795181649/salem360/emn75ryw5gdjsd9o0tql.jpg"
-   ]
-  },
-  {
-   "tamil_headline": "வி.எஸ். பாபுவின் உடலைத் தோளில் சுமந்த முதலமைச்சர் விஜய்",
-   "english_headline": "Chief Minister Vijay carries V.S. Babu's body on his shoulder during funeral procession",
-   "category": "Government & Services",
-   "location": "Thiru Vi Ka Nagar, Chennai (Perambur to Thiru Vi Ka Nagar funeral route)",
-   "importance": "High",
-   "scope": "district",
-   "post_to": "Salem 360",
-   "slides_spec": {
-    "v": 3,
-    "cat": "இறுதி ஊர்வலம்",
-    "loc": "திரு.வி.க. நகர்",
-    "hl1": "திரு.வி.க. நகர்: முதலமைச்சர் சுமந்த உடல்",
-    "hl2": "வி.எஸ். பாபு இறுதி ஊர்வலம்",
-    "slides": [
-     {
-      "title": "என்ன நடந்தது?",
-      "lines": [
-       "கொளத்தூர் த.வெ.க. எம்.எல்.ஏ. வி.எஸ். பாபுவின் உடலை",
-       "வீட்டில் இருந்து அமரர் ஊர்தி வரை உடலைச் சுமந்து சென்றார்",
-       "இறுதி ஊர்வலத்திலும் அவர் பங்கேற்றார்"
-      ]
-     },
-     {
-      "title": "ஊர்வலப் பாதை",
-      "lines": [
-       "சென்னை பெரம்பூரில் இருந்து திரு.வி.க. நகர் வரை ஊர்வலம்",
-       "வி.எஸ். பாபுவின் மகனை கைகளால் அரவணைத்தபடி நடந்தார்",
-       "உடல் திரு.வி.க. நகர் மின் மயானத்தில் எரியூட்டப்பட்டது"
-      ]
-     },
-     {
-      "title": "இறுதி மரியாதை",
-      "lines": [
-       "கொளத்தூர் த.வெ.க. எம்.எல்.ஏ. வி.எஸ். பாபு காலமானார்",
-       "முதலமைச்சர் விஜய் இறுதி மரியாதை செலுத்தினார",
-       "குடும்பத்தினருக்கு ஆறுதல் தெரிவித்தார்"
-      ]
-     }
-    ],
-    "carousel": false
-   },
-   "reel_script": "திரு.வி க நகரில் முதலமைச்சர் விஜய் தோளில் உடலைச் சுமந்து அஞ்சலி செலுத்தினார். கொளத்தூர் த வெ க சட்டமன்ற உறுப்பினர் வி எஸ் பாபு மறைவையடுத்து நடந்த இறுதி ஊர்வலத்தில் முதலமைச்சர் பங்கேற்றார். வீட்டில் இருந்து அமரர் ஊர்தி வாகனம் வரை உடலைத் தோளில் சுமந்து சென்றார். சென்னை பெரம்பூரில் இருந்து திரு.வி க நகர் வரை இறுதி ஊர்வலம் நடைபெற்றது. வி எஸ் பாபுவின் மகனை கைகளால் அரவணைத்தபடி அவர் நடந்து சென்றார். பின்னர் உடல் திரு.வி க நகர் மின் மயானத்தில் எரியூட்டப்பட்டது. மேலும் செய்திகளுக்கு சேலம் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🙏 திரு.வி.க. நகர்: வி.எஸ். பாபுவின் உடலைத் தோளில் சுமந்த முதலமைச்சர் விஜய்\n\n📰 முழு விவரம்:\nகொளத்தூர் த.வெ.க. எம்.எல்.ஏ. வி.எஸ். பாபுவின் உடலை முதலமைச்சர் விஜய் தனது தோளில் சுமந்து சென்றார். வீட்டில் இருந்து அமரர் ஊர்தி வாகனம் வரை உடலைச் சுமந்து சென்றார்.\nசென்னை பெரம்பூரில் இருந்து திரு.வி.க. நகர் வரையிலான இறுதி ஊர்வலத்தில் முதலமைச்சர் பங்கேற்றார். வி.எஸ். பாபுவின் மகனை கைகளால் அரவணைத்தபடி நடந்து சென்றார்.\nஉடல் திரு.வி.க. நகர் மின் மயானத்தில் எரியூட்டப்பட்டது.\n\n📍 இடம்: திரு.வி.க. நகர், சென்னை\n🗓️ நாள்: 20 நவம்பர் 2026\n\nSVijay carries V.S. Babu's body | Thiru Vi Ka Nagar, Chennai | Salem news\n📍 திரு.வி.க. நகர், சென்னை | 20 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Salem360 #Salem #ThiruViKaNagar #SalemNews #சேலம்",
-   "prompts": "A solemn funeral procession on a residential street in Perambur, Chennai, where a group of men in white shirts and veshti walk in a slow line from a house toward a white hearse van parked at the curb. In the centre a man is carrying a body wrapped in white cloth on his shoulder, while a younger man walks close beside him with an arm around his shoulders. The street has single-storey houses with tiled roofs, a concrete compound wall, a few two-wheelers parked on the roadside and a small crowd of mourners in shirts and sarees standing back at a distance. Police in khaki stand near the gate. Daylight, slightly overcast, eye level, 35 mm, wide enough to show the house entrance and the hearse, with the people seen from behind or in soft focus. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up of a hearse van's rear door standing open on a Chennai street, with a white cloth-draped stretcher being guided into it by the hands of several men in white shirts and veshti, their arms and sleeves visible but faces cropped out of frame. Nearby on the roadside are a few flower garlands and a folded white shroud on a plastic chair. The background is a blurred residential road in Thiru Vi Ka Nagar with a concrete wall and tiled roofs. Daylight, shallow depth of field, eye level, 35 mm, no readable text or signboards visible. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.polimernews.com/justnownews/chief-minister-vijay-carries-vs-babus-body-on-his-shoulder-12826953",
-   "published": "2026-11-20T17:39:52+05:30",
+   "reel_script": "ஓமலூர் அருகே சுங்கச்சாவடியில் பழைய கட்டணம் கேட்டு டிப்பர் லாரி உரிமையாளர்கள் வலியுறுத்துகின்றனர். ஓமலூர் அருகே கருப்பூர் சுங்கச்சாவடியில் செப்டம்பர் 1ஆம் தேதி முதல் புதிய கட்டணம் வசூலிக்கப்படுகிறது. உள்ளூர் வாகனங்களுக்கு பழைய கட்டணத்தைவிட 3 மடங்கு உயர்த்தப்பட்ட கட்டணம் வசூலிக்கப்படுகிறது. இதனால் பல்வேறு கட்சியினர் போராட்டம் நடத்தினர். இந்நிலையில் காடையாம்பட்டி டிப்பர் லாரி உரிமையாளர் சங்கத்தினர் சேலத்தில் உள்ள இந்திய தேசிய நெடுஞ்சாலை ஆணைய அதிகாரிகள் மற்றும் கருப்பூர் சுங்கச்சாவடி அதிகாரிகளிடம் மனு அளித்தனர். சங்கத்தில் 500 டிப்பர் லாரிகள் உள்ளன. அவை தினமும் 5 சுற்று வரை சேலத்துக்குச் சென்று வருகின்றன. கூடுதல் கட்டணத்தால் தங்கள் வாழ்வாதாரம் பாதிக்கப்படுவதாக மனுவில் கூறப்பட்டுள்ளது. சங்கத் தலைவர் செல்வம், 15 நாட்களுக்குள் கோரிக்கை நிறைவேற்றப்படாவிட்டால் சுங்கச்சாவடியில் முற்றுகைப் போராட்டம் நடத்தப்படும் என்று தெரிவித்தார். மேலும் செய்திகளுக்கு சேலம் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🚛 ஓமலூர் சுங்கச்சாவடியில் பழைய கட்டணம் கேட்டு லாரி உரிமையாளர்கள் மனு\n\n📰 முழு விவரம்:\nஓமலூர் அருகே கருப்பூர் சுங்கச்சாவடியில் செப். 1 முதல் புதிய கட்டணம் வசூலிக்கப்படுகிறது. உள்ளூர் வாகனங்களுக்கு பழைய கட்டணத்தைவிட 3 மடங்கு உயர்த்தப்பட்ட கட்டணம் வசூலிக்கப்படுகிறது. இதனால் பல்வேறு கட்சியினர் போராட்டம் நடத்தினர். காடையாம்பட்டி டிப்பர் லாரி உரிமையாளர் சங்கத்தினர் சேலத்தில் உள்ள தேசிய நெடுஞ்சாலை ஆணைய அதிகாரிகள் மற்றும் கருப்பூர் சுங்கச்சாவடி அதிகாரிகளிடம் மனு அளித்தனர். சங்கத்தில் 500 டிப்பர் லாரிகள் உள்ளன; தினமும் 5 சுற்று வரை சேலம் சென்று வருகின்றன. கூடுதல் கட்டணத்தால் வாழ்வாதாரம் பாதிக்கப்படுவதால் பழைய கட்டணம் வசூலிக்க வேண்டும் என வலியுறுத்தினர்.\n📍 இடம்: கருப்பூர் சுங்கச்சாவடி, ஓமலூர் அருகே\n🗓️ நாள்: நவம்பர் 19\n⏳ காலக்கெடு: 15 நாட்களுக்குள் கோரிக்கை நிறைவேற்றாவிட்டால் முற்றுகைப் போராட்டம்\n\nOmalur toll plaza old fare demand by tipper owners | Salem news\n📍 ஓமலூர், சேலம் மாவட்டம் | 20 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Salem360 #Salem #Omalur #SalemNews #சேலம்",
+   "prompts": "A line of tipper lorries stands queued at the barrier of Karupur toll plaza near Omalur in Salem district, waiting to pay at the toll booths. Several heavy dump trucks with raised tipper bodies sit at the front of the lanes, their drivers waiting in the cabs or standing beside them. Beyond the toll booths, the highway stretches away toward Salem, lined with roadside trees and a few two-wheelers and private cars. A group of association office-bearers in shirts and veshti, seen from behind, stands near the toll booth holding a bundle of papers, as if about to hand in a petition to officials in khaki-free civilian uniform at the booth. The scene is bright daytime with clear sky and warm sunlight across the asphalt. Shot at eye level, 35 mm, wide enough to show the full toll plaza, the queue of trucks, and the highway behind. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up of the toll booth's barrier arm and the cash counter window of Karupur toll plaza, with a stack of printed petition papers resting on the counter edge and a clipboard beside it. In the soft-focus background, the orange-and-white striped barrier arm is raised over an empty lane, and the rear body of a tipper lorry with its tailgate is partly visible. Daylight falls across the papers and the concrete counter. Camera slightly high, 35 mm, shallow depth of field, no legible text on the papers. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamalar.com/news/tamil-nadu-news/tipper-truck-owners-urge-toll-plazas-to-collect-old-fare/4381757",
+   "published": "2026-11-20T20:15:08+05:30",
    "verification": "DRAFT (anthropic/claude-haiku-5-5) - fact-check: no problems found",
    "note": "free-model draft anthropic/claude-haiku-5-5, 12 attempt(s), 0 validator problem(s)",
    "post_time": "right after your reply, same day",
    "_area": "N",
    "_score": 999,
    "images": [
-    "https://res.cloudinary.com/jrmwajfz/image/upload/v1795181660/salem360/jtb7cicuj4vkwatnwexw.jpg",
-    "https://res.cloudinary.com/jrmwajfz/image/upload/v1795181664/salem360/qfq8tmjg6jjmdboehhkx.jpg"
+    "https://res.cloudinary.com/jrmwajfz/image/upload/v1795191730/salem360/sgitrqqaslc4u2vpndfx.jpg",
+    "https://res.cloudinary.com/jrmwajfz/image/upload/v1795191737/salem360/hfcwy7cyrffjkikmmbck.jpg"
+   ]
+  },
+  {
+   "tamil_headline": "ஆத்தூர் பைத்தூரில் பழைய கட்டடங்களுக்கு புதிய கட்டடம் கேட்டு மனு",
+   "english_headline": "Attur MLA submits petition to Salem Collector seeking new buildings and drying yard at Paithur panchayat",
+   "category": "Government & Services",
+   "location": "Paithur panchayat, Attur, Salem district",
+   "importance": "Medium",
+   "scope": "local",
+   "post_to": "Salem 360",
+   "slides_spec": {
+    "v": 3,
+    "cat": "அரசு மனு",
+    "loc": "பைத்தூர், ஆத்தூர்",
+    "hl1": "பைத்தூரில் புதிய கட்டடம் கேட்டு மனு",
+    "hl2": "ஆத்தூர் எம்.எல்.ஏ. மனு",
+    "slides": [
+     {
+      "title": "என்ன மனு?",
+      "lines": [
+       "ஆத்தூர் எம்.எல்.ஏ. ஜெயசங்கரன் கலெக்டரிடம் மனு அளித்தார்",
+       "பைத்தூர் ஊராட்சி பழைய கட்டடங்கள் வலுவிழந்துள்ளன",
+       "1992ல் கட்டப்பட்ட கட்டடங்கள் பழமையாகிவிட்டன"
+      ]
+     },
+     {
+      "title": "கோரிக்கைகள்",
+      "lines": [
+       "அரசு பொது நிதியில் புதிய கட்டடங்கள் கட்ட வேண்டும்",
+       "உலர் களம் அமைக்க தொகுதி மேம்பாட்டு நிதி கேட்கப்பட்டது",
+       "வண்டிப் பாதை தரிசு நிலத்தை நில உரிமை நிலமாக மாற்ற வேண்டும்"
+      ]
+     },
+     {
+      "title": "பின்னணி",
+      "lines": [
+       "6.5 ஏக்கர் தரிசு நிலத்தில் 2007ல் 21 குடும்பத்துக்கு பட்டா",
+       "ஊராட்சி, வி.ஏ.ஓ. அலுவலகங்கள், துணை சுகாதார நிலையம் உள்ளன",
+       "புதிய கட்டடம் கட்ட கலெக்டர் அனுமதி கேட்கப்பட்டது"
+      ]
+     }
+    ],
+    "carousel": false
+   },
+   "reel_script": "ஆத்தூர் பைத்தூர் ஊராட்சியில் பழைய கட்டடங்களுக்கு புதிய கட்டடம் கேட்டு மனு அளிக்கப்பட்டுள்ளது. ஆத்தூர் சட்டமன்ற உறுப்பினர் ஜெயசங்கரன், நேற்று சேலம் கலெக்டர் இளம் பகவத்திடம் இந்த மனுவை அளித்தார். பைத்தூர் ஊராட்சியில் 6.5 ஏக்கர் பாதை தரிசு நிலம் உள்ளது. அங்கு 2007ஆம் ஆண்டு அக்டோபர் 10ஆம் தேதி 21 குடும்பத்தினருக்கு பட்டா வழங்கப்பட்டது. அங்கு ஊராட்சி, கிராம நிர்வாக அலுவலர் அலுவலகங்கள், துணை சுகாதார நிலையம், பல்நோக்கு கட்டடம் உள்ளன. இந்தக் கட்டடங்கள் 1992ஆம் ஆண்டு கட்டப்பட்டதால் பழமையாகி வலுவிழந்துள்ளன. எனவே அரசு பொது நிதியில் இருந்து புதிய கட்டடங்கள் கட்ட வேண்டும் என மனுவில் கோரப்பட்டுள்ளது. ஆத்தூர் தொகுதி மேம்பாட்டு நிதியில் இருந்து உலர் களம் அமைக்கவும் விவசாயிகள் கோரிக்கை விடுத்துள்ளனர். வண்டிப் பாதை தரிசு நிலத்தை நில உரிமை நிலமாக மாற்றித் தர வேண்டும் என்றும் கோரப்பட்டுள்ளது. புதிய கட்டடங்கள் கட்ட கலெக்டர் அனுமதி வழங்க வேண்டும் என்றும் மனுவில் கேட்கப்பட்டுள்ளது. மேலும் செய்திகளுக்கு சேலம் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🏛️ ஆத்தூர் பைத்தூரில் பழைய கட்டடங்களுக்கு புதிய கட்டடம் கேட்டு மனு\n\n📰 முழு விவரம்:\nஆத்தூர் எம்.எல்.ஏ. ஜெயசங்கரன், நேற்று சேலம் கலெக்டர் இளம் பகவத்திடம் மனு அளித்தார். பைத்தூர் ஊராட்சியில் 6.5 ஏக்கர் பாதை தரிசு நிலம் உள்ளது. அங்கு 2007 அக்டோபர் 10ஆம் தேதி 21 குடும்பத்தினருக்கு பட்டா வழங்கப்பட்டது. அங்குள்ள ஊராட்சி, வி.ஏ.ஓ. அலுவலகங்கள், துணை சுகாதார நிலையம், பல்நோக்கு கட்டடம் 1992ஆம் ஆண்டு கட்டப்பட்டதால் வலுவிழந்துள்ளன.\n🏗️ அரசு பொது நிதியில் புதிய கட்டடங்கள் கட்ட வேண்டும் என மனுவில் கோரப்பட்டுள்ளது.\n🌾 ஆத்தூர் தொகுதி மேம்பாட்டு நிதியில் உலர் களம் அமைக்க விவசாயிகள் கோரிக்கை விடுத்துள்ளனர்.\n📜 வண்டிப் பாதை தரிசு நிலத்தை நில உரிமை நிலமாக மாற்றித் தர வேண்டும்.\n✅ புதிய கட்டடங்கள் கட்ட கலெக்டர் அனுமதி வழங்க வேண்டும் என கோரப்பட்டுள்ளது.\n\nAttur MLA petition to Collector on Paithur buildings | Salem news\n📍 பைத்தூர், ஆத்தூர், சேலம் மாவட்டம் | 20 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Salem360 #Salem #Attur #SalemNews #சேலம்",
+   "prompts": "A group of village men in shirts and veshti stand at the front steps of an old government office in Paithur village, Attur, Salem district, while a Tamil Nadu politician in a white shirt hands a bundle of papers across a wooden table to a district official, both seen from behind and at a distance. The building is an aged single-storey brick panchayat office built in the 1990s, with cracked plaster, faded walls, a tiled roof, a few wooden benches and a tin-roofed sub-health centre beside it. Around the courtyard lie a couple of parked two-wheelers and a bicycle, with a flat dirt ground and a few palm trees behind. Some farmers wearing towels over their shoulders and women in cotton sarees stand in a loose group under the shade of a neem tree, waiting and talking. It is mid-morning in bright daylight with soft sunshine and no rain. Camera at eye level, 35 mm lens, wide enough to show the old building, the official table and the waiting villagers. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up of a stack of official petition papers tied with string on a wooden government table in a panchayat office, beside a black ink pen and a folded cloth bag, with the edge of a cracked and weathered wall behind it. Faint sunlight falls through a barred window, showing peeling paint and a dusty concrete floor under the table. In the soft background, a pair of village men's sandals rests near a wooden bench, and a rolled-up mat lies against the wall. The lighting is warm, natural and daytime. Camera slightly above the table at about 45 degrees, 50 mm close focus with a shallow depth of field that blurs the background. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-salem/aiadmk-mla-submit-petition-to-collector/4381106",
+   "published": "2026-11-20T01:20:00+05:30",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - fact-check: no problems found",
+   "note": "free-model draft anthropic/claude-haiku-5-5, 13 attempt(s), 0 validator problem(s)",
+   "post_time": "right after your reply, same day",
+   "_area": "N",
+   "_score": 999,
+   "images": [
+    "https://res.cloudinary.com/jrmwajfz/image/upload/v1795191751/salem360/yvtjsprgbzqhqjqy8srb.jpg",
+    "https://res.cloudinary.com/jrmwajfz/image/upload/v1795191759/salem360/knjjeduplvwxtzdgxsgc.jpg"
+   ]
+  },
+  {
+   "tamil_headline": "கொளத்தூர் இடைத்தேர்தல்: ஸ்டாலின் போட்டியிடுவாரா என கேள்வி",
+   "english_headline": "Will Stalin contest the Kolathur by-election? DMK MP Constantine Ravindran answers",
+   "category": "Government & Services",
+   "location": "Kolathur constituency, Tamil Nadu (article dateline Nellai)",
+   "importance": "High",
+   "scope": "district",
+   "post_to": "Salem 360",
+   "slides_spec": {
+    "v": 3,
+    "cat": "அரசியல்",
+    "loc": "கொளத்தூர்",
+    "hl1": "கொளத்தூரில் ஸ்டாலின் போட்டியிடுவாரா?",
+    "hl2": "முடிவை ஸ்டாலின் எடுப்பார்",
+    "slides": [
+     {
+      "title": "என்ன நடந்தது?",
+      "lines": [
+       "கொளத்தூர் எம்எல்ஏ விஎஸ் பாபு மாரடைப்பால் உயிரிழந்தார்",
+       "72 நாட்கள் தனியார் மருத்துவமனையில் சிகிச்சை",
+       "தொகுதி காலியானதால் இடைத்தேர்தல் நடக்கவுள்ளது"
+      ]
+     },
+     {
+      "title": "இடைத்தேர்தல்",
+      "lines": [
+       "காலியாக உள்ள தொகுதிகள் <b>6</b> ஆக உயர்ந்தது",
+       "திருச்சி கிழக்கு, கரூர், விராலிமலை, பெருந்துறை",
+       "தேர்தல் ஆணையம் பணிகளைத் தொடங்கும் என எதிர்பார்ப்பு"
+      ]
+     },
+     {
+      "title": "ஸ்டாலின் பதில்",
+      "lines": [
+       "சட்டசபைத் தேர்தலில் ஸ்டாலின் <b>9,000</b> வாக்குகள்",
+       "போட்டி முடிவை ஸ்டாலின் தான் எடுப்பார் என எம்பி கூறினார்",
+       "தொண்டர்களின் ஆசையும் வெளிப்படுத்தப்பட்டது"
+      ]
+     }
+    ],
+    "carousel": false
+   },
+   "reel_script": "கொளத்தூர் தொகுதியில் ஸ்டாலின் மீண்டும் போட்டியிடுவாரா என்ற கேள்வி எழுந்துள்ளது. கொளத்தூர் எம்எல்ஏ விஎஸ் பாபு மாரடைப்பால் உயிரிழந்தார். 72 நாட்களாகத் தனியார் மருத்துவமனையில் சிகிச்சையில் இருந்த அவர், நேற்று மதியம் உயிரிழந்தார். இதனால் தமிழ்நாட்டில் காலியாக உள்ள தொகுதிகளின் எண்ணிக்கை 6ஆக உயர்ந்துள்ளது. திருச்சி கிழக்கு, கரூர், விராலிமலை, பெருந்துறை, அம்பாசமுத்திரம் மற்றும் கொளத்தூர் ஆகிய தொகுதிகளுக்கு இடைத்தேர்தல் நடக்கவுள்ளது. சட்டசபைத் தேர்தலில் கொளத்தூரில் போட்டியிட்ட ஸ்டாலின் சுமார் 9 ஆயிரம் வாக்குகள் வித்தியாசத்தில் தோல்வியடைந்தார். இந்நிலையில் தி மு க எம்பி கான்ஸ்டன்டைன் ரவீந்திரன் செய்தியாளர்களிடம் பேசினார். கொளத்தூர் தொகுதியில் போட்டியிடும் முடிவை ஸ்டாலின் தான் எடுப்பார் என்று அவர் கூறினார். தொண்டர்களுக்கும் போட்டியிட வேண்டும் என்ற ஆசை இருப்பதாக அவர் தெரிவித்தார். மேலும் செய்திகளுக்கு சேலம் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🗳️ கொளத்தூரில் ஸ்டாலின் போட்டியிடுவாரா? முடிவு அவருடையது\n\n📰 முழு விவரம்:\nகொளத்தூர் எம்எல்ஏ விஎஸ் பாபு மாரடைப்பால் உயிரிழந்தார். 72 நாட்கள் தனியார் மருத்துவமனையில் சிகிச்சையில் இருந்த அவர் நேற்று மதியம் உயிரிழந்தார். அவரின் உடலைத் தோளில் சுமந்து சென்று முதல்வர் விஜய் இறுதி மரியாதை செலுத்தினார். காலியான தொகுதிகள் 6 ஆக உயர்ந்தன. கொளத்தூரில் ஸ்டாலின் மீண்டும் போட்டியிடுவாரா என்ற கேள்விக்கு, திமுக எம்பி கான்ஸ்டன்டைன் ரவீந்திரன் பதிலளித்தார். முடிவை ஸ்டாலின் தான் எடுப்பார் என்றும், அறிவிப்பார் என்றும் அவர் கூறினார்.\n🗳️ இடைத்தேர்தல் நடக்கும் தொகுதிகள்: திருச்சி கிழக்கு, கரூர், விராலிமலை, பெருந்துறை, அம்பாசமுத்திரம், கொளத்தூர்\n🔍 சட்டசபைத் தேர்தலில் ஸ்டாலின் சுமார் 9 ஆயிரம் வாக்குகள் வித்தியாசத்தில் தோல்வியடைந்தார்.\n\nWill Stalin contest Kolathur by-election? | Salem news\n📍 கொளத்தூர், தமிழ்நாடு | 20 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Salem360 #Salem #SalemNews #சேலம்",
+   "prompts": "A DMK party MP stands before a cluster of reporters holding microphones at a press meet in Tirunelveli (Nellai), explaining the party's stance on whether DMK chief Stalin will contest the vacant Kolathur by-election. The setting is a modest government-style or party office hall in Nellai city, with a plain wall backdrop and a table draped in a white cloth carrying a bundle of microphones and recorder units. Around six to eight reporters and photographers stand in a semicircle, seen from behind and slightly to the side, holding notebooks, phones and cameras; a few DMK cadres in white shirts and veshti stand near the back, some with black-and-red party scarves over their shoulders. The speaker wears a white shirt and dark trousers and gestures with one hand while speaking, though he is shown from the side at a distance so no face is clear. Daylight from tall windows falls across the room, creating soft shadows on the floor, with a standing fan and a few plastic chairs at the edges. Camera at eye level, 35 mm lens, wide enough to show the whole group and the room. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close detail of the press-meet table in a Nellai party office: a cluster of several microphones with foam covers and a tangle of recorder cables lies on a white tablecloth, with a glass of water and a folded stack of reporters' notebooks beside them. Behind the table, out of focus, the shoulders and backs of reporters and a DMK cadre in a white shirt can be seen, and a wall with a plain faded surface sits in the background. Soft daylight from a side window lights the scene, showing a few water droplets on the glass and a wooden pen lying across a notebook. Shallow depth of field, camera slightly above the table, 50 mm lens, with no readable text, signboards or logos visible. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://tamil.oneindia.com/news/thirunelveli/dmk-mp-constantine-ravindran-says-dmk-leader-mk-stalin-will-take-call-on-kolathur-by-election-846933.html",
+   "published": "2026-11-20T19:52:10+05:30",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: reel_script has 89 words; need 100-160 (the key facts once each, in at most 90 seconds; every other detail goes in the caption's 📰 முழு விவரம் block)",
+   "note": "free-model draft anthropic/claude-haiku-5-5, 13 attempt(s), 1 validator problem(s)",
+   "post_time": "right after your reply, same day",
+   "_area": "N",
+   "_score": 999,
+   "images": [
+    "https://res.cloudinary.com/jrmwajfz/image/upload/v1795191771/salem360/zewguzfzp4hi5y5hszam.jpg",
+    "https://res.cloudinary.com/jrmwajfz/image/upload/v1795191839/salem360/b8vuyrtn6ztaewmqmwjp.jpg"
    ]
   }
  ]
