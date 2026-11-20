@@ -83,6 +83,12 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 <!-- recent-changes:start (updated automatically by .github/workflows/context.yml - do not edit by hand) -->
 | Date | Commit | Change |
 |---|---|---|
+| 2026-11-20 | `d65956b` | Reel length back to the full news (at most 90 s, 70-160 words); captions always fit Instagram's 2,200 |
+| 2026-11-20 | `0f252cf` | rasipalan posted |
+| 2026-11-19 | `b235c4d` | pick: written and posted |
+| 2026-11-19 | `d7624fe` | pick: picked news saved |
+| 2026-11-19 | `439e93e` | pick: picked news saved |
+| 2026-11-19 | `ef7d8bb` | pick: list sent |
 | 2026-11-19 | `571748c` | Posting time first: news posts 06:00-12:00 and 15:00-21:00 IST; collection fitted to it (04:00, 08:30, 13:00, 16:30, 18:30) |
 | 2026-11-19 | `95ea0c7` | 19 Nov owner changes: reel length / wording, source first comment, 360 gold reel, posting windows, rasipalan before 9 AM |
 | 2026-11-19 | `307c4bb` | powercut: notices written |
@@ -107,10 +113,4 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 | 2026-11-19 | `99d0229` | pick: picked news saved |
 | 2026-11-19 | `4341eea` | pick: list sent |
 | 2026-11-19 | `13c4ca2` | Gold reel: modern theme - full-screen scenes (hook, 22K, 24K, silver, follow) changing with each spoken line |
-| 2026-11-19 | `fe6ba12` | powercut: notices written |
-| 2026-11-19 | `1bbd672` | Gold & silver rate also as a reel, posted after the carousel (never twice; a reel problem never touches the carousel) |
-| 2026-11-19 | `301b987` | powercut: notices written |
-| 2026-11-19 | `8d82e74` | pick: written and posted |
-| 2026-11-19 | `5df711a` | pick: picked news saved |
-| 2026-11-19 | `5f35977` | pick: picked news saved |
 <!-- recent-changes:end -->
