@@ -3,132 +3,94 @@
   "earlier stories still waiting for images: []",
   "instagram check: 50 recent posts read from the page",
   "pick round: only the picked links are written (research_free/pick.py)",
-  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-salem/aiadmk-good-times-suburban--hope/4381103",
-  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-salem/tomorrow-education-loan-mela-at-sangagiri/4381088",
-  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-salem/-/4381092",
-  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-salem/quality-paddy-seed-selection-girls-awareness/4381102",
-  "manual link added: https://www.dinamani.com/all-editions/edition-dharmapuri/salem/2026/Nov/19/karthigai-deepam-brisk-sales-of-earthen-lamps",
-  "candidate filter: collected=5",
-  "to write: 5 Salem district candidates (max 5 stories)",
-  "round: top 5 of 5 candidates",
-  "candidates waiting: 5 Salem; time left 79 min",
+  "manual link added: https://tamil.oneindia.com/news/chennai/is-minister-keerthana-the-dhurandhar-in-your-cabinet-eps-questions-tvk-government-846815.html",
+  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-salem/kundam-coriander-kg-rs-1200/4381090",
+  "manual link added: https://www.dinakaran.com/news/dmk-leader-mkstalin-cauvery-issue-edappadi-palaniswami/amp",
+  "manual link added: https://www.dinamani.com/all-editions/edition-dharmapuri/salem/2026/Nov/19/water-inflow-to-mettur-dam-is-1116-cusecs",
+  "candidate filter: collected=4",
+  "to write: 4 Salem district candidates (max 4 stories)",
+  "round: top 4 of 4 candidates",
+  "candidates waiting: 4 Salem; time left 79 min",
   "try (N) manual=True: https://www.dinamani.com/all-editions/edition-dharmapuri/sal",
-  "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-sale",
+  "try (N) manual=True: https://www.dinakaran.com/news/dmk-leader-mkstalin-cauvery-i",
   "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-sale",
   "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 2})",
   "posting job started at once",
-  "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-sale",
+  "try (N) manual=True: https://tamil.oneindia.com/news/chennai/is-minister-keerthan",
   "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 4})",
   "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 7})",
-  "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-sale",
   "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 9})",
-  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 11})",
-  "candidate loop ended: left 0, tried={'N': 5}, done={'N': 5}, time left 76 min",
-  "filed: 5 Salem district stories (target 5), reels only",
+  "candidate loop ended: left 0, tried={'N': 4}, done={'N': 4}, time left 68 min",
+  "filed: 4 Salem district stories (target 4), reels only",
   "queue: 0 news waiting to be written",
-  "All News sheet: {\"ok\":true,\"added\":5,\"updated\":0}"
+  "All News sheet: {\"ok\":true,\"added\":4,\"updated\":0}"
  ],
  "llm": [
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
   "dead for this round: gemini/gemini-3.6-flash",
-  "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
-  "dead for this round: gemini/gemini-3.6-flash",
-  "ok gemini/gemini-3.6-flash (12s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
   "dead for this round: gemini/gemini-3.5-flash",
-  "ok gemini/gemini-3.5-flash (13s)",
+  "ok gemini/gemini-3.6-flash (46s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok gemini/gemini-3.5-flash (16s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok gemini/gemini-3-flash-preview (7s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok gemini/gemini-3-flash-preview (10s)",
-  "fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, plea",
-  "dead for this round: gemini/gemini-3-flash-preview",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
-  "ok gemini/gemini-3-flash-preview (10s)",
+  "fail gemini/gemini-3.6-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=60)",
+  "poor answer - skipped for 30 min: gemini/gemini-3.6-flash",
+  "fail gemini/gemini-3-flash-preview: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=60)",
+  "poor answer - skipped for 30 min: gemini/gemini-3-flash-preview",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 400: {\"error\":{\"message\":\"Failed to validate JSON. Please adjust your prompt. See 'failed_gener",
+  "ok gemini/gemini-3-flash-preview (9s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
-  "ok groq/openai/gpt-oss-120b (7s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
-  "switching away from groq/openai/gpt-oss-120b for 10 min",
-  "ok groq/qwen/qwen3.8-27b (3s)",
+  "ok groq/qwen/qwen3.8-27b (4s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
   "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
   "switching away from groq/openai/gpt-oss-120b for 10 min",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
   "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
-  "switching away from groq/openai/gpt-oss-120b for 10 min",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
   "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok groq/qwen/qwen3.8-27b (0s)",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
-  "switching away from groq/qwen/qwen3.8-27b for 10 min",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
+  "ok anthropic/claude-haiku-5-5",
   "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
   "switching away from groq/qwen/qwen3.8-27b for 10 min",
   "ok anthropic/claude-haiku-5-5",
+  "fail gemini/gemini-3-flash-preview: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=60)",
+  "poor answer - skipped for 30 min: gemini/gemini-3-flash-preview",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok anthropic/claude-haiku-5-5",
   "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "ok anthropic/claude-haiku-5-5",
   "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
@@ -137,307 +99,248 @@
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "ok anthropic/claude-haiku-5-5",
   "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "ok anthropic/claude-haiku-5-5"
  ],
  "stories": [
   {
-   "tamil_headline": "தரமான நெல் விதை தேர்வு: முட்டை மிதக்கும் முறையில் மாணவியர் செயல் விளக்கம்",
-   "english_headline": "Students demonstrate egg-float method to select quality paddy seeds at Thippampatti farm",
-   "category": "Agriculture",
-   "location": "Thippampatti, Panamarathupatti, Salem district",
+   "tamil_headline": "மேட்டூர் அணைக்கு நீர்வரத்து விநாடிக்கு 1,116 கனஅடி",
+   "english_headline": "Mettur dam inflow at 1,116 cusecs; 1,000 cusecs released, water level 61.53 ft",
+   "category": "Water & Dams",
+   "location": "Mettur, Salem district",
    "importance": "Medium",
-   "scope": "local",
+   "scope": "district",
    "post_to": "Salem 360",
    "slides_spec": {
     "v": 3,
-    "cat": "வேளாண் விழிப்புணர்வு",
-    "loc": "திப்பம்பட்டி, பனமரத்துப்பட்டி",
-    "hl1": "திப்பம்பட்டியில் தரமான நெல் விதை தேர்வு",
-    "hl2": "முட்டை மிதக்கும் முறை",
+    "cat": "அணை நிலவரம்",
+    "loc": "மேட்டூர்",
+    "hl1": "மேட்டூர் அணைக்கு நீர்வரத்து 1,116 கனஅடி",
+    "hl2": "1,000 கனஅடி திறப்பு",
     "slides": [
      {
-      "title": "என்ன நடந்தது?",
+      "title": "நீர்வரத்து",
       "lines": [
-       "பி.எஸ்சி. 4ஆம் ஆண்டு மாணவியர் செயல் விளக்கம் அளித்தனர்",
-       "திப்பம்பட்டியில் ஒரு விவசாயி தோட்டத்தில் நடைபெற்றது",
-       "நேற்று நடைபெற்ற நேரடி செயல் விளக்கம்"
+       "வியாழக்கிழமை மாலை 4 மணி நிலவரம்",
+       "நீர்வரத்து விநாடிக்கு <b>1,116 கனஅடி</b>",
+       "நீர்வரத்து இன்னும் அதே நிலையில் நீடிக்கிறது"
       ]
      },
      {
-      "title": "விதை தேர்வு முறை",
+      "title": "தண்ணீர் திறப்பு",
       "lines": [
-       "உப்பு கரைசல் நீரில் விதைகளை இடுவர்",
-       "மிதக்கும் பதர் விதைகள் நீக்கப்படும்",
-       "அடியில் தங்கும் கனமான விதைகள் தேர்வு"
+       "அணையில் இருந்து விநாடிக்கு <b>1,000 கனஅடி</b> திறப்பு",
+       "தண்ணீர் வெளியேற்றம் தொடர்கிறது"
       ]
      },
      {
-      "title": "விழிப்புணர்வு",
+      "title": "அணை நிலவரம்",
       "lines": [
-       "தரமான விதை தேர்வின் முக்கியத்துவம் விளக்கப்பட்டது",
-       "தரமான விதைகளின் நன்மைகள் குறித்து விவசாயிகளுக்கு",
-       "மாணவியர் கிராம வேளாண் பணி அனுபவ பயிற்சியில் ஈடுபட்டுள்ளனர்"
+       "நீர்மட்டம் <b>61.53 அடி</b>",
+       "நீர் இருப்பு <b>25.84 டிஎம்சி</b>"
       ]
      }
     ],
     "carousel": false
    },
-   "reel_script": "திப்பம்பட்டியில் விவசாயிகளுக்கு தரமான நெல் விதை தேர்வு முறை செயல் விளக்கம் அளிக்கப்பட்டது. நேற்று ஒரு விவசாயி தோட்டத்தில் இந்த செயல் விளக்கத்தை பி எஸ்சி. 4ஆம் ஆண்டு மாணவியர் வழங்கினர். உப்பு கரைசல் நீரில் மிதக்கும் பதர் விதைகளை நீக்கினர். அடியில் தங்கும் தரமான, கனமான விதைகளை தேர்வு செய்யும் முறையை விவசாயிகளுக்கு விளக்கினர். தரமான விதைகளைப் பயன்படுத்துவதால் கிடைக்கும் நன்மைகள் குறித்தும் விழிப்புணர்வு ஏற்படுத்தப்பட்டது. மாணவியர் கிருஷ்ணகிரி மாவட்டம் பையூரில் உள்ள தோட்டக்கலை கல்லூரியில் படிக்கின்றனர். கிராம வேளாண் பணி அனுபவ பயிற்சிக்காக சேலம் மாவட்டம் சந்தியூர் வேளாண் அறிவியல் நிலையத்தில் தங்கியுள்ளனர். மேலும் செய்திகளுக்கு சேலம் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🌾 திப்பம்பட்டியில் தரமான நெல் விதை தேர்வு: முட்டை மிதக்கும் முறை செயல் விளக்கம்\n\n📰 முழு விவரம்:\nபி.எஸ்சி. 4ஆம் ஆண்டு மாணவியர் நேற்று திப்பம்பட்டியில் ஒரு விவசாயி தோட்டத்தில் நேரடி செயல் விளக்கம் அளித்தனர்.\nஉப்பு கரைசல் நீரில் மிதக்கும் தரமற்ற பதர் விதைகளை நீக்கி, அடியில் தங்கும் தரமான, கனமான விதைகளைத் தேர்வு செய்யும் முறை விளக்கப்பட்டது.\nதரமான விதை தேர்வின் முக்கியத்துவம், தரமான விதைகளைப் பயன்படுத்துவதால் கிடைக்கும் நன்மைகள் குறித்து விவசாயிகளிடையே விழிப்புணர்வு ஏற்படுத்தப்பட்டது.\nமாணவியர் கிருஷ்ணகிரி மாவட்டம் பையூரில் உள்ள தோட்டக்கலை கல்லூரி மற்றும் ஆராய்ச்சி நிலையத்தில் பயில்கின்றனர். கிராம வேளாண் பணி அனுபவ பயிற்சிக்காக சேலம் மாவட்டம் சந்தியூர் வேளாண் அறிவியல் நிலையத்தில் தங்கியுள்ளனர்.\n\nSalem paddy seed selection demo, egg float method | Salem news\n📍 திப்பம்பட்டி, பனமரத்துப்பட்டி, சேலம் மாவட்டம் | 20 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Salem360 #Salem #SalemNews #சேலம்",
-   "prompts": "A small group of young women agriculture students in salwar kameez stand with farmers around a plastic tub at the edge of a green paddy field in a village near Panamarathupatti, Salem district, as one student demonstrates the egg-float method to choose quality paddy seeds. Inside the tub, clear salt-solution water holds an egg floating near the surface, and beside it lies a heap of golden paddy seeds on a flat steel plate, with light chaff floating on top. Their faces are not clearly shown, seen from behind or at a distance. The farmer's field stretches behind them with green paddy plants, a few mango trees on the horizon and low hills faintly visible. Bright daylight with a soft haze, the camera at eye level, 35 mm lens, wide enough to show the field, the tub and the gathered group. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-salem/quality-paddy-seed-selection-girls-awareness/4381102",
-   "published": "2026-11-20T01:17:00+05:30",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5) - fact-check: no problems found",
-   "note": "free-model draft anthropic/claude-haiku-5-5, 13 attempt(s), 0 validator problem(s)",
-   "post_time": "right after your reply, same day",
-   "_area": "N",
-   "_score": 999,
-   "images": [
-    "https://res.cloudinary.com/jrmwajfz/image/upload/v1795146240/salem360/wnjs8rzkiceyqmbojlfm.jpg"
-   ]
-  },
-  {
-   "tamil_headline": "சேலம் மாநகரில் களைகட்டும் அகல் விளக்குகள் விற்பனை: நவம்பர் 24-ல் கார்த்திகை தீபம்",
-   "english_headline": "Karthigai Deepam lamp sales peak in Salem city; festival on Nov 24",
-   "category": "Temples & Events",
-   "location": "Salem city, Salem district",
-   "importance": "Medium",
-   "scope": "local",
-   "post_to": "Salem 360",
-   "slides_spec": {
-    "v": 3,
-    "cat": "கார்த்திகை தீபம்",
-    "loc": "சேலம் மாநகர்",
-    "hl1": "சேலம் மாநகரில் அகல் விளக்கு விற்பனை",
-    "hl2": "நவம்பர் 24-ல் கார்த்திகை",
-    "slides": [
-     {
-      "title": "தீபத் திருவிழா",
-      "lines": [
-       "நவம்பர் <b>24</b>-ஆம் தேதி கார்த்திகை தீபம்",
-       "சேலம் மாநகரில் விளக்குகள் விற்பனை தீவிரம்",
-       "பல்வேறு வடிவங்களில் குவிந்துள்ள விளக்குகள்"
-      ]
-     },
-     {
-      "title": "விளக்கு வகைகள்",
-      "lines": [
-       "ஒரு முகம், ஐந்து முகம், குபேர விளக்கு",
-       "மேஜிக், ரங்கோலி, ஓம், ஸ்வஸ்திக் விளக்குகள்",
-       "கற்பக விருட்சக மற்றும் தொங்கு விளக்குகள்"
-      ]
-     },
-     {
-      "title": "விலை விவரம்",
-      "lines": [
-       "மண் விளக்குகள்: <b>ரூ. 2</b> முதல் <b>ரூ. 50</b> வரை",
-       "டெரகோட்டா விளக்குகள்: <b>ரூ. 20</b> முதல் <b>ரூ. 200</b>",
-       "பொதுமக்கள் ஆர்வத்துடன் வாங்கிச் செல்கின்றனர்"
-      ]
-     }
-    ],
-    "carousel": false
-   },
-   "reel_script": "சேலம் மாநகரில் கார்த்திகை தீபத் திருவிழாவை முன்னிட்டு அகல் விளக்குகள் விற்பனை விறுவிறுப்பாக நடைபெற்று வருகிறது. இந்த ஆண்டு கார்த்திகை தீபத் திருநாள் நவம்பர் 24-ஆம் தேதி கொண்டாடப்படுகிறது. இதனை முன்னிட்டு சேலம் மாநகரின் பல்வேறு பகுதிகளில் விதவிதமான அகல் விளக்குகள் விற்பனைக்காகக் குவிக்கப்பட்டுள்ளன. ஒரு முகம், ஐந்து முகம், மேஜிக் விளக்கு மற்றும் குபேர விளக்குகள் விற்பனைக்கு வந்துள்ளன. மேலும் பிரதோஷ விளக்கு, தட்டு விளக்கு, ரங்கோலி, ஓம் மற்றும் ஸ்வஸ்திக் வடிவ விளக்குகளும் கிடைக்கின்றன. கற்பக விருட்சக விளக்கு மற்றும் தொங்கு விளக்குகள் எனப் பல வண்ணங்களில் விளக்குகள் உள்ளன. சாதாரண மண் விளக்குகள் 2 ரூபாய் முதல் 50 ரூபாய் வரை விற்பனை செய்யப்படுகின்றன. அலங்கார டெரகோட்டா விளக்குகள் 20 ரூபாய் முதல் 200 ரூபாய் வரை விற்கப்படுகின்றன. கார்த்திகை தீபத்தன்று வீடுகளில் விளக்கேற்றி வழிபடப் பொதுமக்கள் ஆர்வத்துடன் விளக்குகளை வாங்கிச் செல்கின்றனர். தீபத் திருநாளில் சிவன், அம்மன், விநாயகர் மற்றும் முருகன் கோயில்களில் சிறப்பு அபிஷேகங்கள் நடைபெறும். மேலும் செய்திகளுக்கு சேலம் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🪔 சேலம் மாநகரில் களைகட்டும் அகல் விளக்குகள் விற்பனை: நவம்பர் 24-ல் கார்த்திகை தீபம்\n\n📰 முழு விவரம்:\nகார்த்திகை தீபத் திருவிழாவை முன்னிட்டு சேலம் மாநகரில் பல்வேறு வடிவங்கள் மற்றும் வண்ணங்களில் அகல் விளக்குகள் விற்பனைக்காகக் குவிக்கப்பட்டுள்ளன. கார்த்திகை தீபத் திருநாளில் வீடுகளில் அகல் விளக்குகளை ஏற்றி வழிபடுவது வழக்கம்.\n🗓️ நாள்: நவம்பர் 24, 2026 (கார்த்திகை தீபம்)\n🏺 வகைகள்: ஒரு முகம், ஐந்து முகம், மேஜிக், குபேர விளக்கு, பிரதோஷ விளக்கு, தட்டு விளக்கு, ரங்கோலி, ஓம், ஸ்வஸ்திக், கற்பக விருட்சக விளக்கு மற்றும் தொங்கு விளக்குகள்.\n💰 விலை: மண் விளக்குகள் ரூ. 2 முதல் ரூ. 50 வரை; டெரகோட்டா விளக்குகள் ரூ. 20 முதல் ரூ. 200 வரை விற்பனை செய்யப்படுகின்றன.\n🛕 தீபத் திருநாளில் சிவன், அம்மன், விநாயகர், முருகன் கோயில்களில் சிறப்பு அபிஷேகம் மற்றும் அலங்கார ஆராதனைகள் நடைபெறும்.\n\nKarthigai Deepam lamp sales in Salem city | Salem news\n📍 சேலம் மாநகர், சேலம் | 20 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Salem360 #Salem #SalemCity #KarthigaiDeepam #சேலம்",
-   "prompts": "A street vendor in Salem city arranges a huge heap of colourful clay and terracotta Karthigai Deepam lamps on a roadside stall as shoppers stop to buy them ahead of the festival. The stall is set up on a busy Salem city street with a row of other vendors' stalls, two-wheelers and an autorickshaw passing in the background. The vendor wears a shirt and veshti and a customer in a saree and a man in trousers stand at the stall, seen from behind and at a distance. Pyramids of lamps in many shapes are visible: single-wall lamps, five-face lamps, kubera lamps, plate lamps and hanging lamps, with painted rangoli and Om designs in red, yellow and green. It is bright daylight. The camera sits at eye level, slightly high, with a 35 mm wide lens so the street and stall are both clearly shown. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up of a stall piled with small clay Karthigai Deepam lamps and larger terracotta lamps in varied designs, with a few five-face and kubera lamps placed on top, their painted swastik and Om patterns visible in warm reds and yellows. Hands of a shopper, in a plain sleeve, pick up one lamp from the pile while the vendor's hand rests on the table nearby. Behind the stall, a blurred view of a Salem city roadside with a parked two-wheeler and passing bus. Daylight. The camera is at a low angle near the table with a 35 mm lens, shallow depth of field keeping the lamp heaps in sharp focus. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamani.com/all-editions/edition-dharmapuri/salem/2026/Nov/19/karthigai-deepam-brisk-sales-of-earthen-lamps",
-   "published": "2026-11-19T23:52:15.418Z",
-   "verification": "DRAFT (gemini/gemini-3-flash-preview) - NOT CLEAN, held from posting - problems: sentence 1 (one-line story) has 12 words; make it 6-9 words (about 2-3 seconds), the details follow in the next sentences",
-   "note": "free-model draft gemini/gemini-3-flash-preview, 2 attempt(s), 1 validator problem(s)",
-   "post_time": "right after your reply, same day",
-   "_area": "N",
-   "_score": 999,
-   "images": [
-    "https://res.cloudinary.com/jrmwajfz/image/upload/v1795146246/salem360/qkgukkclgbqsdckivxq1.jpg",
-    "https://res.cloudinary.com/jrmwajfz/image/upload/v1795146256/salem360/vwfwawxvcrqq3xr51hwu.jpg"
-   ]
-  },
-  {
-   "tamil_headline": "இடைப்பாடி பூமணியூர் கோவில் கும்பாபிஷேகம்: 500க்கும் மேற்பட்ட பக்தர்கள் தீர்த்தக்குட ஊர்வலம்",
-   "english_headline": "Over 500 devotees carried holy water from the Cauvery in a procession for the Idappadi Bhoomaniyur temple kumbabhishekam",
-   "category": "Temples & Events",
-   "location": "Bhoomaniyur, Idappadi, Salem district",
-   "importance": "Medium",
-   "scope": "local",
-   "post_to": "Salem 360",
-   "slides_spec": {
-    "v": 3,
-    "cat": "கோவில் நிகழ்வு",
-    "loc": "இடைப்பாடி",
-    "hl1": "இடைப்பாடியில் தீர்த்தக்குட ஊர்வலம்",
-    "hl2": "500க்கும் மேற்பட்ட பக்தர்கள்",
-    "slides": [
-     {
-      "title": "என்ன நிகழ்வு?",
-      "lines": [
-       "பூமணியூர் விநாயகர், மாரியம்மன் கோவில் மகா கும்பாபிஷேகம்",
-       "இடைப்பாடி பகுதியில் இந்த நிகழ்வு நடைபெறுகிறது"
-      ]
-     },
-     {
-      "title": "தீர்த்தக்குட",
-      "lines": [
-       "நேற்று கோனேரிப்பட்டி காவிரி ஆற்றில் இருந்து <b>500க்கும்",
-       "கோனேரிப்பட்டி 4 ரோடு வழியாக ஊர்வலமாகச் சென்று மாரியம்மன்"
-      ]
-     },
-     {
-      "title": "வழிபாடு",
-      "lines": [
-       "ஊர்வலம் முடிந்ததும் பக்தர்கள் தொடர்ந்து வழிபட்டனர்",
-       "கும்பாபிஷேகம் இன்று நடைபெறுவதால் பக்தர்கள் பங்கேற்கின்றனர"
-      ]
-     }
-    ],
-    "carousel": false
-   },
-   "reel_script": "இடைப்பாடி பூமணியூர் கோவிலில் இன்று மகா கும்பாபிஷேகம் நடைபெறுகிறது. இதையொட்டி நேற்று 500க்கும் மேற்பட்ட பக்தர்கள் தீர்த்தக்குடம் எடுத்து ஊர்வலமாகச் சென்றனர். கோனேரிப்பட்டி காவிரி ஆற்றில் இருந்து தீர்த்தம் எடுத்து, கோனேரிப்பட்டி 4 ரோடு வழியாக மாரியம்மன் கோவிலை அடைந்தனர். ஊர்வலத்துக்குப் பின் பக்தர்கள் தொடர்ந்து வழிபட்டனர். இடைப்பாடி பூமணியூர் விநாயகர், மாரியம்மன் கோவில் கும்பாபிஷேகம் இன்று நடைபெறுகிறது. மேலும் செய்திகளுக்கு சேலம் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🙏 இடைப்பாடியில் பூமணியூர் கோவில் கும்பாபிஷேகம்: 500க்கும் மேற்பட்ட பக்தர்கள் தீர்த்தக்குட ஊர்வலம்\n\n📰 முழு விவரம்:\nஇடைப்பாடி, பூமணியூர் விநாயகர், மாரியம்மன் கோவில் மகா கும்பாபிஷேகம் இன்று (நவ. 20, வெள்ளிக்கிழமை) நடைபெறுகிறது.\nஇதையொட்டி நேற்று கோனேரிப்பட்டி காவிரி ஆற்றில் இருந்து 500க்கும் மேற்பட்ட பக்தர்கள் தீர்த்தக்குடம் எடுத்தனர்.\nதீர்த்தக்குடங்களுடன் ஊர்வலமாகச் சென்ற பக்தர்கள் கோனேரிப்பட்டி 4 ரோடு வழியாக மாரியம்மன் கோவிலை அடைந்தனர்.\nஊர்வலத்துக்குப் பின் பக்தர்கள் தொடர்ந்து வழிபட்டனர்.\n📍 இடம்: பூமணியூர், இடைப்பாடி, சேலம் மாவட்டம்\n🗓️ நாள்: நவம்பர் 20, 2026 (கும்பாபிஷேகம்)\n\nIdappadi Bhoomaniyur temple kumbabhishekam | Salem news\n📍 பூமணியூர், இடைப்பாடி, சேலம் மாவட்டம் | 20 நவம்பர் 2026\n\nதேவைப்படுவோருக்கு Share செய்யுங்கள்\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Salem360 #Salem #Idappadi #SalemNews #சேலம்",
-   "prompts": "A long line of over 500 devotees walks in a village procession on a road in Bhoomaniyur, Idappadi, each carrying a brass or copper holy water pot (theertha kudam) on the head, heading towards the Mariamman temple for its maha kumbabhishekam. The road runs through the Idappadi countryside, lined with mango groves and low tiled houses, with a few two-wheelers parked at the roadside and a Tamil Nadu police constable in khaki standing at a distance to manage the crowd. Most men wear white veshti and shirts, women wear bright cotton sarees, and all are photographed from behind or far away so no faces are visible. Daylight, clear sky, warm morning sun, late afternoon light casting long shadows. Camera at eye level or slightly high, 35 mm, wide enough to show the full length of the procession and the road ahead. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up of several brass and copper theertha kudam pots, filled with clear Cauvery water, held on the heads of devotees walking in a procession, the pots shining in daylight with the sun glinting off the metal and water spilling slightly over the rims. Behind the pots, the blurred figures of devotees in white veshti and sarees walk along a village road lined with mango trees and a few parked two-wheelers. Some devotees have a sprig of neem or mango leaves tied to the pot necks. No readable text or signs visible. Daylight, soft warm sun. Camera at a low-to-mid angle, slightly above the pots, 35 mm, shallow depth of field keeping the pots sharp and the background softly blurred. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-salem/-/4381092",
-   "published": "2026-11-20T01:06:00+05:30",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: reel_script has 49 words; need 60-160 (the key facts once each, in at most 90 seconds; every other detail goes in the caption's 📰 முழு விவரம் block)",
-   "note": "free-model draft anthropic/claude-haiku-5-5, 12 attempt(s), 1 validator problem(s)",
-   "post_time": "right after your reply, same day",
-   "_area": "N",
-   "_score": 999,
-   "images": [
-    "https://res.cloudinary.com/jrmwajfz/image/upload/v1795146267/salem360/cbu1tut66gd1e0dkpwgl.jpg",
-    "https://res.cloudinary.com/jrmwajfz/image/upload/v1795146278/salem360/lj1haomz2o1tspt6ysyf.jpg"
-   ]
-  },
-  {
-   "tamil_headline": "சங்ககிரியில் நாளை கல்வி கடன் மேளா: காலை 10 மணிக்கு நடைபெறும்",
-   "english_headline": "Education loan mela in Sankagiri tomorrow at 10 AM for students who want to continue college studies",
-   "category": "Education",
-   "location": "Sankagiri, Salem district",
-   "importance": "High",
-   "scope": "local",
-   "post_to": "Salem 360",
-   "slides_spec": {
-    "v": 3,
-    "cat": "கல்வி கடன்",
-    "loc": "சங்ககிரி",
-    "hl1": "சங்ககிரியில் நாளை கல்வி கடன் மேளா",
-    "hl2": "காலை 10 மணி முதல்",
-    "slides": [
-     {
-      "title": "எப்போது, எங்கே?",
-      "lines": [
-       "நாளை <b>காலை 10 மணிக்கு</b> கல்வி கடன் மேளா",
-       "சங்ககிரி சண்முகா பொறியியல் கல்லூரியில் நடைபெறும்",
-       "இது மூன்றாம் கட்ட கல்வி கடன் மேளா"
-      ]
-     },
-     {
-      "title": "யார் பயன்பெறலாம்?",
-      "lines": [
-       "பொருளாதாரத்தில் பின்தங்கிய மாணவர்கள்",
-       "கல்லூரி படிப்பைத் தொடர விரும்பும் மாணவர்கள்",
-       "கல்லூரி மாணவர்கள் பயன்படுத்திக்கொள்ளலாம்"
-      ]
-     },
-     {
-      "title": "பதிவு எப்படி?",
-      "lines": [
-       "கடன் பெற விரும்புவோர் இணையதளத்தில் பதிவு செய்யுங்கள்",
-       "இணையதள முகவரி கேப்ஷனில் உள்ளது",
-       "விவரங்களைப் பதிவு செய்து கடன் பெறலாம்"
-      ]
-     },
-     {
-      "title": "கலெக்டர் தகவல்",
-      "lines": [
-       "சேலம் கலெக்டர் இளம்பகவத் தகவல் தெரிவித்துள்ளார்",
-       "அம்மாபேட்டை, காகாபாளையம் கல்லூரிகளில் முன்பு மேளா நடந்தது",
-       "தகுதியுள்ள மாணவர்கள் தவறாமல் பயன்படுத்துங்கள்"
-      ]
-     }
-    ],
-    "carousel": false
-   },
-   "reel_script": "சங்ககிரியில் நாளை காலை 10 மணிக்கு கல்வி கடன் மேளா நடைபெற உள்ளது. பொருளாதாரத்தில் பின்தங்கிய மாணவர்கள் கல்லூரிப் படிப்பைத் தொடர இந்த மேளா உதவும். சங்ககிரி சண்முகா பொறியியல் கல்லூரியில் இந்த மேளா நடைபெறும். இது மூன்றாம் கட்ட கல்வி கடன் மேளா ஆகும். இதற்கு முன் அம்மாபேட்டை ஏ வி எஸ் பொறியியல் கல்லூரி மற்றும் காகாபாளையம் நாலெட்ஜ் பொறியியல் கல்லூரியில் மேளா நடத்தப்பட்டது. கல்லூரி மாணவர்கள் இந்த வாய்ப்பைப் பயன்படுத்திக்கொள்ளலாம். கடன் பெற விரும்புவோர் குறிப்பிட்ட இணையதளத்தில் விவரங்களைப் பதிவு செய்து கொள்ளலாம். இந்தத் தகவலை சேலம் கலெக்டர் இளம்பகவத் தெரிவித்துள்ளார். மேலும் செய்திகளுக்கு சேலம் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🎓 சங்ககிரியில் நாளை காலை 10 மணிக்கு கல்வி கடன் மேளா\n\n📰 முழு விவரம்:\nபொருளாதாரத்தில் பின்தங்கிய மாணவர்களும் கல்லூரிப் படிப்பைத் தொடர உதவும் வகையில் சேலம் மாவட்டத்தின் பல்வேறு பகுதிகளில் கல்வி கடன் மேளா நடத்தப்படுகிறது. அதன்படி மூன்றாம் கட்டமாக, சங்ககிரி சண்முகா பொறியியல் கல்லூரியில் நாளை காலை 10 மணிக்கு கல்வி கடன் மேளா நடைபெற உள்ளது. கல்லூரி மாணவர்கள் இதைப் பயன்படுத்திக்கொள்ளலாம். கடன் பெற விரும்புவோர் இணையதளத்தில் விவரங்களைப் பதிவு செய்து கொள்ளலாம் என சேலம் கலெக்டர் இளம்பகவத் தெரிவித்துள்ளார். இதற்கு முன் அம்மாபேட்டை ஏ.வி.எஸ். பொறியியல் மற்றும் காகாபாளையம் நாலெட்ஜ் பொறியியல் கல்லூரிகளில் மேளா நடத்தப்பட்டது.\n📍 இடம்: சங்ககிரி சண்முகா பொறியியல் கல்லூரி\n🕘 நேரம்: நாளை காலை 10 மணி\n📝 பதிவு: இணையதளத்தில் விவரங்களைப் பதிவு செய்யுங்கள் (முகவரி கேப்ஷனில் உள்ளது)\nதேவைப்படும் மாணவர்களுக்கு Share செய்யுங்கள்.\n\nSankagiri education loan mela tomorrow | Salem news\n📍 சங்ககிரி, சேலம் மாவட்டம் | 20 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Salem360 #Salem #Sankagiri #SalemNews #சேலம்",
-   "prompts": "A row of bank officials sits at registration desks under a shamiana in the courtyard of an engineering college in Sankagiri, Salem district, as college students and their parents queue to apply for education loans at the morning loan camp. The venue is a campus with a two-storey college block, a tiled-roof hall and a paved open ground under a clear morning sky with bright daylight. Students in their college uniforms and young men in shirts and trousers stand in a line seen from behind, while a few women in sarees and salwar kameez hold files and folders. A couple of plastic chairs and a cluster of tables covered with white cloth and printed forms sit in front of the desks, and a few two-wheelers are parked at the college gate in the background. Shot at eye level, 35 mm lens, wide enough to show the whole queue and the college building. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up of a registration table at an education loan camp in a college campus in Sankagiri, Salem district, with a stack of loan application forms, a pen, a folder and a few printed pamphlets laid out on a white cloth. Behind the table, a bank official's hand rests on a stack of papers while a student's hand holds a form nearby, and the blurred shapes of waiting students stand further back. Morning daylight falls across the table from the side, and the background shows a college block with a plain wall and a few potted plants. Shot at slightly high angle, 35 mm lens, shallow depth of field. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-salem/tomorrow-education-loan-mela-at-sangagiri/4381088",
-   "published": "2026-11-20T01:04:00+05:30",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: caption misses facts of the article (put every one in 📰 முழு விவரம்): 3 ('3ம் கட்டமாக, சங்ககிரி சண்முகா பொறியியல் கல்லூரியில் நாளை கால')",
+   "reel_script": "மேட்டூர் அணைக்கு விநாடிக்கு 1,116 கனஅடி நீர்வரத்து நீடிக்கிறது. வியாழக்கிழமை மாலை 4 மணி நிலவரப்படி இந்த நீர்வரத்து பதிவாகியுள்ளது. அணையில் இருந்து விநாடிக்கு 1,000 கனஅடி தண்ணீர் திறக்கப்படுகிறது. அணையின் நீர்மட்டம் 61.53 அடியாக உள்ளது. அணையில் 25.84 டிஎம்சி நீர் இருப்பு உள்ளது. மேலும் செய்திகளுக்கு சேலம் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🌊 மேட்டூர் அணைக்கு நீர்வரத்து விநாடிக்கு 1,116 கனஅடி\n\n📰 முழு விவரம்:\nவியாழக்கிழமை மாலை 4 மணி நிலவரப்படி மேட்டூர் அணைக்கு நீர்வரத்து விநாடிக்கு 1,116 கனஅடியாக நீடிக்கிறது.\n💧 அணையில் இருந்து விநாடிக்கு 1,000 கனஅடி தண்ணீர் திறக்கப்படுகிறது.\n📏 அணையின் நீர்மட்டம் 61.53 அடியாக நீடிக்கிறது.\n🏞️ நீர் இருப்பு 25.84 டிஎம்சியாக உள்ளது.\n\nMettur dam inflow 1116 cusecs, water level 61.53 ft | Salem news\n📍 மேட்டூர், சேலம் மாவட்டம் | 20 நவம்பர் 2026\n\nதேவைப்படுவோருக்கு Share செய்யுங்கள்.\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Salem360 #Salem #Mettur #SalemNews #சேலம்",
+   "prompts": "The Mettur dam releases water through its open spillway gates as the Cauvery river flows out in a strong white churning stream below the concrete dam wall. The place is the Mettur dam in Salem district, a broad concrete dam across the Cauvery river with a long line of steel gates along the top and the reservoir stretching behind it under a hazy sky. A few Tamil Nadu tourists and dam officials stand far away on the railing, seen from behind and small in the frame, while a TNEB-style control building sits at one end. The water flow is clearly visible with the gates lifted and the river rising a little. It is early afternoon in clear daylight with some soft clouds over the Shevaroy hills in the far background. Shot at eye level with a 35 mm lens, wide enough to show the full dam, the gates, the spillway water and the reservoir. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up of the dam's spillway gates lifted high on their steel frames, with water pouring steadily through the openings and falling into the foaming Cauvery river below. The place is the Mettur dam's concrete spillway, its grey wall wet with spray and the steel gate arms rising above the flow. In the far background, a rail of the dam walkway and a single official in a white shirt stands seen from behind, far from the camera. The water is thick and brown-green where it strikes the river and white where it foams over the concrete edge. It is bright afternoon daylight with a pale sky and no strong shadows. Shot at slightly high eye level with a 35 mm lens, focused on the gates and the spilling water to show the release of 1,000 cusecs. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamani.com/all-editions/edition-dharmapuri/salem/2026/Nov/19/water-inflow-to-mettur-dam-is-1116-cusecs",
+   "published": "2026-11-19T22:24:39.453Z",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: reel_script has 40 words; need 60-160 (the key facts once each, in at most 90 seconds; every other detail goes in the caption's 📰 முழு விவரம் block)",
    "note": "free-model draft anthropic/claude-haiku-5-5, 13 attempt(s), 1 validator problem(s)",
    "post_time": "right after your reply, same day",
    "_area": "N",
    "_score": 999,
    "images": [
-    "https://res.cloudinary.com/jrmwajfz/image/upload/v1795146310/salem360/d5scsjxo15hsle4lvdhw.jpg",
-    "https://res.cloudinary.com/jrmwajfz/image/upload/v1795146317/salem360/yn5ritlrdvjmpensacoh.jpg"
+    "https://res.cloudinary.com/jrmwajfz/image/upload/v1795161739/salem360/qjfcq4gppav9jvg9s2yv.jpg",
+    "https://res.cloudinary.com/jrmwajfz/image/upload/v1795161806/salem360/bf4oyqm9hfretf5ib5no.jpg"
    ]
   },
   {
-   "tamil_headline": "ஓமலூரில் அ.தி.மு.க. ஆலோசனைக் கூட்டம்: வாக்காளர் பெயர் சேர்த்தல் குறித்துப் பேச்சு",
-   "english_headline": "AIADMK district secretary Elangovan says the party has a good chance; meeting in Omalur on voter name additions",
-   "category": "Government & Services",
-   "location": "Omalur, Salem district",
+   "tamil_headline": "சேலத்தில் குண்டுமல்லி கிலோ ரூ.1,200க்கு உயர்வு; பூக்கள் விலை அதிகரிப்பு",
+   "english_headline": "Salem: Gundu malli rises to Rs.1,200 per kg at V.O.C. Market as flower prices climb ahead of auspicious day and Karthigai Deepam",
+   "category": "Business & Prices",
+   "location": "V.O.C. Market, Salem city, Salem district",
    "importance": "Medium",
    "scope": "local",
    "post_to": "Salem 360",
    "slides_spec": {
     "v": 3,
-    "cat": "அரசியல்",
-    "loc": "ஓமலூர்",
-    "hl1": "ஓமலூரில் அ.தி.மு.க. ஆலோசனைக் கூட்டம்",
-    "hl2": "வாக்காளர் பெயர் சேர்த்தல்",
+    "cat": "பூ விலை உயர்வு",
+    "loc": "சேலம்",
+    "hl1": "சேலத்தில் குண்டுமல்லி கிலோ ரூ.1,200",
+    "hl2": "பூக்கள் விலை உயர்வு",
     "slides": [
      {
-      "title": "கூட்டம் எங்கே?",
+      "title": "குண்டுமல்லி விலை",
       "lines": [
-       "ஓமலூர், கோட்டமேட்டுப்பட்டியில் உள்ள அ.தி.மு.க. அலுவலகத்தில்",
-       "நேற்று நிர்வாகிகள் ஆலோசனைக் கூட்டம் நடைபெற்றது",
-       "கட்சி வளர்ச்சிப் பணி குறித்து விவாதம்"
+       "கடந்த 16ஆம் தேதி கிலோ <b>ரூ.700</b>க்கு விற்றது",
+       "நேற்று <b>ரூ.500</b> உயர்ந்து <b>ரூ.1,200</b> ஆனது",
+       "சேலம் வ.உ.சி. மார்க்கெட்டில் விற்பனை"
       ]
      },
      {
-      "title": "யார் பேசினார்?",
+      "title": "பிற பூக்களின் விலை",
       "lines": [
-       "புறநகர் மாவட்டச் செயலர் இளங்கோவன் தலைமை வகித்தார்",
-       "அ.தி.மு.க.வுக்கு நல்ல காலம் உள்ளதாக நம்பிக்கை தெரிவித்தார்",
-       "எம்.எல்.ஏ.க்கள் கட்சியினரை அரவணைத்துச் செல்ல வேண்டும்"
+       "முல்லைப் பூ ரூ.400இல் இருந்து <b>ரூ.700</b>க்கு விற்பனை",
+       "சாமந்தி ரூ.240இல் இருந்து <b>ரூ.280 முதல் ரூ.320</b> வரை",
+       "பல பூக்களின் விலையும் உயர்ந்தது"
       ]
      },
      {
-      "title": "யார் பங்கேற்பு?",
+      "title": "விலை",
       "lines": [
-       "எம்.எல்.ஏ.க்கள் வெங்கடாஜலம், மணி, வெற்றிவேல், ஜெயசங்கரன்",
-       "முன்னாள் எம்.எல்.ஏ. தமிழரசு பங்கேற்றார்",
-       "மாநில ஜெ. பேரவை துணைச் செயலர் விக்னேஷ் பங்கேற்றார்"
+       "இன்று சுபமுகூர்த்த நாள்",
+       "நவம்பர் <b>24</b>ஆம் தேதி கார்த்திகை தீபத் திருவிழா",
+       "வியாபாரிகள் இதனால் விலை உயர்ந்ததாகத் தெரிவித்தனர்"
       ]
      }
     ],
     "carousel": false
    },
-   "reel_script": "ஓமலூரில் அ தி மு க நிர்வாகிகள் ஆலோசனைக் கூட்டம் நேற்று நடைபெற்றது. ஓமலூர், கோட்டமேட்டுப்பட்டியில் உள்ள அ தி மு க அலுவலகத்தில் இந்தக் கூட்டம் நடைபெற்றது. கட்சி வளர்ச்சிப் பணிகள் மற்றும் வாக்காளர் பெயர் சேர்த்தல் குறித்து இதில் விவாதிக்கப்பட்டது. புறநகர் மாவட்டச் செயலர் இளங்கோவன் தலைமை வகித்துப் பேசினார். அ தி மு க வுக்கு நல்ல காலம் உள்ளதாக அவர் நம்பிக்கை தெரிவித்தார். சட்டமன்ற உறுப்பினர்க்கள் கட்சியினரை அரவணைத்துச் செல்ல வேண்டும் என்று அவர் வலியுறுத்தினார். சட்டமன்ற உறுப்பினர்க்கள் வெங்கடாஜலம், மணி, வெற்றிவேல், ஜெயசங்கரன் ஆகியோர் பங்கேற்றனர். முன்னாள் சட்டமன்ற உறுப்பினர் தமிழரசு மற்றும் மாநில ஜெ பேரவை துணைச் செயலர் விக்னேஷ் ஆகியோரும் பங்கேற்றனர். மேலும் செய்திகளுக்கு சேலம் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🗳️ ஓமலூரில் அ.தி.மு.க. ஆலோசனைக் கூட்டம்: வாக்காளர் பெயர் சேர்த்தல் குறித்து விவாதம்\n\n📰 முழு விவரம்:\nஓமலூர், கோட்டமேட்டுப்பட்டியில் உள்ள அ.தி.மு.க. அலுவலகத்தில் நேற்று நிர்வாகிகள் ஆலோசனைக் கூட்டம் நடைபெற்றது. கட்சி வளர்ச்சிப் பணி மற்றும் வாக்காளர் பெயர் சேர்த்தல் குறித்து விவாதிக்கப்பட்டது.\nபுறநகர் மாவட்டச் செயலர் இளங்கோவன் தலைமை வகித்தார். அ.தி.மு.க.வுக்கு நல்ல காலம் உள்ளதாக அவர் நம்பிக்கை தெரிவித்தார். எம்.எல்.ஏ.க்கள் கட்சியினரை அரவணைத்துச் செல்ல வேண்டும் என்றும் வலியுறுத்தினார்.\nஎம்.எல்.ஏ.க்கள் வெங்கடாஜலம், மணி, வெற்றிவேல், ஜெயசங்கரன், முன்னாள் எம்.எல்.ஏ. தமிழரசு, மாநில ஜெ. பேரவை துணைச் செயலர் விக்னேஷ் ஆகியோர் பங்கேற்றனர்.\n\nAIADMK meeting in Omalur on voter name additions | Salem news\n📍 ஓமலூர், சேலம் மாவட்டம் | 20 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Salem360 #Salem #Omalur #அரசியல் #SalemNews",
-   "prompts": "A group of AIADMK party executives and MLAs sits in a meeting hall at the party office in Kottamedupatti, Omalur, Salem district, as a district secretary stands at the front addressing the gathering on voter enrolment and party work. The hall is a modest one-storey party office with plain white walls, a long table covered with a cloth at the front, rows of plastic chairs and a few people standing near the back, with a framed portrait area left blank and empty. Men wear white shirts and veshti or trousers, some with shoulder shawls, and a few women in cotton sarees sit at the side; they are photographed from behind or from a distance, looking toward the speaker. Two-wheelers are parked outside the open doorway on a dusty road of Omalur town, with a few autorickshaws passing. Daylight comes through the open doors and windows, and the scene is calm and ordinary in the afternoon. Camera at eye level, slightly high, 35 mm, wide enough to show the hall, the seated crowd and the speaker at the table. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up of a long meeting table in a party office hall in Omalur, Salem district, with a stack of printed voter-enrolment application forms, a few plastic water bottles, a steel tumbler and a row of microphones on a cloth-covered table with a red and white party flag draped at the edge. Beside the table, a few white shirt sleeves and hands of seated executives rest on the cloth, seen only from the elbow down, with a paper notebook and pen open in front of one of them. The background shows blurred chairs and a wall with no readable text. Soft daylight from a side window falls across the papers, giving a quiet, business-like mood. Camera at table height, 35 mm, shallow depth of field to keep the forms as the sharp focus and the people blurred. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-salem/aiadmk-good-times-suburban--hope/4381103",
-   "published": "2026-11-20T01:18:00+05:30",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: fact-check: The article says the TVK (த.வெ.க.) government has seen price rises, law-and-order decline and drug trafficking, and DMK is associated with corruption, but the draft omits these political attacks, which are key points of the speech.; fact-check: The reel_script says the AIADMK leader 'expressed hope' and 'urged MLAs', which matches the article, but it omits that the speaker criticised the ruling TVK government over prices, law and order and drugs, an important part of what was said.; fact-check: The caption's 'முழு விவரம்' (full details) section claims to give the full report but leaves out the government criticism and the MLAs' role as the reason they became MLAs, so it does not fully reflect the article.",
-   "note": "free-model draft anthropic/claude-haiku-5-5, 11 attempt(s), 3 validator problem(s)",
+   "reel_script": "சேலம் வ உ சி மார்க்கெட்டில் குண்டுமல்லி கிலோ ரூ.1,200க்கு விற்பனையானது. கடந்த 16ஆம் தேதி இதன் விலை கிலோ ரூ.700 ஆக இருந்தது. நேற்று அது ரூ.500 உயர்ந்து ரூ.1,200 ஆனது. முல்லைப் பூவின் விலை ரூ.400இல் இருந்து ரூ.700 ஆக உயர்ந்தது. சாமந்திப் பூ ரூ.240இல் இருந்து ரூ.280 முதல் ரூ.320 வரை விற்பனையானது. இன்று சுபமுகூர்த்த நாள் என்றும், நவம்பர் 24ஆம் தேதி கார்த்திகை தீபத் திருவிழா என்றும் வியாபாரிகள் தெரிவித்தனர். இதனால் பூக்களின் விலை உயர்ந்துள்ளது. மேலும் செய்திகளுக்கு சேலம் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🌼 சேலத்தில் குண்டுமல்லி கிலோ ரூ.1,200 - பூக்கள் விலை உயர்வு\n\n📰 முழு விவரம்:\nசேலம் வ.உ.சி. மார்க்கெட்டில் கடந்த 16ஆம் தேதி கிலோ ரூ.700க்கு விற்ற குண்டுமல்லி, நேற்று ரூ.500 உயர்ந்து ரூ.1,200 ஆனது.\n🌸 முல்லைப் பூ ரூ.400இல் இருந்து ரூ.700 ஆக உயர்ந்தது.\n🌼 சாமந்திப் பூ ரூ.240இல் இருந்து ரூ.280 முதல் ரூ.320 வரை விற்பனையானது.\n🗓️ இன்று சுபமுகூர்த்த நாள்; நவம்பர் 24ஆம் தேதி கார்த்திகை தீபத் திருவிழா.\nவியாபாரிகள் இதனால் பூக்களின் விலை உயர்ந்துள்ளதாகத் தெரிவித்தனர்.\n\nSalem Gundu malli Rs.1200 per kg | Salem news\n📍 வ.உ.சி. மார்க்கெட், சேலம் | 20 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Salem360 #Salem #SalemNews #சேலம்",
+   "prompts": "A flower trader in a shirt and veshti weighs fresh white gundu malli jasmine on a hanging scale at the V.O.C. Market in Salem city, while a buyer in a saree stands beside a wicker basket. The setting is an open market shed with rows of stalls, sacks and plastic crates stacked on the concrete floor, and bundles of orange samanthi and white mullai flowers piled on tarpaulin sheets. Behind them stand a few other traders and customers, seen from behind or far away, with women in sarees and men in shirts and trousers moving between the stalls. The sky above the shed is bright daylight, suggesting morning market hours. Camera at eye level, 35 mm, wide enough to show the stalls and the heaps of flowers. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up of a mound of fresh gundu malli jasmine buds heaped in a steel tray on a market stall, with a small hanging weighing scale and a pile of bright orange samanthi flowers beside it. Mullai flowers spill from a cloth sack in the background, and the blurred legs of customers in sarees and veshtis are visible at the edge of the frame. The flowers are fresh and fully open, with dew-like sheen, under soft daylight filtering through the market shed. Camera slightly high, 35 mm, focusing on the jasmine heap so the rising price story is conveyed through abundance and the scale in use. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-salem/kundam-coriander-kg-rs-1200/4381090",
+   "published": "2026-11-20T01:05:00+05:30",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: hl1 (the first headline on screen) must name the place 'சேலம்', e.g. 'சேலம்: ...' or 'சேலம்-இல் ...' - viewers share news of their own area",
+   "note": "free-model draft anthropic/claude-haiku-5-5, 12 attempt(s), 1 validator problem(s)",
    "post_time": "right after your reply, same day",
    "_area": "N",
    "_score": 999,
    "images": [
-    "https://res.cloudinary.com/jrmwajfz/image/upload/v1795146335/salem360/buf4hxaacxko7lh7qulh.jpg",
-    "https://res.cloudinary.com/jrmwajfz/image/upload/v1795146337/salem360/nljmrymeqpx7ixo3iruo.jpg"
+    "https://res.cloudinary.com/jrmwajfz/image/upload/v1795161875/salem360/nj65fbv1rksla3xksv1k.jpg",
+    "https://res.cloudinary.com/jrmwajfz/image/upload/v1795161887/salem360/qsnrkkvzy56t33h3wd3p.jpg"
+   ]
+  },
+  {
+   "tamil_headline": "தமிழ்நாடு: முதல்வர் விஜய் காவிரி விவகாரத்தில் வாய் திறக்கவில்லை என விமர்சனம்",
+   "english_headline": "Tamil Nadu: Stalin and Palaniswami criticise CM Vijay for not speaking on Cauvery issue",
+   "category": "Government & Services",
+   "location": "Tamil Nadu",
+   "importance": "Medium",
+   "scope": "district",
+   "post_to": "Salem 360",
+   "slides_spec": {
+    "v": 3,
+    "cat": "அரசியல்",
+    "loc": "தமிழ்நாடு",
+    "hl1": "தமிழ்நாடு: காவிரி விவகாரத்தில் விமர்சனம்",
+    "hl2": "முதல்வர் விஜய் மீது",
+    "slides": [
+     {
+      "title": "யார் விமர்சனம்?",
+      "lines": [
+       "திமுக தலைவர் மு.க.ஸ்டாலின் விமர்சனம்",
+       "அதிமுக பொதுச்செயலாளர் எடப்பாடி பழனிசாமி விமர்சனம்",
+       "இருவரும் தவெக ஆட்சியை விமர்சித்தனர்"
+      ]
+     },
+     {
+      "title": "என்ன",
+      "lines": [
+       "தவெக ஆட்சியில்",
+       "காவிரி விவகாரம் குறித்து முதல்வர் விஜய் பேசுவதில்லை என",
+       "ரீல்ஸ் மோகிகள் செயல்படுவதாகவும் கூறப்பட்டது"
+      ]
+     },
+     {
+      "title": "அடுத்து என்ன?",
+      "lines": [
+       "இது குறித்து முதல்வர் விஜய் தரப்பிலிருந்து பதில் இல்லை",
+       "மேலும் விவரங்கள் வந்தால் பகிரப்படும்"
+      ]
+     }
+    ],
+    "carousel": false
+   },
+   "reel_script": "தமிழ்நாட்டில் காவிரி விவகாரத்தில் முதல்வர் விஜய் மீது அரசியல் விமர்சனம் எழுந்துள்ளது. தி மு க தலைவர் மு க ஸ்டாலின் த வெ க ஆட்சியை விமர்சித்துள்ளார். அவர், த வெ க ரீல்ஸ் மோகிகள் சட்டவிரோதமாக அணையையும் திறப்பதாகக் குற்றம் சாட்டினார். காவிரி விவகாரம் குறித்து முதல்வர் விஜய் வாய் திறந்து பேசுவதில்லை என்றும் அவர் கூறினார். அ தி மு க பொதுச்செயலாளர் எடப்பாடி பழனிசாமியும் இதே கருத்தை முன்வைத்தார். காவிரி விவகாரம் குறித்து முதல்வர் விஜய் பேசுவதே கிடையாது என அவர் தெரிவித்தார். இந்த விமர்சனங்களுக்கு முதல்வர் விஜய் தரப்பிலிருந்து இதுவரை பதில் வெளியாகவில்லை. மேலும் செய்திகளுக்கு சேலம் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🏛️ தமிழ்நாடு: காவிரி விவகாரத்தில் முதல்வர் விஜய் மீது ஸ்டாலின், எடப்பாடி விமர்சனம்\n\n📰 முழு விவரம்:\nதவெக ஆட்சியில் அணையைச் சட்டவிரோதமாகத் திறப்பதாக திமுக தலைவர் மு.க.ஸ்டாலின் குற்றம் சாட்டினார்.\nகாவிரி விவகாரம் குறித்து முதல்வர் விஜய் வாய் திறந்து பேசுவதில்லை என ஸ்டாலின் மற்றும் அதிமுக பொதுச்செயலாளர் எடப்பாடி பழனிசாமி இருவரும் விமர்சித்தனர்.\n\n📍 இடம்: தமிழ்நாடு\nℹ️ மக்கள் கவனத்திற்கு: இந்த விமர்சனங்களுக்கு முதல்வர் விஜய் தரப்பிலிருந்து இதுவரை பதில் வெளியாகவில்லை.\n\nTamil Nadu Cauvery issue CM Vijay criticised by Stalin and Palaniswami | Salem news\n📍 தமிழ்நாடு | 20 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Salem360 #Salem #TamilNadu #அரசியல் #SalemNews",
+   "prompts": "A group of political party workers in white shirts and veshti stand near the Mettur dam on the bank of the Cauvery river, holding a rolled banner that cannot be read, while a TNEB-style concrete control structure and the dam's gates stretch across the water in the background. The river flows high and brown, and the Shevaroy hills of Yercaud are faintly visible far in the distance. Seen from behind at a distance, the workers look toward the gates as if waiting for a statement. Late morning daylight with a clear sky. Camera at eye level, 35 mm lens, wide enough to show the dam, the river and the hills together. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up of a stack of folded paper documents and a wooden table in a government hall in Salem, with a microphone stand and an empty chair in soft focus behind, suggesting a silent official seat. Beside the papers lies a small handheld microphone switched off. Through a window the outline of the Cauvery river and a concrete dam gate can be seen far away. Plain indoor light from ceiling tubes mixed with daylight from the window. Camera slightly high, 35 mm, shallow depth of field keeping the papers sharp. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinakaran.com/news/dmk-leader-mkstalin-cauvery-issue-edappadi-palaniswami/amp",
+   "published": "2026-11-20T07:01:33+05:30",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: not grounded: location 'தமிழ்நாடு' is not in the article",
+   "note": "free-model draft anthropic/claude-haiku-5-5, 11 attempt(s), 1 validator problem(s)",
+   "post_time": "right after your reply, same day",
+   "_area": "N",
+   "_score": 999,
+   "images": [
+    "https://res.cloudinary.com/jrmwajfz/image/upload/v1795162020/salem360/tb9mhymi7jtl8npuivft.jpg",
+    "https://res.cloudinary.com/jrmwajfz/image/upload/v1795162086/salem360/xq2wogikxwbzgkq1bu4o.jpg"
+   ]
+  },
+  {
+   "tamil_headline": "தொழில் முதலீடுகள் ஆந்திராவுக்கு செல்வதற்கு அரசின் கையாலாகத்தனம் தான் காரணம்: எடப்பாடி பழனிசாமி குற்றச்சாட்டு",
+   "english_headline": "Edappadi Palaniswami blames state government's failure for investments moving to Andhra; questions industries minister",
+   "category": "Government & Services",
+   "location": "unknown",
+   "importance": "Medium",
+   "scope": "district",
+   "post_to": "Salem 360",
+   "slides_spec": {
+    "v": 3,
+    "cat": "அரசியல்",
+    "loc": "சென்னை",
+    "hl1": "முதலீடுகள் ஆந்திராவுக்கு செல்வது ஏன்?",
+    "hl2": "ரூ.1,614 கோடி முதலீடு",
+    "slides": [
+     {
+      "title": "என்ன நடந்தது?",
+      "lines": [
+       "3 தென் கொரிய நிறுவனங்களின் <b>ரூ.1,614 கோடி</b> முதலீடுகள்",
+       "எதிர்க்கட்சிகள் கடுமையாக விமர்சிக்கின்றன",
+       "அதிமுக பொதுச் செயலாளர் எடப்பாடி பழனிசாமி சமூக"
+      ]
+     },
+     {
+      "title": "பணி நீக்க சர்ச்சை",
+      "lines": [
+       "முதலீட்டாளர் தகவல்களை வெளியிட்டதாக 15 ஊழியர்கள் பணி நீக்கம்",
+       "ஊழியர்கள் ஆட்சி மாற்றத்துக்கு பின் பணி சூழல் இல்லை என பதவி",
+       "தலைமைச் செயலாளரிடம் புகார் அளித்ததாக ஊழியர்கள் தெரிவித்தனர்"
+      ]
+     },
+     {
+      "title": "இபிஎஸ்",
+      "lines": [
+       "முதலீடுகள் ஆந்திராவுக்குச் செல்வது அமைச்சரின் கையாலாகத்தனம்",
+       "ஊழியர்கள் ஜூன் மாதம் பணியில் இருந்து விலகியதாகவும் கூறினார்",
+       "முதல்வரும் தொழில்துறை அமைச்சரும் விளக்கம் அளிக்க வேண்டும்"
+      ]
+     },
+     {
+      "title": "அரசின் நிலை",
+      "lines": [
+       "ஊழியர்கள் 29.06.2026 அன்று விடுவிப்புக் கடிதம் பெற்றதாக",
+       "அதிமுக ஆட்சியில் நியமிக்கப்பட்டவர்கள் பெரும்பாலானோர் என்றார்",
+       "இந்த அரசின் பதில் செய்தியில் இடம்பெறவில்லை"
+      ]
+     }
+    ],
+    "carousel": false
+   },
+   "reel_script": "தமிழகத்துக்கு வர வேண்டிய ஒரு கோடியே அறுபத்தி நான்கு லட்சம் கோடி ரூபாய் முதலீடு ஆந்திராவுக்கு சென்றதாக அ தி மு க குற்றம் சாட்டியுள்ளது. தென் கொரிய நிறுவனங்களின் ஆயிரத்து அறுநூற்று பதினான்கு கோடி ரூபாய் முதலீடுகள் ஆந்திராவுக்குச் சென்றுள்ளன. இதை எதிர்க்கட்சிகள் கடுமையாக விமர்சிக்கின்றன. அ தி மு க பொதுச் செயலாளர் எடப்பாடி பழனிசாமி சமூக வலைதளப் பதிவில் இதுகுறித்துக் கேள்வி எழுப்பினார். முதலீடுகள் ஆந்திராவுக்குச் செல்வதற்கு தொழில்துறை அமைச்சரின் கையாலாகத்தனம்தான் காரணம் என்று அவர் குற்றம் சாட்டினார். முதலீட்டாளர் தகவல்களை வெளியிட்டதாக பதினைந்து ஊழியர்கள் பணி நீக்கம் செய்யப்பட்டதாகச் செய்திகள் வெளியாகின. ஆனால் ஊழியர்கள், ஆட்சி மாற்றத்துக்குப் பின் பணி செய்யும் சூழல் இல்லை என்று கூறி பதவி விலகியதாகத் தெரிவித்தனர். தலைமைச் செயலாளரிடம் புகார் அளித்ததாகவும் அவர்கள் கூறினர். ஊழியர்கள் அனைவரும் இருபத்தொன்பதாம் ஆறாம் இரண்டாயிரத்து இருபத்தாறு அன்று விடுவிப்புக் கடிதம் பெற்றதாக இபிஎஸ் கூறினார். முதல்வரும் தொழில்துறை அமைச்சரும் இதற்கு செய்தியாளர் சந்திப்பு நடத்தி விளக்கம் அளிக்க வேண்டும் என்றும் அவர் வலியுறுத்தினார். மேலும் செய்திகளுக்கு சேலம் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🏛️ தொழில் முதலீடுகள் ஆந்திராவுக்கு செல்வது ஏன்? இபிஎஸ் கேள்வி\n\n📰 முழு விவரம்:\nதமிழகத்துக்கு வர வேண்டிய மூன்று தென் கொரிய நிறுவனங்களின் ரூ.1,614 கோடி முதலீடுகள் ஆந்திராவுக்குச் சென்றதாக எதிர்க்கட்சிகள் கடுமையாக விமர்சிக்கின்றன.\nஅதிமுக பொதுச் செயலாளர் எடப்பாடி பழனிசாமி, முதலீடுகள் ஆந்திராவுக்குச் செல்வதற்கு தொழில்துறை அமைச்சரின் கையாலாகத்தனம்தான் காரணம் என்று சமூக வலைதளப் பதிவில் குற்றம் சாட்டினார்.\nGuidance TN முகமையில் பணியாற்றிய 15 பேர் முதலீட்டாளர் தகவல்களை வெளியிட்டதாகக் கூறி பணி நீக்கம் செய்யப்பட்டதாகச் செய்திகள் வெளியாகின. ஆனால் ஊழியர்கள், ஆட்சி மாற்றத்துக்குப் பின் பணி செய்யும் சூழல் இல்லை என்று கூறி பதவி விலகியதாகத் தெரிவித்தனர்.\nஊழியர்கள் அனைவரும் 29.06.2026 அன்று விடுவிப்புக் கடிதம் பெற்றதாக இபிஎஸ் கூறினார். முதல்வரும் தொழில்துறை அமைச்சரும் செய்தியாளர் சந்திப்பு நடத்தி விளக்கம் அளிக்க வேண்டும் என்று அவர் வலியுறுத்தினார்.\n\nEPS questions Andhra investment shift | Tamil Nadu news\n📍 சென்னை | 20 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Salem360 #SalemNews #சேலம் #தமிழ்நாடு #அரசியல்",
+   "prompts": "A senior AIADMK politician in a crisp white shirt sits at a press conference table in a Chennai party office, with microphones and a stack of printed news clippings in front of him, while party workers stand in the background. The room is a plain government-style hall with tube lights and a framed portrait wall behind the table, typical of a Tamil Nadu political office in Chennai. Men in shirts and veshti and a few women in sarees stand near the back, seen from behind and slightly out of focus. Some are holding printed sheets and notepads, and a few have mobile phones raised to record. The microphones and a bundle of newspaper pages show the story is about a public statement. It is daytime with soft window light from the side and fluorescent ceiling light. Camera at eye level, 35 mm, wide enough to show the table, people and room. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up of a stack of printed Tamil newspaper pages and a set of official-looking letters with a government-style envelope on a wooden table, with a pen resting beside them. The paper edges are slightly curled and the top sheet shows only blurred headline blocks with no readable text. Behind the table, a blurred figure in a white shirt sits at a distance, and a steel water tumbler and a microphone stand are visible at the edge of frame. The soft indoor daylight comes through a window, creating gentle shadows across the paper. Camera slightly high, 35 mm close-up, shallow depth of field keeping the papers sharp and the background softly blurred. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://tamil.oneindia.com/news/chennai/is-minister-keerthana-the-dhurandhar-in-your-cabinet-eps-questions-tvk-government-846815.html",
+   "published": "2026-11-20T12:43:59+05:30",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: sentence 1 (one-line story) has 19 words; make it 6-9 words (about 2-3 seconds), the details follow in the next sentences; hl1 (the first headline on screen) must name the place 'சென்னை', e.g. 'சென்னை: ...' or 'சென்னை-இல் ...' - viewers share news of their own area; caption misses facts of the article (put every one in 📰 முழு விவரம்): 3 ('என அதிமுக பொதுச் செயலாளர் எடப்பாடி பழனிசாமி கேள்வி எழுப்பியு')",
+   "note": "free-model draft anthropic/claude-haiku-5-5, 13 attempt(s), 3 validator problem(s)",
+   "post_time": "right after your reply, same day",
+   "_area": "N",
+   "_score": 999,
+   "images": [
+    "https://res.cloudinary.com/jrmwajfz/image/upload/v1795162153/salem360/plpvo1uubajkaefsicw6.jpg",
+    "https://res.cloudinary.com/jrmwajfz/image/upload/v1795162186/salem360/ssrqxg04r4dxxcbmpoyv.jpg"
    ]
   }
  ]
