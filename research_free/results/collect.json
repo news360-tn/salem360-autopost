@@ -3,276 +3,106 @@
   "earlier stories still waiting for images: []",
   "instagram check: 50 recent posts read from the page",
   "pick round: only the picked links are written (research_free/pick.py)",
-  "manual link added: https://www.dinamalar.com/news/tamil-nadu-news/tipper-truck-owners-urge-toll-plazas-to-collect-old-fare/4381757",
-  "manual link added: https://tamil.oneindia.com/news/thirunelveli/dmk-mp-constantine-ravindran-says-dmk-leader-mk-stalin-will-take-call-on-kolathur-by-election-846933.html",
-  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-salem/aiadmk-mla-submit-petition-to-collector/4381106",
-  "candidate filter: collected=3",
-  "to write: 3 Salem district candidates (max 3 stories)",
-  "round: top 3 of 3 candidates",
-  "candidates waiting: 3 Salem; time left 79 min",
-  "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-sale",
-  "try (N) manual=True: https://tamil.oneindia.com/news/thirunelveli/dmk-mp-constant",
-  "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-news/tipper-truck-",
-  "auto images: 1 of 1 stories ({'pollinations': 2})",
+  "manual link added: https://www.dinamani.com/all-editions/edition-dharmapuri/salem/2026/Nov/20/smuggling-of-narcotic-pills-on-a-train-4-arrested",
+  "candidate filter: collected=1",
+  "to write: 1 Salem district candidates (max 1 stories)",
+  "round: top 1 of 1 candidates",
+  "candidates waiting: 1 Salem; time left 79 min",
+  "try (N) manual=True: https://www.dinamani.com/all-editions/edition-dharmapuri/sal",
+  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 2})",
   "posting job started at once",
-  "auto images: 1 of 1 stories ({'pollinations': 4})",
-  "auto images: 1 of 1 stories ({'pollinations': 6})",
-  "candidate loop ended: left 0, tried={'N': 3}, done={'N': 3}, time left 74 min",
-  "filed: 3 Salem district stories (target 3), reels only",
+  "candidate loop ended: left 0, tried={'N': 1}, done={'N': 1}, time left 77 min",
+  "filed: 1 Salem district stories (target 1), reels only",
   "queue: 0 news waiting to be written",
-  "All News sheet: {\"ok\":true,\"added\":3,\"updated\":0}"
+  "All News sheet: {\"ok\":true,\"added\":1,\"updated\":0}"
  ],
  "llm": [
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok gemini/gemini-3.6-flash (15s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "fail gemini/gemini-3.6-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=60)",
-  "poor answer - skipped for 30 min: gemini/gemini-3.6-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
+  "dead for this round: gemini/gemini-3.6-flash",
   "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
   "dead for this round: gemini/gemini-3.5-flash",
-  "fail gemini/gemini-3.6-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=60)",
-  "poor answer - skipped for 30 min: gemini/gemini-3.6-flash",
-  "fail gemini/gemini-3.6-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=60)",
-  "poor answer - skipped for 30 min: gemini/gemini-3.6-flash",
-  "ok gemini/gemini-3-flash-preview (11s)",
+  "fail gemini/gemini-3-flash-preview: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=60)",
+  "poor answer - skipped for 30 min: gemini/gemini-3-flash-preview",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 400: {\"error\":{\"message\":\"Failed to validate JSON. Please adjust your prompt. See 'failed_gener",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 413: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
+  "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok gemini/gemini-3-flash-preview (11s)",
-  "fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, plea",
-  "dead for this round: gemini/gemini-3-flash-preview",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok groq/openai/gpt-oss-120b (5s)",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
-  "ok groq/openai/gpt-oss-120b (7s)",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok groq/openai/gpt-oss-120b (6s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
   "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
   "switching away from groq/openai/gpt-oss-120b for 10 min",
-  "ok groq/qwen/qwen3.8-27b (4s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
-  "switching away from groq/openai/gpt-oss-120b for 10 min",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
-  "switching away from groq/qwen/qwen3.8-27b for 10 min",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok gemini/gemini-3-flash-preview (55s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "ok anthropic/claude-haiku-5-5",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
+  "ok groq/qwen/qwen3.8-27b (1s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash"
  ],
  "stories": [
   {
-   "tamil_headline": "சுங்கச்சாவடியில் பழைய கட்டணம் வசூலிக்க டிப்பர் லாரி உரிமையாளர்கள் வலியுறுத்தல்",
-   "english_headline": "Tipper lorry owners demand old toll rate at Karupur toll plaza near Omalur; threaten blockade in 15 days",
-   "category": "Roads & Transport",
-   "location": "Karupur toll plaza near Omalur, Salem district",
-   "importance": "Medium",
-   "scope": "local",
-   "post_to": "Salem 360",
-   "slides_spec": {
-    "v": 3,
-    "cat": "சுங்கக் கட்டணம்",
-    "loc": "ஓமலூர்",
-    "hl1": "ஓமலூர் சுங்கச்சாவடியில் கட்டணம் கோரிக்கை",
-    "hl2": "15 நாட்களில்",
-    "slides": [
-     {
-      "title": "என்ன மாற்றம்?",
-      "lines": [
-       "கருப்பூர் சுங்கச்சாவடியில் <b>செப். 1</b> முதல் புதிய கட்டணம்",
-       "உள்ளூர் வாகனங்களுக்கு பழைய கட்டணத்தை <b>3 மடங்கு</b> உயர்த்தி வசூல்",
-       "பல்வேறு கட்சியினர் போராட்டம் நடத்தினர்"
-      ]
-     },
-     {
-      "title": "லாரி உரிமையாளர்கள்",
-      "lines": [
-       "காடையாம்பட்டி டிப்பர் லாரி உரிமையாளர் சங்கம் மனு அளித்தது",
-       "சங்கத்தில் <b>500 டிப்பர் லாரிகள்</b> உள்ளன",
-       "தினமும் <b>5 சுற்று</b> வரை சேலம் சென்று வருகின்றன"
-      ]
-     },
-     {
-      "title": "கோரிக்கை",
-      "lines": [
-       "கூடுதல் கட்டணத்தால் வாழ்வாதாரம் பாதிப்பதாக மனு",
-       "பழைய கட்டணம் வசூலிக்க வேண்டும் என வலியுறுத்தல்",
-       "தலைவர் செல்வம்: <b>15 நாட்களில்</b> நிறைவேற்றாவிட்டால் முற்றுகை"
-      ]
-     }
-    ],
-    "carousel": false
-   },
-   "reel_script": "ஓமலூர் அருகே சுங்கச்சாவடியில் பழைய கட்டணம் கேட்டு டிப்பர் லாரி உரிமையாளர்கள் வலியுறுத்துகின்றனர். ஓமலூர் அருகே கருப்பூர் சுங்கச்சாவடியில் செப்டம்பர் 1ஆம் தேதி முதல் புதிய கட்டணம் வசூலிக்கப்படுகிறது. உள்ளூர் வாகனங்களுக்கு பழைய கட்டணத்தைவிட 3 மடங்கு உயர்த்தப்பட்ட கட்டணம் வசூலிக்கப்படுகிறது. இதனால் பல்வேறு கட்சியினர் போராட்டம் நடத்தினர். இந்நிலையில் காடையாம்பட்டி டிப்பர் லாரி உரிமையாளர் சங்கத்தினர் சேலத்தில் உள்ள இந்திய தேசிய நெடுஞ்சாலை ஆணைய அதிகாரிகள் மற்றும் கருப்பூர் சுங்கச்சாவடி அதிகாரிகளிடம் மனு அளித்தனர். சங்கத்தில் 500 டிப்பர் லாரிகள் உள்ளன. அவை தினமும் 5 சுற்று வரை சேலத்துக்குச் சென்று வருகின்றன. கூடுதல் கட்டணத்தால் தங்கள் வாழ்வாதாரம் பாதிக்கப்படுவதாக மனுவில் கூறப்பட்டுள்ளது. சங்கத் தலைவர் செல்வம், 15 நாட்களுக்குள் கோரிக்கை நிறைவேற்றப்படாவிட்டால் சுங்கச்சாவடியில் முற்றுகைப் போராட்டம் நடத்தப்படும் என்று தெரிவித்தார். மேலும் செய்திகளுக்கு சேலம் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🚛 ஓமலூர் சுங்கச்சாவடியில் பழைய கட்டணம் கேட்டு லாரி உரிமையாளர்கள் மனு\n\n📰 முழு விவரம்:\nஓமலூர் அருகே கருப்பூர் சுங்கச்சாவடியில் செப். 1 முதல் புதிய கட்டணம் வசூலிக்கப்படுகிறது. உள்ளூர் வாகனங்களுக்கு பழைய கட்டணத்தைவிட 3 மடங்கு உயர்த்தப்பட்ட கட்டணம் வசூலிக்கப்படுகிறது. இதனால் பல்வேறு கட்சியினர் போராட்டம் நடத்தினர். காடையாம்பட்டி டிப்பர் லாரி உரிமையாளர் சங்கத்தினர் சேலத்தில் உள்ள தேசிய நெடுஞ்சாலை ஆணைய அதிகாரிகள் மற்றும் கருப்பூர் சுங்கச்சாவடி அதிகாரிகளிடம் மனு அளித்தனர். சங்கத்தில் 500 டிப்பர் லாரிகள் உள்ளன; தினமும் 5 சுற்று வரை சேலம் சென்று வருகின்றன. கூடுதல் கட்டணத்தால் வாழ்வாதாரம் பாதிக்கப்படுவதால் பழைய கட்டணம் வசூலிக்க வேண்டும் என வலியுறுத்தினர்.\n📍 இடம்: கருப்பூர் சுங்கச்சாவடி, ஓமலூர் அருகே\n🗓️ நாள்: நவம்பர் 19\n⏳ காலக்கெடு: 15 நாட்களுக்குள் கோரிக்கை நிறைவேற்றாவிட்டால் முற்றுகைப் போராட்டம்\n\nOmalur toll plaza old fare demand by tipper owners | Salem news\n📍 ஓமலூர், சேலம் மாவட்டம் | 20 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Salem360 #Salem #Omalur #SalemNews #சேலம்",
-   "prompts": "A line of tipper lorries stands queued at the barrier of Karupur toll plaza near Omalur in Salem district, waiting to pay at the toll booths. Several heavy dump trucks with raised tipper bodies sit at the front of the lanes, their drivers waiting in the cabs or standing beside them. Beyond the toll booths, the highway stretches away toward Salem, lined with roadside trees and a few two-wheelers and private cars. A group of association office-bearers in shirts and veshti, seen from behind, stands near the toll booth holding a bundle of papers, as if about to hand in a petition to officials in khaki-free civilian uniform at the booth. The scene is bright daytime with clear sky and warm sunlight across the asphalt. Shot at eye level, 35 mm, wide enough to show the full toll plaza, the queue of trucks, and the highway behind. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up of the toll booth's barrier arm and the cash counter window of Karupur toll plaza, with a stack of printed petition papers resting on the counter edge and a clipboard beside it. In the soft-focus background, the orange-and-white striped barrier arm is raised over an empty lane, and the rear body of a tipper lorry with its tailgate is partly visible. Daylight falls across the papers and the concrete counter. Camera slightly high, 35 mm, shallow depth of field, no legible text on the papers. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamalar.com/news/tamil-nadu-news/tipper-truck-owners-urge-toll-plazas-to-collect-old-fare/4381757",
-   "published": "2026-11-20T20:15:08+05:30",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5) - fact-check: no problems found",
-   "note": "free-model draft anthropic/claude-haiku-5-5, 12 attempt(s), 0 validator problem(s)",
-   "post_time": "right after your reply, same day",
-   "_area": "N",
-   "_score": 999,
-   "images": [
-    "https://res.cloudinary.com/jrmwajfz/image/upload/v1795191730/salem360/sgitrqqaslc4u2vpndfx.jpg",
-    "https://res.cloudinary.com/jrmwajfz/image/upload/v1795191737/salem360/hfcwy7cyrffjkikmmbck.jpg"
-   ]
-  },
-  {
-   "tamil_headline": "ஆத்தூர் பைத்தூரில் பழைய கட்டடங்களுக்கு புதிய கட்டடம் கேட்டு மனு",
-   "english_headline": "Attur MLA submits petition to Salem Collector seeking new buildings and drying yard at Paithur panchayat",
-   "category": "Government & Services",
-   "location": "Paithur panchayat, Attur, Salem district",
-   "importance": "Medium",
-   "scope": "local",
-   "post_to": "Salem 360",
-   "slides_spec": {
-    "v": 3,
-    "cat": "அரசு மனு",
-    "loc": "பைத்தூர், ஆத்தூர்",
-    "hl1": "பைத்தூரில் புதிய கட்டடம் கேட்டு மனு",
-    "hl2": "ஆத்தூர் எம்.எல்.ஏ. மனு",
-    "slides": [
-     {
-      "title": "என்ன மனு?",
-      "lines": [
-       "ஆத்தூர் எம்.எல்.ஏ. ஜெயசங்கரன் கலெக்டரிடம் மனு அளித்தார்",
-       "பைத்தூர் ஊராட்சி பழைய கட்டடங்கள் வலுவிழந்துள்ளன",
-       "1992ல் கட்டப்பட்ட கட்டடங்கள் பழமையாகிவிட்டன"
-      ]
-     },
-     {
-      "title": "கோரிக்கைகள்",
-      "lines": [
-       "அரசு பொது நிதியில் புதிய கட்டடங்கள் கட்ட வேண்டும்",
-       "உலர் களம் அமைக்க தொகுதி மேம்பாட்டு நிதி கேட்கப்பட்டது",
-       "வண்டிப் பாதை தரிசு நிலத்தை நில உரிமை நிலமாக மாற்ற வேண்டும்"
-      ]
-     },
-     {
-      "title": "பின்னணி",
-      "lines": [
-       "6.5 ஏக்கர் தரிசு நிலத்தில் 2007ல் 21 குடும்பத்துக்கு பட்டா",
-       "ஊராட்சி, வி.ஏ.ஓ. அலுவலகங்கள், துணை சுகாதார நிலையம் உள்ளன",
-       "புதிய கட்டடம் கட்ட கலெக்டர் அனுமதி கேட்கப்பட்டது"
-      ]
-     }
-    ],
-    "carousel": false
-   },
-   "reel_script": "ஆத்தூர் பைத்தூர் ஊராட்சியில் பழைய கட்டடங்களுக்கு புதிய கட்டடம் கேட்டு மனு அளிக்கப்பட்டுள்ளது. ஆத்தூர் சட்டமன்ற உறுப்பினர் ஜெயசங்கரன், நேற்று சேலம் கலெக்டர் இளம் பகவத்திடம் இந்த மனுவை அளித்தார். பைத்தூர் ஊராட்சியில் 6.5 ஏக்கர் பாதை தரிசு நிலம் உள்ளது. அங்கு 2007ஆம் ஆண்டு அக்டோபர் 10ஆம் தேதி 21 குடும்பத்தினருக்கு பட்டா வழங்கப்பட்டது. அங்கு ஊராட்சி, கிராம நிர்வாக அலுவலர் அலுவலகங்கள், துணை சுகாதார நிலையம், பல்நோக்கு கட்டடம் உள்ளன. இந்தக் கட்டடங்கள் 1992ஆம் ஆண்டு கட்டப்பட்டதால் பழமையாகி வலுவிழந்துள்ளன. எனவே அரசு பொது நிதியில் இருந்து புதிய கட்டடங்கள் கட்ட வேண்டும் என மனுவில் கோரப்பட்டுள்ளது. ஆத்தூர் தொகுதி மேம்பாட்டு நிதியில் இருந்து உலர் களம் அமைக்கவும் விவசாயிகள் கோரிக்கை விடுத்துள்ளனர். வண்டிப் பாதை தரிசு நிலத்தை நில உரிமை நிலமாக மாற்றித் தர வேண்டும் என்றும் கோரப்பட்டுள்ளது. புதிய கட்டடங்கள் கட்ட கலெக்டர் அனுமதி வழங்க வேண்டும் என்றும் மனுவில் கேட்கப்பட்டுள்ளது. மேலும் செய்திகளுக்கு சேலம் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🏛️ ஆத்தூர் பைத்தூரில் பழைய கட்டடங்களுக்கு புதிய கட்டடம் கேட்டு மனு\n\n📰 முழு விவரம்:\nஆத்தூர் எம்.எல்.ஏ. ஜெயசங்கரன், நேற்று சேலம் கலெக்டர் இளம் பகவத்திடம் மனு அளித்தார். பைத்தூர் ஊராட்சியில் 6.5 ஏக்கர் பாதை தரிசு நிலம் உள்ளது. அங்கு 2007 அக்டோபர் 10ஆம் தேதி 21 குடும்பத்தினருக்கு பட்டா வழங்கப்பட்டது. அங்குள்ள ஊராட்சி, வி.ஏ.ஓ. அலுவலகங்கள், துணை சுகாதார நிலையம், பல்நோக்கு கட்டடம் 1992ஆம் ஆண்டு கட்டப்பட்டதால் வலுவிழந்துள்ளன.\n🏗️ அரசு பொது நிதியில் புதிய கட்டடங்கள் கட்ட வேண்டும் என மனுவில் கோரப்பட்டுள்ளது.\n🌾 ஆத்தூர் தொகுதி மேம்பாட்டு நிதியில் உலர் களம் அமைக்க விவசாயிகள் கோரிக்கை விடுத்துள்ளனர்.\n📜 வண்டிப் பாதை தரிசு நிலத்தை நில உரிமை நிலமாக மாற்றித் தர வேண்டும்.\n✅ புதிய கட்டடங்கள் கட்ட கலெக்டர் அனுமதி வழங்க வேண்டும் என கோரப்பட்டுள்ளது.\n\nAttur MLA petition to Collector on Paithur buildings | Salem news\n📍 பைத்தூர், ஆத்தூர், சேலம் மாவட்டம் | 20 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Salem360 #Salem #Attur #SalemNews #சேலம்",
-   "prompts": "A group of village men in shirts and veshti stand at the front steps of an old government office in Paithur village, Attur, Salem district, while a Tamil Nadu politician in a white shirt hands a bundle of papers across a wooden table to a district official, both seen from behind and at a distance. The building is an aged single-storey brick panchayat office built in the 1990s, with cracked plaster, faded walls, a tiled roof, a few wooden benches and a tin-roofed sub-health centre beside it. Around the courtyard lie a couple of parked two-wheelers and a bicycle, with a flat dirt ground and a few palm trees behind. Some farmers wearing towels over their shoulders and women in cotton sarees stand in a loose group under the shade of a neem tree, waiting and talking. It is mid-morning in bright daylight with soft sunshine and no rain. Camera at eye level, 35 mm lens, wide enough to show the old building, the official table and the waiting villagers. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up of a stack of official petition papers tied with string on a wooden government table in a panchayat office, beside a black ink pen and a folded cloth bag, with the edge of a cracked and weathered wall behind it. Faint sunlight falls through a barred window, showing peeling paint and a dusty concrete floor under the table. In the soft background, a pair of village men's sandals rests near a wooden bench, and a rolled-up mat lies against the wall. The lighting is warm, natural and daytime. Camera slightly above the table at about 45 degrees, 50 mm close focus with a shallow depth of field that blurs the background. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-salem/aiadmk-mla-submit-petition-to-collector/4381106",
-   "published": "2026-11-20T01:20:00+05:30",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5) - fact-check: no problems found",
-   "note": "free-model draft anthropic/claude-haiku-5-5, 13 attempt(s), 0 validator problem(s)",
-   "post_time": "right after your reply, same day",
-   "_area": "N",
-   "_score": 999,
-   "images": [
-    "https://res.cloudinary.com/jrmwajfz/image/upload/v1795191751/salem360/yvtjsprgbzqhqjqy8srb.jpg",
-    "https://res.cloudinary.com/jrmwajfz/image/upload/v1795191759/salem360/knjjeduplvwxtzdgxsgc.jpg"
-   ]
-  },
-  {
-   "tamil_headline": "கொளத்தூர் இடைத்தேர்தல்: ஸ்டாலின் போட்டியிடுவாரா என கேள்வி",
-   "english_headline": "Will Stalin contest the Kolathur by-election? DMK MP Constantine Ravindran answers",
-   "category": "Government & Services",
-   "location": "Kolathur constituency, Tamil Nadu (article dateline Nellai)",
+   "tamil_headline": "ரயிலில் போதை மாத்திரைகள் கடத்தல்: 4 பேர் கைது",
+   "english_headline": "Four youths arrested for smuggling 760 drug tablets on a train through Salem",
+   "category": "Crime & Safety",
+   "location": "Alagapuram, Salem district",
    "importance": "High",
-   "scope": "district",
+   "scope": "local",
    "post_to": "Salem 360",
    "slides_spec": {
     "v": 3,
-    "cat": "அரசியல்",
-    "loc": "கொளத்தூர்",
-    "hl1": "கொளத்தூரில் ஸ்டாலின் போட்டியிடுவாரா?",
-    "hl2": "முடிவை ஸ்டாலின் எடுப்பார்",
+    "cat": "போதை மாத்திரை கடத்தல்",
+    "loc": "அழகாபுரம், சேலம்",
+    "hl1": "ரயிலில் போதை மாத்திரை 4 பேர் கைது",
+    "hl2": "760 மாத்திரைகள் பறிமுதல்",
     "slides": [
      {
       "title": "என்ன நடந்தது?",
       "lines": [
-       "கொளத்தூர் எம்எல்ஏ விஎஸ் பாபு மாரடைப்பால் உயிரிழந்தார்",
-       "72 நாட்கள் தனியார் மருத்துவமனையில் சிகிச்சை",
-       "தொகுதி காலியானதால் இடைத்தேர்தல் நடக்கவுள்ளது"
+       "புதுதில்லி - திருவனந்தபுரம் நிஜாமுதீன் விரைவு ரயிலில் சோதனை",
+       "அழகாபுரம் போலீசார் வெள்ளிக்கிழமை அதிகாலை சோதனை நடத்தினர்",
+       "ரயிலில் இருந்து இறங்கிய 4 இளைஞர்கள் கைது"
       ]
      },
      {
-      "title": "இடைத்தேர்தல்",
+      "title": "எத்தனை",
       "lines": [
-       "காலியாக உள்ள தொகுதிகள் <b>6</b> ஆக உயர்ந்தது",
-       "திருச்சி கிழக்கு, கரூர், விராலிமலை, பெருந்துறை",
-       "தேர்தல் ஆணையம் பணிகளைத் தொடங்கும் என எதிர்பார்ப்பு"
+       "4 பேரிடம் <b>760 போதை மாத்திரைகள்</b> பறிமுதல்",
+       "முன்னுக்குப் பின் முரணாகப் பதிலளித்ததால் சந்தேகம்",
+       "இரும்பாலையில் ஒருவர் கைது"
       ]
      },
      {
-      "title": "ஸ்டாலின் பதில்",
+      "title": "இரும்பாலை சம்பவம்",
       "lines": [
-       "சட்டசபைத் தேர்தலில் ஸ்டாலின் <b>9,000</b> வாக்குகள்",
-       "போட்டி முடிவை ஸ்டாலின் தான் எடுப்பார் என எம்பி கூறினார்",
-       "தொண்டர்களின் ஆசையும் வெளிப்படுத்தப்பட்டது"
+       "இரும்பாலையில் போலீசார் நடத்திய சோதனையில் கைது",
+       "அவரிடம் <b>360 போதை மாத்திரைகள்</b> பறிமுதல்",
+       "நாமக்கல் மாவட்டத்தைச் சேர்ந்த 19 வயது இளைஞர் கைது"
       ]
      }
     ],
     "carousel": false
    },
-   "reel_script": "கொளத்தூர் தொகுதியில் ஸ்டாலின் மீண்டும் போட்டியிடுவாரா என்ற கேள்வி எழுந்துள்ளது. கொளத்தூர் எம்எல்ஏ விஎஸ் பாபு மாரடைப்பால் உயிரிழந்தார். 72 நாட்களாகத் தனியார் மருத்துவமனையில் சிகிச்சையில் இருந்த அவர், நேற்று மதியம் உயிரிழந்தார். இதனால் தமிழ்நாட்டில் காலியாக உள்ள தொகுதிகளின் எண்ணிக்கை 6ஆக உயர்ந்துள்ளது. திருச்சி கிழக்கு, கரூர், விராலிமலை, பெருந்துறை, அம்பாசமுத்திரம் மற்றும் கொளத்தூர் ஆகிய தொகுதிகளுக்கு இடைத்தேர்தல் நடக்கவுள்ளது. சட்டசபைத் தேர்தலில் கொளத்தூரில் போட்டியிட்ட ஸ்டாலின் சுமார் 9 ஆயிரம் வாக்குகள் வித்தியாசத்தில் தோல்வியடைந்தார். இந்நிலையில் தி மு க எம்பி கான்ஸ்டன்டைன் ரவீந்திரன் செய்தியாளர்களிடம் பேசினார். கொளத்தூர் தொகுதியில் போட்டியிடும் முடிவை ஸ்டாலின் தான் எடுப்பார் என்று அவர் கூறினார். தொண்டர்களுக்கும் போட்டியிட வேண்டும் என்ற ஆசை இருப்பதாக அவர் தெரிவித்தார். மேலும் செய்திகளுக்கு சேலம் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🗳️ கொளத்தூரில் ஸ்டாலின் போட்டியிடுவாரா? முடிவு அவருடையது\n\n📰 முழு விவரம்:\nகொளத்தூர் எம்எல்ஏ விஎஸ் பாபு மாரடைப்பால் உயிரிழந்தார். 72 நாட்கள் தனியார் மருத்துவமனையில் சிகிச்சையில் இருந்த அவர் நேற்று மதியம் உயிரிழந்தார். அவரின் உடலைத் தோளில் சுமந்து சென்று முதல்வர் விஜய் இறுதி மரியாதை செலுத்தினார். காலியான தொகுதிகள் 6 ஆக உயர்ந்தன. கொளத்தூரில் ஸ்டாலின் மீண்டும் போட்டியிடுவாரா என்ற கேள்விக்கு, திமுக எம்பி கான்ஸ்டன்டைன் ரவீந்திரன் பதிலளித்தார். முடிவை ஸ்டாலின் தான் எடுப்பார் என்றும், அறிவிப்பார் என்றும் அவர் கூறினார்.\n🗳️ இடைத்தேர்தல் நடக்கும் தொகுதிகள்: திருச்சி கிழக்கு, கரூர், விராலிமலை, பெருந்துறை, அம்பாசமுத்திரம், கொளத்தூர்\n🔍 சட்டசபைத் தேர்தலில் ஸ்டாலின் சுமார் 9 ஆயிரம் வாக்குகள் வித்தியாசத்தில் தோல்வியடைந்தார்.\n\nWill Stalin contest Kolathur by-election? | Salem news\n📍 கொளத்தூர், தமிழ்நாடு | 20 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Salem360 #Salem #SalemNews #சேலம்",
-   "prompts": "A DMK party MP stands before a cluster of reporters holding microphones at a press meet in Tirunelveli (Nellai), explaining the party's stance on whether DMK chief Stalin will contest the vacant Kolathur by-election. The setting is a modest government-style or party office hall in Nellai city, with a plain wall backdrop and a table draped in a white cloth carrying a bundle of microphones and recorder units. Around six to eight reporters and photographers stand in a semicircle, seen from behind and slightly to the side, holding notebooks, phones and cameras; a few DMK cadres in white shirts and veshti stand near the back, some with black-and-red party scarves over their shoulders. The speaker wears a white shirt and dark trousers and gestures with one hand while speaking, though he is shown from the side at a distance so no face is clear. Daylight from tall windows falls across the room, creating soft shadows on the floor, with a standing fan and a few plastic chairs at the edges. Camera at eye level, 35 mm lens, wide enough to show the whole group and the room. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close detail of the press-meet table in a Nellai party office: a cluster of several microphones with foam covers and a tangle of recorder cables lies on a white tablecloth, with a glass of water and a folded stack of reporters' notebooks beside them. Behind the table, out of focus, the shoulders and backs of reporters and a DMK cadre in a white shirt can be seen, and a wall with a plain faded surface sits in the background. Soft daylight from a side window lights the scene, showing a few water droplets on the glass and a wooden pen lying across a notebook. Shallow depth of field, camera slightly above the table, 50 mm lens, with no readable text, signboards or logos visible. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://tamil.oneindia.com/news/thirunelveli/dmk-mp-constantine-ravindran-says-dmk-leader-mk-stalin-will-take-call-on-kolathur-by-election-846933.html",
-   "published": "2026-11-20T19:52:10+05:30",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: reel_script has 89 words; need 100-160 (the key facts once each, in at most 90 seconds; every other detail goes in the caption's 📰 முழு விவரம் block)",
+   "reel_script": "சேலம் அழகாபுரம் போலீசார் ரயிலில் போதை மாத்திரைகள் கடத்திய 4 இளைஞர்களைக் கைது செய்தனர். வெள்ளிக்கிழமை அதிகாலை, புதுதில்லியில் இருந்து திருவனந்தபுரம் செல்லும் நிஜாமுதீன் விரைவு ரயிலில் போலீசார் சோதனை நடத்தினர். ரயிலில் இருந்து இறங்கிய 4 இளைஞர்களிடம் விசாரித்தனர். அவர்கள் முன்னுக்குப் பின் முரணாகப் பதிலளித்தனர். சோதனையில் அவர்களிடம் 760 போதை மாத்திரைகள் இருந்தது தெரியவந்தது. கைதானவர்கள் சென்னை கோயம்பேடு அன்னம்மாள் நகரைச் சேர்ந்த தாஸ், 21 வயது. நெற்குன்றம் முனியப்பா நகரைச் சேர்ந்த கஜேந்திரன், 21 வயது. சேலம் அஸ்தம்பட்டி காந்தி ரோடு பகுதியைச் சேர்ந்த ஹேமந்த்குமார், 21 வயது. மன்னார்பாளையம் அள்ளிக்குட்டை பகுதியைச் சேர்ந்த சாரதி, 20 வயது. இதேபோல் இரும்பாலை பகுதியில் போலீசார் நடத்திய சோதனையில் ஒருவர் கைது செய்யப்பட்டார். நாமக்கல் மாவட்டம் ராசிபுரம் பாரப்பட்டி காலனியைச் சேர்ந்த தீபக், 19 வயது. அவரிடம் 360 போதை மாத்திரைகள் பறிமுதல் செய்யப்பட்டன. மேலும் செய்திகளுக்கு சேலம் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🚨 ரயிலில் போதை மாத்திரை கடத்தல்: அழகாபுரம் போலீசார் 4 பேரை கைது செய்தனர்\n\n📰 முழு விவரம்:\nபுதுதில்லியில் இருந்து சேலம் வழியாகச் சென்ற நிஜாமுதீன் விரைவு ரயிலில் போதை மாத்திரைகள் கடத்தப்படுவதாக அழகாபுரம் போலீசார் சோதனை நடத்தினர். வெள்ளிக்கிழமை அதிகாலை ரயிலில் இருந்து இறங்கிய 4 இளைஞர்களைச் சந்தேகத்தின் பேரில் விசாரித்தனர். அவர்கள் முன்னுக்குப் பின் முரணாகப் பதிலளித்தனர். சோதனையில் அவர்களிடம் 760 போதை மாத்திரைகள் இருந்தது தெரியவந்தது. நான்கு பேரையும் கைது செய்து காவல் நிலையத்துக்கு அழைத்துச் சென்றனர்.\nகைதானவர்கள்: சென்னை கோயம்பேடு அன்னம்மாள் நகரைச் சேர்ந்த தாஸ் (21 வயது), நெற்குன்றம் முனியப்பா நகரைச் சேர்ந்த கஜேந்திரன் (21 வயது), சேலம் அஸ்தம்பட்டி காந்தி ரோடு பகுதியைச் சேர்ந்த ஹேமந்த்குமார் (21 வயது), மன்னார்பாளையம் அள்ளிக்குட்டை பகுதியைச் சேர்ந்த சாரதி (20 வயது).\n👮 இரும்பாலை பகுதியில் போலீசார் நடத்திய சோதனையில் நாமக்கல் மாவட்டம் ராசிபுரம் பாரப்பட்டி காலனியைச் சேர்ந்த தீபக் (19 வயது) என்பவரிடம் 360 போதை மாத்திரைகள் பறிமுதல் செய்யப்பட்டு அவர் கைது செய்யப்பட்டார்.\n\nSalem drug tablets seized on train, 4 arrested | Salem news\n📍 அழகாபுரம், சேலம் மாவட்டம் | 21 நவம்பர் 2026\n\nஇதை பகிருங்கள், உள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Salem360 #Salem #SalemNews #சேலம்",
+   "prompts": "Four young men in casual shirts and trousers stand on a train platform, hands raised, being escorted by police officers in khaki uniforms. The scene is set at Alagapuram railway station in Salem district, with the concrete platform and tracks visible. The four youths are seen from behind, appearing subdued, while several police officers in khaki stand nearby, supervising the arrest. A long passenger train, identified as the Nizamuddin Express, is stopped at the platform in the background, its carriages stretching into the distance. The atmosphere is tense but orderly, with no crowd present. The light is bright early morning daylight, casting sharp shadows on the platform. The camera is positioned at eye level, 35 mm lens, capturing the full width of the platform and the train to show the scale of the operation. The focus is on the interaction between the police and the arrested youths, highlighting the law enforcement action. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up shot of a white table covered with a plain cloth, on which 760 small, round drug tablets are neatly arranged in rows. The tablets are the central focus, clearly visible and distinct. In the blurred background, the legs of police officers in khaki uniforms are visible, standing behind the table, suggesting their presence and authority. The setting is indoors, likely a police station room, with neutral lighting that highlights the details of the seized goods. The camera is slightly high, looking down at the table, using a 35 mm lens to ensure the tablets are sharp and the background is soft. This detail shot emphasizes the quantity and nature of the contraband seized during the arrest, providing concrete evidence of the crime. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamani.com/all-editions/edition-dharmapuri/salem/2026/Nov/20/smuggling-of-narcotic-pills-on-a-train-4-arrested",
+   "published": "2026-11-20T19:45:40.454Z",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: hl1 (the first headline on screen) must name the place 'அழகாபுரம்', e.g. 'அழகாபுரம்: ...' or 'அழகாபுரம்-இல் ...' - viewers share news of their own area",
    "note": "free-model draft anthropic/claude-haiku-5-5, 13 attempt(s), 1 validator problem(s)",
    "post_time": "right after your reply, same day",
    "_area": "N",
    "_score": 999,
    "images": [
-    "https://res.cloudinary.com/jrmwajfz/image/upload/v1795191771/salem360/zewguzfzp4hi5y5hszam.jpg",
-    "https://res.cloudinary.com/jrmwajfz/image/upload/v1795191839/salem360/b8vuyrtn6ztaewmqmwjp.jpg"
+    "https://res.cloudinary.com/jrmwajfz/image/upload/v1795208042/salem360/ga8elhq9imaw2qcn6jxp.jpg",
+    "https://res.cloudinary.com/jrmwajfz/image/upload/v1795208045/salem360/gujzhkddkn92ark8iryo.jpg"
    ]
   }
  ]

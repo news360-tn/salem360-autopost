@@ -1,0 +1,87 @@
+writing [N]: ரயிலில் போதை மாத்திரைகள் கடத்தல்: 4 போ் கைது
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
+ok gemini/gemini-3.6-flash (15s)
+attempt 1 gemini/gemini-3.6-flash: 5 problems
+  sentence 1 (one-line story) has 13 words; make it 6-9 words (about 2-3 seconds), the details follow in the next sentences
+  numbers not found in the article: 1120, 120
+  not grounded: location 'அழகபுரம்' is not in the article
+  hl1 (the first headline on screen) must name the place 'அழகபுரம்', e.g. 'அழகபுரம்: ...' or 'அழகபுரம்-இல் ...' - viewers share news of their own area
+  caption misses facts of the article (put every one in 📰 முழு விவரம்): அழகாபுரம் ('புதுதில்லியில் இருந்து சேலம் வழியாகச் சென்ற ரயிலில் போதை மாத'); அஸ்தம்பட்டி ('இதையடுத்து, நான்கு பேரையும் கைதுசெய்து காவல் நிலையத்துக்கு அ')
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
+fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 429: {
+  "error": {
+    "code": 429,
+    "message": "You exceeded your current quota, please che
+dead for this round: gemini/gemini-3.6-flash
+fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {
+  "error": {
+    "code": 429,
+    "message": "You exceeded your current quota, please che
+dead for this round: gemini/gemini-3.5-flash
+fail gemini/gemini-3-flash-preview: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=60)
+poor answer - skipped for 30 min: gemini/gemini-3-flash-preview
+fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 400: {"error":{"message":"Failed to validate JSON. Please adjust your prompt. See 'failed_gener
+fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 413: {"error":{"message":"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7
+free models unavailable: no free model answered: groq qwen/qwen3.8-27b 413: {"error":{"message":"Request too large for model `qwen/qwen3.8-27b` i
+ok anthropic/claude-haiku-5-5
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
+ok groq/openai/gpt-oss-120b (5s)
+factcheck by groq/openai/gpt-oss-120b: 3 problems
+  Reel script incorrectly states the youths were taken to "அஸ்தம்பட்டி காவல் நிலையம்" instead of the correct "அழகாபுரம் காவல் நிலையம்" (also repeated in caption)
+  Reel script omits the important details of the four arrested youths (names, ages and hometowns) that are present in the article
+  Slide 2 first line is incomplete/unclear Tamil – it says "புதுதில்லியில் இருந்து திருவனந்தபுரம் செல்லும் நிஜாமுதீன்" without mentioning "விரைவு ரயில்", making the sentence grammatically odd
+claude rewrite 1 anthropic/claude-haiku-5-5: 3 problems
+  fact-check: Reel script incorrectly states the youths were taken to "அஸ்தம்பட்டி காவல் நிலையம்" instead of the correct "அழகாபுரம் காவல் நிலையம்" (also repeated in caption)
+  fact-check: Reel script omits the important details of the four arrested youths (names, ages and hometowns) that are present in the article
+  fact-check: Slide 2 first line is incomplete/unclear Tamil – it says "புதுதில்லியில் இருந்து திருவனந்தபுரம் செல்லும் நிஜாமுதீன்" without mentioning "விரைவு ரயில்", making the sentence grammatically odd
+ok anthropic/claude-haiku-5-5
+claude rewrite 2 anthropic/claude-haiku-5-5: 2 problems
+  numbers not found in the article: 1120, 120
+  caption misses facts of the article (put every one in 📰 முழு விவரம்): அஸ்தம்பட்டி ('இதையடுத்து, நான்கு பேரையும் கைதுசெய்து காவல் நிலையத்துக்கு அ')
+ok anthropic/claude-haiku-5-5
+claude rewrite 3 anthropic/claude-haiku-5-5: 2 problems
+  hl1 is 42 characters (max 40) - write a SHORTER COMPLETE phrase with fewer words that still ends with its key word (what happened: e.g. 'X அருகே வீட்டில் கொள்ளை'); never stop a phrase in the middle
+  hl1 (the first headline on screen) must name the place 'அழகாபுரம்', e.g. 'அழகாபுரம்: ...' or 'அழகாபுரம்-இல் ...' - viewers share news of their own area
+hl1 shortened at a natural break: 'ரயிலில் போதை மாத்திரை கடத்தல்: 4 பேர் கைது' -> 'ரயிலில் போதை மாத்திரை 4 பேர் கைது'
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
+ok groq/openai/gpt-oss-120b (6s)
+proofread rejected (6 problems)
+  sentence 1 (one-line story) has 15 words; make it 6-9 words (about 2-3 seconds), the details follow in the next sentences
+  reel_script has numbers without their meaning ((21, (20); write what each number is: '15 வயது', '30 பாட்டில்கள்', 'அக்டோபர் 26ஆம் தேதி'
+  caption must contain the exact follow line
+  hl1 (the first headline on screen) must name the place 'அழகாபுரம்', e.g. 'அழகாபுரம்: ...' or 'அழகாபுரம்-இல் ...' - viewers share news of their own area
+  caption has no "📰 முழு விவரம்:" block - put the whole story (every fact) in the caption
+  caption misses facts of the article (put every one in 📰 முழு விவரம்): அஸ்தம்பட்டி ('இதையடுத்து, நான்கு பேரையும் கைதுசெய்து காவல் நிலையத்துக்கு அ')
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
+fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {"error":{"message":"Rate limit reached for model `openai/gpt-oss-120b` in organization `o
+fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {"error":{"message":"Rate limit reached for model `openai/gpt-oss-120b` in organization `o
+switching away from groq/openai/gpt-oss-120b for 10 min
+ok groq/qwen/qwen3.8-27b (1s)
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+real photo not this news (The image is a generic graphic illustration of handcuffed hands, not a real phot): https://media.dinamani.com/dinamani/2026-11-20/fz2pz3xw/Priest-arrest12-1.jpg
+image match check unavailable: gemini-3.5-flash: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/g
+image match check unavailable: gemini-3.5-flash: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/g
+images made: 2 for 'Four youths arrested for smuggling 760 d'
+bridge: 200 {"ok":true,"added":1,"auto_queued":1,"emailed":0,"reoffered":0,"batch":"B20261121-0224","first":"RN-188"}
+posting job started at once
+earlier stories still waiting for images: []
+instagram check: 50 recent posts read from the page
+pick round: only the picked links are written (research_free/pick.py)
+manual link added: https://www.dinamani.com/all-editions/edition-dharmapuri/salem/2026/Nov/20/smuggling-of-narcotic-pills-on-a-train-4-arrested
+candidate filter: collected=1
+to write: 1 Salem district candidates (max 1 stories)
+round: top 1 of 1 candidates
+candidates waiting: 1 Salem; time left 79 min
+try (N) manual=True: https://www.dinamani.com/all-editions/edition-dharmapuri/sal
+auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 2})
+posting job started at once
+candidate loop ended: left 0, tried={'N': 1}, done={'N': 1}, time left 77 min
+filed: 1 Salem district stories (target 1), reels only
+queue: 0 news waiting to be written
+All News sheet: {"ok":true,"added":1,"updated":0} 
+stories: 1
