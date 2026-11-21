@@ -83,6 +83,12 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 <!-- recent-changes:start (updated automatically by .github/workflows/context.yml - do not edit by hand) -->
 | Date | Commit | Change |
 |---|---|---|
+| 2026-11-21 | `8554755` | YouTube: news reels uploaded automatically as Shorts (only with the page's keys) |
+| 2026-11-21 | `5e31c51` | facebook RN-209 |
+| 2026-11-21 | `18c4ea0` | posted RN-209 |
+| 2026-11-21 | `827f54b` | pick: picked news saved |
+| 2026-11-21 | `4567acb` | pick: picked news saved |
+| 2026-11-21 | `64e1da0` | pick: list sent |
 | 2026-11-21 | `db898c8` | Facebook: every news that is on Instagram also goes to Facebook |
 | 2026-11-21 | `42c5944` | pick: written and posted |
 | 2026-11-21 | `e8fd91e` | facebook RN-207 |
@@ -107,10 +113,4 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 | 2026-11-21 | `59c2b0f` | pick: list sent |
 | 2026-11-21 | `b9782cc` | Instagram-safe: stories only for power cuts / urgent news again (as Kovai and Chennai Minnal); direct-upload trial off |
 | 2026-11-21 | `33c16d3` | pick: written and posted |
-| 2026-11-21 | `94f5282` | powercut: notices written |
-| 2026-11-21 | `acaa94e` | powercut: notices written |
-| 2026-11-21 | `1998f44` | pick: picked news saved |
-| 2026-11-21 | `f74670b` | pick: picked news saved |
-| 2026-11-21 | `9e88c4b` | pick: list sent |
-| 2026-11-21 | `df2eb80` | Post news as soon as it is ready; only news with a source link; collect every 4 hours, max 35 a day |
 <!-- recent-changes:end -->
