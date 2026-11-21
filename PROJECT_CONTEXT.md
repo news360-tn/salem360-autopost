@@ -83,6 +83,21 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 <!-- recent-changes:start (updated automatically by .github/workflows/context.yml - do not edit by hand) -->
 | Date | Commit | Change |
 |---|---|---|
+| 2026-11-21 | `db898c8` | Facebook: every news that is on Instagram also goes to Facebook |
+| 2026-11-21 | `42c5944` | pick: written and posted |
+| 2026-11-21 | `e8fd91e` | facebook RN-207 |
+| 2026-11-21 | `7977c1a` | posted RN-207 |
+| 2026-11-21 | `001de2d` | facebook RN-205 |
+| 2026-11-21 | `95fe4d1` | posted RN-205 |
+| 2026-11-21 | `cd0b480` | powercut: notices written |
+| 2026-11-21 | `b009630` | facebook RN-204 |
+| 2026-11-21 | `664fd55` | posted RN-204 |
+| 2026-11-21 | `f4e9976` | powercut: notices written |
+| 2026-11-21 | `393350f` | facebook RN-206 |
+| 2026-11-21 | `ae7bef0` | posted RN-206 |
+| 2026-11-21 | `dd304e8` | pick: picked news saved |
+| 2026-11-21 | `e3ebda3` | pick: picked news saved |
+| 2026-11-21 | `966d9a8` | pick: list sent |
 | 2026-11-21 | `56c0495` | Posted report: one e-mail for all pages, 4 times a day |
 | 2026-11-21 | `3e93619` | pick: written and posted |
 | 2026-11-21 | `34a7c75` | Instagram-safe limits, file upload without Cloudinary, skipped e-mails restarted |
@@ -98,19 +113,4 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 | 2026-11-21 | `f74670b` | pick: picked news saved |
 | 2026-11-21 | `9e88c4b` | pick: list sent |
 | 2026-11-21 | `df2eb80` | Post news as soon as it is ready; only news with a source link; collect every 4 hours, max 35 a day |
-| 2026-11-21 | `1fb03d3` | A news picture that cannot be downloaded (old Cloudinary account, 401/404) is left out - the reel uses the designed background, the page is never blocked |
-| 2026-11-21 | `aa79649` | pick: written and posted |
-| 2026-11-21 | `6552663` | goldrate posted |
-| 2026-11-21 | `67b63c0` | pick: picked news saved |
-| 2026-11-21 | `1f78bc9` | pick: picked news saved |
-| 2026-11-21 | `0b1e6f5` | pick: list sent |
-| 2026-11-21 | `f764b84` | Keep 20 of Instagram's 50 daily posts for news: stories stop at 30 (news was waiting at 48/50) |
-| 2026-11-21 | `2ea4b55` | Stop posting bursts: 10 min between news posts; an Instagram block pauses the page 6 h (news waits) instead of retrying every run |
-| 2026-11-21 | `2a7775a` | rasipalan posted |
-| 2026-11-20 | `7d4cc80` | pick: written and posted |
-| 2026-11-20 | `963c259` | pick: picked news saved |
-| 2026-11-20 | `61b2d14` | pick: list sent |
-| 2026-11-20 | `82beacc` | powercut: notices written |
-| 2026-11-20 | `97cb900` | pick: written and posted |
-| 2026-11-20 | `a9b9aea` | pick: picked news saved |
 <!-- recent-changes:end -->
