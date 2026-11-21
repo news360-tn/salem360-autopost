@@ -24,7 +24,8 @@
    "score": 2.74,
    "power_cut": false,
    "listed_at": "2026-11-21T08:54:15.064632+05:30",
-   "picked_at": "2026-11-21T23:17:55.611008+05:30"
+   "picked_at": "2026-11-21T23:17:55.611008+05:30",
+   "posted": true
   },
   "C62a6757": {
    "id": "C62a6757",
@@ -65,7 +66,8 @@
    "score": 11.5,
    "power_cut": false,
    "listed_at": "2026-11-21T23:16:23.647536+05:30",
-   "picked_at": "2026-11-21T23:17:55.610994+05:30"
+   "picked_at": "2026-11-21T23:17:55.610994+05:30",
+   "posted": true
   },
   "C5505122": {
    "id": "C5505122",
@@ -78,7 +80,8 @@
    "score": 11.5,
    "power_cut": false,
    "listed_at": "2026-11-21T23:16:23.647536+05:30",
-   "picked_at": "2026-11-21T23:17:55.610997+05:30"
+   "picked_at": "2026-11-21T23:17:55.610997+05:30",
+   "posted": true
   },
   "C3ca4b3b": {
    "id": "C3ca4b3b",
@@ -94,7 +97,8 @@
     "https://www.dinamalar.com/news/tamil-nadu-news/another-case-against-former-mla-muthukumar/4382758"
    ],
    "listed_at": "2026-11-21T23:16:23.647536+05:30",
-   "picked_at": "2026-11-21T23:17:55.611006+05:30"
+   "picked_at": "2026-11-21T23:17:55.611006+05:30",
+   "refused": "not filed: not Salem district news (the story's first lines name another place and no Salem place)"
   }
  },
  "rounds": {
@@ -918,7 +922,10 @@
     "C5505122",
     "C5a04039",
     "Ce56ce1f"
-   ]
+   ],
+   "refused": {
+    "C3ca4b3b": "not filed: not Salem district news (the story's first lines name another place and no Salem place)"
+   }
   }
  },
  "retry": {}
