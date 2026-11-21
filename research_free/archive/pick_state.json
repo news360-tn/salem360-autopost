@@ -11,7 +11,8 @@
    "category": "சாலை",
    "score": 5.5,
    "power_cut": false,
-   "listed_at": "2026-11-21T08:54:15.064632+05:30"
+   "listed_at": "2026-11-21T08:54:15.064632+05:30",
+   "picked_at": "2026-11-21T12:43:06.719943+05:30"
   },
   "C8880be6": {
    "id": "C8880be6",
@@ -23,7 +24,8 @@
    "category": "குற்றம்",
    "score": 5.0,
    "power_cut": false,
-   "listed_at": "2026-11-21T08:54:15.064632+05:30"
+   "listed_at": "2026-11-21T08:54:15.064632+05:30",
+   "picked_at": "2026-11-21T12:43:06.719938+05:30"
   },
   "Cd8752f4": {
    "id": "Cd8752f4",
@@ -35,7 +37,8 @@
    "category": "பொது",
    "score": 4.0,
    "power_cut": false,
-   "listed_at": "2026-11-21T08:54:15.064632+05:30"
+   "listed_at": "2026-11-21T08:54:15.064632+05:30",
+   "picked_at": "2026-11-21T12:43:06.719940+05:30"
   },
   "C346b84b": {
    "id": "C346b84b",
@@ -47,7 +50,8 @@
    "category": "பொது",
    "score": 4.0,
    "power_cut": false,
-   "listed_at": "2026-11-21T08:54:15.064632+05:30"
+   "listed_at": "2026-11-21T08:54:15.064632+05:30",
+   "picked_at": "2026-11-21T12:43:06.719941+05:30"
   },
   "C5fc5d81": {
    "id": "C5fc5d81",
@@ -160,7 +164,8 @@
     "https://www.maalaimalar.com/news/tamilnadu/yercaud-car-accident-300-feet-fall",
     "https://www.polimernews.com/districtnews/horrific-accident-on-yercaud-hill-road-car-plunges-300-feet-into-gorge-one-killed-4-seriously-injured-12828731"
    ],
-   "listed_at": "2026-11-21T12:41:18.790354+05:30"
+   "listed_at": "2026-11-21T12:41:18.790354+05:30",
+   "picked_at": "2026-11-21T12:43:06.719934+05:30"
   },
   "Ce7b8c78": {
    "id": "Ce7b8c78",
@@ -175,7 +180,8 @@
    "alts": [
     "https://www.dinakaran.com/news/yercaud-300-feet-deep-gorge-crushed-car-one-person-dead/amp"
    ],
-   "listed_at": "2026-11-21T12:41:18.790354+05:30"
+   "listed_at": "2026-11-21T12:41:18.790354+05:30",
+   "picked_at": "2026-11-21T12:43:06.719936+05:30"
   }
  },
  "rounds": {
@@ -997,8 +1003,26 @@
    ],
    "sent": false,
    "deadline": "2026-11-21T13:41:18.790354+05:30",
-   "decided": null,
-   "written": []
+   "decided": {
+    "how": "automatic: top 6 of 13 by insights",
+    "ids": [
+     "C689540a",
+     "Ce7b8c78",
+     "C8880be6",
+     "Cd8752f4",
+     "C346b84b",
+     "Cd95a494"
+    ],
+    "at": "2026-11-21T12:43:06.719925+05:30"
+   },
+   "written": [
+    "C346b84b",
+    "C689540a",
+    "C8880be6",
+    "Cd8752f4",
+    "Cd95a494",
+    "Ce7b8c78"
+   ]
   }
  },
  "retry": {}
