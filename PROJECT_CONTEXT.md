@@ -83,6 +83,12 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 <!-- recent-changes:start (updated automatically by .github/workflows/context.yml - do not edit by hand) -->
 | Date | Commit | Change |
 |---|---|---|
+| 2026-11-21 | `1fb03d3` | A news picture that cannot be downloaded (old Cloudinary account, 401/404) is left out - the reel uses the designed background, the page is never blocked |
+| 2026-11-21 | `aa79649` | pick: written and posted |
+| 2026-11-21 | `6552663` | goldrate posted |
+| 2026-11-21 | `67b63c0` | pick: picked news saved |
+| 2026-11-21 | `1f78bc9` | pick: picked news saved |
+| 2026-11-21 | `0b1e6f5` | pick: list sent |
 | 2026-11-21 | `f764b84` | Keep 20 of Instagram's 50 daily posts for news: stories stop at 30 (news was waiting at 48/50) |
 | 2026-11-21 | `2ea4b55` | Stop posting bursts: 10 min between news posts; an Instagram block pauses the page 6 h (news waits) instead of retrying every run |
 | 2026-11-21 | `2a7775a` | rasipalan posted |
@@ -107,10 +113,4 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 | 2026-11-20 | `a6e231f` | powercut: notices written |
 | 2026-11-20 | `217c08c` | powercut: notices written |
 | 2026-11-20 | `45f66ce` | pick: written and posted |
-| 2026-11-20 | `e459791` | pick: picked news saved |
-| 2026-11-20 | `ba0fbea` | pick: picked news saved |
-| 2026-11-20 | `5ff7740` | pick: list sent |
-| 2026-11-20 | `335339c` | Promotion ads (owner-approved only, bottom of the reel during the news) and twice-a-day YouTube details e-mail |
-| 2026-11-20 | `454c27a` | pick: written and posted |
-| 2026-11-20 | `5dce39c` | Fix: reels again made with reel4 (config reel_design back to v4) |
 <!-- recent-changes:end -->
