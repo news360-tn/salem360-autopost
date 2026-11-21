@@ -83,6 +83,16 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 <!-- recent-changes:start (updated automatically by .github/workflows/context.yml - do not edit by hand) -->
 | Date | Commit | Change |
 |---|---|---|
+| 2026-11-21 | `2ea4b55` | Stop posting bursts: 10 min between news posts; an Instagram block pauses the page 6 h (news waits) instead of retrying every run |
+| 2026-11-21 | `2a7775a` | rasipalan posted |
+| 2026-11-20 | `7d4cc80` | pick: written and posted |
+| 2026-11-20 | `963c259` | pick: picked news saved |
+| 2026-11-20 | `61b2d14` | pick: list sent |
+| 2026-11-20 | `82beacc` | powercut: notices written |
+| 2026-11-20 | `97cb900` | pick: written and posted |
+| 2026-11-20 | `a9b9aea` | pick: picked news saved |
+| 2026-11-20 | `3c16314` | pick: picked news saved |
+| 2026-11-20 | `4176cc1` | pick: list sent |
 | 2026-11-20 | `9d1699d` | Facebook first comment = the same source comment as Instagram (link into the text if Facebook refuses the comment) |
 | 2026-11-20 | `5e707b2` | pick: written and posted |
 | 2026-11-20 | `4f4473b` | pick: picked news saved |
@@ -103,14 +113,4 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 | 2026-11-20 | `454c27a` | pick: written and posted |
 | 2026-11-20 | `5dce39c` | Fix: reels again made with reel4 (config reel_design back to v4) |
 | 2026-11-20 | `273ce72` | pick: picked news saved |
-| 2026-11-20 | `bcea890` | pick: picked news saved |
-| 2026-11-20 | `1b9fb62` | pick: list sent |
-| 2026-11-20 | `c05819c` | News reels: one design on every page - the earlier, proven design with the source and date shown clearly |
-| 2026-11-20 | `8b4016e` | Writer: the opening headline (hl1) is always a complete phrase |
-| 2026-11-20 | `afcf603` | News reels: the design team's design (Tamil) with the 360 clock branding on every page |
-| 2026-11-20 | `602f41e` | goldrate posted |
-| 2026-11-20 | `ff72fa2` | pick: written and posted |
-| 2026-11-20 | `8bdebda` | Posting loop: start the next posting run with 3 tries |
-| 2026-11-20 | `f1443ae` | pick: picked news saved |
-| 2026-11-20 | `2c87c49` | pick: picked news saved |
 <!-- recent-changes:end -->
