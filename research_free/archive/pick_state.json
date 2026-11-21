@@ -23,7 +23,8 @@
    "category": "பொது",
    "score": 2.74,
    "power_cut": false,
-   "listed_at": "2026-11-21T08:54:15.064632+05:30"
+   "listed_at": "2026-11-21T08:54:15.064632+05:30",
+   "picked_at": "2026-11-21T23:17:55.611008+05:30"
   },
   "C62a6757": {
    "id": "C62a6757",
@@ -63,7 +64,8 @@
    "category": "விபத்து",
    "score": 11.5,
    "power_cut": false,
-   "listed_at": "2026-11-21T23:16:23.647536+05:30"
+   "listed_at": "2026-11-21T23:16:23.647536+05:30",
+   "picked_at": "2026-11-21T23:17:55.610994+05:30"
   },
   "C5505122": {
    "id": "C5505122",
@@ -75,7 +77,8 @@
    "category": "விபத்து",
    "score": 11.5,
    "power_cut": false,
-   "listed_at": "2026-11-21T23:16:23.647536+05:30"
+   "listed_at": "2026-11-21T23:16:23.647536+05:30",
+   "picked_at": "2026-11-21T23:17:55.610997+05:30"
   },
   "C3ca4b3b": {
    "id": "C3ca4b3b",
@@ -90,7 +93,8 @@
    "alts": [
     "https://www.dinamalar.com/news/tamil-nadu-news/another-case-against-former-mla-muthukumar/4382758"
    ],
-   "listed_at": "2026-11-21T23:16:23.647536+05:30"
+   "listed_at": "2026-11-21T23:16:23.647536+05:30",
+   "picked_at": "2026-11-21T23:17:55.611006+05:30"
   }
  },
  "rounds": {
@@ -899,8 +903,22 @@
    ],
    "sent": false,
    "deadline": "2026-11-22T00:16:23.647536+05:30",
-   "decided": null,
-   "written": []
+   "decided": {
+    "how": "automatic: top 5 of 4 by insights",
+    "ids": [
+     "C5a04039",
+     "C5505122",
+     "C3ca4b3b",
+     "Ce56ce1f"
+    ],
+    "at": "2026-11-21T23:17:55.610978+05:30"
+   },
+   "written": [
+    "C3ca4b3b",
+    "C5505122",
+    "C5a04039",
+    "Ce56ce1f"
+   ]
   }
  },
  "retry": {}
