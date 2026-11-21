@@ -3,94 +3,93 @@
   "earlier stories still waiting for images: []",
   "instagram check: 50 recent posts read from the page",
   "pick round: only the picked links are written (research_free/pick.py)",
-  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-salem/rs-52000-stolen-from-bike/4382119",
-  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-salem/shopkeeper-killed-in-mishap/4382117",
-  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-salem/people-stage-a-road-blockade-in-protest-against-the-resumption-of-work-on-the-tunnel/4382105",
-  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-salem/tvk-stages-protest-to-fulfil-poll-promise/4382107",
-  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-salem/kumbhabhishekam-kolakalam/4382113",
-  "candidate filter: collected=5",
-  "to write: 5 Salem district candidates (max 5 stories)",
-  "round: top 5 of 5 candidates",
-  "candidates waiting: 5 Salem; time left 79 min",
+  "manual link added: https://tamil.oneindia.com/news/salem/one-died-in-car-falls-in-300-feet-depth-at-yercaud-847031.html",
+  "manual link added: https://www.dinakaran.com/news/yercaud-300-feet-deep-gorge-car-crushed-one-dead/amp",
+  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-salem/private-bus-seized/4382114",
+  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-salem/show-me-a-bunny-for-the-pongal-festival-and-take-it-away/4382109",
+  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-salem/removal-of-encroachment-on-the-route-of-election/4382108",
+  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-karur/salem-old-road-needs-street-lights/4382102",
+  "candidate filter: collected=6",
+  "to write: 6 Salem district candidates (max 6 stories)",
+  "round: top 6 of 6 candidates",
+  "candidates waiting: 6 Salem; time left 79 min",
+  "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-karu",
   "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-sale",
-  "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-sale",
-  "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-sale",
-  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 1})",
-  "posting job started at once",
   "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-sale",
   "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 3})",
+  "posting job started at once",
   "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-sale",
   "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 5})",
   "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 7})",
+  "try (N) manual=True: https://www.dinakaran.com/news/yercaud-300-feet-deep-gorge-c",
+  "try (N) manual=True: https://tamil.oneindia.com/news/salem/one-died-in-car-falls-",
   "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 9})",
-  "candidate loop ended: left 0, tried={'N': 5}, done={'N': 5}, time left 77 min",
-  "filed: 5 Salem district stories (target 5), reels only",
+  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 11})",
+  "NOT filed (N) ஏற்காடு மலை பாதையில் 300 அடி பள்ளத்தில் கார் கவிழ்: duplicate after write",
+  "candidate loop ended: left 0, tried={'N': 6}, done={'N': 5}, time left 75 min",
+  "filed: 5 Salem district stories (target 6), reels only",
   "queue: 0 news waiting to be written",
-  "All News sheet: {\"ok\":true,\"added\":5,\"updated\":0}"
+  "All News sheet: {\"ok\":true,\"added\":6,\"updated\":0}"
  ],
  "llm": [
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok gemini/gemini-3.6-flash (15s)",
+  "ok gemini/gemini-3.6-flash (15s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
   "dead for this round: gemini/gemini-3.6-flash",
   "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
   "dead for this round: gemini/gemini-3.5-flash",
-  "ok gemini/gemini-3-flash-preview (10s)",
+  "ok gemini/gemini-3-flash-preview (13s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "fail gemini/gemini-3.6-flash: Expecting ',' delimiter: line 1 column 1208 (char 1207)",
-  "poor answer - skipped for 30 min: gemini/gemini-3.6-flash",
-  "ok gemini/gemini-3-flash-preview (10s)",
+  "ok gemini/gemini-3.6-flash (42s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, plea",
   "dead for this round: gemini/gemini-3-flash-preview",
-  "ok gemini/gemini-3-flash-preview (11s)",
+  "ok gemini/gemini-3.6-flash (27s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
   "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 400: {\"error\":{\"message\":\"Failed to validate JSON. Please adjust your prompt. See 'failed_gener",
-  "ok groq/qwen/qwen3.8-27b (3s)",
+  "ok groq/qwen/qwen3.8-27b (5s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
-  "ok gemini/gemini-3.6-flash (42s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
   "switching away from groq/openai/gpt-oss-120b for 10 min",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
-  "ok groq/openai/gpt-oss-120b (6s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
   "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
   "switching away from groq/qwen/qwen3.8-27b for 10 min",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
+  "switching away from groq/qwen/qwen3.8-27b for 10 min",
   "ok anthropic/claude-haiku-5-5",
   "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "ok anthropic/claude-haiku-5-5",
+  "fail gemini/gemini-3-flash-preview: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=60)",
+  "poor answer - skipped for 30 min: gemini/gemini-3-flash-preview",
   "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
@@ -98,315 +97,358 @@
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok anthropic/claude-haiku-5-5",
   "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "ok anthropic/claude-haiku-5-5",
   "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "ok anthropic/claude-haiku-5-5"
  ],
  "stories": [
   {
-   "tamil_headline": "இடைப்பாடி, ஆத்தூரில் கோவில் கும்பாபிஷேகம் கோலாகலம்",
-   "english_headline": "Kumbabhishekam celebrated at temples in Idappadi and Attur",
-   "category": "Temples & Events",
-   "location": "Idappadi and Attur, Salem district",
-   "importance": "Medium",
-   "scope": "local",
-   "post_to": "Salem 360",
-   "slides_spec": {
-    "v": 3,
-    "cat": "கோவில் விழா",
-    "loc": "இடைப்பாடி, ஆத்தூர்",
-    "hl1": "இடைப்பாடி, ஆத்தூரில் கும்பாபிஷேகம்",
-    "hl2": "பக்தர்கள் திரண்டு வழிபாடு",
-    "slides": [
-     {
-      "title": "இடைப்பாடி கோவில்",
-      "lines": [
-       "பூமணியூர் விநாயகர், மாரியம்மன் கோவில் மகா கும்பாபிஷேகம்",
-       "இரண்டு கால யாகசாலை வேள்வி முடிந்த பின் நடைபெற்றது",
-       "சிவாச்சாரியார்கள் கோபுர கலசங்கள் மீது புனித நீர் ஊற்றினர்"
-      ]
-     },
-     {
-      "title": "பக்தர்கள் மீது",
-      "lines": [
-       "புனித நீர் அங்கு திரண்டிருந்த பக்தர்கள் மீது தெளிக்கப்பட்டது",
-       "ஊர் முக்கிய பிரமுகர்கள் உள்பட பலர் தரிசனம் செய்தனர்"
-      ]
-     },
-     {
-      "title": "ஆத்தூர் கோவில்",
-      "lines": [
-       "ஆத்தூர், அம்மம்பாளையம் ஊராட்சி காந்திபுரம் ஆதிபராசக்தி",
-       "கோபுர கலசத்துக்கு புனித நீர் ஊற்றி சிவாச்சாரியார்கள் நடத்தி",
-       "ஏராளமான பக்தர்கள் வழிபட்டனர்"
-      ]
-     }
-    ],
-    "carousel": false
-   },
-   "reel_script": "இடைப்பாடி மற்றும் ஆத்தூரில் நேற்று இரண்டு கோவில்களில் கும்பாபிஷேகம் நடைபெற்றது. இடைப்பாடி, பூமணியூரில் உள்ள விநாயகர், மாரியம்மன் கோவிலில் மகா கும்பாபிஷேகம் நடைபெற்றது. இரண்டு கால யாகசாலை வேள்வி முடிந்த பின், சிவாச்சாரியார்கள் கோபுர கலசங்கள் மீது புனித நீரை ஊற்றினர். அந்தப் புனித நீர், அங்கு திரண்டிருந்த பக்தர்கள் மீது தெளிக்கப்பட்டது. ஊர் முக்கிய பிரமுகர்கள் உள்பட பலர் தரிசனம் செய்தனர். அதேபோல் ஆத்தூர், அம்மம்பாளையம் ஊராட்சி காந்திபுரத்தில் உள்ள ஆதிபராசக்தி அம்மன் கோவில் கும்பாபிஷேக விழாவும் நேற்று நடைபெற்றது. அங்கு கோபுர கலசத்துக்கு புனித நீர் ஊற்றி சிவாச்சாரியார்கள் கும்பாபிஷேகத்தை நடத்தி வைத்தனர். ஏராளமான பக்தர்கள் வழிபட்டனர். மேலும் செய்திகளுக்கு சேலம் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🙏 இடைப்பாடி, ஆத்தூரில் கும்பாபிஷேகம் கோலாகலம்\n\n📰 முழு விவரம்:\nஇடைப்பாடி, பூமணியூரில் உள்ள விநாயகர், மாரியம்மன் கோவில் மகா கும்பாபிஷேகம் நேற்று நடைபெற்றது. இரண்டு கால யாகசாலை வேள்வி முடிந்த பின், சிவாச்சாரியார்கள் கோபுர கலசங்கள் மீது புனித நீரை ஊற்றினர். அந்த நீர் பக்தர்கள் மீது தெளிக்கப்பட்டது. ஊர் முக்கிய பிரமுகர்கள் உள்பட பலர் தரிசனம் செய்தனர்.\nஅதேபோல் ஆத்தூர், அம்மம்பாளையம் ஊராட்சி காந்திபுரத்தில் உள்ள ஆதிபராசக்தி அம்மன் கோவில் கும்பாபிஷேக விழாவும் நேற்று நடைபெற்றது. கோபுர கலசத்துக்கு புனித நீர் ஊற்றி சிவாச்சாரியார்கள் கும்பாபிஷேகத்தை நடத்தி வைத்தனர். ஏராளமான பக்தர்கள் வழிபட்டனர்.\n\n📍 இடம்: பூமணியூர், இடைப்பாடி; காந்திபுரம், அம்மம்பாளையம் ஊராட்சி, ஆத்தூர்\n🗓️ நாள்: நேற்று\n\nTemple kumbabhishekam in Idappadi and Attur | Salem news\n📍 இடைப்பாடி, ஆத்தூர், சேலம் மாவட்டம் | 21 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Salem360 #Salem #Attur #கோவில் #SalemNews",
-   "prompts": "Priests in white dhotis and sacred threads pour holy water from brass pots onto the tall gopuram kalasams of a South Indian temple in Salem district, while a crowd of devotees stands in the courtyard below looking up. The temple sits on a quiet village street in Idappadi, with a painted gopuram rising above traditional tiled-roof houses and a few pandal poles and banana leaves tied at the entrance. Devotees in sarees, salwar and shirts with veshti stand in a dense group, some with folded hands, seen from behind and at a distance; a few elders in white shirts stand near the entrance. Water glistens in the morning sun as it falls from the brass pot in the air above the tower. Daylight, clear sky, warm natural light. Camera at eye level, 35 mm lens, wide enough to show the gopuram, the priests and the devotees together. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-salem/kumbhabhishekam-kolakalam/4382113",
-   "published": "2026-11-21T04:47:00+05:30",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5) - fact-check: no problems found",
-   "note": "free-model draft anthropic/claude-haiku-5-5, 11 attempt(s), 0 validator problem(s)",
-   "post_time": "right after your reply, same day",
-   "_area": "N",
-   "_score": 999,
-   "images": [
-    "https://res.cloudinary.com/jrmwajfz/image/upload/v1795231688/salem360/fz8hajqfn6ciho3s34v6.jpg"
-   ]
-  },
-  {
-   "tamil_headline": "தலைவாசல் அருகே சுரங்கப்பாதை பணி மீண்டும் தொடக்கம்: மக்கள் சாலை மறியல்",
-   "english_headline": "Subway work restarts near Thalaivasal; villagers block the road in protest",
+   "tamil_headline": "கரூர் - சேலம் பழைய சாலையில் தெரு விளக்குகள் தேவை",
+   "english_headline": "Karur-Salem old road stretch from Semmadai to new widened section left in darkness; street lights needed",
    "category": "Roads & Transport",
-   "location": "Sarvai, Thalaivasal, Salem district",
+   "location": "Venkamedu MGR statue to Semmadai, Karur - Salem old road, Karur district",
    "importance": "Medium",
    "scope": "local",
    "post_to": "Salem 360",
    "slides_spec": {
     "v": 3,
-    "cat": "சாலை மறியல்",
-    "loc": "சார்வாய், தலைவாசல்",
-    "hl1": "தலைவாசல் அருகே மீண்டும் தொடக்கம்",
-    "hl2": "மக்கள் சாலை மறியல்",
+    "cat": "சாலை விளக்கு",
+    "loc": "வெங்கமேடு, கரூர்",
+    "hl1": "கரூர் - சேலம் பழைய சாலையில் இருள்",
+    "hl2": "மின் கம்பங்கள்",
     "slides": [
      {
-      "title": "என்ன நடந்தது?",
+      "title": "எங்கே?",
       "lines": [
-       "சார்வாய் ரயில்வே கேட் பகுதியில் சுரங்கப்பாதை பணி மீண்டும்",
-       "நேற்று மதியம் <b>12 மணிக்கு</b> பணி தொடங்கியது",
-       "பணிக்கு எதிர்ப்பு தெரிவித்து மக்கள் சாலை மறியல் செய்தனர்"
+       "கரூர் - சேலம் பழைய சாலை",
+       "வெங்கமேடு எம்.ஜி.ஆர். சிலையில் இருந்து செம்மடை வரை",
+       "தேசிய நெடுஞ்சாலைக்குச் செல்லும் வழி"
       ]
      },
      {
-      "title": "ஏன் எதிர்ப்பு?",
+      "title": "என்ன நிலை?",
       "lines": [
-       "<b>10</b>க்கும் மேற்பட்ட கிராம மக்கள் இந்த",
-       "விவசாயிகள் பயிர்களை கொண்டு செல்லும் முக்கிய வழி இது",
-       "முன்பு மக்கள் எதிர்ப்பால் பணி தற்காலிகமாக நிறுத்தப்பட்டது"
+       "சமீபத்தில் சாலை விரிவாக்கப் பணிகள் நிறைவு",
+       "தடுப்புகள் வைக்கப்பட்டுள்ளன",
+       "ஆனால் மின் கம்பங்கள் அமைக்கப்படவில்லை"
       ]
      },
      {
-      "title": "அதிகாரிகள் உறுதி",
+      "title": "மக்கள் அச்சம்",
       "lines": [
-       "வருவாய்த்துறையினர், போலீசார் மக்களிடம் பேச்சு நடத்தினர்",
-       "சம்பந்தப்பட்ட துறை அதிகாரிகளிடம் தகவல் தெரிவித்து தீர்வு",
-       "இதையடுத்து <b>12:30 மணிக்கு</b> மக்கள் கலைந்து சென்றனர்"
+       "புதிய விரிவாக்கச் சாலை பிரிவு முதல் செம்மடை வரை இருளில்",
+       "பஸ், லாரி உள்ளிட்ட வாகனங்கள் அந்த வழியாகச் செல்கின்றன",
+       "வாகன ஓட்டிகள் அச்சத்தில் உள்ளனர்"
+      ]
+     },
+     {
+      "title": "கோரிக்கை",
+      "lines": [
+       "புதிய விரிவாக்கச் சாலையில் மின் கம்பங்கள் அமைக்க வேண்டும்",
+       "விளக்குகளைப் பொருத்த வேண்டியது அவசியம்"
       ]
      }
     ],
     "carousel": false
    },
-   "reel_script": "தலைவாசல் அருகே சுரங்கப்பாதை பணிக்கு எதிர்ப்பு. சார்வாய் வழியே செல்லும் சேலம் – விருத்தாசலம் அகல ரயில் பாதையில் உள்ள ரயில்வே கேட் வழியை பத்துக்கும் மேற்பட்ட கிராம மக்கள் பிரதான சாலையாகப் பயன்படுத்துகின்றனர். இந்த வழியை விவசாயிகள் மரவள்ளி கிழங்கு, கரும்பு, மக்காச்சோளம், பருத்தி போன்ற பயிர்களைக் கொண்டு செல்லவும் பயன்படுத்துகின்றனர். ரயில்வே கேட்டை அகற்றி சுரங்கப்பாதை அமைக்கும் பணியை ரயில்வே நிர்வாகம் மேற்கொண்டது. மக்கள் எதிர்ப்பு தெரிவித்ததால் அந்தப் பணி தற்காலிகமாக நிறுத்தப்பட்டது. இந்நிலையில் நேற்று மதியம் 12 மணிக்கு பணி மீண்டும் தொடங்கப்பட்டது. இதனால் மக்கள் அந்தப் பாதையிலேயே சாலை மறியலில் ஈடுபட்டனர். வருவாய்த்துறையினரும் தலைவாசல் போலீசாரும் மக்களிடம் பேச்சு நடத்தினர். சம்பந்தப்பட்ட துறை அதிகாரிகளிடம் தகவல் தெரிவித்து உரிய தீர்வு காணப்படும் என உறுதி அளித்தனர். இதையடுத்து மதியம் 12:30 மணிக்கு மக்கள் கலைந்து சென்றனர். மேலும் செய்திகளுக்கு சேலம் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🚧 தலைவாசல் அருகே சுரங்கப்பாதை பணி மீண்டும் தொடக்கம்: மக்கள் சாலை மறியல்\n\n📰 முழு விவரம்:\nதலைவாசல் அருகே சார்வாய் பகுதியில் சேலம் – விருத்தாசலம் அகல ரயில் பாதையில் உள்ள ரயில்வே கேட்டை அகற்றி சுரங்கப்பாதை அமைக்கும் பணி நேற்று மதியம் 12 மணிக்கு மீண்டும் தொடங்கியது. 10க்கும் மேற்பட்ட கிராம மக்கள் இந்த வழியைப் பிரதான சாலையாகப் பயன்படுத்துகின்றனர்; விவசாயிகள் பயிர்களைக் கொண்டு செல்லும் முக்கிய வழியும் இதுவே.\nமக்கள் எதிர்ப்பு தெரிவித்து அந்தப் பாதையிலேயே சாலை மறியல் செய்தனர். வருவாய்த்துறையினரும் தலைவாசல் போலீசாரும் பேச்சு நடத்தினர். சம்பந்தப்பட்ட துறை அதிகாரிகளிடம் தகவல் தெரிவித்து உரிய தீர்வு காணப்படும் என உறுதி அளித்தனர். இதனால் மதியம் 12:30 மணிக்கு மக்கள் கலைந்து சென்றனர்.\n\n📍 இடம்: சார்வாய், தலைவாசல், சேலம் மாவட்டம்\n🗓️ நாள்: 21 நவம்பர் 2026\n🕘 நேரம்: மதியம் 12 – 12:30 மணி\n\nThalaivasal subway work restarts, villagers block road | Salem news\n📍 சார்வாய், தலைவாசல் | 21 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Salem360 #Salem #Thalaivasal #SalemNews #சேலம்",
-   "prompts": "A group of villagers stands blocking a rural road at a railway level crossing in Sarvai village, Thalaivasal, as construction work for an underpass resumes nearby. The place is a narrow village road running up to a broad gauge railway track, with an open railway gate barrier lying across the lane, dry earth edges, and a few bullock carts and two-wheelers stopped in the road. About ten to fifteen villagers, mostly men in shirts and veshti and some women in sarees, stand in a loose cluster across the road, seen from behind and at a distance, some holding bundles of sugarcane and maize sacks. Partial construction equipment, a stack of concrete rings and a yellow excavator arm are visible beyond the track. Revenue officials and khaki-clad Tamil Nadu police stand a short distance away in conversation with the crowd. Bright midday sunlight, clear sky, dust hanging in the air. Shot at eye level with a 35 mm lens, wide enough to show the road, the railway track and the protesting group together. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up detail of the railway level crossing gate barrier lying across a dusty village road in Sarvai, Thalaivasal, with the railway track rails and wooden sleepers in the foreground. Beside it, a pile of sugarcane stalks and tapioca tubers in gunny sacks, the crops farmers normally carry across this route, rests on the ground near bare feet and a rubber sandal. Behind, a few villagers stand blurred and far away, and a khaki-uniformed police figure is seen from behind. Dry soil, gravel and tyre marks cover the road surface. Midday daylight, harsh sun casting short shadows. Shot at low-to-eye level with a 35 mm lens, shallow depth of field keeping the gate and crops sharp. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-salem/people-stage-a-road-blockade-in-protest-against-the-resumption-of-work-on-the-tunnel/4382105",
-   "published": "2026-11-21T04:43:00+05:30",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5) - fact-check: no problems found",
-   "note": "free-model draft anthropic/claude-haiku-5-5, 11 attempt(s), 0 validator problem(s)",
+   "reel_script": "கரூர் - சேலம் பழைய சாலையில் செம்மடை வரை தெருவிளக்குகள் இல்லாததால் வாகன ஓட்டிகள் அச்சத்தில் உள்ளனர். வெங்கமேடு எம் ஜி ஆர் சிலையில் இருந்து தேசிய நெடுஞ்சாலைக்கு, செம்மடை வழியாக பஸ், லாரி உள்ளிட்ட வாகனங்கள் சென்று வருகின்றன. சமீபத்தில் இந்தச் சாலையின் விரிவாக்கப் பணிகள் நிறைவடைந்து தடுப்புகள் வைக்கப்பட்டுள்ளன. ஆனால் இதுவரை மின் கம்பங்கள் அமைக்கப்படவில்லை. இதனால் புதிதாக விரிவாக்கம் செய்யப்பட்ட சேலம் பழைய சாலை பிரிவு முதல் செம்மடை வரை இருளில் மூழ்கியுள்ளது. இரவில் அந்த வழியாகச் செல்லும் வாகன ஓட்டிகள் அச்சத்தில் உள்ளனர். எனவே புதிய விரிவாக்கச் சாலையில் மின் கம்பங்கள் அமைத்து விளக்குகளைப் பொருத்த வேண்டியது அவசியம். மேலும் செய்திகளுக்கு சேலம் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🛣️ கரூர் - சேலம் பழைய சாலையில் இருள்: மின் கம்பங்கள் அமைக்கக் கோரிக்கை\n\n📰 முழு விவரம்:\nகரூர் - சேலம் பழைய சாலையில் வெங்கமேடு எம்.ஜி.ஆர். சிலையில் இருந்து தேசிய நெடுஞ்சாலைக்கு, செம்மடை வழியாக பஸ், லாரி உள்ளிட்ட வாகனங்கள் சென்று வருகின்றன.\nசமீபத்தில் இந்தச் சாலையின் விரிவாக்கப் பணிகள் நிறைவடைந்து, செம்மடை வரை தடுப்புகள் வைக்கப்பட்டுள்ளன. ஆனால் மின் கம்பங்கள் அமைக்கப்படவில்லை.\nஇதனால் புதிதாக விரிவாக்கம் செய்யப்பட்ட சாலை பிரிவு முதல் செம்மடை வரை இருளில் மூழ்கியுள்ளது. அந்த வழியாகச் செல்லும் வாகன ஓட்டிகள் அச்சத்தில் உள்ளனர்.\n📍 இடம்: வெங்கமேடு எம்.ஜி.ஆர். சிலை முதல் செம்மடை வரை, கரூர் - சேலம் பழைய சாலை\n🛑 கோரிக்கை: புதிய விரிவாக்கச் சாலையில் மின் கம்பங்கள் அமைத்து விளக்குகளைப் பொருத்த வேண்டும்.\n\nKarur Salem old road no street lights | Karur news\n📍 வெங்கமேடு, கரூர் | 21 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Salem360 #Karur #SalemNews #சேலம்",
+   "prompts": "A row of town buses and a lorry move slowly along a newly widened two-lane road at night in Karur district, their headlights cutting through the dark. The road is lined with freshly placed white-and-red painted median barriers, but no street lights stand beside it, and the bare stretch ahead fades into blackness. Two-wheeler riders can be seen at the edge of the road from behind, leaning forward as they ride. Far off, the faint glow of a few distant shops and houses shows at the roadside, with no lamp posts in sight. Night, no moon, the only light coming from vehicle headlamps and a dim distant sodium glow. Camera at eye level, 35 mm, wide enough to show the full stretch of road and the empty roadside. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up of newly laid road barriers and a bare concrete roadside edge on the widened section of the Karur-Salem old road, shot at night. The painted median divider stretches into darkness, and the empty spot where a street light pole should stand is clearly missing, with only a bare patch of earth and a few loose stones beside the new road edge. Headlight beams from a passing bus sweep across the barrier and the dark roadside, showing the unlit ground. No people in focus, no readable signs. Camera low, slightly angled, 35 mm, focusing on the barrier and the empty roadside to emphasize the lack of lighting. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-karur/salem-old-road-needs-street-lights/4382102",
+   "published": "2026-11-21T04:37:00+05:30",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: sentence 1 (one-line story) has 13 words; make it 6-9 words (about 2-3 seconds), the details follow in the next sentences",
+   "note": "free-model draft anthropic/claude-haiku-5-5, 13 attempt(s), 1 validator problem(s)",
    "post_time": "right after your reply, same day",
    "_area": "N",
    "_score": 999,
    "images": [
-    "https://res.cloudinary.com/jrmwajfz/image/upload/v1795231706/salem360/qs7gxjv4dh0dljjyh1mg.jpg",
-    "https://res.cloudinary.com/jrmwajfz/image/upload/v1795231712/salem360/uil2aws7obq5phvmttwg.jpg"
+    "https://res.cloudinary.com/jrmwajfz/image/upload/v1795245316/salem360/m4k4gckf3vkl3xsymd4e.jpg",
+    "https://res.cloudinary.com/jrmwajfz/image/upload/v1795245319/salem360/jeacg0raqirojj532vdo.jpg"
    ]
   },
   {
-   "tamil_headline": "சேலத்தில் தேர்தல் வாக்குறுதி நிறைவேற்றக் கோரி ஆர்ப்பாட்டம்",
-   "english_headline": "Protest in Salem demands fulfilment of election promise to regularise municipal workers",
-   "category": "Government & Services",
-   "location": "Kottai State Bank area, Salem city, Salem district",
+   "tamil_headline": "ஆத்தூரில் தேர் வழிப்பாதை ஆக்கிரமிப்பு அகற்றம்",
+   "english_headline": "Encroachments removed from temple chariot route in Attur",
+   "category": "Civic Issues",
+   "location": "Attur town (Palaniyapuri), Salem district",
    "importance": "Medium",
    "scope": "local",
    "post_to": "Salem 360",
    "slides_spec": {
     "v": 3,
-    "cat": "அரசு பணி",
-    "loc": "கோட்டை, சேலம்",
-    "hl1": "கோட்டை: பணி நிரந்தரம் கோரி ஆர்ப்பாட்டம்",
-    "hl2": "தேர்தல் வாக்குறுதி",
-    "slides": [
-     {
-      "title": "எங்கே, எப்போது?",
-      "lines": [
-       "சேலம் கோட்டை ஸ்டேட் வங்கி முன் ஆர்ப்பாட்டம்",
-       "நேற்று நடைபெற்றது",
-       "மாவட்டத் தலைவர் கார்த்திக் தலைமை வகித்தார்"
-      ]
-     },
-     {
-      "title": "என்ன கோரிக்கை?",
-      "lines": [
-       "5 ஆண்டுகள் பணியாற்றியோரை பணி நிரந்தரம் செய்ய வேண்டும்",
-       "டிரைவர்கள், தூய்மை பணியாளர்கள், டி.பி.சி. பணியாளர்கள்",
-       "தேர்தல் வாக்குறுதியை நிறைவேற்ற வேண்டும்"
-      ]
-     },
-     {
-      "title": "மற்ற கோரிக்கைகள்",
-      "lines": [
-       "அவுட்சோர்சிங் ஒப்பந்த முறை அரசாணையை ரத்து செய்ய வேண்டும்",
-       "குறைந்தபட்ச ஒரு நாள் கூலி ரூ.700 வழங்க வேண்டும்",
-       "ஏ.ஐ.டி.யு.சி. மாவட்டத் துணைத் தலைவர் மோகன் பங்கேற்றார்"
-      ]
-     }
-    ],
-    "carousel": false
-   },
-   "reel_script": "சேலத்தில் தேர்தல் வாக்குறுதியை நிறைவேற்றக் கோரி ஆர்ப்பாட்டம் நடைபெற்றது. நேற்று கோட்டை ஸ்டேட் வங்கி முன்பு சேலம் டிஸ்ட்ரிக்ட் கார்ப்பரேஷன் மற்றும் முனிசிபல் ஒர்க்கர்ஸ் யுனியன் சார்பில் இந்த ஆர்ப்பாட்டம் நடந்தது. மாவட்டத் தலைவர் கார்த்திக் தலைமை வகித்தார். மாநகராட்சி, நகராட்சி, டவுன் பஞ்சாயத்துகளில் 5 ஆண்டுகள் பணியாற்றிய டிரைவர்கள், தூய்மை பணியாளர்கள், டி பி சி பணியாளர்கள் ஆகியோரைப் பணி நிரந்தரம் செய்வோம் என த வெ க அறிவித்தது. அந்தத் தேர்தல் வாக்குறுதியை நிறைவேற்றக் கோரி கோஷம் எழுப்பினர். அவுட்சோர்சிங் முறையில் ஒப்பந்த அடிப்படையில் ஆட்களை நிரப்பும் அரசாணையை ரத்து செய்ய வேண்டும் என வலியுறுத்தினர். உள்ளாட்சி அமைப்புகளில் பணிபுரிவோருக்கு குறைந்தபட்சம் ஒரு நாள் கூலி ரூ.700 வழங்க வேண்டும் என்றும் கோரிக்கை வைத்தனர். ஏ ஐ டி யு சி மாவட்டத் துணைத் தலைவர் மோகன் உள்பட பலர் பங்கேற்றனர். மேலும் செய்திகளுக்கு சேலம் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "📢 சேலத்தில் பணி நிரந்தரம் கோரி ஆர்ப்பாட்டம்: தேர்தல் வாக்குறுதியை நிறைவேற்ற கோரிக்கை\n\n📰 முழு விவரம்:\nசேலம் டிஸ்ட்ரிக்ட் கார்ப்பரேஷன் மற்றும் முனிசிபல் ஒர்க்கர்ஸ் யுனியன் சார்பில் நேற்று கோட்டை ஸ்டேட் வங்கி முன் ஆர்ப்பாட்டம் நடந்தது. மாவட்டத் தலைவர் கார்த்திக் தலைமை வகித்தார்.\n5 ஆண்டுகள் பணியாற்றிய டிரைவர்கள், தூய்மை பணியாளர்கள், டி.பி.சி. பணியாளர்கள் ஆகியோரைப் பணி நிரந்தரம் செய்வதாக த.வெ.க. அறிவித்த தேர்தல் வாக்குறுதியை நிறைவேற்றக் கோரி கோஷமிட்டனர்.\nஅவுட்சோர்சிங் முறையில் ஒப்பந்த அடிப்படையில் ஆட்களை நிரப்பும் அரசாணையை ரத்து செய்ய வேண்டும் என வலியுறுத்தினர்.\nஉள்ளாட்சி அமைப்புகளில் பணிபுரிவோருக்கு குறைந்தபட்சம் ஒரு நாள் கூலி ரூ.700 வழங்க வேண்டும் என்றும் கோரிக்கை வைத்தனர்.\nஏ.ஐ.டி.யு.சி. மாவட்டத் துணைத் தலைவர் மோகன் உள்பட பலர் பங்கேற்றனர்.\n\nSalem protest demands regularisation of municipal workers | Salem news\n📍 கோட்டை, சேலம் | 21 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Salem360 #Salem #SalemNews #சேலம்",
-   "prompts": "A crowd of municipal sanitation workers and drivers in shirts and trousers stands on a road in front of the Kottai State Bank building in central Salem city, raising slogans during a daytime protest. Behind them, the bank building stands with its pillars and facade, and two-wheelers and an autorickshaw are parked along the kerb. Several union flags in red and other colours are held up above the heads of the crowd, and a few people in front raise their fists. Some women in sarees and men in veshti stand at the back, while a line of Tamil Nadu police in khaki stands at a distance near the roadside. The scene is in bright daylight under a clear sky with the Shevaroy hills faintly visible far in the background. Camera at eye level, 35 mm lens, wide enough to show the bank building, the crowd and the road, with all people seen from behind or far away. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up of a handheld protest placard and union flag held up above a crowd of workers in front of a bank building in Salem city, shot in daylight. The placard is blank-faced toward the camera from the back side, and the cloth of a red union flag ripples in the breeze. Below it, the shoulders and raised arms of municipal workers in plain shirts are visible, with the pillars and stone facade of the Kottai State Bank building blurred in the background. The rough texture of the road and parked two-wheelers' edges appear at the bottom of the frame. Camera slightly high, 35 mm, shallow depth of field so the flag is sharp and the crowd is softly blurred. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-salem/tvk-stages-protest-to-fulfil-poll-promise/4382107",
-   "published": "2026-11-21T04:44:00+05:30",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: reel_script sentence 1 (heard in the first 3 seconds) must name the place 'கோட்டை' and the news itself, e.g. 'கோட்டை-இல் ... 3 பேர் கைது.' - viewers decide in 3 seconds whether the news is about their area",
-   "note": "free-model draft anthropic/claude-haiku-5-5, 11 attempt(s), 1 validator problem(s)",
-   "post_time": "right after your reply, same day",
-   "_area": "N",
-   "_score": 999,
-   "images": [
-    "https://res.cloudinary.com/jrmwajfz/image/upload/v1795231720/salem360/hr1yet3zrile0yzskxg0.jpg",
-    "https://res.cloudinary.com/jrmwajfz/image/upload/v1795231723/salem360/t9vy7mb5iagf2vsr8hfd.jpg"
-   ]
-  },
-  {
-   "tamil_headline": "சங்ககிரியில் பைக் மோதி அங்காடி உரிமையாளர் உயிரிழப்பு",
-   "english_headline": "Shop owner dies after bike hits him on bypass road in Sankagiri",
-   "category": "Crime & Safety",
-   "location": "Rakkipatti, Sankagiri, Salem district",
-   "importance": "Medium",
-   "scope": "local",
-   "post_to": "Salem 360",
-   "slides_spec": {
-    "v": 3,
-    "cat": "விபத்து",
-    "loc": "சங்ககிரி",
-    "hl1": "சங்ககிரியில் பைக் மோதி ஒருவர் உயிரிழப்பு",
-    "hl2": "ராக்கிப்பட்டி பிரிவு அருகே",
+    "cat": "ஆக்கிரமிப்பு அகற்றம்",
+    "loc": "பழனியாபுரி, ஆத்தூர்",
+    "hl1": "ஆத்தூரில் தேர் ஆக்கிரமிப்பு அகற்றம்",
+    "hl2": "நீதிமன்ற உத்தரவுப்படி",
     "slides": [
      {
       "title": "என்ன நடந்தது?",
       "lines": [
-       "ராக்கிப்பட்டி பிரிவு அருகே பைபாஸ் சாலையில் விபத்து",
-       "சங்ககிரி, மோரூர், புள்ளிபாளையத்தைச் சேர்ந்த சக்திவேல்",
-       "பல்பொருள் அங்காடி நடத்தி வந்தவர்"
+       "பழனியாபுரி கோவில் தேர் வழிப்பாதை ஆக்கிரமிப்பு அகற்றம்",
+       "பன்னீர்செல்வம் 2024ல் <b>உயர்நீதிமன்றத்தில்</b> வழக்கு தொடர்ந்தார்",
+       "2026 ஜனவரியில் நீதிமன்றம் அகற்ற உத்தரவிட்டது"
       ]
      },
      {
-      "title": "எப்போது?",
+      "title": "நேற்றைய நடவடிக்கை",
       "lines": [
-       "நேற்று முன்தினம் நள்ளிரவு <b>1:30</b> மணிக்கு",
-       "சாலையைக் கடக்க முயன்றபோது விபத்து",
-       "யமஹா பைக் மோதியதில் சக்திவேல் சம்பவ இடத்திலேயே உயிரிழந்தார்"
+       "பெத்தநாயக்கன்பாளையம் தாசில்தார் ஜெயலட்சுமி தலைமையில் பணி",
+       "ஆத்தூர் டவுன் போலீசார், தீயணைப்பு வீரர்கள் உதவி",
+       "முருகேசன் வீட்டின் ஷெட், படி அகற்றம்; 3 வீடுகளின்"
       ]
      },
      {
-      "title": "அடுத்து என்ன?",
+      "title": "கடைகள் அகற்றம்",
       "lines": [
-       "ராக்கிப்பட்டியைச் சேர்ந்த மணிகண்டன், <b>29</b> வயது, பைக் ஓட்டினார்",
-       "படுகாயமடைந்த மணிகண்டன் அருகிலுள்ள மருத்துவமனையில் சேர்ப்பு",
-       "ஆட்டையாம்பட்டி போலீசார் விசாரிக்கின்றனர்"
+       "நவப்பட்டி ஊராட்சி காவேரி கிராஸ், மேட்டூர்-பவானி நெடுஞ்சாலை",
+       "மயில்சாமி, பூங்கொடி நடத்திய தையல், டீக் கடைகள் இடிப்பு",
+       "கடந்த <b>21 அக்டோபர்</b> நோட்டீஸ் கொடுத்தும் அகற்றவில்லை"
       ]
      }
     ],
     "carousel": false
    },
-   "reel_script": "சங்ககிரி அருகே பைக் மோதியதில் அங்காடி உரிமையாளர் ஒருவர் உயிரிழந்தார். நேற்று முன்தினம் நள்ளிரவு 1:30 மணிக்கு ராக்கிப்பட்டி பிரிவு அருகே பைபாஸ் சாலையில் இந்த விபத்து நடந்தது. சங்ககிரி, மோரூர், புள்ளிபாளையத்தைச் சேர்ந்த சக்திவேல், 56 வயது உடையவர். பல்பொருள் அங்காடி நடத்தி வந்த சக்திவேல், பைபாஸ் சாலையைக் கடக்க முயன்றார். அப்போது ராக்கிப்பட்டியைச் சேர்ந்த மணிகண்டன், 29 வயது, ஓட்டி வந்த யமஹா பைக் அவர் மீது மோதியது. சக்திவேல் சம்பவ இடத்திலேயே உயிரிழந்தார். படுகாயமடைந்த மணிகண்டன் அருகிலுள்ள மருத்துவமனையில் சேர்க்கப்பட்டார். ஆட்டையாம்பட்டி போலீசார் விசாரணை நடத்தி வருகின்றனர். மேலும் செய்திகளுக்கு சேலம் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🚨 சங்ககிரியில் பைக் மோதி அங்காடி உரிமையாளர் உயிரிழப்பு\n\n📰 முழு விவரம்:\nராக்கிப்பட்டி பிரிவு அருகே பைபாஸ் சாலையில் நேற்று முன்தினம் நள்ளிரவு 1:30 மணிக்கு விபத்து நடந்தது. சங்ககிரி, மோரூர், புள்ளிபாளையத்தைச் சேர்ந்த பல்பொருள் அங்காடி உரிமையாளர் சக்திவேல் (56 வயது), சாலையைக் கடக்க முயன்றபோது, ராக்கிப்பட்டியைச் சேர்ந்த மணிகண்டன் (29 வயது), ஓட்டி வந்த யமஹா பைக் மோதியது. சக்திவேல் சம்பவ இடத்திலேயே உயிரிழந்தார். படுகாயமடைந்த மணிகண்டன் அருகிலுள்ள மருத்துவமனையில் சேர்க்கப்பட்டார்.\n\n📍 இடம்: ராக்கிப்பட்டி பிரிவு அருகே பைபாஸ் சாலை, சங்ககிரி\n🗓️ நாள்: நேற்று முன்தினம் (நவ. 19)\n🕘 நேரம்: நள்ளிரவு 1:30 மணி\n👮 நடவடிக்கை: ஆட்டையாம்பட்டி போலீசார் விசாரிக்கின்றனர்\n\nSankagiri bike accident, shop owner dies | Salem news\n📍 சங்ககிரி, சேலம் மாவட்டம் | 21 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Salem360 #Salem #Sankagiri #SalemNews #சேலம்",
-   "prompts": "A Tamil Nadu police patrol jeep with its light bar on is parked at the edge of a bypass road in Rakkipatti, Sankagiri, at night, while a khaki-uniformed police constable stands at a distance taking notes beside a dim street light. The road is a wide two-lane highway with a raised concrete median divider, shuttered roadside shops and a few sodium street lamps casting an orange glow on the wet asphalt. Two or three onlookers in shirts and veshti stand far away near a tea stall, seen from behind and slightly blurred. A parked two-wheeler lies on the shoulder at a distance, and a few town buses and private lorries pass slowly on the highway. The scene is at night around 1:30 AM under dim lighting, with no rain. Shot at eye level, 35 mm, wide enough to show the full stretch of the road and the surrounding shops. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up of a Yamaha two-wheeler's front wheel and handlebar lying on the shoulder of a bypass road at night, with a few scattered belongings and a dented fender visible on the damaged motorcycle. A police constable's khaki-clad leg and boots stand at the edge of the frame, and the wet asphalt reflects the orange light of a nearby street lamp. A concrete road divider runs along the background, with shuttered shop fronts blurred behind it. No people's faces are visible, and the scene is in the dark hours of the night. Shot at a low angle, 35 mm, focused on the motorcycle to show the impact without any injury or blood. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-salem/shopkeeper-killed-in-mishap/4382117",
-   "published": "2026-11-21T04:51:00+05:30",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5) - fact-check: no problems found",
-   "note": "free-model draft anthropic/claude-haiku-5-5, 11 attempt(s), 0 validator problem(s)",
-   "post_time": "right after your reply, same day",
-   "_area": "N",
-   "_score": 999,
-   "images": [
-    "https://res.cloudinary.com/jrmwajfz/image/upload/v1795231729/salem360/nkkqnspciik0a738rri9.jpg",
-    "https://res.cloudinary.com/jrmwajfz/image/upload/v1795231732/salem360/roaciwqv7bimcwcyszuk.jpg"
-   ]
-  },
-  {
-   "tamil_headline": "ஆத்தூரில் பைக் பெட்டியை உடைத்து ரூ.52,000 திருட்டு",
-   "english_headline": "₹52,000 stolen after bike box broken open in Attur",
-   "category": "Crime & Safety",
-   "location": "Attur town, Salem district",
-   "importance": "Medium",
-   "scope": "local",
-   "post_to": "Salem 360",
-   "slides_spec": {
-    "v": 3,
-    "cat": "திருட்டு",
-    "loc": "ஆத்தூர்",
-    "hl1": "ஆத்தூரில் பைக் பெட்டியில் திருட்டு",
-    "hl2": "ரூ.52,000 பணம் திருட்டு",
-    "slides": [
-     {
-      "title": "என்ன நடந்தது?",
-      "lines": [
-       "வங்கியில் இருந்து <b>ரூ.52,000</b> எடுத்து பைக் பெட்டியில் வைத்தார்",
-       "தபால் நிலையத்துக்குள் சென்றபோது பணம் திருடுபோனது",
-       "பெட்டி உடைக்கப்பட்டிருந்தது"
-      ]
-     },
-     {
-      "title": "யார்? எங்கே?",
-      "lines": [
-       "ஆத்தூர் வீட்டு வசதி வாரிய குடியிருப்பைச் சேர்ந்த",
-       "ஆத்தூர் தலைமை தபால் நிலைய உதவியாளர்",
-       "நரசிங்கபுரம் வங்கியில் பணம் எடுத்தார்"
-      ]
-     },
-     {
-      "title": "போலீஸ் விசாரணை",
-      "lines": [
-       "சிசிடிவி காட்சியில் 'தொப்பி' அணிந்த ஒருவர் பணம்",
-       "வீடியோ சமூக வலைதளங்களிலும் பரவியது",
-       "ஆத்தூர் டவுன் போலீசார் புகார்படி விசாரிக்கின்றனர்"
-      ]
-     }
-    ],
-    "carousel": false
-   },
-   "reel_script": "ஆத்தூரில் பைக் பெட்டியை உடைத்து ரூ.52,000 திருடப்பட்டது. ஆத்தூர் வீட்டு வசதி வாரிய குடியிருப்பைச் சேர்ந்த சிவக்குமார், 50 வயது, ஆத்தூர் தலைமை தபால் நிலையத்தில் உதவியாளராகப் பணிபுரிகிறார். நரசிங்கபுரத்தில் உள்ள வங்கியில் இருந்து ரூ.52,000 எடுத்து, ஹோண்டா யுனிகான் பைக்கின் பெட்டியில் வைத்தார். பின்னர் தபால் நிலையத்துக்குள் சென்றார். திரும்பி வந்தபோது, பணம் வைத்திருந்த பெட்டி உடைக்கப்பட்டிருந்தது. பணம் திருடுபோனது தெரியவந்தது. அப்பகுதியில் உள்ள சிசிடிவி காட்சிகளை ஆய்வு செய்ததில், தொப்பி அணிந்த ஒருவர் பணத்தை எடுத்துச் சென்றது தெரியவந்தது. இந்த வீடியோ சமூக வலைதளங்களிலும் பரவியது. சிவக்குமார் நேற்று அளித்த புகார்படி ஆத்தூர் டவுன் போலீசார் விசாரணை நடத்தி வருகின்றனர். மேலும் செய்திகளுக்கு சேலம் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🚨 ஆத்தூரில் பைக் பெட்டியை உடைத்து ரூ.52,000 திருட்டு\n\n📰 முழு விவரம்:\nஆத்தூர் வீட்டு வசதி வாரிய குடியிருப்பைச் சேர்ந்த சிவக்குமார் (50 வயது), ஆத்தூர் தலைமை தபால் நிலையத்தில் உதவியாளராகப் பணிபுரிகிறார். நரசிங்கபுரத்தில் உள்ள வங்கியில் இருந்து ரூ.52,000 எடுத்து, ஹோண்டா யுனிகான் பைக் பெட்டியில் வைத்தார். தபால் நிலையத்துக்குள் சென்று திரும்பி வந்தபோது, பெட்டி உடைக்கப்பட்டு பணம் திருடுபோயிருந்தது.\nசிசிடிவி காட்சிகளில் தொப்பி அணிந்த ஒருவர் பணத்தை எடுத்துச் செல்வது தெரியவந்தது. இந்த வீடியோ சமூக வலைதளங்களிலும் பரவியது. சிவக்குமார் நேற்று அளித்த புகார்படி ஆத்தூர் டவுன் போலீசார் விசாரிக்கின்றனர்.\n\n📍 இடம்: ஆத்தூர் தலைமை தபால் நிலையம், ஆத்தூர்\n🗓️ நாள்: 21 நவம்பர் 2026\n👮 நடவடிக்கை: ஆத்தூர் டவுன் போலீசார் விசாரணை\n\nAttur bike box broken, ₹52,000 stolen | Salem news\n📍 ஆத்தூர், சேலம் மாவட்டம் | 21 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Salem360 #Salem #Attur #SalemNews #சேலம்",
-   "prompts": "A man in a white shirt and veshti stands beside his Honda Unicorn motorcycle parked on a busy town road in Attur, Salem district, looking at its open storage box in shock. The bike sits at the kerb in front of a post office building with a plain front wall and a bank's ATM-style doorway in the background. Behind him a few passers-by on two-wheelers and an autorickshaw move slowly along the road, all seen from a distance and partly blurred. The storage box lid is pried open with visible damage, while the rider's hands hold the empty side of the box. It is bright daylight with soft sunlight on the road and no rain. Shot at eye level on 35 mm, wide enough to show the post office frontage, the parked bike and the traffic on the road. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up of the Honda Unicorn motorcycle's side storage box, its lid forced open and the latch bent and broken, with a few scratch marks around the lock on the dark plastic body. Beside it, a small CCTV camera is mounted on a grey concrete pole on the roadside, pointed toward the street, with a shadow falling across the pole. The road surface and a corner of a kerb are visible in the blurred foreground. Bright daylight, neutral tones, sharp focus on the broken latch and empty box, with the camera mount slightly out of focus behind it. Shot at 35 mm from a low, slightly high angle to isolate the damaged box as the story's key detail. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-salem/rs-52000-stolen-from-bike/4382119",
-   "published": "2026-11-21T04:52:00+05:30",
+   "reel_script": "ஆத்தூர் பழனியாபுரியில் கோவில் தேர் வழிப்பாதையில் இருந்த ஆக்கிரமிப்புகள் அகற்றப்பட்டன. பழனியாபுரியைச் சேர்ந்த பன்னீர்செல்வம் 2024ஆம் ஆண்டு சென்னை உயர்நீதிமன்றத்தில் வழக்கு தொடர்ந்தார். 2026 ஜனவரியில் ஆக்கிரமிப்புகளை அகற்ற நீதிமன்றம் உத்தரவிட்டது. நடவடிக்கை எடுக்கப்படாததால் பன்னீர்செல்வம் மேல் முறையீடு செய்தார். நேற்று பெத்தநாயக்கன்பாளையம் தாசில்தார் ஜெயலட்சுமி தலைமையில் வருவாய்த் துறையினர் பணியில் ஈடுபட்டனர். ஆத்தூர் டவுன் போலீசார் மற்றும் தீயணைப்பு வீரர்கள் உதவி செய்தனர். முருகேசன் வீட்டின் முன் இருந்த ஷெட், படி அகற்றப்பட்டன. ராயர் உள்ளிட்ட 3 வீடுகளின் முன்புற ஆக்கிரமிப்புகளும் அகற்றப்பட்டன. நவப்பட்டி ஊராட்சி காவேரி கிராஸில் மேட்டூர்-பவானி நெடுஞ்சாலையை ஆக்கிரமித்திருந்த மயில்சாமி, பூங்கொடி ஆகியோரின் தையல் கடை, டீக் கடைகள் இடிக்கப்பட்டன. கடந்த 21ஆம் தேதி நோட்டீஸ் கொடுத்தும் அகற்றிக்கொள்ளவில்லை. மேட்டூர் தாசில்தார் செந்தில்குமார் தலைமையில் போலீஸ் பாதுகாப்புடன் பொக்லைன் மூலம் நடவடிக்கை எடுக்கப்பட்டது. மேலும் செய்திகளுக்கு சேலம் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🛕 ஆத்தூரில் தேர் வழியில் ஆக்கிரமிப்பு அகற்றம்: நீதிமன்ற உத்தரவுப்படி நடவடிக்கை\n\n📰 முழு விவரம்:\nஆத்தூர் பழனியாபுரியில் கோவில் தேர் வழிப்பாதையில் இருந்த ஆக்கிரமிப்புகள் நேற்று அகற்றப்பட்டன. 2024ஆம் ஆண்டு பன்னீர்செல்வம் சென்னை உயர்நீதிமன்றத்தில் வழக்கு தொடர்ந்தார். 2026 ஜனவரியில் நீதிமன்றம் ஆக்கிரமிப்புகளை அகற்ற உத்தரவிட்டது. நடவடிக்கை இல்லாததால் பன்னீர்செல்வம் மேல் முறையீடு செய்தார்.\n👮 நடவடிக்கை: பெத்தநாயக்கன்பாளையம் தாசில்தார் ஜெயலட்சுமி தலைமையில் வருவாய்த் துறையினர், ஆத்தூர் டவுன் போலீசார், தீயணைப்பு வீரர்கள் உதவியுடன் பணி நடைபெற்றது.\n🏠 முருகேசன் வீட்டின் முன் இருந்த ஷெட், படி அகற்றப்பட்டன; ராயர் உள்ளிட்ட 3 வீடுகளின் ஆக்கிரமிப்புகளும் அகற்றப்பட்டன. முருகேசன் குடும்பத்தினர் எதிர்ப்பு தெரிவித்து தற்கொலை செய்வதாகக் கூறினர்; போலீசார், தீயணைப்பு வீரர்கள் அவர்களை மீட்டு அறிவுரை கூறினர்.\n🏪 நவப்பட்டி ஊராட்சி காவேரி கிராஸில் மேட்டூர்-பவானி நெடுஞ்சாலையை ஆக்கிரமித்திருந்த மயில்சாமி (54 வயது) தையல் கடையும், பூங்கொடி (48 வயது) டீக் கடையும் போலீஸ் பாதுகாப்புடன் இடிக்கப்பட்டன. கடந்த 21ஆம் தேதி நோட்டீஸ் கொடுக்கப்பட்டும் அகற்றிக்கொள்ளவில்லை.\n\nAttur temple chariot route encroachment removed | Salem news\n📍 ஆத்தூர், சேலம் மாவட்டம் | 21 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Salem360 #Salem #Attur #SalemNews #சேலம்",
+   "prompts": "A row of officials in khaki police uniform and revenue department staff stand beside a yellow excavator on a narrow Palaniyapuri street lined with old houses, as its arm begins to pull down a corrugated sheet shed and concrete steps in front of a house. Firefighters in uniform stand by at the edge of the road, and a few family members watch from a distance near the house doorway, seen from behind. The street is a temple chariot route with a temple gopuram visible far at the end of the lane, and the houses have plain front walls and steps. Two-wheelers are parked along the roadside. It is a bright daytime scene, shot at eye level from about 20 metres, 35 mm lens, wide enough to show the street and the excavator working on the encroachment. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up of the yellow excavator's steel bucket biting into a broken concrete step and a corrugated tin sheet shed at the front of a house on the chariot route. Pieces of concrete rubble, bent metal sheets and dust lie on the road, with a bare-footed worker in khaki and a police constable's boots visible at the edge of the frame. The wall and steps are plain, with no signs or readable text. Bright daylight with dust hanging in the air, shot slightly high at 35 mm to show the destruction of the encroachment in the foreground. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-salem/removal-of-encroachment-on-the-route-of-election/4382108",
+   "published": "2026-11-21T04:45:00+05:30",
    "verification": "DRAFT (anthropic/claude-haiku-5-5) - fact-check: no problems found",
    "note": "free-model draft anthropic/claude-haiku-5-5, 12 attempt(s), 0 validator problem(s)",
    "post_time": "right after your reply, same day",
    "_area": "N",
    "_score": 999,
    "images": [
-    "https://res.cloudinary.com/jrmwajfz/image/upload/v1795231743/salem360/amnohsaqyb3b7ceofgaa.jpg",
-    "https://res.cloudinary.com/jrmwajfz/image/upload/v1795231746/salem360/vivadxszjfynsmibf72k.jpg"
+    "https://res.cloudinary.com/jrmwajfz/image/upload/v1795245356/salem360/uglupyojtajialwyjxqw.jpg",
+    "https://res.cloudinary.com/jrmwajfz/image/upload/v1795245358/salem360/txjo2fxmeuxbpxauqbax.jpg"
+   ]
+  },
+  {
+   "tamil_headline": "பொங்கலுக்கு வங்க நரியைக் காட்டிவிட்டுத் திருப்பி எடுத்துச் செல்லக் கோரிக்கை",
+   "english_headline": "Demand to bring a Bengal fox for Pongal display and take it back; Collector says legally not allowed",
+   "category": "Government & Services",
+   "location": "Salem collectorate, Salem district",
+   "importance": "Medium",
+   "scope": "district",
+   "post_to": "Salem 360",
+   "slides_spec": {
+    "v": 3,
+    "cat": "விவசாயிகள் குறைதீர்",
+    "loc": "சேலம் கலெக்டர் அலுவலகம்",
+    "hl1": "பொங்கலுக்கு வங்க நரி கோரிக்கை",
+    "hl2": "கலெக்டர்: சட்டப்படி அனுமதி",
+    "slides": [
+     {
+      "title": "என்ன கோரிக்கை?",
+      "lines": [
+       "பெத்தநாயக்கன்பாளையம் நல்லதம்பி கோரிக்கை",
+       "வங்க நரியைக் கொண்டு வந்து காட்டிவிட்டு திருப்பி",
+       "3 ஆண்டாக வனத்துறை தடையால் பொங்கல் கொண்டாடவில்லை"
+      ]
+     },
+     {
+      "title": "பின்னணி",
+      "lines": [
+       "குரும்பப்பட்டி உயிரியல் பூங்காவில் வங்க நரி பராமரிப்பு",
+       "புத்தக திருவிழாவின் சின்னமாக 'புத்தகன்' எனப் பெயர்",
+       "சேலம் கலெக்டர் இளம்பகவத் தலைமையில் கூட்டம்"
+      ]
+     },
+     {
+      "title": "கலெக்டரின் பதில்",
+      "lines": [
+       "கலெக்டர் இளம்பகவத்: சட்டப்படி அனுமதி கிடையாது",
+       "தேவையற்ற பிரச்னைகளை எழுப்ப வேண்டாம் என அறிவுறுத்தல்",
+       "பிற விவசாயிகள் பிரச்னைகளும் கூட்டத்தில் பேசப்பட்டன"
+      ]
+     }
+    ],
+    "carousel": false
+   },
+   "reel_script": "சேலம் கலெக்டர் அலுவலகத்தில் நடந்த விவசாயிகள் குறைதீர் கூட்டத்தில், பொங்கலுக்கு வங்க நரியைக் கொண்டு வந்து காட்டிவிட்டுத் திருப்பி எடுத்துச் செல்லக் கோரிக்கை எழுந்தது. பெத்தநாயக்கன்பாளையம் நல்லதம்பி இந்தக் கோரிக்கையை முன்வைத்தார். வனத்துறை தடையால் 3 ஆண்டுகளாகப் பொங்கல் பண்டிகை கொண்டாடப்படவில்லை என்று அவர் கூறினார். தற்போது குரும்பப்பட்டி உயிரியல் பூங்காவில் வங்க நரி பராமரிக்கப்படுகிறது. மாவட்ட நிர்வாகம் சார்பில் நடக்கவுள்ள புத்தக திருவிழாவின் சின்னமாக வங்க நரி தேர்வாகி, 'புத்தகன்' எனப் பெயர் வைக்கப்பட்டுள்ளது. கலெக்டர் இளம்பகவத், சட்டப்படி அதற்கு அனுமதி கிடையாது என்று தெரிவித்தார். தேவையற்ற பிரச்னைகளை எழுப்ப வேண்டாம் என்றும் அவர் கேட்டுக்கொண்டார். கூட்டத்தில் புளியங்குறிச்சி பெருமாள் கோழி முட்டை ஏற்றுமதி சந்தை வாய்ப்புகள் பற்றி வழிகாட்டக் கோரினார். பிரதமர் கால்நடை வளர்ப்புத் திட்டத்தில் ஆன்லைன் பதிவில் சிரமங்கள் உள்ளதாகவும் கூறினார். மேட்டூர் அணையைத் தூர்வாரி உபரிநீரை கிழக்குப் பகுதி விவசாயிகள் பயன்பெறச் செய்ய வேண்டும் என்றும் கோரினார். பெரியகிருஷ்ணாபுரம் தினேஷ் மலைவாழ் மக்களுக்குக் கால்நடைக் கடன் வழங்கக் கோரினார். கலெக்டர், கடன் உதவி குறித்து அவர்கள்தான் கேட்க வேண்டும் என்றும், ஆலோசனை வேண்டுமானால் வழங்கலாம் என்றும் பதிலளித்தார். மேலும் செய்திகளுக்கு சேலம் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🦊 பொங்கலுக்கு வங்க நரியைக் காட்டிவிட்டுத் திருப்பி எடுத்துச் செல்லக் கோரிக்கை\n\n📰 முழு விவரம்:\nசேலம் கலெக்டர் அலுவலகத்தில் நடந்த விவசாயிகள் குறைதீர் கூட்டத்தில், பெத்தநாயக்கன்பாளையம் நல்லதம்பி வங்க நரியைக் கொண்டு வந்து காட்டிவிட்டுத் திருப்பி எடுத்துச் செல்லக் கோரினார். வனத்துறை தடையால் 3 ஆண்டுகளாகப் பொங்கல் கொண்டாடவில்லை என்றார். தற்போது குரும்பப்பட்டி உயிரியல் பூங்காவில் வங்க நரி பராமரிக்கப்படுகிறது. புத்தக திருவிழாவின் சின்னமாக வங்க நரி தேர்வாகி, 'புத்தகன்' எனப் பெயர் வைக்கப்பட்டுள்ளது.\nகலெக்டர் இளம்பகவத், சட்டப்படி அதற்கு அனுமதி கிடையாது என்றும், தேவையற்ற பிரச்னைகளை எழுப்ப வேண்டாம் என்றும் தெரிவித்தார்.\nகூட்டத்தில் பிற கோரிக்கைகளும் எழுந்தன: கோழி முட்டை ஏற்றுமதி சந்தை வாய்ப்பு வழிகாட்டல், பிரதமர் கால்நடை வளர்ப்புத் திட்ட ஆன்லைன் பதிவுச் சிரமம், மேட்டூர் அணை தூர்வாரல், மலைவாழ் மக்களுக்குக் கால்நடைக் கடன்.\nகடன் உதவி குறித்து அவர்கள்தான் கேட்க வேண்டும் என கலெக்டர் கூறினார்.\n\nSalem farmers' grievance meeting, Bengal fox demand | Salem news\n📍 சேலம் கலெக்டர் அலுவலகம், சேலம் மாவட்டம் | 21 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Salem360 #Salem #SalemNews #சேலம்",
+   "prompts": "A farmers' grievance meeting is under way in the hall of the Salem district collectorate, with Collector Ilamapagavath seated at a long table at the front, papers and files spread before him and a microphone on the table. Behind him hangs a plain wall and a government emblem-free panel in a pale cream colour. Rows of farmers sit on plastic chairs facing the table, men in white shirts and veshti, some in towels over their shoulders, seen from behind and slightly to the side, one farmer standing with a raised hand as if speaking. Officials in shirts sit beside the Collector with notebooks open. The room is lit by tube lights and daylight coming through high windows, late morning. Taken at eye level with a 35 mm lens from the back of the hall, wide enough to show the whole table, the seated farmers and the room. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up of the document table at the collectorate meeting: a stack of petition papers and an open register lie beside a steel water tumbler and a black microphone on a wooden table with a glass top. A printed grievance sheet is held in a farmer's hand at the edge of the frame, fingers visible but no face shown. Behind the table a blurred row of seated farmers in white shirts and veshti sits out of focus. Light comes from ceiling tube lights with a soft daylight spill from a window. The table surface shows papers piled neatly, a pen resting across a page, and a small brass bell. Shot at table height with a 35 mm lens, shallow depth of field, focusing on the papers and the microphone while the room behind stays soft. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-salem/show-me-a-bunny-for-the-pongal-festival-and-take-it-away/4382109",
+   "published": "2026-11-21T04:45:00+05:30",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: sentence 1 (one-line story) has 18 words; make it 6-9 words (about 2-3 seconds), the details follow in the next sentences",
+   "note": "free-model draft anthropic/claude-haiku-5-5, 13 attempt(s), 1 validator problem(s)",
+   "post_time": "right after your reply, same day",
+   "_area": "N",
+   "_score": 999,
+   "images": [
+    "https://res.cloudinary.com/jrmwajfz/image/upload/v1795245364/salem360/w5qeiov7sz3ndwxxclvj.jpg",
+    "https://res.cloudinary.com/jrmwajfz/image/upload/v1795245372/salem360/yy3zzp2oiugknx1vy9fx.jpg"
+   ]
+  },
+  {
+   "tamil_headline": "தலைவாசலில் தனியார் பஸ் சிறைபிடிப்பு: சர்வீஸ் சாலையில் செல்வதாக உறுதி",
+   "english_headline": "Private bus held at Thalaivasal after it tried to take the flyover instead of the service road at Manivizhundhan",
+   "category": "Roads & Transport",
+   "location": "Manivizhundhan bus stop area, Thalaivasal, Salem district",
+   "importance": "Medium",
+   "scope": "local",
+   "post_to": "Salem 360",
+   "slides_spec": {
+    "v": 3,
+    "cat": "பஸ் போக்குவரத்து",
+    "loc": "தலைவாசல்",
+    "hl1": "தலைவாசலில் தனியார் பஸ் சிறைபிடிப்பு",
+    "hl2": "சர்வீஸ் சாலையில் செல்வதாக",
+    "slides": [
+     {
+      "title": "என்ன நடந்தது?",
+      "lines": [
+       "ஆத்தூரில் இருந்து கள்ளக்குறிச்சி நோக்கிச் சென்ற தனியார் பஸ்",
+       "மணிவிழுந்தான் சர்வீஸ் சாலைக்கு பதில் மேம்பாலம் வழியே செல்ல",
+       "இதனால் மக்கள் பஸ்சைச் சிறைபிடித்து வாக்குவாதம் செய்தனர்"
+      ]
+     },
+     {
+      "title": "ஏன் சர்ச்சை?",
+      "lines": [
+       "தலைவாசல், மணிவிழுந்தான் பஸ் ஸ்டாப் வழியே பஸ்கள் நின்று",
+       "போக்குவரத்துத் துறை இதை அறிவுறுத்தியுள்ளது",
+       "அரசு, தனியார் பஸ்கள் இதைப் பின்பற்ற வேண்டும்"
+      ]
+     },
+     {
+      "title": "முடிவு என்ன?",
+      "lines": [
+       "சர்வீஸ் சாலை வழியே பஸ்ஸை இயக்குவதாக டிரைவர் கூறினார்",
+       "அதன் பின் மக்கள் பஸ்சை விடுவித்தனர்",
+       "நேற்று நடந்த சம்பவம் இது"
+      ]
+     }
+    ],
+    "carousel": false
+   },
+   "reel_script": "தலைவாசலில் தனியார் பஸ்சை மக்கள் சிறைபிடித்தனர். ஆத்தூரில் இருந்து கள்ளக்குறிச்சி நோக்கிச் சென்ற தனியார் பஸ், மணிவிழுந்தான் சர்வீஸ் சாலைக்கு பதில் மேம்பாலம் வழியே செல்ல முயன்றது. தலைவாசல், மணிவிழுந்தான் பஸ் ஸ்டாப் வழியே அரசு, தனியார் டவுன் மற்றும் மப்சல் பஸ்கள் நின்று செல்ல வேண்டும் என போக்குவரத்துத் துறை அறிவுறுத்தியுள்ளது. இந்த விதியை மீறி பஸ் மேம்பாலம் வழியே சென்றதால் அதை மக்கள் சிறைபிடித்து வாக்குவாதம் செய்தனர். சர்வீஸ் சாலை வழியே பஸ்ஸை இயக்குவதாக பஸ் டிரைவர் கூறினார். அதன் பின் மக்கள் பஸ்சை விடுவித்தனர். நேற்று நடந்த இந்தச் சம்பவம் பகுதியில் பேசுபொருளாகியுள்ளது. மேலும் செய்திகளுக்கு சேலம் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🚌 தலைவாசலில் தனியார் பஸ் சிறைபிடிப்பு: சர்வீஸ் சாலையில் செல்வதாக டிரைவர் உறுதி\n\n📰 முழு விவரம்:\nஆத்தூரில் இருந்து கள்ளக்குறிச்சி நோக்கிச் சென்ற தனியார் பஸ் ஒன்று, மணிவிழுந்தான் சர்வீஸ் சாலைக்கு பதில் மேம்பாலம் வழியே செல்ல முயன்றது.\nஇதனால் மக்கள் அந்தப் பஸ்சைச் சிறைபிடித்து வாக்குவாதம் செய்தனர்.\nதலைவாசல், மணிவிழுந்தான் பஸ் ஸ்டாப் வழியே அரசு, தனியார் டவுன், மப்சல் பஸ்கள் நின்று செல்ல வேண்டும் என போக்குவரத்துத் துறை அறிவுறுத்தியுள்ளது.\nசர்வீஸ் சாலை வழியே பஸ்ஸை இயக்குவதாக டிரைவர் கூறியதால் மக்கள் பஸ்சை விடுவித்தனர்.\n\n📍 இடம்: மணிவிழுந்தான் பஸ் ஸ்டாப் பகுதி, தலைவாசல்\n🗓️ நாள்: நேற்று (நவம்பர் 20)\n\nThalaivasal private bus held by people | Salem news\n📍 தலைவாசல், சேலம் மாவட்டம் | 21 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Salem360 #Salem #Thalaivasal #SalemNews #சேலம்",
+   "prompts": "A private bus is stopped on the service road at the Manivizhundhan bus stop area in Thalaivasal, with a group of local residents standing around its front in an argument with the driver. The place is a busy highway junction in Salem district, with a concrete flyover pillar rising beside a wide tarmac service road, two-wheelers and an autorickshaw parked at the kerb, and a few shops with shutters along the roadside. The people are men in shirts and veshti and women in sarees, seen from behind or at a distance, some with hands raised in discussion, with a bus driver in a shirt standing by the open door of the bus. The bus is a private long-distance bus, its route board turned away from the camera. It is daytime under plain, even daylight with no rain. Camera at eye level, 35 mm, wide enough to show the flyover and the service road together. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up of the bus front wheel and bumper pulled up at the edge of the service road, with the concrete flyover pillar and its slope visible just behind it, showing the bus has turned off the flyover approach. Beside the wheel stands a small clump of local people's feet and a two-wheeler at the kerb, and a worn tarmac lane marking leads toward the service road. A bus stop sign and any readable text are kept out of frame. It is daytime in soft natural light. Camera at slightly high angle, 50 mm, focused on the bus front and the flyover pillar in the background. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-salem/private-bus-seized/4382114",
+   "published": "2026-11-21T04:48:00+05:30",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: fact-check: The caption states a specific date '(நவம்பர் 20)' for the event, which is not in the article; the article only says 'நேற்று' (yesterday).",
+   "note": "free-model draft anthropic/claude-haiku-5-5, 12 attempt(s), 1 validator problem(s)",
+   "post_time": "right after your reply, same day",
+   "_area": "N",
+   "_score": 999,
+   "images": [
+    "https://res.cloudinary.com/jrmwajfz/image/upload/v1795245388/salem360/xjm4cozmkqtaa0t2qj06.jpg",
+    "https://res.cloudinary.com/jrmwajfz/image/upload/v1795245422/salem360/hn500bobxhmqeubm6rcg.jpg"
+   ]
+  },
+  {
+   "tamil_headline": "ஏற்காடு அருகே 300 அடி பள்ளத்தில் பாய்ந்து நொறுங்கிய கார்: ஒருவர் உயிரிழப்பு",
+   "english_headline": "Car plunges 300 feet into gorge near Yercaud, one dead, four injured",
+   "category": "Roads & Transport",
+   "location": "Yercaud hills, Salem district",
+   "importance": "High",
+   "scope": "local",
+   "post_to": "Salem 360",
+   "slides_spec": {
+    "v": 3,
+    "cat": "சாலை விபத்து",
+    "loc": "ஏற்காடு வாணியார் பகுதி",
+    "hl1": "ஏற்காடு அருகே கார் பள்ளத்தில் பாய்ந்தது",
+    "hl2": "ஒருவர் உயிரிழப்பு",
+    "slides": [
+     {
+      "title": "என்ன நடந்தது?",
+      "lines": [
+       "ஏற்காடு வாணியார் பகுதியில் கார் கவிழ்ந்தது",
+       "தடுப்புச் சுவரைத் தாண்டி <b>300 அடி</b> பள்ளத்தில் பாய்ந்தது",
+       "கார் சுக்குநூறாக நொறுங்கியது"
+      ]
+     },
+     {
+      "title": "எப்படி நடந்தது?",
+      "lines": [
+       "சென்று கொண்டிருந்தபோது கார் திடீரென கட்டுப்பாட்டை இழந்தது",
+       "காரில் பயணித்த <b>5 பேரில்</b> ஒருவர் உயிரிழந்தார்",
+       "படுகாயமடைந்த <b>4 பேர்</b> சேலம் அரசு மருத்துவமனையில் அனுமதி"
+      ]
+     },
+     {
+      "title": "போலீஸ் நடவடிக்கை",
+      "lines": [
+       "போலீசார் மற்றும் மீட்புத் துறையினர் விரைந்தனர்",
+       "காரில் சிக்கியவர்களை மீட்கும் பணி நடைபெற்றது",
+       "விபத்து குறித்து வழக்குப்பதிவு செய்து போலீசார் விசாரணை"
+      ]
+     }
+    ],
+    "carousel": false
+   },
+   "reel_script": "ஏற்காடு மலையில் 300 அடி பள்ளத்தில் கார் பாய்ந்து நொறுங்கியதில் ஒருவர் உயிரிழந்தார். சேலம் ஏற்காடு வாணியார் பகுதியில் கார் சென்று கொண்டிருந்தபோது திடீரென கட்டுப்பாட்டை இழந்தது. தடுப்புச் சுவரைத் தாண்டி 300 அடி பள்ளத்தில் கார் கவிழ்ந்தது. இதில் கார் சுக்குநூறாக நொறுங்கியது. விபத்து குறித்து தகவல் அறிந்த போலீசாரும் மீட்புத் துறையினரும் விரைந்து வந்து காரில் சிக்கியவர்களை மீட்கும் பணியில் ஈடுபட்டனர். காரில் பயணித்த 5 பேரில் ஒருவர் உயிரிழந்தார். படுகாயமடைந்த 4 பேர் சேலம் அரசு மருத்துவமனையில் அனுமதிக்கப்பட்டனர். விபத்து குறித்து வழக்குப்பதிவு செய்த போலீசார் மேற்கொண்டு விசாரணை நடத்தி வருகின்றனர். மேலும் செய்திகளுக்கு சேலம் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🚨 ஏற்காடு அருகே 300 அடி பள்ளத்தில் கார் பாய்ந்தது: ஒருவர் உயிரிழப்பு\n\n📰 முழு விவரம்:\nசேலம் ஏற்காடு வாணியார் பகுதியில் சென்று கொண்டிருந்தபோது கார் திடீரென கட்டுப்பாட்டை இழந்தது. தடுப்புச் சுவரைத் தாண்டி 300 அடி பள்ளத்தில் கவிழ்ந்ததில் கார் சுக்குநூறாக நொறுங்கியது. காரில் பயணித்த 5 பேரில் ஒருவர் உயிரிழந்தார். படுகாயமடைந்த 4 பேர் சேலம் அரசு மருத்துவமனையில் அனுமதிக்கப்பட்டனர். போலீசாரும் மீட்புத் துறையினரும் விரைந்து வந்து காரில் சிக்கியவர்களை மீட்கும் பணியில் ஈடுபட்டனர். விபத்து குறித்து வழக்குப்பதிவு செய்த போலீசார் விசாரணை நடத்தி வருகின்றனர்.\n📍 இடம்: ஏற்காடு வாணியார் பகுதி, சேலம் மாவட்டம்\n👮 நடவடிக்கை: வழக்குப்பதிவு செய்து போலீசார் மேற்கொண்டு விசாரணை\n\nYercaud car falls into 300 ft gorge, one dead | Salem news\n📍 ஏற்காடு, சேலம் மாவட்டம் | 21 நவம்பர் 2026\n\nதேவைப்படுவோருக்கு Share செய்யுங்கள்\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Salem360 #Salem #Yercaud #SalemNews #சேலம்",
+   "prompts": "A crushed car lies far down a steep forested gorge on the Yercaud hill road, where a fire and rescue team and Tamil Nadu police in khaki stand at the edge of a broken concrete barrier wall, seen from behind and far away. Behind the wall the hillside drops roughly 300 feet into a deep ravine thick with trees, mist hanging over the valley. The road is a narrow winding hill road with a low grey concrete parapet, and the blue-green Shevaroy hills stretch in the far background. Rescue workers in uniform hold ropes and a rescue stretcher as they prepare to descend. Daylight, slightly overcast mountain air. Camera at eye level, 35 mm, wide enough to show the road, the broken wall, the gorge and the crushed car. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up of a damaged section of a hill-road barrier wall: a broken concrete parapet with fresh cracks and chipped edges, a few twisted metal railing bars bent outward over a steep forested drop. Coiled rescue ropes and a rescue team member's gloved hands rest on the wall edge, and a corner of a crushed car's roof is visible far below in the greenery. Plain daylight, muted mountain colours, no people's faces. Camera slightly high, 35 mm, shallow focus on the broken wall and ropes. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinakaran.com/news/yercaud-300-feet-deep-gorge-car-crushed-one-dead/amp",
+   "published": "2026-11-21T10:19:17+05:30",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: fact-check: The caption contains an English line 'Yercaud car falls into 300 ft gorge, one dead | Salem news', which is not Tamil text and is not part of the allowed footer, so it is an extra untranslated claim.",
+   "note": "free-model draft anthropic/claude-haiku-5-5, 13 attempt(s), 1 validator problem(s)",
+   "post_time": "right after your reply, same day",
+   "_area": "N",
+   "_score": 999,
+   "images": [
+    "https://res.cloudinary.com/jrmwajfz/image/upload/v1795245428/salem360/yfbq4fcwhjxzpsonb7tp.jpg",
+    "https://res.cloudinary.com/jrmwajfz/image/upload/v1795245431/salem360/r4tbitijcwfrt5rkayrv.jpg"
    ]
   }
  ]
