@@ -83,6 +83,10 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 <!-- recent-changes:start (updated automatically by .github/workflows/context.yml - do not edit by hand) -->
 | Date | Commit | Change |
 |---|---|---|
+| 2026-11-22 | `ad84190` | Manual post e-mail: attach a 720p copy of the reel (the full reel was too large) |
+| 2026-11-22 | `22231cd` | facebook RN-226 |
+| 2026-11-22 | `89f56fe` | posted RN-226 |
+| 2026-11-22 | `c9a77f0` | stories shared / Instagram pause |
 | 2026-11-22 | `c1db6a1` | Manual post e-mail: news a page cannot post goes to the owner, one by one |
 | 2026-11-22 | `3f03aeb` | facebook RN-230 |
 | 2026-11-22 | `5d0cf83` | posted RN-230 |
@@ -109,8 +113,4 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 | 2026-11-22 | `9bdb8e3` | facebook RN-217 |
 | 2026-11-22 | `364d2a1` | posted RN-217 |
 | 2026-11-22 | `ffa054c` | facebook RN-222 |
-| 2026-11-22 | `9e99431` | posted RN-222 |
-| 2026-11-22 | `ab62248` | facebook RN-220 |
-| 2026-11-22 | `9cb4820` | posted RN-220 |
-| 2026-11-22 | `c8cd17f` | facebook RN-219 |
 <!-- recent-changes:end -->
