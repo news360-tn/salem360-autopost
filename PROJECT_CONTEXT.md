@@ -83,6 +83,8 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 <!-- recent-changes:start (updated automatically by .github/workflows/context.yml - do not edit by hand) -->
 | Date | Commit | Change |
 |---|---|---|
+| 2026-11-22 | `9b1f47d` | Facebook check: list each page's latest Facebook posts (read only) |
+| 2026-11-22 | `f5e88b3` | stories shared / Instagram pause |
 | 2026-11-22 | `bb276e0` | Facebook share e-mail: news on Instagram but not on Facebook after 3 hours |
 | 2026-11-22 | `d7cfad7` | Facebook: slower pace on this busy page (60 min gap, 18 a day) |
 | 2026-11-22 | `54f4330` | goldrate posted |
@@ -111,6 +113,4 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 | 2026-11-22 | `32b0352` | facebook RN-224 |
 | 2026-11-22 | `5f32a4c` | posted RN-224 |
 | 2026-11-22 | `8ba12b0` | facebook RN-189 |
-| 2026-11-22 | `0564c28` | posted RN-189 |
-| 2026-11-22 | `8dfe168` | facebook RN-221 |
 <!-- recent-changes:end -->
