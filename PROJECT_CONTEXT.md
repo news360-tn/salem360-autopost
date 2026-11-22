@@ -83,34 +83,34 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 <!-- recent-changes:start (updated automatically by .github/workflows/context.yml - do not edit by hand) -->
 | Date | Commit | Change |
 |---|---|---|
-| 2026-11-21 | `8554755` | YouTube: news reels uploaded automatically as Shorts (only with the page's keys) |
-| 2026-11-21 | `5e31c51` | facebook RN-209 |
-| 2026-11-21 | `18c4ea0` | posted RN-209 |
-| 2026-11-21 | `827f54b` | pick: picked news saved |
-| 2026-11-21 | `4567acb` | pick: picked news saved |
-| 2026-11-21 | `64e1da0` | pick: list sent |
-| 2026-11-21 | `db898c8` | Facebook: every news that is on Instagram also goes to Facebook |
-| 2026-11-21 | `42c5944` | pick: written and posted |
-| 2026-11-21 | `e8fd91e` | facebook RN-207 |
-| 2026-11-21 | `7977c1a` | posted RN-207 |
-| 2026-11-21 | `001de2d` | facebook RN-205 |
-| 2026-11-21 | `95fe4d1` | posted RN-205 |
-| 2026-11-21 | `cd0b480` | powercut: notices written |
-| 2026-11-21 | `b009630` | facebook RN-204 |
-| 2026-11-21 | `664fd55` | posted RN-204 |
-| 2026-11-21 | `f4e9976` | powercut: notices written |
-| 2026-11-21 | `393350f` | facebook RN-206 |
-| 2026-11-21 | `ae7bef0` | posted RN-206 |
-| 2026-11-21 | `dd304e8` | pick: picked news saved |
-| 2026-11-21 | `e3ebda3` | pick: picked news saved |
-| 2026-11-21 | `966d9a8` | pick: list sent |
-| 2026-11-21 | `56c0495` | Posted report: one e-mail for all pages, 4 times a day |
-| 2026-11-21 | `3e93619` | pick: written and posted |
-| 2026-11-21 | `34a7c75` | Instagram-safe limits, file upload without Cloudinary, skipped e-mails restarted |
-| 2026-11-21 | `ed154b5` | goldrate posted |
-| 2026-11-21 | `907b731` | pick: picked news saved |
-| 2026-11-21 | `1650da6` | pick: picked news saved |
-| 2026-11-21 | `59c2b0f` | pick: list sent |
-| 2026-11-21 | `b9782cc` | Instagram-safe: stories only for power cuts / urgent news again (as Kovai and Chennai Minnal); direct-upload trial off |
-| 2026-11-21 | `33c16d3` | pick: written and posted |
+| 2026-11-22 | `c1db6a1` | Manual post e-mail: news a page cannot post goes to the owner, one by one |
+| 2026-11-22 | `3f03aeb` | facebook RN-230 |
+| 2026-11-22 | `5d0cf83` | posted RN-230 |
+| 2026-11-22 | `3a1b589` | facebook RN-227 |
+| 2026-11-22 | `a8af396` | posted RN-227 |
+| 2026-11-22 | `83cc09d` | stories shared / Instagram pause |
+| 2026-11-22 | `4e6a0c1` | pick: picked news saved |
+| 2026-11-22 | `c9caea8` | pick: picked news saved |
+| 2026-11-22 | `1c7d449` | pick: list sent |
+| 2026-11-22 | `32b0352` | facebook RN-224 |
+| 2026-11-22 | `5f32a4c` | posted RN-224 |
+| 2026-11-22 | `8ba12b0` | facebook RN-189 |
+| 2026-11-22 | `0564c28` | posted RN-189 |
+| 2026-11-22 | `8dfe168` | facebook RN-221 |
+| 2026-11-22 | `9add62b` | posted RN-221 |
+| 2026-11-22 | `7f61f78` | rasipalan posted |
+| 2026-11-22 | `1a67a6c` | facebook RN-223 |
+| 2026-11-22 | `91c64bc` | posted RN-223 |
+| 2026-11-22 | `1266428` | stories shared / Instagram pause |
+| 2026-11-22 | `c6b699f` | facebook RN-218 |
+| 2026-11-22 | `e12ec42` | posted RN-218 |
+| 2026-11-22 | `ac3a109` | facebook RN-214 |
+| 2026-11-22 | `bd631a4` | posted RN-214 |
+| 2026-11-22 | `9bdb8e3` | facebook RN-217 |
+| 2026-11-22 | `364d2a1` | posted RN-217 |
+| 2026-11-22 | `ffa054c` | facebook RN-222 |
+| 2026-11-22 | `9e99431` | posted RN-222 |
+| 2026-11-22 | `ab62248` | facebook RN-220 |
+| 2026-11-22 | `9cb4820` | posted RN-220 |
+| 2026-11-22 | `c8cd17f` | facebook RN-219 |
 <!-- recent-changes:end -->
