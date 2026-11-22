@@ -83,6 +83,17 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 <!-- recent-changes:start (updated automatically by .github/workflows/context.yml - do not edit by hand) -->
 | Date | Commit | Change |
 |---|---|---|
+| 2026-11-22 | `d7cfad7` | Facebook: slower pace on this busy page (60 min gap, 18 a day) |
+| 2026-11-22 | `54f4330` | goldrate posted |
+| 2026-11-22 | `64cef07` | stories shared / Instagram pause |
+| 2026-11-22 | `c0233ee` | pick: written and posted |
+| 2026-11-22 | `ca6489d` | facebook RN-228 |
+| 2026-11-22 | `7de6b3b` | posted RN-228 |
+| 2026-11-22 | `212ae5e` | facebook RN-229 |
+| 2026-11-22 | `8b42da1` | posted RN-229 |
+| 2026-11-22 | `f1bf0dd` | stories shared / Instagram pause |
+| 2026-11-22 | `e5bbac3` | facebook RN-225 |
+| 2026-11-22 | `eab417b` | posted RN-225 |
 | 2026-11-22 | `ad84190` | Manual post e-mail: attach a 720p copy of the reel (the full reel was too large) |
 | 2026-11-22 | `22231cd` | facebook RN-226 |
 | 2026-11-22 | `89f56fe` | posted RN-226 |
@@ -102,15 +113,4 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 | 2026-11-22 | `0564c28` | posted RN-189 |
 | 2026-11-22 | `8dfe168` | facebook RN-221 |
 | 2026-11-22 | `9add62b` | posted RN-221 |
-| 2026-11-22 | `7f61f78` | rasipalan posted |
-| 2026-11-22 | `1a67a6c` | facebook RN-223 |
-| 2026-11-22 | `91c64bc` | posted RN-223 |
-| 2026-11-22 | `1266428` | stories shared / Instagram pause |
-| 2026-11-22 | `c6b699f` | facebook RN-218 |
-| 2026-11-22 | `e12ec42` | posted RN-218 |
-| 2026-11-22 | `ac3a109` | facebook RN-214 |
-| 2026-11-22 | `bd631a4` | posted RN-214 |
-| 2026-11-22 | `9bdb8e3` | facebook RN-217 |
-| 2026-11-22 | `364d2a1` | posted RN-217 |
-| 2026-11-22 | `ffa054c` | facebook RN-222 |
 <!-- recent-changes:end -->
