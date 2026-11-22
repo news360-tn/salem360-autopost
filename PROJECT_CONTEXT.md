@@ -83,6 +83,17 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 <!-- recent-changes:start (updated automatically by .github/workflows/context.yml - do not edit by hand) -->
 | Date | Commit | Change |
 |---|---|---|
+| 2026-11-22 | `d1659a4` | Facebook: one post every 60 minutes, at most 15 a day per page, most important news first; after the 15 the rest goes to the owner's e-mail at once (share from Instagram) |
+| 2026-11-22 | `2e5eaa9` | stories shared / Instagram pause |
+| 2026-11-22 | `e739616` | stories shared / Instagram pause |
+| 2026-11-22 | `af13515` | stories shared / Instagram pause |
+| 2026-11-22 | `dba875e` | stories shared / Instagram pause |
+| 2026-11-22 | `5ccb719` | stories shared / Instagram pause |
+| 2026-11-22 | `710dc2b` | pick: written and posted |
+| 2026-11-22 | `ec160cd` | pick: picked news saved |
+| 2026-11-22 | `c6ebdc9` | pick: picked news saved |
+| 2026-11-22 | `297c31c` | pick: list sent |
+| 2026-11-22 | `cba7254` | stories shared / Instagram pause |
 | 2026-11-22 | `f908a21` | Daily plan: 30 of today's published news + yesterday's pending news + urgent news after the 30; news older than yesterday never posted |
 | 2026-11-22 | `a051c97` | stories shared / Instagram pause |
 | 2026-11-22 | `d5f0744` | stories shared / Instagram pause |
@@ -102,15 +113,4 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 | 2026-11-22 | `426f21e` | stories shared / Instagram pause |
 | 2026-11-22 | `4d78320` | stories shared / Instagram pause |
 | 2026-11-22 | `5d7ee51` | stories shared / Instagram pause |
-| 2026-11-22 | `4283296` | stories shared / Instagram pause |
-| 2026-11-22 | `5705799` | stories shared / Instagram pause |
-| 2026-11-22 | `e4d34a1` | stories shared / Instagram pause |
-| 2026-11-22 | `49f558b` | stories shared / Instagram pause |
-| 2026-11-22 | `6c003a3` | stories shared / Instagram pause |
-| 2026-11-22 | `6cbd3e0` | stories shared / Instagram pause |
-| 2026-11-22 | `bcf4b50` | stories shared / Instagram pause |
-| 2026-11-22 | `f1ef5ef` | stories shared / Instagram pause |
-| 2026-11-22 | `6c851ac` | pick: written and posted |
-| 2026-11-22 | `f5ee934` | pick: picked news saved |
-| 2026-11-22 | `c646884` | pick: list sent |
 <!-- recent-changes:end -->
