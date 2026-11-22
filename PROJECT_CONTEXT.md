@@ -83,34 +83,34 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 <!-- recent-changes:start (updated automatically by .github/workflows/context.yml - do not edit by hand) -->
 | Date | Commit | Change |
 |---|---|---|
-| 2026-11-22 | `aaa2fa2` | Website: each posted story goes to the shared 7-district site with its district (only when the WEBSITE_INGEST_KEY secret is set; posting is not affected) |
-| 2026-11-22 | `33d7e46` | stories shared / Instagram pause |
-| 2026-11-22 | `67de5ca` | Dashboard status file for the owner's private dashboard |
-| 2026-11-22 | `f099b02` | Facebook check: list the last 20 Facebook posts (was 10) |
-| 2026-11-22 | `9b1f47d` | Facebook check: list each page's latest Facebook posts (read only) |
-| 2026-11-22 | `f5e88b3` | stories shared / Instagram pause |
-| 2026-11-22 | `bb276e0` | Facebook share e-mail: news on Instagram but not on Facebook after 3 hours |
-| 2026-11-22 | `d7cfad7` | Facebook: slower pace on this busy page (60 min gap, 18 a day) |
-| 2026-11-22 | `54f4330` | goldrate posted |
-| 2026-11-22 | `64cef07` | stories shared / Instagram pause |
-| 2026-11-22 | `c0233ee` | pick: written and posted |
-| 2026-11-22 | `ca6489d` | facebook RN-228 |
-| 2026-11-22 | `7de6b3b` | posted RN-228 |
-| 2026-11-22 | `212ae5e` | facebook RN-229 |
-| 2026-11-22 | `8b42da1` | posted RN-229 |
-| 2026-11-22 | `f1bf0dd` | stories shared / Instagram pause |
-| 2026-11-22 | `e5bbac3` | facebook RN-225 |
-| 2026-11-22 | `eab417b` | posted RN-225 |
-| 2026-11-22 | `ad84190` | Manual post e-mail: attach a 720p copy of the reel (the full reel was too large) |
-| 2026-11-22 | `22231cd` | facebook RN-226 |
-| 2026-11-22 | `89f56fe` | posted RN-226 |
-| 2026-11-22 | `c9a77f0` | stories shared / Instagram pause |
-| 2026-11-22 | `c1db6a1` | Manual post e-mail: news a page cannot post goes to the owner, one by one |
-| 2026-11-22 | `3f03aeb` | facebook RN-230 |
-| 2026-11-22 | `5d0cf83` | posted RN-230 |
-| 2026-11-22 | `3a1b589` | facebook RN-227 |
-| 2026-11-22 | `a8af396` | posted RN-227 |
-| 2026-11-22 | `83cc09d` | stories shared / Instagram pause |
-| 2026-11-22 | `4e6a0c1` | pick: picked news saved |
-| 2026-11-22 | `c9caea8` | pick: picked news saved |
+| 2026-11-22 | `0ba9cf7` | Same-day news only, 15-35 a day: every news published today is written (max 35), yesterday's news is never posted, 22:00 round added; Namakkal writer split fix |
+| 2026-11-22 | `0dc3fd2` | stories shared / Instagram pause |
+| 2026-11-22 | `aaf77bf` | facebook RN-238 |
+| 2026-11-22 | `0925d85` | posted RN-238 |
+| 2026-11-22 | `48ddddb` | stories shared / Instagram pause |
+| 2026-11-22 | `b0cbed9` | facebook RN-237 |
+| 2026-11-22 | `7e74d3f` | posted RN-237 |
+| 2026-11-22 | `8f4fee7` | facebook RN-239 |
+| 2026-11-22 | `905fb1a` | posted RN-239 |
+| 2026-11-22 | `88e3490` | stories shared / Instagram pause |
+| 2026-11-22 | `605cd51` | pick: picked news saved |
+| 2026-11-22 | `ae096fe` | stories shared / Instagram pause |
+| 2026-11-22 | `34c515e` | pick: picked news saved |
+| 2026-11-22 | `a26251f` | pick: list sent |
+| 2026-11-22 | `d537ed4` | stories shared / Instagram pause |
+| 2026-11-22 | `57c52ed` | stories shared / Instagram pause |
+| 2026-11-22 | `110e601` | stories shared / Instagram pause |
+| 2026-11-22 | `cb82c78` | stories shared / Instagram pause |
+| 2026-11-22 | `e0ce0ac` | stories shared / Instagram pause |
+| 2026-11-22 | `4aa501f` | stories shared / Instagram pause |
+| 2026-11-22 | `b571cfa` | stories shared / Instagram pause |
+| 2026-11-22 | `37c4612` | stories shared / Instagram pause |
+| 2026-11-22 | `7186e5b` | stories shared / Instagram pause |
+| 2026-11-22 | `f272856` | stories shared / Instagram pause |
+| 2026-11-22 | `7a3b884` | stories shared / Instagram pause |
+| 2026-11-22 | `be44894` | stories shared / Instagram pause |
+| 2026-11-22 | `485b7b3` | stories shared / Instagram pause |
+| 2026-11-22 | `7ec96d2` | stories shared / Instagram pause |
+| 2026-11-22 | `f97d34b` | stories shared / Instagram pause |
+| 2026-11-22 | `b64d8e6` | stories shared / Instagram pause |
 <!-- recent-changes:end -->
