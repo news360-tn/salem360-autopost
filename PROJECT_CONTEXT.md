@@ -83,34 +83,34 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 <!-- recent-changes:start (updated automatically by .github/workflows/context.yml - do not edit by hand) -->
 | Date | Commit | Change |
 |---|---|---|
-| 2026-11-22 | `3bc39df` | Collection: Bing backup when Google News is busy; dashboard file written only by the posting job |
-| 2026-11-22 | `0ba9cf7` | Same-day news only, 15-35 a day: every news published today is written (max 35), yesterday's news is never posted, 22:00 round added; Namakkal writer split fix |
-| 2026-11-22 | `0dc3fd2` | stories shared / Instagram pause |
-| 2026-11-22 | `aaf77bf` | facebook RN-238 |
-| 2026-11-22 | `0925d85` | posted RN-238 |
-| 2026-11-22 | `48ddddb` | stories shared / Instagram pause |
-| 2026-11-22 | `b0cbed9` | facebook RN-237 |
-| 2026-11-22 | `7e74d3f` | posted RN-237 |
-| 2026-11-22 | `8f4fee7` | facebook RN-239 |
-| 2026-11-22 | `905fb1a` | posted RN-239 |
-| 2026-11-22 | `88e3490` | stories shared / Instagram pause |
-| 2026-11-22 | `605cd51` | pick: picked news saved |
-| 2026-11-22 | `ae096fe` | stories shared / Instagram pause |
-| 2026-11-22 | `34c515e` | pick: picked news saved |
-| 2026-11-22 | `a26251f` | pick: list sent |
-| 2026-11-22 | `d537ed4` | stories shared / Instagram pause |
-| 2026-11-22 | `57c52ed` | stories shared / Instagram pause |
-| 2026-11-22 | `110e601` | stories shared / Instagram pause |
-| 2026-11-22 | `cb82c78` | stories shared / Instagram pause |
-| 2026-11-22 | `e0ce0ac` | stories shared / Instagram pause |
-| 2026-11-22 | `4aa501f` | stories shared / Instagram pause |
-| 2026-11-22 | `b571cfa` | stories shared / Instagram pause |
-| 2026-11-22 | `37c4612` | stories shared / Instagram pause |
-| 2026-11-22 | `7186e5b` | stories shared / Instagram pause |
-| 2026-11-22 | `f272856` | stories shared / Instagram pause |
-| 2026-11-22 | `7a3b884` | stories shared / Instagram pause |
-| 2026-11-22 | `be44894` | stories shared / Instagram pause |
-| 2026-11-22 | `485b7b3` | stories shared / Instagram pause |
-| 2026-11-22 | `7ec96d2` | stories shared / Instagram pause |
-| 2026-11-22 | `f97d34b` | stories shared / Instagram pause |
+| 2026-11-22 | `f908a21` | Daily plan: 30 of today's published news + yesterday's pending news + urgent news after the 30; news older than yesterday never posted |
+| 2026-11-22 | `a051c97` | stories shared / Instagram pause |
+| 2026-11-22 | `d5f0744` | stories shared / Instagram pause |
+| 2026-11-22 | `d149098` | stories shared / Instagram pause |
+| 2026-11-22 | `0af899f` | stories shared / Instagram pause |
+| 2026-11-22 | `931ecf9` | stories shared / Instagram pause |
+| 2026-11-22 | `984f10b` | stories shared / Instagram pause |
+| 2026-11-22 | `e06f46a` | stories shared / Instagram pause |
+| 2026-11-22 | `babc405` | stories shared / Instagram pause |
+| 2026-11-22 | `c93af66` | stories shared / Instagram pause |
+| 2026-11-22 | `ef1abba` | stories shared / Instagram pause |
+| 2026-11-22 | `f4f8202` | stories shared / Instagram pause |
+| 2026-11-22 | `f60545f` | stories shared / Instagram pause |
+| 2026-11-22 | `bc674d6` | stories shared / Instagram pause |
+| 2026-11-22 | `fd1af25` | stories shared / Instagram pause |
+| 2026-11-22 | `e70a57a` | stories shared / Instagram pause |
+| 2026-11-22 | `426f21e` | stories shared / Instagram pause |
+| 2026-11-22 | `4d78320` | stories shared / Instagram pause |
+| 2026-11-22 | `5d7ee51` | stories shared / Instagram pause |
+| 2026-11-22 | `4283296` | stories shared / Instagram pause |
+| 2026-11-22 | `5705799` | stories shared / Instagram pause |
+| 2026-11-22 | `e4d34a1` | stories shared / Instagram pause |
+| 2026-11-22 | `49f558b` | stories shared / Instagram pause |
+| 2026-11-22 | `6c003a3` | stories shared / Instagram pause |
+| 2026-11-22 | `6cbd3e0` | stories shared / Instagram pause |
+| 2026-11-22 | `bcf4b50` | stories shared / Instagram pause |
+| 2026-11-22 | `f1ef5ef` | stories shared / Instagram pause |
+| 2026-11-22 | `6c851ac` | pick: written and posted |
+| 2026-11-22 | `f5ee934` | pick: picked news saved |
+| 2026-11-22 | `c646884` | pick: list sent |
 <!-- recent-changes:end -->
