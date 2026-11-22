@@ -36,7 +36,8 @@
    "score": 11.5,
    "power_cut": false,
    "listed_at": "2026-11-22T20:18:58.835334+05:30",
-   "picked_at": "2026-11-22T20:22:53.827418+05:30"
+   "picked_at": "2026-11-22T20:22:53.827418+05:30",
+   "refused": "not written: the day's maximum of 30 news was reached"
   },
   "Ce2ca73c": {
    "id": "Ce2ca73c",
@@ -49,7 +50,8 @@
    "score": 11.5,
    "power_cut": false,
    "listed_at": "2026-11-22T20:18:58.835334+05:30",
-   "picked_at": "2026-11-22T20:22:53.827419+05:30"
+   "picked_at": "2026-11-22T20:22:53.827419+05:30",
+   "refused": "not written: the day's maximum of 30 news was reached"
   },
   "Ce203e84": {
    "id": "Ce203e84",
@@ -62,7 +64,8 @@
    "score": 8.0,
    "power_cut": false,
    "listed_at": "2026-11-22T20:18:58.835334+05:30",
-   "picked_at": "2026-11-22T20:22:53.827427+05:30"
+   "picked_at": "2026-11-22T20:22:53.827427+05:30",
+   "refused": "not written: the day's maximum of 30 news was reached"
   }
  },
  "rounds": {
@@ -813,7 +816,12 @@
     "C6fac304",
     "Ce203e84",
     "Ce2ca73c"
-   ]
+   ],
+   "refused": {
+    "Ce203e84": "not written: the day's maximum of 30 news was reached",
+    "Ce2ca73c": "not written: the day's maximum of 30 news was reached",
+    "C6fac304": "not written: the day's maximum of 30 news was reached"
+   }
   }
  },
  "retry": {}
