@@ -3,36 +3,33 @@
   "earlier stories still waiting for images: []",
   "instagram check: 50 recent posts read from the page",
   "pick round: only the picked links are written (research_free/pick.py)",
-  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-salem/-692-police-departures/4382894",
-  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-salem/will-the-police-take-action-on-the-increase-in-drunken-driving/4382904",
-  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-salem/guntas-again-attack-youth-who-sold-ganja/4382897",
-  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-salem/protect-the-rowdies/4382909",
-  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-salem/paddy-production-slows-down-due-to-heavy-snowfall/4382908",
-  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-salem/lack-of-rain-delays-start-of-crop-transplantation/4382907",
-  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-salem/-call-to-apply-for-a-contract-job/4382910",
-  "candidate filter: collected=7",
-  "to write: 7 Salem district candidates (max 7 stories)",
-  "round: top 7 of 7 candidates",
-  "candidates waiting: 7 Salem; time left 79 min",
+  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-salem/full-subsidy-for-construction-of-borewells-by-adi-dravidar-and-tribal-farmers/4382914",
+  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-salem/153-students-appeared-for-the-rural-review-examination/4382911",
+  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-salem/mobile-e-seva-vehicle-launched-by-judges/4382901",
+  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-salem/omalur-constituency-has-the-highest-voter-turnout-with-1471-voters/4382906",
+  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-salem/farmers-advised-to-destroy-beetles/4382895",
+  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-salem/training-for-farmers/4382898",
+  "candidate filter: collected=6",
+  "to write: 6 Salem district candidates (max 6 stories)",
+  "round: top 6 of 6 candidates",
+  "candidates waiting: 6 Salem; time left 79 min",
   "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-sale",
   "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-sale",
   "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-sale",
   "auto images: 1 of 1 stories ({'pollinations': 2})",
   "posting job started at once",
   "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-sale",
-  "auto images: 1 of 1 stories ({'pollinations': 4})",
+  "auto images: 1 of 1 stories ({'pollinations': 3})",
+  "auto images: 1 of 1 stories ({'pollinations': 5})",
+  "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-sale",
+  "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-sale",
   "auto images: 1 of 1 stories ({'pollinations': 7})",
-  "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-sale",
-  "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-sale",
-  "auto images: 1 of 1 stories ({'pollinations': 10})",
-  "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-sale",
-  "auto images: 1 of 1 stories ({'pollinations': 12})",
-  "auto images: 1 of 1 stories ({'pollinations': 15})",
-  "auto images: 1 of 1 stories ({'pollinations': 17})",
-  "candidate loop ended: left 0, tried={'N': 7}, done={'N': 7}, time left 75 min",
-  "filed: 7 Salem district stories (target 7), reels only",
+  "auto images: 1 of 1 stories ({'pollinations': 9})",
+  "auto images: 1 of 1 stories ({'pollinations': 11})",
+  "candidate loop ended: left 0, tried={'N': 6}, done={'N': 6}, time left 76 min",
+  "filed: 6 Salem district stories (target 6), reels only",
   "queue: 0 news waiting to be written",
-  "All News sheet: {\"ok\":true,\"added\":7,\"updated\":0}"
+  "All News sheet: {\"ok\":true,\"added\":6,\"updated\":0}"
  ],
  "llm": [
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
@@ -40,49 +37,100 @@
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
+  "dead for this round: gemini/gemini-3.6-flash",
   "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
   "dead for this round: gemini/gemini-3.6-flash",
   "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
   "dead for this round: gemini/gemini-3.6-flash",
   "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
-  "dead for this round: gemini/gemini-3.5-flash",
+  "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
   "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
   "dead for this round: gemini/gemini-3.5-flash",
-  "ok gemini/gemini-3-flash-preview (9s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok gemini/gemini-3-flash-preview (10s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok gemini/gemini-3-flash-preview (8s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "dead for this round: gemini/gemini-3.5-flash",
+  "dead for this round: gemini/gemini-3.5-flash",
   "fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, plea",
   "dead for this round: gemini/gemini-3-flash-preview",
-  "ok gemini/gemini-3.6-flash (20s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok groq/openai/gpt-oss-120b (4s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, plea",
+  "dead for this round: gemini/gemini-3-flash-preview",
+  "fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, plea",
+  "dead for this round: gemini/gemini-3-flash-preview",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
   "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
   "ok groq/openai/gpt-oss-120b (6s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
   "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
   "switching away from groq/openai/gpt-oss-120b for 10 min",
   "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
   "switching away from groq/openai/gpt-oss-120b for 10 min",
-  "ok groq/qwen/qwen3.8-27b (5s)",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
+  "ok groq/qwen/qwen3.8-27b (4s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
+  "switching away from groq/openai/gpt-oss-120b for 10 min",
   "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
-  "ok groq/qwen/qwen3.8-27b (0s)",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
   "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
   "switching away from groq/qwen/qwen3.8-27b for 10 min",
+  "ok anthropic/claude-haiku-5-5",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
@@ -91,82 +139,72 @@
   "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "fail gemini/gemini-3-flash-preview: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=60)",
-  "poor answer - skipped for 30 min: gemini/gemini-3-flash-preview",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "ok anthropic/claude-haiku-5-5"
  ],
  "stories": [
   {
-   "tamil_headline": "பனமரத்துப்பட்டியில் பனியால் அரளி உற்பத்தி சரிவு",
-   "english_headline": "Cold wave hits Arali production in Panamattupatti",
+   "tamil_headline": "தலைவாசலில் விவசாயிகளுக்கு இயற்கை பூச்சிக்கொல்லி பயிற்சி",
+   "english_headline": "Farmers in Thalaivasal trained on preparing natural pesticide solution and natural farming methods",
    "category": "Weather & Agriculture",
-   "location": "Panamattupatti, Salem district",
+   "location": "Siruvachur, Thalaivasal, Salem district",
+   "importance": "Medium",
+   "scope": "local",
+   "post_to": "Salem 360",
+   "slides_spec": {
+    "v": 3,
+    "cat": "விவசாயப் பயிற்சி",
+    "loc": "தலைவாசல்",
+    "hl1": "தலைவாசலில் விவசாயிகளுக்கு பயிற்சி",
+    "hl2": "இயற்கை பூச்சிக்கொல்லி",
+    "slides": [
+     {
+      "title": "எங்கே, யார்?",
+      "lines": [
+       "தலைவாசல், சிறுவாச்சூரில் பயிற்சி நடைபெற்றது",
+       "வேளாண் துறை சார்பில் பயிற்சி அளிக்கப்பட்டது",
+       "தனியார் வேளாண் கல்லூரி இறுதி ஆண்டு மாணவியர் பயிற்சி"
+      ]
+     },
+     {
+      "title": "என்ன",
+      "lines": [
+       "இயற்கை பூச்சிக்கொல்லி கரைசல் தயாரிப்பு செயல்விளக்கம்",
+       "இயற்கை விவசாயம், சாகுபடி வழிமுறைகள் விளக்கம்",
+       "விவசாயிகள் பலர் பங்கேற்றனர்"
+      ]
+     },
+     {
+      "title": "விவசாயிகளுக்கு",
+      "lines": [
+       "இயற்கை முறை விவசாயத்தை அறிந்துகொள்ள வாய்ப்பு",
+       "மாணவியர் நேரடியாக செயல்முறை காட்டினர்"
+      ]
+     }
+    ],
+    "carousel": false
+   },
+   "reel_script": "தலைவாசல் அருகே சிறுவாச்சூரில் விவசாயிகளுக்கு இயற்கை விவசாயப் பயிற்சி நடைபெற்றது. வேளாண் துறை சார்பில் இந்தப் பயிற்சி அளிக்கப்பட்டது. தனியார் வேளாண் கல்லூரியின் இறுதி ஆண்டு மாணவியர் பயிற்சி அளித்தனர். குறிப்பாக இயற்கை பூச்சிக்கொல்லி கரைசல் தயாரிப்பு குறித்து செயல்விளக்கம் அளிக்கப்பட்டது. இயற்கை விவசாயம் மற்றும் சாகுபடி வழிமுறைகள் குறித்தும் விளக்கம் அளிக்கப்பட்டது. விவசாயிகள் பலர் இந்தப் பயிற்சியில் பங்கேற்றனர். மேலும் செய்திகளுக்கு சேலம் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🌾 தலைவாசலில் விவசாயிகளுக்கு இயற்கை பூச்சிக்கொல்லி பயிற்சி\n\n📰 முழு விவரம்:\nதலைவாசல், சிறுவாச்சூரில் வேளாண் துறை சார்பில் விவசாயிகளுக்குப் பயிற்சி அளிக்கப்பட்டது. தனியார் வேளாண் கல்லூரியின் இறுதி ஆண்டு மாணவியர் பயிற்சி அளித்தனர்.\nஇயற்கை பூச்சிக்கொல்லி கரைசல் தயாரிப்பு குறித்து செயல்விளக்கம் அளிக்கப்பட்டது. இயற்கை விவசாயம், சாகுபடி வழிமுறைகள் குறித்தும் எடுத்துரைக்கப்பட்டது. விவசாயிகள் பலர் பங்கேற்றனர்.\n\n📍 இடம்: சிறுவாச்சூர், தலைவாசல், சேலம் மாவட்டம்\n\nFarmers training natural pesticide Thalaivasal | Salem news\n📍 தலைவாசல், சேலம் மாவட்டம் | 22 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Salem360 #Salem #Thalaivasal #SalemNews #சேலம்",
+   "prompts": "A group of final-year women agriculture students in saree or churidar stands at a demonstration table in an open-air training shed at Siruvachur, Thalaivasal, demonstrating how to prepare natural pesticide solution. On the table are steel vessels, a large plastic bucket of greenish liquid, neem leaves and a few crop stalks. Around them sit a crowd of farmers, men in shirts and veshti and women in cotton sarees, listening attentively on plastic chairs and mats under a tin roof. In the background, green paddy fields stretch toward low hills under bright daylight. Shot at eye level, 35 mm, wide enough to show the training shed, the demonstration table and the farmers in the foreground seen from behind. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up of a steel vessel and a plastic bucket filled with a natural pesticide solution, with fresh neem leaves, crushed herbs and a handful of cow dung placed on a wooden table at the training demonstration in Siruvachur, Thalaivasal. A student's hand in a cotton sarees sleeve stirs the liquid with a wooden stick, and a few farmers' feet and sandals are visible at the edge of the frame. Bright daylight from the side, shallow depth of field with the green paddy field softly blurred behind. Shot at slightly high angle, 35 mm. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-salem/training-for-farmers/4382898",
+   "published": "2026-11-22T01:21:00+05:30",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: reel_script has 50 words; need 60-160 (the key facts once each, in at most 90 seconds; every other detail goes in the caption's 📰 முழு விவரம் block)",
+   "note": "free-model draft anthropic/claude-haiku-5-5, 13 attempt(s), 1 validator problem(s)",
+   "post_time": "right after your reply, same day",
+   "_area": "N",
+   "_score": 999,
+   "images": [
+    "https://res.cloudinary.com/jrmwajfz/image/upload/v1795314891/salem360/dp59jtjnyt4kprrfffrn.jpg",
+    "https://res.cloudinary.com/jrmwajfz/image/upload/v1795314898/salem360/ywewfhfqxe4a3mggily3.jpg"
+   ]
+  },
+  {
+   "tamil_headline": "பனமரத்துப்பட்டியில் காண்டாமிருக வண்டுகளை அழிக்க விவசாயிகளுக்கு அறிவுரை",
+   "english_headline": "Farmers in Panamarathupatti advised on destroying rhinoceros beetles that damage coconut trees",
+   "category": "Weather & Agriculture",
+   "location": "Panamarathupatti, Salem district",
    "importance": "Medium",
    "scope": "local",
    "post_to": "Salem 360",
@@ -174,407 +212,292 @@
     "v": 3,
     "cat": "விவசாயம்",
     "loc": "பனமரத்துப்பட்டி",
-    "hl1": "பனமரத்துப்பட்டியில் பனியால் அரளி சரிவு",
-    "hl2": "10 கிலோ இடம் 3 கிலோ மட்டும்",
-    "slides": [
-     {
-      "title": "உற்பத்தி சரிவு",
-      "lines": [
-       "பனமரத்துப்பட்டி வட்டாரத்தில் <b>800</b> ஹெக்டேரில் அரளி",
-       "பனிப்பொழிவால் மொக்கு வளர்ச்சி இல்லாமல் உதிர்கிறது",
-       "உற்பத்தி குறைந்து விலை உயர்ந்துள்ளது"
-      ]
-     },
-     {
-      "title": "விலை வளர்ச்சி",
-      "lines": [
-       "அய்யப்பன் கோவில் சீசனில் விலை உயர்வு",
-       "ஒரு கிலோ அரளி <b>350</b> ரூபாய் வரை விற்பனை",
-       "தமிழகம், வெளி மாநிலங்களுக்கு அனுப்பப்படுகிறது"
-      ]
-     },
-     {
-      "title": "விவசாயிகள் கூற்று",
-      "lines": [
-       "மழையின்றி முன்கூட்டியே பனி தொடங்கியது",
-       "<b>10</b> கிலோ கிடைத்த வயலில் <b>3</b> கிலோ மட்டும் கிடைக்கிறது",
-       "விவசாயிகள் இதுகுறித்து கவலை தெரிவித்தனர்"
-      ]
-     }
-    ],
-    "carousel": false
-   },
-   "reel_script": "பனமரத்துப்பட்டி வட்டாரத்தில் பனிப்பொழிவால் அரளி உற்பத்தி கணிசமாக குறைந்துள்ளது. 800 ஹெக்டேரில் நடவு செய்துள்ள அரளி செடிகளில் இருந்து தினமும் மொக்கு அறுவடை செய்யப்படுகிறது. இந்த மொக்கை தமிழகம் மற்றும் வெளி மாநிலங்களுக்கு விற்பனைக்கு அனுப்பப்படுகிறது. அய்யப்பன் கோவில் சீசன் என்பதால் அரளி விலை உயர்ந்துள்ளது. தற்போது ஒரு கிலோ அரளி 350 ரூபாய் வரை விற்கப்படுகிறது. விவசாயிகள் கூறுகையில், மழையின்றி முன்கூட்டியே பனிப்பொழிவு தொடங்கியுள்ளது. இதனால் அரளி செடிகளில் உள்ள மொக்கு வளர்ச்சி இல்லாமல் உதிர்ந்து விடுகிறது. வழக்கமாக 10 கிலோ கிடைத்த வயலில், பனி கொட்டுவதால் 3 கிலோ மட்டும் கிடைக்கிறது. உற்பத்தி குறைந்ததால் அரளி விலை உயர்ந்துள்ளது. விவசாயிகள் இந்த நிலையை கவனித்து வருகின்றனர். மேலும் செய்திகளுக்கு சேலம் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "❄️ பனமரத்துப்பட்டியில் பனியால் அரளி உற்பத்தி சரிவு - விலை 350 ரூபாய்\n\n📰 முழு விவரம்:\nபனமரத்துப்பட்டி வட்டாரத்தில் 800 ஹெக்டேரில் அரளி செடிகள் நடவு செய்யப்பட்டுள்ளன. தினமும் மொக்கு அறுவடை செய்து தமிழகம் மற்றும் வெளி மாநிலங்களுக்கு அனுப்பப்படுகிறது. அய்யப்பன் கோவில் சீசன் என்பதால் விலை உயர்ந்து ஒரு கிலோ அரளி 350 ரூபாய் வரை விற்கப்படுகிறது. மழையின்றி முன்கூட்டியே பனிப்பொழிவு தொடங்கியுள்ளது. இதனால் மொக்கு வளர்ச்சி இல்லாமல் உதிர்ந்து விடுகிறது. 10 கிலோ கிடைத்த வயலில் 3 கிலோ மட்டும் கிடைக்கிறது. உற்பத்தி குறைந்ததால் விலை உயர்ந்துள்ளது.\n\n📍 இடம்: பனமரத்துப்பட்டி வட்டாரம்\n📊 பரப்பு: 800 ஹெக்டேர்\n💰 விலை: 350 ரூபாய் (1 கிலோ)\n📉 உற்பத்தி: 10 கிலோ இடம் 3 கிலோ\n\nவிவசாயிகளுக்கு பயனுள்ளதாக இருக்குமாறு Share செய்யுங்கள்\n\nArali production drops due to cold wave in Panamattupatti | Salem news\n📍 Panamattupatti, Salem | 22 Nov 2026\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Salem360 #Salem #Panamattupatti #SalemNews #சேலம்",
-   "prompts": "Farmers in a Salem district oleander field in Panamattupatti pluck buds by hand from rows of pink-flowered arali bushes, while a thin layer of white morning dew and cold mist covers the leaves and the bare ground between the rows. The field stretches flat across the rural block, with mango trees and a few distant farm sheds at the edges and the faint blue outline of the Shevaroy hills in the far background. Two or three farmers, seen from behind and slightly far away, wear shirts and veshti or cotton towels over their heads against the cold, bending among the bushes with cloth sacks tied at their waists. The bushes look thinner and sparser than normal, and many buds lie withered and dropped on the soil. It is early morning, soft grey-gold light breaks through the mist, the air looks cold and damp. Shot at eye level or slightly high with a 35 mm lens, wide enough to show the field, the mist and the hills. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up of oleander buds in a farmer's cupped hands and a cloth sack on the ground, showing small, shrivelled, undeveloped buds mixed with dew-soaked fallen petals and dropped buds on the soil. Each bud is cold and beaded with frost-like dew, while a few healthy pink buds remain on a green stem in the background. Behind them, a blurred row of arali bushes and a farmer's bare forearm in a damp shirt sleeve fill the frame. The light is soft, early morning, grey and pale with cold mist. Shot close-up with a 35 mm lens at slightly high angle, shallow depth of field, focusing on the withered buds versus the few healthy ones. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-salem/paddy-production-slows-down-due-to-heavy-snowfall/4382908",
-   "published": "2026-11-22T01:29:00+05:30",
-   "verification": "DRAFT (groq/qwen/qwen3.8-27b) - fact-check: no problems found",
-   "note": "free-model draft groq/qwen/qwen3.8-27b, 3 attempt(s), 0 validator problem(s)",
-   "post_time": "right after your reply, same day",
-   "_area": "N",
-   "_score": 999,
-   "images": [
-    "https://res.cloudinary.com/jrmwajfz/image/upload/v1795302079/salem360/purfay32ul3ndinx6gbe.jpg",
-    "https://res.cloudinary.com/jrmwajfz/image/upload/v1795302088/salem360/eduzihnkodwm5kx2jlax.jpg"
-   ]
-  },
-  {
-   "tamil_headline": "நாற்று இருக்கு, மழை இல்லை: பனமரத்துப்பட்டியில் நடவு தாமதம்",
-   "english_headline": "No rain in Panamarathupatti; paddy planting delayed as seedlings wait",
-   "category": "Weather & Agriculture",
-   "location": "Panamarathupatti taluk, Salem district",
-   "importance": "High",
-   "scope": "",
-   "post_to": "Salem 360",
-   "slides_spec": {
-    "v": 3,
-    "cat": "விவசாயம்",
-    "loc": "பனமரத்துப்பட்டி",
-    "hl1": "பனமரத்துப்பட்டியில் நெல் நடவு தாமதம்",
-    "hl2": "மழை இல்லாததால் பாதிப்பு",
+    "hl1": "பனமரத்துப்பட்டியில் அழிக்க அறிவுரை",
+    "hl2": "தென்னை மரங்களை காக்க வழி",
     "slides": [
      {
       "title": "என்ன பிரச்சனை?",
       "lines": [
-       "மழை இல்லாததால் நெல் நடவு தொடங்கவில்லை",
-       "நாற்றுகள் <b>30 நாட்கள்</b> வளர்ந்துவிட்டன",
-       "வயலை உழவு செய்யும் பணியும் தொடங்கவில்லை"
+       "தென்னை மரத்தை தாக்கும் காண்டாமிருக வண்டுகள்",
+       "மரங்களுக்கு பெரும் சேதம் ஏற்படுத்துகின்றன",
+       "பனமரத்துப்பட்டியில் விழிப்புணர்வு கூட்டம் நடைபெற்றது"
       ]
      },
      {
-      "title": "எந்தப் பகுதிகள்?",
+      "title": "யார்",
       "lines": [
-       "திப்பம்பட்டி, குள்ளப்பநாயக்கனூர், குரால்நத்தம்",
-       "சாமகுட்டப்பட்டி, தும்பல்பட்டி, கூட்டாறு",
-       "கம்மாளப்பட்டி, பெரமனூர் உள்ளிட்ட பகுதிகள்"
+       "கிருஷ்ணகிரி மாவட்டம் பையூர் தோட்டக்கலை கல்லூரி மாணவியர்",
+       "4ஆம் ஆண்டு படிக்கும் மாணவியர் இதை நடத்தினர்",
+       "நேற்று நேரடி செயல்விளக்கம் அளிக்கப்பட்டது"
       ]
      },
      {
-      "title": "விவசாயிகளின் கவலை",
+      "title": "என்ன தீர்வு?",
       "lines": [
-       "நாற்று விட்டு <b>25 முதல் 35 நாட்களுக்குள்</b> நடவு செய்ய வேண்டும்",
-       "கிணற்றில் <b>80 அடிக்கு கீழ்</b> தண்ணீர் சென்றுவிட்டது",
-       "நடவு செய்யலாமா வேண்டாமா என தெரியாமல் தவிப்பு"
-      ]
-     },
-     {
-      "title": "எப்போது மழை?",
-      "lines": [
-       "அக்டோபரில் பெய்ய வேண்டிய மழை வரவில்லை",
-       "நவம்பர் <b>26</b> முதல் மழை வரும் என எதிர்பார்ப்பு",
-       "வேளாண் அதிகாரிகள் தகவல்"
+       "பக்கெட் வடிவ இனக்கவர்ச்சி பொறி வைத்து வண்டுகளை கவரலாம்",
+       "வண்டு தாக்குதல் அறிகுறிகளை அடையாளம் காணுங்கள்",
+       "சுற்றுச்சூழலுக்கு உகந்த பயிர் பாதுகாப்பு முறைகளை"
       ]
      }
     ],
     "carousel": false
    },
-   "reel_script": "பனமரத்துப்பட்டியில் நெல் நடவு பணிகள் தாமதமாகியுள்ளன. திப்பம்பட்டி, குள்ளப்பநாயக்கனூர், குரால்நத்தம், சாமகுட்டப்பட்டி, தும்பல்பட்டி, கூட்டாறு, கம்மாளப்பட்டி, பெரமனூர் உள்ளிட்ட பகுதிகளில் விவசாயிகள் நெல் நாற்றுகள் விட்டுள்ளனர். ஆனால் எதிர்பார்த்தபடி மழை பெய்யவில்லை. இதனால் வயலை உழவு செய்யும் பணி தொடங்கவில்லை. நாற்றுகள் 30 நாட்கள் வளர்ந்த நிலையில் நடவு செய்ய முடியவில்லை. நாற்று விட்டு 25 முதல் 35 நாட்களுக்குள் நடவு செய்ய வேண்டும். புரட்டாசி, ஐப்பசி மாதங்களில் எதிர்பார்த்த மழை பெய்யவில்லை. கிணற்றில் 80 அடிக்குக் கீழே தண்ணீர் சென்றுவிட்டது. நடவு செய்யலாமா வேண்டாமா என்று தெரியாமல் விவசாயிகள் தவிக்கின்றனர். அக்டோபரில் பெய்ய வேண்டிய மழை வரவில்லை என வேளாண் அதிகாரிகள் தெரிவித்தனர். நவம்பர் 26 முதல் மழை வரும் என எதிர்பார்க்கப்படுகிறது. மேலும் செய்திகளுக்கு சேலம் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🌾 பனமரத்துப்பட்டியில் மழை இல்லாததால் நெல் நடவு தாமதம்\n\n📰 முழு விவரம்:\nபனமரத்துப்பட்டி வட்டாரத்தில் திப்பம்பட்டி, குள்ளப்பநாயக்கனூர், குரால்நத்தம், சாமகுட்டப்பட்டி, தும்பல்பட்டி, கூட்டாறு, கம்மாளப்பட்டி, பெரமனூர் உள்ளிட்ட பகுதிகளில் விவசாயிகள் நெல் நாற்று விட்டுள்ளனர். எதிர்பார்த்த மழை பெய்யாததால் நாற்றுகளைப் பிடுங்கி நடவு செய்ய வயலை உழவு செய்யும் பணி தொடங்கவில்லை. நாற்றுகள் 30 நாட்கள் வளர்ந்துவிட்டன; 25 முதல் 35 நாட்களுக்குள் நடவு செய்ய வேண்டும்.\n🌧️ புரட்டாசி, ஐப்பசியில் எதிர்பார்த்த மழை இல்லை.\n💧 கிணற்றில் 80 அடிக்குக் கீழ் தண்ணீர் சென்றுவிட்டது.\n📅 அக்டோபரில் பெய்ய வேண்டிய மழை வரவில்லை என வேளாண் அதிகாரிகள் தெரிவித்தனர். நவம்பர் 26 முதல் மழை வரும் என எதிர்பார்ப்பு.\n\nNo rain, paddy planting delayed Panamarathupatti | Salem news\n📍 பனமரத்துப்பட்டி, சேலம் மாவட்டம் | 22 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Salem360 #Salem #SalemNews #சேலம் #Panamarathupatti",
-   "prompts": "Several Tamil Nadu farmers in shirts and veshti stand from behind at the edge of a dry paddy field in a village of Panamarathupatti taluk, Salem district, looking over cracked, bone-dry soil where ploughing has not started. Bundles of green paddy nursery seedlings, about 30 days old, lie heaped on the bund ready for transplanting, while an idle wooden plough rests against a low mud wall. Beyond the field, a dug well with a rope and bucket shows how far groundwater has dropped. Clear daylight with a bright, hazy sky and no clouds, no rain. Shot at eye level, 35 mm lens, wide enough to show the empty dry field, the seedlings and the farmers together. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up detail of bundles of young green paddy nursery seedlings, their roots and soil still attached, stacked on dry cracked earth at the edge of an unploughed field in Panamarathupatti taluk, Salem district. The soil surface is pale, dry and split into deep cracks, with a few dry stalks scattered around. In the soft background a farmer's bare feet and veshti hem are seen from behind, slightly blurred. Bright daylight with harsh sun and no rain, shot at low angle, 35 mm lens, shallow depth of field to make the wilting seedlings the clear focus. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-salem/lack-of-rain-delays-start-of-crop-transplantation/4382907",
-   "published": "2026-11-22T01:28:00+05:30",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5) - fact-check: no problems found",
-   "note": "free-model draft anthropic/claude-haiku-5-5, 11 attempt(s), 0 validator problem(s)",
-   "post_time": "right after your reply, same day",
-   "_area": "N",
-   "_score": 999,
-   "images": [
-    "https://res.cloudinary.com/jrmwajfz/image/upload/v1795302100/salem360/gnu67lcaarrjzzrybg5z.jpg",
-    "https://res.cloudinary.com/jrmwajfz/image/upload/v1795302109/salem360/rkrbdlpip0vfv7e0en9n.jpg"
-   ]
-  },
-  {
-   "tamil_headline": "சேலம் அரசு மருத்துவமனையில் ஒப்பந்த பணிக்கு விண்ணப்பிக்க அழைப்பு",
-   "english_headline": "Salem GH contract jobs: applications invited, last date 27th",
-   "category": "Government & Services",
-   "location": "Salem Government Mohan Kumaramangalam Medical College Hospital, Salem district",
-   "importance": "High",
-   "scope": "district",
-   "post_to": "Salem 360",
-   "slides_spec": {
-    "v": 3,
-    "cat": "வேலைவாய்ப்பு",
-    "loc": "சேலம் அரசு மருத்துவமனை",
-    "hl1": "சேலம் ஜி.ஹெச்.ல் ஒப்பந்த பணி அழைப்பு",
-    "hl2": "விண்ணப்பிக்க கடைசி தேதி 27",
-    "slides": [
-     {
-      "title": "என்ன பணிகள்?",
-      "lines": [
-       "எக்கோ டெக்னீஷியன் ஒருவர்",
-       "வட்டார கணக்கு உதவியாளர் ஒருவர்",
-       "த்ரோபடிக் அசிஸ்டன்ட் ஆண், பெண் தலா ஒருவர்"
-      ]
-     },
-     {
-      "title": "மேலும் பணிகள்",
-      "lines": [
-       "ரேடியோகிராபர் <b>3 பேர்</b>",
-       "அறுவை சிகிச்சை அரங்கு உதவியாளர் ஒருவர்",
-       "தற்காலிக ஒப்பந்த அடிப்படையில் நிரப்பப்படும்"
-      ]
-     },
-     {
-      "title": "எப்படி",
-      "lines": [
-       "விண்ணப்பம் salem.nic.in இணையதளத்தில் கிடைக்கும்",
-       "<b>27</b>க்குள் மாவட்ட நலச்சங்கத்தில் சமர்ப்பிக்கவும்",
-       "சேலம் நாட்டாண்மை கழக கட்டட வளாகம்"
-      ]
-     }
-    ],
-    "carousel": false
-   },
-   "reel_script": "சேலம் அரசு மருத்துவமனையில் ஒப்பந்த அடிப்படையில் பல பணியிடங்கள் காலியாக உள்ளன. எக்கோ டெக்னீஷியன், வட்டார கணக்கு உதவியாளர் தலா ஒருவர் தேவை. த்ரோபடிக் அசிஸ்டன்ட் ஆண், பெண் தலா ஒருவர் தேவை. ரேடியோகிராபர் 3 பேர் மற்றும் அறுவை சிகிச்சை அரங்கு உதவியாளர் ஒருவர் தேவை. இந்தப் பணியிடங்கள் மாவட்ட நலச்சங்கத்தால் தற்காலிக ஒப்பந்த அடிப்படையில் நிரப்பப்பட உள்ளன. எக்கோ டெக்னீஷியனுக்கு அது தொடர்பான டிப்ளமோ அல்லது டிகிரி தேர்ச்சி அவசியம். வட்டார கணக்கு உதவியாளருக்கு பி காம். தேர்ச்சியுடன் கணினி கணக்குப் பயிற்சி முடித்திருக்க வேண்டும். இரண்டு பணிகளுக்கும் 40 வயதுக்குட்பட்டவர்கள் விண்ணப்பிக்கலாம். விண்ணப்பங்களை சேலம் மாவட்ட இணையதளத்தில் பதிவிறக்கம் செய்து பூர்த்தி செய்ய வேண்டும். பூர்த்தி செய்த விண்ணப்பங்களை 27ஆம் தேதிக்குள் சேலம் நாட்டாண்மை கழக கட்டட வளாகத்தில் உள்ள மாவட்ட நலச்சங்கத்தில் சமர்ப்பிக்க வேண்டும் என கலெக்டர் இளம்பகவத் தெரிவித்துள்ளார். மேலும் செய்திகளுக்கு சேலம் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "💼 சேலம் ஜி.ஹெச்.ல் ஒப்பந்த பணிகளுக்கு விண்ணப்பிக்க அழைப்பு: கடைசி தேதி 27\n\n📰 முழு விவரம்:\nசேலம் அரசு மோகன் குமாரமங்கலம் மருத்துவ கல்லூரி மருத்துவமனை சுகாதார மையம், துணை இயக்குனர் (காசநோய்) நலப்பணி அலுவலகம் ஆகியவற்றில் பணியிடங்கள் காலியாக உள்ளன.\nஎக்கோ டெக்னீஷியன், வட்டார கணக்கு உதவியாளர் தலா ஒருவர், த்ரோபடிக் அசிஸ்டன்ட் ஆண், பெண் தலா ஒருவர், ரேடியோகிராபர் 3 பேர், அறுவை சிகிச்சை அரங்கு உதவியாளர் ஒருவர் ஆகிய பணியிடங்கள் உள்ளன.\nஇவை தற்காலிக ஒப்பந்த அடிப்படையில் மாவட்ட நலச்சங்கத்தால் நிரப்பப்படும்.\n\n📍 இடம்: சேலம் அரசு மருத்துவமனை, சேலம் மாவட்டம்\n🗓️ கடைசி தேதி: 27ஆம் தேதிக்குள்\n🎓 தகுதி: எக்கோ டெக்னீஷியனுக்கு டிப்ளமோ அல்லது டிகிரி; வட்டார கணக்கு உதவியாளருக்கு பி.காம். மற்றும் கணினி கணக்குப் பயிற்சி. இரண்டுக்கும் 40 வயதுக்குட்பட்டோர்.\n🌐 விண்ணப்பம்: https://salem.nic.in இணையதளத்தில் பதிவிறக்கம் செய்யலாம்\n📮 சமர்ப்பிக்கும் இடம்: சேலம் நாட்டாண்மை கழக கட்டட வளாகத்தில் உள்ள மாவட்ட நலச்சங்கம்\n\nSalem GH contract jobs apply by 27th | Salem news\n📍 சேலம் அரசு மருத்துவமனை, சேலம் மாவட்டம் | 22 நவம்பர் 2026\n\nதேவைப்படுவோருக்கு Share செய்யுங்கள்.\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Salem360 #Salem #SalemNews #சேலம்",
-   "prompts": "A line of young job applicants stands outside a government office block in the Salem Government Mohan Kumaramangalam Medical College Hospital campus, waiting to submit application forms for temporary contract posts. Seen from behind and at a distance, the men wear shirts with veshti or trousers and the women wear sarees or salwar, several holding folded paper files and printed application forms in their hands. The building is a plain concrete government block with a row of windows and a small notice board near the entrance, and a hospital ambulance is parked at the edge of the frame. Green tree leaves and a few two-wheelers are visible in the courtyard. Daylight, soft and even, with the Shevaroy hills faintly visible far in the background. Camera at eye level, 35 mm lens, wide enough to show the whole queue and the hospital building. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up of a stack of printed government application forms and a folded set of certificate documents lying on a wooden table at the counter of the district health society office in Salem. A hand in a plain shirt sleeve rests beside the papers, a blue ballpoint pen placed across the top sheet. The forms are blank in the visible portion, with no readable text, and a few sheets of photocopied documents are fanned out beside them. The background is a soft-focus government office wall with a tube light and a corner of a metal almirah. Natural daylight from a window falls across the papers, casting soft shadows. Camera slightly high, 35 mm lens, shallow depth of field to focus on the forms and pen. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-salem/-call-to-apply-for-a-contract-job/4382910",
-   "published": "2026-11-22T01:30:00+05:30",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: source/outlet name or link appears: http",
-   "note": "free-model draft anthropic/claude-haiku-5-5, 12 attempt(s), 1 validator problem(s)",
-   "post_time": "right after your reply, same day",
-   "_area": "N",
-   "_score": 999,
-   "images": [
-    "https://res.cloudinary.com/jrmwajfz/image/upload/v1795302120/salem360/mwiv9hu2iliduak7p6dq.jpg",
-    "https://res.cloudinary.com/jrmwajfz/image/upload/v1795302137/salem360/qxxvrmn40yoiuvvtkvfz.jpg"
-   ]
-  },
-  {
-   "tamil_headline": "சேலத்தில் வழிப்பறி: இரண்டு ரவுடிகள் கைது",
-   "english_headline": "Two rowdies arrested for robbery in Salem city",
-   "category": "Crime & Safety",
-   "location": "Salem city, Salem district",
-   "importance": "Medium",
-   "scope": "local",
-   "post_to": "Salem 360",
-   "slides_spec": {
-    "v": 3,
-    "cat": "குற்றம்",
-    "loc": "சேலம்",
-    "hl1": "சேலத்தில் வழிப்பறி: 2 ரவுடிகள் கைது",
-    "hl2": "இரண்டு வழிப்பறி வழக்குகள்",
-    "slides": [
-     {
-      "title": "முதல் சம்பவம்",
-      "lines": [
-       "சேலம் சீலநாயக்கன்பட்டி பஸ் ஸ்டாப் அருகே வழிப்பறி",
-       "கத்தியைக் காட்டி <b>2,350 ரூபாய்</b> பறிக்கப்பட்டது",
-       "ரவுடி கார்த்திக் (31 வயது), நேற்று கைது"
-      ]
-     },
-     {
-      "title": "இரண்டாம் சம்பவம்",
-      "lines": [
-       "பெரிய புதூர் நகரமலை அடிவாரம் சாலையில் வழிப்பறி",
-       "எலக்ட்ரீஷியனிடம் <b>1,500 ரூபாய்</b> பறிப்பு",
-       "ரவுடி அருண்குமார் (24 வயது), நேற்று கைது"
-      ]
-     },
-     {
-      "title": "போலீஸ் நடவடிக்கை",
-      "lines": [
-       "அன்னதானப்பட்டி, அழகாபுரம் போலீசார் விசாரணை",
-       "இருவரும் புகார்களின் அடிப்படையில் கைது",
-       "பொதுமக்கள் இரவில் கவனமாக இருங்கள்"
-      ]
-     }
-    ],
-    "carousel": false
-   },
-   "reel_script": "சேலத்தில் இரவில் கத்தி முனையில் பணம் பறித்த இரண்டு ரவுடிகள் கைது செய்யப்பட்டனர். ஓமலூர் அருகே சிந்தாமணியூரைச் சேர்ந்த 34 வயது சண்முகம், சீலநாயக்கன்பட்டி பஸ் ஸ்டாப் அருகே நின்றிருந்தபோது வழிப்பறி நடந்தது. நேற்று முன்தினம் இரவு 10:30 மணிக்கு நடந்த இந்தச் சம்பவத்தில், கத்தியைக் காட்டி மிரட்டி 2,350 ரூபாய் பறிக்கப்பட்டது. சண்முகத்தின் புகாரின் பேரில் அன்னதானப்பட்டி போலீசார் விசாரணை நடத்தினர். இதில் ரவுடி கார்த்திக் (31 வயது), என்பவர் நேற்று கைது செய்யப்பட்டார். இதேபோல், பெரிய புதூர் நகரமலை அடிவாரம் சாலையில் நேற்று முன்தினம் இரவு 9 மணிக்கு எலக்ட்ரீஷியன் சிலம்பரசன் (26 வயது), வீட்டுக்கு நடந்து சென்றபோது வழிமறிக்கப்பட்டார். கத்தியைக் காட்டி 1,500 ரூபாய் பறிக்கப்பட்டது. அழகாபுரம் போலீசார் விசாரித்து ரவுடி அருண்குமார் (24 வயது), என்பவரை நேற்று கைது செய்தனர். மேலும் செய்திகளுக்கு சேலம் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🚨 சேலத்தில் கத்தி முனையில் வழிப்பறி: 2 ரவுடிகள் கைது\n\n📰 முழு விவரம்:\nநேற்று முன்தினம் இரவு சேலம் சீலநாயக்கன்பட்டி பஸ் ஸ்டாப் அருகே பேக்கரி ஊழியர் சண்முகத்திடம் கத்தியைக் காட்டி 2,350 ரூபாய் பறிக்கப்பட்டது. அன்னதானப்பட்டி போலீசார் விசாரணையில் ரவுடி கார்த்திக் (31 வயது), நேற்று கைது செய்யப்பட்டார்.\nஅதே நாள் இரவு 9 மணிக்கு பெரிய புதூர் நகரமலை அடிவாரம் சாலையில் எலக்ட்ரீஷியன் சிலம்பரசனிடம் கத்தி முனையில் 1,500 ரூபாய் பறிக்கப்பட்டது. அழகாபுரம் போலீசார் விசாரித்து ரவுடி அருண்குமார் (24 வயது), நேற்று கைது செய்தனர்.\n\n📍 இடம்: சேலம் சீலநாயக்கன்பட்டி, பெரிய புதூர்\n🕘 நேரம்: இரவு 9 மணி, 10:30 மணி\n👮 நடவடிக்கை: இருவரும் கைது\nℹ️ மக்கள் கவனத்திற்கு: இரவு நேரத்தில் தனியாக நடப்பவர்கள் கவனமாக இருங்கள்.\n\nSalem robbery two rowdies arrested | Salem news\n📍 சேலம் மாவட்டம் | 22 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Salem360 #Salem #SalemNews #சேலம்",
-   "prompts": "A Tamil Nadu police sub-inspector in khaki uniform stands beside a police jeep at night at a bus stop on a Salem city road, taking down details while two uniformed constables escort a young man, seen only from behind and far away, toward the vehicle. The bus stop has a corrugated metal shelter and a faded concrete bench, with a row of shops closed for the night and tube lights glowing along the pavement. Two-wheelers and an autorickshaw are parked at the roadside, and a private bus is faintly visible in the distance. The scene is late night, around 10:30 pm, lit by sodium street lamps and the police jeep's headlights. Shot at eye level, 35 mm, wide enough to show the bus stop, the shops and the police jeep. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up of a small cash pile, a few folded Indian ruppee notes of 500 and 200 denomination, and a dull folding knife with a worn wooden handle placed together on a wooden table at a police station in Salem city. Behind the table, out of focus, a khaki-uniformed police constable stands at a plain cream-painted wall with a metal almirah. A single tube light overhead gives a cool white light, with the night visible through a barred window. The objects are seized evidence, with no hand or person touching them. Shot slightly high, 35 mm, shallow depth of field keeping the notes and knife sharp and the constable softly blurred. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-salem/protect-the-rowdies/4382909",
-   "published": "2026-11-22T01:29:00+05:30",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: hl1 (the first headline on screen) must name the place 'சேலம்', e.g. 'சேலம்: ...' or 'சேலம்-இல் ...' - viewers share news of their own area; caption misses facts of the article (put every one in 📰 முழு விவரம்): 34 ('சேலம்: ஓமலூர் அடுத்த சிந்தாமணியூர், தேவாங்க செட்டியார் கல்யா'); ஓமலூர் ('சேலம்: ஓமலூர் அடுத்த சிந்தாமணியூர், தேவாங்க செட்டியார் கல்யா'); 5 ('சண்முகம் புகார்படி, அன்னதானப்பட்டி போலீசார் விசாரணையில், வழி'); தாதகாப்பட்டி ('சண்முகம் புகார்படி, அன்னதானப்பட்டி போலீசார் விசாரணையில், வழி'); 26 ('நேற்று, அவரை போலீசார் கைது செய்தனர்.சேலம், பெரிய புதூர், நகர')",
-   "note": "free-model draft anthropic/claude-haiku-5-5, 13 attempt(s), 2 validator problem(s)",
-   "post_time": "right after your reply, same day",
-   "_area": "N",
-   "_score": 999,
-   "images": [
-    "https://res.cloudinary.com/jrmwajfz/image/upload/v1795302175/salem360/t1b5u10dylsfj4wkv9jj.jpg",
-    "https://res.cloudinary.com/jrmwajfz/image/upload/v1795302181/salem360/va75ih0u6a8rjr0xfrm9.jpg"
-   ]
-  },
-  {
-   "tamil_headline": "பனமரத்துப்பட்டியில் போதையில் பைக் ஓட்டுவது அதிகரிப்பு: போலீசார் நடவடிக்கை கோரிக்கை",
-   "english_headline": "Drunk bike riding rising on Panamarathupatti stretch of Salem-Namakkal road; residents demand police action",
-   "category": "Crime & Safety",
-   "location": "Panamarathupatti, Salem district",
-   "importance": "High",
-   "scope": "",
-   "post_to": "Salem 360",
-   "slides_spec": {
-    "v": 3,
-    "cat": "போதை பைக் ஓட்டம்",
-    "loc": "பனமரத்துப்பட்டி",
-    "hl1": "பனமரத்துப்பட்டியில் ஓட்டம் அதிகரிப்பு",
-    "hl2": "போலீஸ் நடவடிக்கை கோரிக்கை",
-    "slides": [
-     {
-      "title": "எங்கே?",
-      "lines": [
-       "சேலம் - நாமக்கல் நான்கு வழிச்சாலை, கெஜ்ஜல்நாயக்கன்பட்டி",
-       "பனமரத்துப்பட்டி, திப்பம்பட்டி, கம்மாளப்பட்டி செல்லும்",
-       "காந்தி நகர், குரங்கு புளியமரம் பகுதிகள்"
-      ]
-     },
-     {
-      "title": "என்ன நடக்கிறது?",
-      "lines": [
-       "அருகில் உள்ள இரண்டு டாஸ்மாக் கடைகளால் பிரச்சினை",
-       "மாலை முதல் நள்ளிரவு வரை <b>70%</b> இருசக்கர வாகன ஓட்டிகள் போதையில்",
-       "ஒரு பைக்கில் <b>3 பேர்</b> வீதம் வேகமாக ஓட்டுகின்றனர்"
-      ]
-     },
-     {
-      "title": "விபத்துகள்",
-      "lines": [
-       "காந்தி நகர், பனமரத்துப்பட்டி, குரால்நத்தம்",
-       "கடைகளைச் சுற்றி <b>100க்கும் மேற்பட்ட</b> பைக்குகள் நிற்கின்றன",
-       "கட்டுப்பாடின்றி அதிவேகமாக பைக் ஓட்டுகின்றனர்"
-      ]
-     },
-     {
-      "title": "மக்கள் கோரிக்கை",
-      "lines": [
-       "போதையில் பைக் ஓட்டுவோர் மீது போலீசார் சோதனை நடத்த வேண்டும்",
-       "உரிய நடவடிக்கை எடுக்க வேண்டும் என மக்கள் கோரிக்கை",
-       "வாகன ஓட்டிகள் கவனமாக செல்லுங்கள்"
-      ]
-     }
-    ],
-    "carousel": false
-   },
-   "reel_script": "பனமரத்துப்பட்டி பகுதியில் போதையில் பைக் ஓட்டுவது அதிகரித்துள்ளது. சேலம் - நாமக்கல் நான்கு வழிச்சாலை, கெஜ்ஜல்நாயக்கன்பட்டியில் இருந்து பனமரத்துப்பட்டி, திப்பம்பட்டி, கம்மாளப்பட்டி செல்லும் பிரதான சாலையில் இந்தப் பிரச்சினை உள்ளது. காந்தி நகர், குரங்கு புளியமரம் பகுதிகளில் உள்ள இரண்டு டாஸ்மாக் கடைகளால் இந்த நிலை ஏற்பட்டுள்ளதாகக் கூறப்படுகிறது. மாலை முதல் நள்ளிரவு வரை 70 சதவீத இருசக்கர வாகன ஓட்டிகள் போதையில் இருப்பதாகக் கூறப்படுகிறது. ஒரு பைக்கில் 3 பேர் வீதம் வேகமாக ஓட்டிச் செல்கின்றனர். இதனால் காந்தி நகர், பனமரத்துப்பட்டி, குரால்நத்தம், குரங்குபுளியமரம் பகுதிகளில் அடிக்கடி விபத்துகள் நடக்கின்றன. மாலையில் கடைகளைச் சுற்றி 100க்கும் மேற்பட்ட பைக்குகள் நிற்கின்றன. மது குடித்துவிட்டு கட்டுப்பாடின்றி அதிவேகமாக பைக் ஓட்டுகின்றனர். போதையில் பைக் ஓட்டுவோர் மீது போலீசார் சோதனை நடத்தி உரிய நடவடிக்கை எடுக்க வேண்டும் என மக்கள் கோரிக்கை வைத்துள்ளனர். மேலும் செய்திகளுக்கு சேலம் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🚨 பனமரத்துப்பட்டியில் போதையில் பைக் ஓட்டுவது அதிகரிப்பு: போலீஸ் நடவடிக்கை கோரிக்கை\n\n📰 முழு விவரம்:\nசேலம் - நாமக்கல் நான்கு வழிச்சாலை, கெஜ்ஜல்நாயக்கன்பட்டியில் இருந்து பனமரத்துப்பட்டி, திப்பம்பட்டி, கம்மாளப்பட்டி செல்லும் பிரதான சாலையில் போதையில் பைக் ஓட்டுவது அதிகரித்துள்ளது.\nகாந்தி நகர், குரங்கு புளியமரம் பகுதிகளில் உள்ள டாஸ்மாக் கடைகளால் இந்தப் பிரச்சினை இருப்பதாகக் கூறப்படுகிறது.\nமாலை முதல் நள்ளிரவு வரை 70% இருசக்கர வாகன ஓட்டிகள் போதையில் இருப்பதாகக் கூறப்படுகிறது. ஒரு பைக்கில் 3 பேர் வீதம் வேகமாக ஓட்டுகின்றனர்.\nஇதனால் காந்தி நகர், பனமரத்துப்பட்டி, குரால்நத்தம், குரங்குபுளியமரம் பகுதிகளில் அடிக்கடி விபத்துகள் நடக்கின்றன.\nமாலையில் கடைகளைச் சுற்றி 100க்கும் மேற்பட்ட பைக்குகள் நிற்கின்றன.\n👮 போதையில் பைக் ஓட்டுவோர் மீது போலீசார் சோதனை நடத்தி உரிய நடவடிக்கை எடுக்க வேண்டும் என மக்கள் கோரிக்கை வைத்துள்ளனர்.\n\nDrunk bike riding rising Panamarathupatti Salem | Salem news\n📍 பனமரத்துப்பட்டி, சேலம் மாவட்டம் | 22 நவம்பர் 2026\n\nதேவைப்படுவோருக்கு Share செய்யுங்கள்.\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Salem360 #Salem #SalemNews #சேலம்",
-   "prompts": "A group of young men on motorcycles, three riders to a bike, speeds down a four-lane highway at dusk in Panamarathupatti on the Salem-Namakkal road. Dozens of two-wheelers are parked in a loose cluster at the edge of the road outside a liquor shop, their headlights just switched on as evening sets in. The riders, in shirts and trousers, sit unsteadily on their seats, some leaning sideways, with one rider in a veshti. A two-lane road with a concrete divider runs ahead, with a few autorickshaws and a private bus in the far distance, and a few low shop fronts and palm trees line the roadside. Late evening light with a warm orange glow from streetlights, a clear sky. Camera at eye level, 35 mm, wide enough to show the highway, riders and parked bikes, with the people seen from slightly behind and far away. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up of a row of motorcycles parked tightly at the roadside beside a liquor shop, their handlebars and fuel tanks in focus, with a few empty plastic water bottles and loose stones scattered on the cracked pavement. In the blurred background, a figure in a shirt stands unsteadily near the bikes, seen from behind. Dusk light with soft shadows, a faint glow from a streetlight, and tyre marks on the dusty tar road. Camera slightly high, 35 mm, focused on the parked bikes with the highway and roadside behind them. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-salem/will-the-police-take-action-on-the-increase-in-drunken-driving/4382904",
-   "published": "2026-11-22T01:26:00+05:30",
+   "reel_script": "பனமரத்துப்பட்டியில் தென்னை மரங்களை சேதப்படுத்தும் காண்டாமிருக வண்டுகளை அழிக்க விவசாயிகளுக்கு அறிவுரை வழங்கப்பட்டது. கிருஷ்ணகிரி மாவட்டம் பையூர் தோட்டக்கலை கல்லூரி மற்றும் ஆராய்ச்சி நிலையத்தின் 4ஆம் ஆண்டு மாணவியர் இந்த விழிப்புணர்வை ஏற்படுத்தினர். நேற்று பனமரத்துப்பட்டியில் நேரடி செயல்விளக்கம் அளிக்கப்பட்டது. காண்டாமிருக வண்டு தாக்குதலின் அறிகுறிகள் மற்றும் அதனால் ஏற்படும் பாதிப்புகள் விளக்கப்பட்டன. வண்டுகளை கவர்ந்து அழிக்க பக்கெட் வடிவ இனக்கவர்ச்சி பொறி வைக்கும் முறைகள் காட்டப்பட்டன. சுற்றுச்சூழலுக்கு உகந்த பயிர் பாதுகாப்பு முறைகளை கடைப்பிடிக்குமாறு விவசாயிகளிடம் மாணவியர் வலியுறுத்தினர். மேலும் செய்திகளுக்கு சேலம் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🥥 பனமரத்துப்பட்டியில் தென்னை வண்டுகளை அழிக்க விவசாயிகளுக்கு அறிவுரை\n\n📰 முழு விவரம்:\nதென்னை மரத்தை தாக்கி சேதப்படுத்தும் காண்டாமிருக வண்டுகளை கட்டுப்படுத்த, கிருஷ்ணகிரி மாவட்டம் பையூர் தோட்டக்கலை கல்லூரி மற்றும் ஆராய்ச்சி நிலையத்தின் 4ஆம் ஆண்டு மாணவியர் பனமரத்துப்பட்டியில் நேற்று விழிப்புணர்வு ஏற்படுத்தினர்.\n🐛 காண்டாமிருக வண்டு தாக்குதலின் அறிகுறி, பாதிப்பு ஆகியவை விளக்கப்பட்டன.\n🪣 வண்டுகளை கவர்ந்து அழிக்க பக்கெட் வடிவ இனக்கவர்ச்சி பொறி வைக்கும் முறைகள் நேரடியாக செய்து காட்டப்பட்டன.\n🌿 சுற்றுச்சூழலுக்கு உகந்த பயிர் பாதுகாப்பு முறைகளை கடைப்பிடிக்குமாறு விவசாயிகளிடம் வலியுறுத்தப்பட்டது.\n\nRhinoceros beetle awareness for coconut farmers in Panamarathupatti | Salem news\n📍 பனமரத்துப்பட்டி, சேலம் மாவட்டம் | 22 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Salem360 #Salem #Panamarathupatti #விவசாயம் #SalemNews",
+   "prompts": "Young women agriculture students stand beside a coconut palm in a village grove in Panamarathupatti, Salem district, Tamil Nadu, demonstrating to a small group of farmers how to hang a bucket-shaped pheromone trap on the trunk to control rhinoceros beetles. The grove has tall coconut palms with green fronds, dry leaf litter on the ground, and a dirt path between trees, with low village houses and the Shevaroy hills faint in the far background. Two students in salwar kameez and a dupatta gesture toward the trap while farmers in shirts and veshti stand in a loose semicircle, seen from behind and at a distance, some holding notebooks. In the foreground a bucket trap hangs from the trunk of a palm, and at its base lies a damaged coconut frond with chewed, cut leaflets, a clear sign of beetle attack. Daylight, soft and even; camera at eye level, 35 mm lens, wide enough to show the trees, the group and the village setting. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-salem/farmers-advised-to-destroy-beetles/4382895",
+   "published": "2026-11-22T01:19:00+05:30",
    "verification": "DRAFT (anthropic/claude-haiku-5-5) - fact-check: no problems found",
    "note": "free-model draft anthropic/claude-haiku-5-5, 13 attempt(s), 0 validator problem(s)",
    "post_time": "right after your reply, same day",
    "_area": "N",
    "_score": 999,
    "images": [
-    "https://res.cloudinary.com/jrmwajfz/image/upload/v1795302193/salem360/uv2lh4pfy6kob82ayzml.jpg",
-    "https://res.cloudinary.com/jrmwajfz/image/upload/v1795302199/salem360/opajq7wgcdeuje0nvxlw.jpg"
+    "https://res.cloudinary.com/jrmwajfz/image/upload/v1795314914/salem360/dz9oigbex2p389fvdxr4.jpg"
    ]
   },
   {
-   "tamil_headline": "சேலத்தில் கஞ்சா விற்ற வாலிபர் மீது குண்டர் சட்டம்",
-   "english_headline": "Youth who sold ganja arrested again under Goondas Act in Salem",
-   "category": "Crime & Safety",
-   "location": "Salem city, Salem district",
-   "importance": "Medium",
-   "scope": "local",
+   "tamil_headline": "சேலத்தில் 1,471 பேர் பெயர் சேர்க்க விண்ணப்பம்: ஓமலூர் தொகுதியில் அதிகம்",
+   "english_headline": "1,471 people applied to add names in Salem district voter roll special camp; Omalur constituency tops with 217 applications",
+   "category": "Government & Services",
+   "location": "Omalur constituency, Salem district",
+   "importance": "High",
+   "scope": "",
    "post_to": "Salem 360",
    "slides_spec": {
     "v": 3,
-    "cat": "குற்றம்",
-    "loc": "சேலம்",
-    "hl1": "சேலத்தில் கஞ்சா வாலிபர் மீது குண்டாஸ்",
-    "hl2": "ஓராண்டு சிறையில் அடைப்பு",
+    "cat": "வாக்காளர் பட்டியல்",
+    "loc": "ஓமலூர், சேலம் மாவட்டம்",
+    "hl1": "ஓமலூரில் பெயர் சேர்க்க அதிக மனு",
+    "hl2": "மொத்தம் 3,383 மனுக்கள்",
     "slides": [
      {
-      "title": "என்ன நடந்தது?",
+      "title": "சிறப்பு முகாம்",
       "lines": [
-       "கடந்த அக்டோபர் 31 அன்று <b>2 கிலோ</b> கஞ்சாவுடன் கைது",
-       "கே.பி.கரடு குடிநீர் தொட்டி அருகே பிடிபட்டார்",
-       "அன்னதானப்பட்டி போலீசார் கைது செய்தனர்"
+       "நேற்று காலை <b>9 மணி</b> முதல் மாலை <b>5 மணி</b> வரை நடந்தது",
+       "மாவட்டத்தில் 3,468 ஓட்டுச்சாவடிகளில் முகாம்",
+       "2027க்கான வரைவு வாக்காளர் பட்டியல் 12ம் தேதி வெளியானது"
       ]
      },
      {
-      "title": "முந்தைய வழக்கு",
+      "title": "மனுக்கள் விவரம்",
       "lines": [
-       "ஜூலையில் <b>1.1 கிலோ</b> கஞ்சா வழக்கில் ஜாமினில் வந்தவர்",
-       "2017ல் குண்டர் சட்டத்திலும் கைதானவர்",
-       "மீண்டும் குற்றம் செய்வதை தடுக்க நடவடிக்கை"
+       "பெயர் சேர்க்க <b>1,471</b> பேர் விண்ணப்பம்",
+       "பெயர் நீக்க, திருத்தம் கேட்டு <b>1,627</b> பேர் விண்ணப்பம்",
+       "மொத்தம் <b>3,383</b> மனுக்கள் பெறப்பட்டன"
       ]
      },
      {
-      "title": "சிறைத் தண்டனை",
+      "title": "தொகுதி வாரியாக",
       "lines": [
-       "மாநகர் போலீஸ் கமிஷனர் பாபு உத்தரவு",
-       "சேலம் மத்திய சிறையில் <b>ஓராண்டுக்கு</b> அடைப்பு",
-       "நேற்று சிறையில் அடைக்கப்பட்டார்"
+       "ஓமலூர் தொகுதியில் பெயர் சேர்க்க <b>217</b> மனுக்கள்",
+       "ஓமலூர் தொகுதியில் மொத்தம் <b>449</b> மனுக்கள்",
+       "ஆத்தூர் தொகுதியில் பெயர் சேர்க்க <b>191</b> மனுக்கள்"
       ]
      }
     ],
     "carousel": false
    },
-   "reel_script": "சேலத்தில் கஞ்சா விற்ற வாலிபர் மீது மீண்டும் குண்டர் சட்டம் பாய்ந்துள்ளது. சேலம், மணியனூர், காத்தாயம்மாள் நகரைச் சேர்ந்த 31 வயது சந்தோஷ்குமார் கைது செய்யப்பட்டார். கடந்த அக்டோபர் 31ஆம் தேதி, கே பி கரடு மேல்நிலை குடிநீர் தொட்டி அருகே அவரை 2 கிலோ கஞ்சாவுடன் அன்னதானப்பட்டி போலீசார் கைது செய்தனர். விசாரணையில், ஜூலை மாதம் 1.1 கிலோ கஞ்சா வைத்திருந்த வழக்கில் கைதாகி ஜாமினில் வந்தது தெரியவந்தது. 2017ஆம் ஆண்டும் குண்டர் சட்டத்தில் கைது செய்யப்பட்டிருந்தார். தொடர்ந்து குற்றச்செயல்களில் ஈடுபடுவதைத் தடுக்க, மாநகர் போலீஸ் கமிஷனர் பாபு அவரை மீண்டும் குண்டர் சட்டத்தில் கைது செய்ய உத்தரவிட்டார். அதன்படி, சேலம் மத்திய சிறையில் ஓராண்டுக்கு அவர் நேற்று அடைக்கப்பட்டார். மேலும் செய்திகளுக்கு சேலம் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🚨 சேலத்தில் கஞ்சா விற்ற வாலிபர் மீது மீண்டும் குண்டர் சட்டம்\n\n📰 முழு விவரம்:\nசேலம், மணியனூர், காத்தாயம்மாள் நகரைச் சேர்ந்த 31 வயது சந்தோஷ்குமார் கடந்த அக்டோபர் 31ஆம் தேதி கே.பி.கரடு மேல்நிலை குடிநீர் தொட்டி அருகே 2 கிலோ கஞ்சாவுடன் அன்னதானப்பட்டி போலீசாரால் கைது செய்யப்பட்டார். விசாரணையில் ஜூலை மாதம் 1.1 கிலோ கஞ்சா வழக்கில் கைதாகி ஜாமினில் வந்ததும், 2017ஆம் ஆண்டு குண்டர் சட்டத்தில் கைதானதும் தெரியவந்தது. தொடர்ந்து குற்றச்செயல்களில் ஈடுபடுவதைத் தடுக்க மாநகர் போலீஸ் கமிஷனர் பாபு உத்தரவின்பேரில், சேலம் மத்திய சிறையில் ஓராண்டுக்கு நேற்று அடைக்கப்பட்டார்.\n📍 இடம்: சேலம், மணியனூர், காத்தாயம்மாள் நகர்\n🗓️ நாள்: அக்டோபர் 31 (கைது)\n👮 நடவடிக்கை: அன்னதானப்பட்டி போலீசார் கைது; மாநகர் போலீஸ் கமிஷனர் பாபு உத்தரவின்பேரில் குண்டர் சட்டம்\n\nSalem ganja seller booked under Goondas Act | Salem news\n📍 சேலம் மாவட்டம் | 22 நவம்பர் 2026\n\nதேவைப்படுவோருக்கு Share செய்யுங்கள்\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Salem360 #Salem #SalemNews #சேலம்",
-   "prompts": "A Tamil Nadu police constable in khaki stands beside a white police jeep near the overhead drinking water tank on the KP Karadu hillock in Salem city, while a young man in a plain shirt and trousers, seen from behind and slightly blurred, is led toward the vehicle with his hands held in front. The tank's round steel body rises on concrete legs against a clear daylight sky, with a few modest houses and dry scrub on the slope below and the Shevaroy hills faint in the far background. Two more policemen in khaki stand at a distance near the road. Shot at eye level, 35 mm, wide enough to show the tank, the road and the police vehicle together, soft morning-afternoon light. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up on a wooden table at a police station in Annadanapatti, Salem, where several small packets of dried green ganja are laid out in a neat row beside a heap of seized items, with a policeman's khaki sleeve and the edge of a uniform cap visible at the top of the frame. The table surface is worn and the background is a plain cream wall with a dim tube light. The packets are the clear focus, shot from slightly above at a 35 mm close distance, natural indoor light mixed with a little window daylight, no text or labels visible. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-salem/guntas-again-attack-youth-who-sold-ganja/4382897",
-   "published": "2026-11-22T01:20:00+05:30",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: hl1 (the first headline on screen) must name the place 'சேலம்', e.g. 'சேலம்: ...' or 'சேலம்-இல் ...' - viewers share news of their own area",
+   "reel_script": "ஓமலூர் தொகுதியில் வாக்காளராகப் பெயர் சேர்க்க அதிக மனுக்கள் வந்துள்ளன. சேலம் மாவட்டத்தில் நேற்று நடந்த சிறப்பு சுருக்கமுறை திருத்தப் பணியில் மொத்தம் 3,383 மனுக்கள் பெறப்பட்டன. 2027க்கான வரைவு வாக்காளர் பட்டியல் 12ம் தேதி வெளியிடப்பட்டது. மாவட்டத்தின் 11 சட்டசபை தொகுதிகளில் உள்ள 3,468 ஓட்டுச்சாவடிகளில் காலை 9 மணி முதல் மாலை 5 மணி வரை சிறப்பு முகாம் நடந்தது. பெயர் சேர்க்க மொத்தம் 1,471 பேர் விண்ணப்பித்தனர். இதில் அதிகபட்சமாக ஓமலூர் தொகுதியில் 217 மனுக்கள் பெறப்பட்டன. பெயர் நீக்கம், குடியிருப்பு அல்லது திருத்தம் கேட்டு 1,627 பேர் விண்ணப்பித்தனர். ஆத்தூர் தொகுதியில் பெயர் சேர்க்க 191 மனுக்கள் வந்தன. மேலும் செய்திகளுக்கு சேலம் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🗳️ ஓமலூர் தொகுதியில் பெயர் சேர்க்க அதிக மனுக்கள்: மொத்தம் 3,383\n\n📰 முழு விவரம்:\nசேலம் மாவட்டத்தில், 2027க்கான வரைவு வாக்காளர் பட்டியல் கடந்த 12ம் தேதி வெளியிடப்பட்டது. அதையொட்டிய சிறப்பு சுருக்கமுறை திருத்தப் பணி நேற்று நடந்தது.\n🕘 நேரம்: காலை 9 மணி முதல் மாலை 5 மணி வரை\n🏫 இடம்: மாவட்டத்தின் 11 சட்டசபை தொகுதிகளில் உள்ள 1,337 மையங்களுக்கு உட்பட்ட 3,468 ஓட்டுச்சாவடிகள்\n✅ பெயர் சேர்க்க 1,471 பேர் விண்ணப்பம்; அதிகபட்சமாக ஓமலூர் தொகுதியில் 217 மனுக்கள்\n❌ பெயர் நீக்கம், குடியிருப்பு, திருத்தம் உள்ளிட்ட மாற்றங்களுக்கு 1,627 பேர் விண்ணப்பம்; மொத்தம் 3,383 மனுக்கள்\n📊 தொகுதி வாரி மொத்த மனுக்கள் (பெயர் சேர்க்க):\n• கெங்கவல்லி (தனி): 437 (182)\n• ஆத்தூர் (தனி): 368 (191)\n• ஏற்காடு (தனி): 334 (121)\n• ஓமலூர்: 449 (217)\n• மேட்டூர்: 303 (136)\n• இடைப்பாடி: 207 (77)\n• சங்ககிரி: 286 (106)\n• சேலம் மேற்கு: 278 (109)\n• சேலம் வடக்கு: 203 (83)\n• சேலம் தெற்கு: 194 (105)\n• வீரபாண்டி: 324 (144)\n\nSalem voter list special camp, Omalur 217 applications | Salem news\n📍 ஓமலூர், சேலம் மாவட்டம் | 22 நவம்பர் 2026\n\nதகவலை தேவைப்படுவோருக்கு Share செய்யுங்கள்.\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Salem360 #Salem #Omalur #SalemNews #சேலம்",
+   "prompts": "A group of voters in shirts, veshtis and sarees stand in a queue outside a polling booth in a government school hall in Omalur, Salem district, while an election official in a plain shirt sits at a folding table with voter registers and application forms. The queue winds past a wall with a notice board, though no readable text is shown. It is daylight during the special revision camp hours, roughly 9 am to 5 pm, and the scene feels calm and orderly. Some people carry folded papers and bags. The camera is at eye level, shot from behind the queue with a 35 mm lens wide enough to show the hall, the table and the line of residents waiting to add their names to the voter roll. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up of a stack of paper voter application forms and a voter register open on a wooden table inside a polling booth in Omalur, Salem district. A ballpoint pen rests across the printed forms, and a pair of hands in a sari sleeve and a shirt cuff are partly visible as an official flips the pages. Daylight from a window falls across the papers, with the blurred back of a waiting voter in the background. No readable text, names or numbers are shown. The camera is slightly high, 35 mm, focused on the paperwork that records the 217 name-addition applications from Omalur. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-salem/omalur-constituency-has-the-highest-voter-turnout-with-1471-voters/4382906",
+   "published": "2026-11-22T01:27:00+05:30",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: caption misses facts of the article (put every one in 📰 முழு விவரம்): 285 ('பெயர் நீக்க, 285 பேர், குடியிருப்பு, திருத்தம் உள்பட மாற்றம்')",
    "note": "free-model draft anthropic/claude-haiku-5-5, 13 attempt(s), 1 validator problem(s)",
    "post_time": "right after your reply, same day",
    "_area": "N",
    "_score": 999,
    "images": [
-    "https://res.cloudinary.com/jrmwajfz/image/upload/v1795302223/salem360/laizlzlnrouecdwclgjs.jpg",
-    "https://res.cloudinary.com/jrmwajfz/image/upload/v1795302233/salem360/n3zjasdsdlrkq7rxw5ms.jpg"
+    "https://res.cloudinary.com/jrmwajfz/image/upload/v1795314926/salem360/h6jwmcttjultyzyvs1z3.jpg",
+    "https://res.cloudinary.com/jrmwajfz/image/upload/v1795314936/salem360/iyrm1dkbg0utbha9ymvy.jpg"
    ]
   },
   {
-   "tamil_headline": "தி.மலை கார்த்திகை தீபத்துக்கு சேலத்தில் இருந்து 692 போலீசார் புறப்பட்டனர்",
-   "english_headline": "692 police from Salem district and city leave for Tiruvannamalai Karthigai Deepam security duty until 26 Nov",
+   "tamil_headline": "ஆத்தூரில் நடமாடும் இ-சேவா வாகனம் நீதிபதிகள் துவக்கிவைப்பு",
+   "english_headline": "Mobile e-Seva vehicle launched by judges at Attur court complex",
    "category": "Government & Services",
-   "location": "Salem city and Salem district (police deployment to Tiruvannamalai)",
+   "location": "Attur court complex, Attur, Salem district",
    "importance": "Medium",
    "scope": "district",
    "post_to": "Salem 360",
    "slides_spec": {
     "v": 3,
-    "cat": "போலீஸ் பாதுகாப்பு",
-    "loc": "சேலம் மாநகரம்",
-    "hl1": "தி.மலை பாதுகாப்புக்கு 692 போலீசார்",
-    "hl2": "நவ. 26 வரை பணி",
+    "cat": "அரசு சேவை",
+    "loc": "ஆத்தூர் நீதிமன்ற வளாகம்",
+    "hl1": "ஆத்தூரில் நடமாடும் வாகனம் துவக்கம்",
+    "hl2": "சட்ட விழிப்புணர்வு முகாமும்",
     "slides": [
      {
-      "title": "எப்போது?",
+      "title": "என்ன நடந்தது?",
       "lines": [
-       "நவ. <b>24</b> காலை பரணி தீபம்",
-       "மாலை மலை உச்சியில் மகா தீபம்",
-       "போலீசார் <b>26</b> வரை பணியில் இருப்பார்கள்"
+       "ஆத்தூர் ஒருங்கிணைந்த நீதிமன்ற வளாகத்தில் நடமாடும் இ-சேவா",
+       "கிராமப்புற சட்ட விழிப்புணர்வு முகாமும் நேற்று நடந்தது",
+       "சேலம் மாவட்ட சட்டப்பணி ஆணைக்குழு ஏற்பாடு"
       ]
      },
      {
-      "title": "யார் சென்றனர்?",
+      "title": "யார் துவக்கினர்?",
       "lines": [
-       "சேலம் மாநகரில் இருந்து <b>392</b> போலீசார்",
-       "துணை கமிஷனர்கள் பாஸ்கர், கீதா தலைமையில்",
-       "சேலம் மாவட்டத்தில் இருந்து <b>300</b> போலீசார்"
+       "கூடுதல் மாவட்ட நீதிபதி ரவிச்சந்திரன்",
+       "சார்பு நீதிபதி கணேசன் ஆகியோர் துவக்கிவைத்தனர்",
+       "சில முதியவர்களின் மனுக்களை நீதிபதிகள் பெற்றனர்"
       ]
      },
      {
-      "title": "ஏன்",
+      "title": "வாகனத்தின் பயன்",
       "lines": [
-       "கார்த்திகை தீபத்திருவிழாவுக்கு லட்சக்கணக்கான பக்தர்கள்",
-       "அதனால் பல மாவட்ட போலீசார் பாதுகாப்பு பணியில் ஈடுபடுகின்றனர்",
-       "ஏ.டி.எஸ்.பி. சங்கர் தலைமையில் மாவட்ட போலீசார் சென்றனர்"
+       "தொலைதூரப் பகுதியிலிருந்து வீடியோ கான்பரன்ஸ் மூலம் சாட்சியம்",
+       "வழக்கு விசாரணையில் பங்கேற்கலாம்",
+       "நடமாடும் மக்கள் நீதிமன்றம் மூலம் சமரச தீர்வு காணலாம்"
+      ]
+     },
+     {
+      "title": "வாழப்பாடியிலும்",
+      "lines": [
+       "வாழப்பாடி ஒருங்கிணைந்த நீதிமன்ற வளாகத்திலும் வாகனம் துவக்கம்",
+       "வட்ட சட்டப்பணி குழு தலைவர் சண்முகநாதன் தொடங்கி வைத்தார்",
+       "கூடுதல் மாவட்ட உரிமையியல் நீதிபதி ஜான்சிராணி பங்கேற்பு"
       ]
      }
     ],
     "carousel": false
    },
-   "reel_script": "திருவண்ணாமலைக்கு சேலத்தில் இருந்து 692 போலீசார் பாதுகாப்பு பணிக்குப் புறப்பட்டனர். கார்த்திகை தீபத்திருவிழாவை முன்னிட்டு நவம்பர் 24ஆம் தேதி காலை பரணி தீபமும், மாலை மலை உச்சியில் மகா தீபமும் ஏற்றப்படும். இதைக் காண லட்சக்கணக்கான பக்தர்கள் வருவர். அதனால் பல மாவட்டங்களில் இருந்து போலீசார் பாதுகாப்பு பணியில் ஈடுபடுத்தப்படுகின்றனர். சேலம் மாநகரில் இருந்து துணை கமிஷனர்கள் பாஸ்கர், கீதா தலைமையில் 392 போலீசார் புறப்பட்டனர். சேலம் மாவட்ட போலீஸ் சார்பில் கூடுதல் காவல் கண்காணிப்பாளர் சங்கர் தலைமையில் 300 போலீசார் அனுப்பி வைக்கப்பட்டனர். அவர்கள் நவம்பர் 26ஆம் தேதி வரை பாதுகாப்பு பணியில் ஈடுபடுவார்கள். மேலும் செய்திகளுக்கு சேலம் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "👮 தி.மலை கார்த்திகை தீபத்துக்கு சேலத்தில் இருந்து 692 போலீசார் புறப்பட்டனர்\n\n📰 முழு விவரம்:\nகார்த்திகை தீபத்திருவிழாவை முன்னிட்டு திருவண்ணாமலை அருணாசலேஸ்வரர் கோவிலில் நவம்பர் 24ஆம் தேதி காலை பரணி தீபமும், மாலை மலை உச்சியில் மகா தீபமும் ஏற்றப்படும்.\nலட்சக்கணக்கான பக்தர்கள் இதைக் காண வருவதால் பல மாவட்ட போலீசார் பாதுகாப்பு பணியில் ஈடுபடுத்தப்படுகின்றனர்.\nசேலம் மாநகரில் இருந்து துணை கமிஷனர்கள் பாஸ்கர், கீதா தலைமையில் உதவி கமிஷனர்கள், இன்ஸ்பெக்டர்கள், எஸ்.ஐ.க்கள், போலீசார் என 392 பேர் புறப்பட்டனர்.\nசேலம் மாவட்ட போலீஸ் சார்பில் தலைமையிடத்து ஏ.டி.எஸ்.பி. சங்கர் தலைமையில் டி.எஸ்.பி.க்கள், இன்ஸ்பெக்டர்கள் உள்பட 300 பேர் திருவண்ணாமலைக்கு அனுப்பப்பட்டனர்.\nஅவர்கள் நவம்பர் 26ஆம் தேதி வரை பாதுகாப்பு பணியில் ஈடுபடுவார்கள்.\n\nSalem police 692 to Tiruvannamalai Karthigai Deepam | Salem news\n📍 சேலம் மாநகரம், சேலம் மாவட்டம் | 22 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Salem360 #Salem #SalemNews #சேலம்",
-   "prompts": "A long line of Tamil Nadu police in khaki uniforms boards police buses at a departure point in Salem city, hundreds of constables, inspectors and senior officers heading out for security duty at the Tiruvannamalai Karthigai Deepam festival. The setting is a busy bus stand or police reserve ground in Salem city, with town buses and TNSTC buses parked in a row, concrete platforms and the flat Salem skyline behind. Officers in front, seen from behind or at a distance, carry small bags and cloth luggage; constables climb into the coaches in a steady queue. Daylight, clear morning sky, slight haze over distant Shevaroy hills. Camera at eye level, 35 mm, wide enough to show the whole queue and the buses. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up of a stack of police kit bags, a folded khaki bedroll and a bundle of batons and rain gear piled beside a police vehicle door, ready for loading before departure to Tiruvannamalai. Behind, slightly out of focus, a few policemen in khaki wait near the open door of a bus. Daylight, morning light. Camera slightly high, 35 mm, shallow depth of field, no readable text or signboards visible. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-salem/-692-police-departures/4382894",
-   "published": "2026-11-22T01:18:00+05:30",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: hl1 (the first headline on screen) must name the place 'சேலம் மாநகரம்', e.g. 'சேலம் மாநகரம்: ...' or 'சேலம் மாநகரம்-இல் ...' - viewers share news of their own area",
-   "note": "free-model draft anthropic/claude-haiku-5-5, 12 attempt(s), 1 validator problem(s)",
+   "reel_script": "ஆத்தூரில் நடமாடும் இ-சேவா வாகனம் நீதிபதிகளால் துவக்கிவைக்கப்பட்டது. சேலம் மாவட்ட சட்டப்பணி ஆணைக்குழு சார்பில் நேற்று ஆத்தூர் ஒருங்கிணைந்த நீதிமன்ற வளாகத்தில் இந்த விழா நடந்தது. கூடுதல் மாவட்ட நீதிபதி ரவிச்சந்திரன் மற்றும் சார்பு நீதிபதி கணேசன் வாகனத்தைத் தொடங்கிவைத்தனர். இதே நிகழ்ச்சியில் கிராமப்புற சட்ட விழிப்புணர்வு முகாமும் நடந்தது. இந்த வாகனம் மூலம் தொலைதூரப் பகுதியில் இருந்து வீடியோ கான்பரன்ஸ் வழியாக சாட்சியம் அளிக்கலாம். வழக்கு விசாரணையில் பங்கேற்கவும் முடியும். நடமாடும் மக்கள் நீதிமன்றம் மூலம் சமரச தீர்வு காணலாம் என நீதிபதி ரவிச்சந்திரன் தெரிவித்தார். முகாமில் சில முதியவர்கள் அளித்த மனுக்களை நீதிபதிகள் பெற்றுக்கொண்டனர். கூடுதல் மாவட்ட உரிமையியல் நீதிபதி ஜான்சிராணி, மாஜிஸ்திரேட்டுகள் உதயசுந்தரம், மோகனசுந்தரம் உள்ளிட்டோர் பங்கேற்றனர். அதேபோல் வாழப்பாடி ஒருங்கிணைந்த நீதிமன்ற வளாகத்திலும் இந்த வாகனத்தை வட்ட சட்டப்பணி குழு தலைவர் சண்முகநாதன் தொடங்கி வைத்தார். மேலும் செய்திகளுக்கு சேலம் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "⚖️ ஆத்தூரில் நடமாடும் இ-சேவா வாகனம் துவக்கம்\n\n📰 முழு விவரம்:\nசேலம் மாவட்ட சட்டப்பணி ஆணைக்குழு சார்பில் ஆத்தூர் ஒருங்கிணைந்த நீதிமன்ற வளாகத்தில் நடமாடும் இ-சேவா வாகனம் தொடக்க விழா நேற்று நடந்தது.\nகூடுதல் மாவட்ட நீதிபதி ரவிச்சந்திரன், சார்பு நீதிபதி கணேசன் ஆகியோர் வாகனத்தைத் தொடங்கிவைத்தனர்.\nஅதே நிகழ்ச்சியில் கிராமப்புற சட்ட விழிப்புணர்வு முகாமும் நடைபெற்றது.\nவாகனம் மூலம் தொலைதூரப் பகுதியில் இருந்து வீடியோ கான்பரன்ஸ் வழியாக சாட்சியம் அளிக்கலாம்; வழக்கு விசாரணையில் பங்கேற்கலாம்; நடமாடும் மக்கள் நீதிமன்றம் மூலம் சமரச தீர்வு காணலாம்.\nமுகாமில் சில முதியவர்கள் அளித்த மனுக்களை நீதிபதிகள் பெற்றுக்கொண்டனர்.\nவாழப்பாடி ஒருங்கிணைந்த நீதிமன்ற வளாகத்திலும் இந்த வாகனத்தை வட்ட சட்டப்பணி குழு தலைவர் சண்முகநாதன் தொடங்கி வைத்தார்.\n📍 இடம்: ஆத்தூர் ஒருங்கிணைந்த நீதிமன்ற வளாகம், வாழப்பாடி ஒருங்கிணைந்த நீதிமன்ற வளாகம்\n\nMobile e-Seva vehicle launched at Attur court | Salem news\n📍 ஆத்தூர், சேலம் மாவட்டம் | 22 நவம்பர் 2026\n\nதேவைப்படுவோருக்கு Share செய்யுங்கள்\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Salem360 #Salem #Attur #SalemNews #சேலம்",
+   "prompts": "A mobile e-Seva van stands parked in front of the Attur integrated court complex as a Tamil Nadu judge in a dark coat and a lawyer in black coat and white bands cut a ribbon in front of the van while a small group of people in front watches. The court complex is a low government building with pillared verandahs, a tiled or concrete roof, and a flag mast in the compound, set in a small town in Salem district with two-wheelers and an autorickshaw parked at the gate. The people are seen from behind or at a distance: lawyers in black coats, men in shirts and veshti, women in cotton sarees, some elderly villagers with walking sticks standing under the verandah. The van has its side door open and a small banner-less display area, no readable text. It is a bright daytime scene under clear morning sunlight with a few palm trees and a dusty compound. Shot at eye level with a 35 mm lens, wide enough to show the court building, the van and the crowd. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up of a stack of petition papers and a pen placed on a wooden table at the open side of a mobile e-Seva van, with an elderly villager's hand resting on the stack while a court official in a white shirt sorts the papers. Behind the table, the van's interior shows a computer monitor and a printer, slightly blurred, with no readable text. Soft daylight enters through the van door and the court compound is faintly visible behind, with a few lawyers in black coats out of focus. The hand is partly visible, the face is not shown. Camera at slightly high table level with a 35 mm lens, shallow depth of field. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-salem/mobile-e-seva-vehicle-launched-by-judges/4382901",
+   "published": "2026-11-22T01:23:00+05:30",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - fact-check: no problems found",
+   "note": "free-model draft anthropic/claude-haiku-5-5, 12 attempt(s), 0 validator problem(s)",
    "post_time": "right after your reply, same day",
    "_area": "N",
    "_score": 999,
    "images": [
-    "https://res.cloudinary.com/jrmwajfz/image/upload/v1795302243/salem360/xwbf2qxbcu9nkrqxmxf0.jpg",
-    "https://res.cloudinary.com/jrmwajfz/image/upload/v1795302252/salem360/kesnvd2vejxkdcgb5uv6.jpg"
+    "https://res.cloudinary.com/jrmwajfz/image/upload/v1795314959/salem360/vgtf29hkbm6xlz4edqrf.jpg",
+    "https://res.cloudinary.com/jrmwajfz/image/upload/v1795314968/salem360/nxmhckxnwoumw6t2ytuq.jpg"
+   ]
+  },
+  {
+   "tamil_headline": "தாரமங்கலத்தில் 153 மாணவர்கள் ஊரக திறனாய்வுத் தேர்வு எழுதினர்",
+   "english_headline": "153 students write rural aptitude exam in Tharamangalam; winners get Rs 1,000 yearly scholarship till Plus 2",
+   "category": "Education",
+   "location": "Tharamangalam, Salem district",
+   "importance": "Medium",
+   "scope": "local",
+   "post_to": "Salem 360",
+   "slides_spec": {
+    "v": 3,
+    "cat": "கல்வி",
+    "loc": "தாரமங்கலம்",
+    "hl1": "தாரமங்கலத்தில் ஊரக திறனாய்வுத் தேர்வு",
+    "hl2": "153 மாணவர்கள் எழுதினர்",
+    "slides": [
+     {
+      "title": "எந்தத் தேர்வு?",
+      "lines": [
+       "ஊரக திறனாய்வுத் தேர்வு நேற்று நடைபெற்றது",
+       "9ம் வகுப்பு அரசுப் பள்ளி மாணவர்களுக்கான தேர்வு",
+       "தாரமங்கலம் செங்குந்தர் மகாஜன மேல்நிலைப்பள்ளியில் நடந்தது"
+      ]
+     },
+     {
+      "title": "எத்தனை பேர்?",
+      "lines": [
+       "<b>170</b> மாணவர்களுக்கு தேர்வு அழைப்பு",
+       "<b>153</b> மாணவர்கள் தேர்வு எழுதினர்",
+       "<b>17</b> பேர் தேர்வுக்கு வரவில்லை"
+      ]
+     },
+     {
+      "title": "ஊக்கத்தொகை",
+      "lines": [
+       "தேர்வில் வெற்றி பெறும் மாணவர்களுக்கு ஊக்கத்தொகை",
+       "பிளஸ் 2 வரை ஆண்டுக்கு <b>1,000 ரூபாய்</b>",
+       "தாரமங்கலம் ஒன்றிய ஊரகப் பகுதி மாணவர்களுக்கு"
+      ]
+     }
+    ],
+    "carousel": false
+   },
+   "reel_script": "தாரமங்கலத்தில் ஊரக திறனாய்வுத் தேர்வை 153 மாணவர்கள் எழுதினர். நேற்று நடந்த இந்தத் தேர்வு, தாரமங்கலம் ஒன்றிய ஊரகப் பகுதியில் உள்ள அரசுப் பள்ளிகளின் 9ஆம் வகுப்பு மாணவர்களுக்கானது. மொத்தம் 170 மாணவர்களுக்குத் தேர்வு அழைப்பு அனுப்பப்பட்டது. 17 மாணவர்கள் தேருக்கு வரவில்லை. தாரமங்கலம் செங்குந்தர் மகாஜன மேல்நிலைப்பள்ளியில் தேர்வு நடைபெற்றது. இத்தேர்வில் வெற்றி பெறும் மாணவர்களுக்கு, பிளஸ் 2 வரை ஆண்டுக்கு 1,000 ரூபாய் ஊக்கத்தொகை வழங்கப்படும். மேலும் செய்திகளுக்கு சேலம் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🏫 தாரமங்கலத்தில் ஊரக திறனாய்வுத் தேர்வு: 153 மாணவர்கள் எழுதினர்\n\n📰 முழு விவரம்:\nதாரமங்கலம் ஒன்றிய ஊரகப் பகுதியில் உள்ள அரசுப் பள்ளிகளின் 9ஆம் வகுப்பு மாணவர்களுக்கான ஊரக திறனாய்வுத் தேர்வு நேற்று நடைபெற்றது.\nதேர்வு தாரமங்கலம் செங்குந்தர் மகாஜன மேல்நிலைப்பள்ளியில் நடந்தது.\n170 மாணவர்களுக்குத் தேர்வு அழைப்பு அனுப்பப்பட்டது. அதில் 153 மாணவர்கள் தேர்வு எழுதினர். 17 மாணவர்கள் வரவில்லை.\nஇத்தேர்வில் வெற்றி பெறும் மாணவர்களுக்கு பிளஸ் 2 வரை ஆண்டுக்கு 1,000 ரூபாய் ஊக்கத்தொகை வழங்கப்படும்.\n\nRural aptitude exam Tharamangalam 153 students | Salem news\n📍 தாரமங்கலம், சேலம் மாவட்டம் | 21 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Salem360 #Salem #Tharamangalam #SalemNews #சேலம்",
+   "prompts": "Rows of Class 9 students in Tamil Nadu government school uniform sit at wooden benches in a large classroom of the Chengunthar Mahajana Higher Secondary School in Tharamangalam, bent over question papers and answer sheets during the rural aptitude exam. Seen from the back of the room at eye level, the students wear white shirts and blue or dark skirts and trousers, pens and pencils in hand, with a few empty benches showing the 17 absentees. A teacher in a plain shirt and trousers walks slowly between the rows as an invigilator. The room has tiled floors, whitewashed walls, tube lights and ceiling fans, and daylight comes through tall windows. Plain daylight, calm and focused atmosphere. Camera at eye level or slightly high, 35 mm lens, wide enough to show the full classroom and the rows of students. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up of a neatly arranged exam desk on a wooden bench: a printed question paper, an answer sheet with blank lines, a sharpened pencil, a pen and a small eraser lie side by side. Beside them rests a student's hand writing in the answer sheet, the sleeve of a white school uniform visible at the edge of the frame. Sunlight from a classroom window falls across the paper. Behind, slightly blurred, rows of other students bent over their papers. Camera at close range, shallow depth of field, 35 mm, tight on the paper and writing hand. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-salem/153-students-appeared-for-the-rural-review-examination/4382911",
+   "published": "2026-11-22T01:30:00+05:30",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: reel_script has 56 words; need 60-160 (the key facts once each, in at most 90 seconds; every other detail goes in the caption's 📰 முழு விவரம் block)",
+   "note": "free-model draft anthropic/claude-haiku-5-5, 13 attempt(s), 1 validator problem(s)",
+   "post_time": "right after your reply, same day",
+   "_area": "N",
+   "_score": 999,
+   "images": [
+    "https://res.cloudinary.com/jrmwajfz/image/upload/v1795314979/salem360/fku77y7y5wst3aohfrfb.jpg",
+    "https://res.cloudinary.com/jrmwajfz/image/upload/v1795314987/salem360/w72oy4ejgfcyjethvhxu.jpg"
+   ]
+  },
+  {
+   "tamil_headline": "ஆதிதிராவிட, பழங்குடியின விவசாயிகளுக்கு போர்வெல் அமைக்க முழு மானியம்",
+   "english_headline": "Full subsidy for Adi Dravidar and tribal farmers to dig borewells in Salem district",
+   "category": "Government & Services",
+   "location": "மேட்டூர், Salem district",
+   "importance": "High",
+   "scope": "district",
+   "post_to": "Salem 360",
+   "slides_spec": {
+    "v": 3,
+    "cat": "அரசு மானியம்",
+    "loc": "சேலம் மாவட்டம்",
+    "hl1": "விவசாயிகளுக்கு போர்வெல் முழு மானியம்",
+    "hl2": "ஒரு விவசாயிக்கு ரூ.8 லட்சம்",
+    "slides": [
+     {
+      "title": "திட்டம் என்ன?",
+      "lines": [
+       "'அண்ணல் அம்பேத்கர்' வேளாண் உதவி திட்டம்",
+       "ஆழ்துளை குழாய் கிணறு அமைக்க <b>100%</b> மானியம்",
+       "ஒரு விவசாயிக்கு அதிகபட்சம் <b>ரூ.8 லட்சம்</b>"
+      ]
+     },
+     {
+      "title": "யார் பயன்பெறலாம்?",
+      "lines": [
+       "சிறு, குறு ஆதிதிராவிட, பழங்குடியின விவசாயிகள்",
+       "விண்ணப்பதாரர் பெயரில் குறைந்தபட்சம் <b>1 ஏக்கர்</b> நிலம்",
+       "ஏற்கனவே நீர் ஆதாரம் இல்லாத, கூட்டு பட்டா இல்லாத நிலம்"
+      ]
+     },
+     {
+      "title": "நிபந்தனைகள்",
+      "lines": [
+       "குழாய் நீரை விவசாய தேவைக்கு மட்டும் பயன்படுத்த வேண்டும்",
+       "தோட்டக்கலைத்துறை சார்பில் நுண்ணீர் பாசன அமைப்பு",
+       "<b>5 ஆண்டுகளுக்கு</b> நிலத்தை யாருக்கும் விற்கக்கூடாது"
+      ]
+     },
+     {
+      "title": "எங்கே அணுகுவது?",
+      "lines": [
+       "ஆதார், ரேஷன் கார்டு நகல், பட்டா, சிட்டா, அடங்கல்",
+       "குமாரசாமிப்பட்டி வேளாண் பொறியியல் துறை அலுவலகம்",
+       "மேட்டூர், ஆத்தூர், சங்ககிரி பைபாஸ் உதவி அலுவலகங்கள்"
+      ]
+     }
+    ],
+    "carousel": false
+   },
+   "reel_script": "சேலம் மாவட்டத்தில் விவசாயிகளுக்கு போர்வெல் அமைக்க 100 சதவீத மானியம் வழங்கப்படுகிறது. சேலம் கலெக்டர் இளம்பகவத் இதை அறிவித்துள்ளார். 'அண்ணல் அம்பேத்கர்' வேளாண் உதவி திட்டத்தின் கீழ் இந்த மானியம் கிடைக்கும். சிறு, குறு ஆதிதிராவிட, பழங்குடியின விவசாயிகள் இதில் பயன்பெறலாம். ஆழ்துளை குழாய் கிணறு அமைக்க ஒரு விவசாயிக்கு அதிகபட்சம் 8 லட்சம் ரூபாய் வரை மானியம் கிடைக்கும். விண்ணப்பதாரர் பெயரில் குறைந்தபட்சம் 1 ஏக்கர் நிலம் இருக்க வேண்டும். நிலம் கூட்டுப் பட்டாவாக இருக்கக் கூடாது. ஏற்கனவே நீர் ஆதாரம் இல்லாத நிலமாக இருக்க வேண்டும். அமைக்கப்படும் கிணற்று நீரை விவசாயத் தேவைக்கு மட்டுமே பயன்படுத்த வேண்டும். தமிழக தோட்டக்கலைத்துறை சார்பில் நுண்ணீர் பாசன அமைப்பும் ஏற்படுத்தித் தரப்படும். மானியம் பெற்ற நிலத்தை 5 ஆண்டுகளுக்கு யாருக்கும் விற்கக்கூடாது. விண்ணப்பிக்க ஆதார், ரேஷன் கார்டு நகல், பட்டா, சிட்டா, அடங்கல், நில வரைபடம் ஆகியவற்றை இணைக்க வேண்டும். குமாரசாமிப்பட்டி வேளாண் பொறியியல் துறை செயற்பொறியாளர் அலுவலகத்தை அணுகலாம். மேட்டூர், வீரக்கல்புதூர், ஆத்தூர், தென்னங்குடிபாளையம், சங்ககிரி பைபாஸ் சாலை உதவி செயற்பொறியாளர் அலுவலகங்களிலும் விண்ணப்பிக்கலாம். மேலும் செய்திகளுக்கு சேலம் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🌾 விவசாயிகளுக்கு போர்வெல் அமைக்க 100% மானியம்: ஒரு விவசாயிக்கு ரூ.8 லட்சம் வரை\n\n📰 முழு விவரம்:\nசேலம் மாவட்டத்தில் நீராதாரங்களை பெருக்கி சாகுபடி பரப்பை அதிகரிக்க 'அண்ணல் அம்பேத்கர்' வேளாண் உதவி திட்டம் அறிமுகம் செய்யப்பட்டுள்ளது. சிறு, குறு ஆதிதிராவிட, பழங்குடியின விவசாயிகளுக்கு ஆழ்துளை குழாய் கிணறு அமைக்க ஒரு விவசாயிக்கு அதிகபட்சம் ரூ.8 லட்சம் வரை 100 சதவீத மானியம் வழங்கப்படுகிறது. விண்ணப்பதாரர் பெயரில் குறைந்தபட்சம் 1 ஏக்கர் நிலம் இருக்க வேண்டும்; அது கூட்டுப் பட்டாவாக இருக்கக் கூடாது. ஏற்கனவே நீர் ஆதாரம் இல்லாத நிலமாக இருக்க வேண்டும்.\n📍 இடம்: சேலம் மாவட்டம்\n👨‍🌾 பயனாளர்: சிறு, குறு ஆதிதிராவிட, பழங்குடியின விவசாயிகள்\n💧 நிபந்தனை: குழாய் நீரை விவசாயத் தேவைக்கு மட்டும் பயன்படுத்த வேண்டும்; தோட்டக்கலைத்துறை நுண்ணீர் பாசன அமைப்பு ஏற்படுத்தித் தரும்; 5 ஆண்டுகளுக்கு நிலத்தை விற்கக்கூடாது.\n📄 ஆவணங்கள்: ஆதார், ரேஷன் கார்டு நகல், பட்டா, சிட்டா, அடங்கல், நில வரைபடம்\n📞 தொடர்புக்கு: குமாரசாமிப்பட்டி வேளாண் பொறியியல் துறை செயற்பொறியாளர் அலுவலகம்; மேட்டூர், வீரக்கல்புதூர், ஆத்தூர், தென்னங்குடிபாளையம், சங்ககிரி பைபாஸ் உதவி செயற்பொறியாளர் அலுவலகங்கள்\n\nFull borewell subsidy for SC/ST farmers in Salem | Salem news\n📍 சேலம் மாவட்டம் | 22 நவம்பர் 2026\n\nதேவைப்படுவோருக்கு Share செய்யுங்கள்\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Salem360 #Salem #SalemNews #சேலம்",
+   "prompts": "A group of farmers, seen from behind, stands in a dry agricultural field in the Salem district countryside while a borewell drilling rig with a tall mast is set up on the cleared land, bringing the scheme to life. The field is flat and brown, with mango groves and the faint blue outline of the Shevaroy hills of Yercaud on the far horizon. Among the farmers are men in shirts with veshti and women in cotton sarees with their heads covered, all looking toward the rig. A few plastic water pots lie near the edge of the field, and an older farmer in a white shirt holds a folded bundle of papers. It is bright daylight with a clear sky and soft sun. Camera at eye level, 35 mm, wide enough to show the field, rig and farmers. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up of a neat stack of land records on a wooden table in a government office hall in Salem: a folded land sketch, a bundle of patta and adangal papers tied with a string, and a set of identity cards beside them. Behind the table, a blurred government office background with a tube light and a wall calendar, and the sleeve of an official in a white shirt just visible at the frame edge. No readable text on the papers. Daylight from a window on the left, warm and even. Camera slightly high, 35 mm, focused on the documents. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-salem/full-subsidy-for-construction-of-borewells-by-adi-dravidar-and-tribal-farmers/4382914",
+   "published": "2026-11-22T01:32:00+05:30",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: source/outlet name or link appears: ஆதாரம்; slides_spec.loc 'சேலம் மாவட்டம்' is only the district: write the town / village / area the article names (people share news of their own area)",
+   "note": "free-model draft anthropic/claude-haiku-5-5, 13 attempt(s), 2 validator problem(s)",
+   "post_time": "right after your reply, same day",
+   "_area": "N",
+   "_score": 999,
+   "images": [
+    "https://res.cloudinary.com/jrmwajfz/image/upload/v1795315002/salem360/ojawyzooalixmkped83n.jpg",
+    "https://res.cloudinary.com/jrmwajfz/image/upload/v1795315011/salem360/wr1mjgca6bfbspvojrot.jpg"
    ]
   }
  ]
