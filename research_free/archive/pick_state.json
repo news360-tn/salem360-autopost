@@ -1,5 +1,5 @@
 {
- "last_end": "2026-11-23T12:33:36.846189+05:30",
+ "last_end": "2026-11-23T16:30:55.702747+05:30",
  "pool": {
   "C6fac304": {
    "id": "C6fac304",
@@ -11,9 +11,7 @@
    "category": "விபத்து",
    "score": 11.5,
    "power_cut": false,
-   "listed_at": "2026-11-22T20:18:58.835334+05:30",
-   "picked_at": "2026-11-22T20:22:53.827418+05:30",
-   "refused": "not written: the day's maximum of 30 news was reached"
+   "listed_at": "2026-11-22T20:18:58.835334+05:30"
   },
   "Ce2ca73c": {
    "id": "Ce2ca73c",
@@ -25,9 +23,7 @@
    "category": "விபத்து",
    "score": 11.5,
    "power_cut": false,
-   "listed_at": "2026-11-22T20:18:58.835334+05:30",
-   "picked_at": "2026-11-22T20:22:53.827419+05:30",
-   "refused": "not written: the day's maximum of 30 news was reached"
+   "listed_at": "2026-11-22T20:18:58.835334+05:30"
   },
   "Ce203e84": {
    "id": "Ce203e84",
@@ -39,9 +35,7 @@
    "category": "பொது",
    "score": 8.0,
    "power_cut": false,
-   "listed_at": "2026-11-22T20:18:58.835334+05:30",
-   "picked_at": "2026-11-22T20:22:53.827427+05:30",
-   "refused": "not written: the day's maximum of 30 news was reached"
+   "listed_at": "2026-11-22T20:18:58.835334+05:30"
   },
   "C6d3cdc7": {
    "id": "C6d3cdc7",
@@ -53,9 +47,7 @@
    "category": "பொது",
    "score": 2.7,
    "power_cut": false,
-   "listed_at": "2026-11-22T22:29:42.584980+05:30",
-   "picked_at": "2026-11-22T22:31:38.358869+05:30",
-   "refused": "not written: the day's maximum of 30 news was reached"
+   "listed_at": "2026-11-22T22:29:42.584980+05:30"
   },
   "C3c2f654": {
    "id": "C3c2f654",
@@ -67,9 +59,7 @@
    "category": "விபத்து",
    "score": 11.5,
    "power_cut": false,
-   "listed_at": "2026-11-22T23:30:14.348860+05:30",
-   "picked_at": "2026-11-22T23:32:21.062172+05:30",
-   "refused": "not written: the day's maximum of 30 news was reached"
+   "listed_at": "2026-11-22T23:30:14.348860+05:30"
   },
   "Ca620ae6": {
    "id": "Ca620ae6",
@@ -112,26 +102,21 @@
    "listed_at": "2026-11-23T12:33:36.846189+05:30",
    "picked_at": "2026-11-23T12:38:12.759006+05:30",
    "refused": "not filed: not Salem district news (the story's first lines name another place and no Salem place)"
+  },
+  "Cc3327e7": {
+   "id": "Cc3327e7",
+   "url": "https://tamil.oneindia.com/news/coimbatore/edappadi-palaniswami-will-fade-from-politics-sengottaiyan-s-response-to-a-question-about-velumani-847563.html",
+   "title": "'அந்த வரலாறு எடப்பாடி பழனிச்சாமிக்கு ஏற்படும்.. வேலுமணி குறித்த கேள்விக்கு செங்கோட்டையன் பேட்டி",
+   "summary": "கோவை: எந்த ஒரு தலைமைக்கு மன்னிக்கின்ற தன்மை, பெருந்தன்மை இல்லையோ , அந்த தலைமை நீடித்து நிலைக்கின்ற வரலாறு இல்லை எனவும், அந்த வரலாறு எடப்பாடி பழனிச்சாமிக்கு ஏற்படும் என வருவாய்த்துறை அமைச்சர் செங்கோட்டையன் தெரிவித்தார்...",
+   "source": "ஒன்இந்தியா",
+   "published": "2026-11-23T12:41:41+05:30",
+   "category": "பொது",
+   "score": 3.15,
+   "power_cut": false,
+   "listed_at": "2026-11-23T16:30:55.702747+05:30"
   }
  },
  "rounds": {
-  "2026-11-21_04": {
-   "window": [
-    "2026-11-21T02:20:11.038653+05:30",
-    "2026-11-21T04:28:13.951997+05:30"
-   ],
-   "ids": [
-    "Cdd12c47"
-   ],
-   "sent": false,
-   "deadline": "2026-11-21T05:28:13.951997+05:30",
-   "decided": {
-    "how": "automatic: top 7 of 0 by insights",
-    "ids": [],
-    "at": "2026-11-21T04:29:09.581814+05:30"
-   },
-   "written": []
-  },
   "2026-11-21_08": {
    "window": [
     "2026-11-21T04:28:13.951997+05:30",
@@ -826,22 +811,25 @@
    "refused": {
     "Ca4ae685": "not filed: not Salem district news (the story's first lines name another place and no Salem place)"
    }
+  },
+  "2026-11-23_16": {
+   "window": [
+    "2026-11-23T12:33:36.846189+05:30",
+    "2026-11-23T16:30:55.702747+05:30"
+   ],
+   "ids": [
+    "Cc3327e7",
+    "C6fac304",
+    "Ce2ca73c",
+    "C3c2f654",
+    "Ce203e84",
+    "C6d3cdc7"
+   ],
+   "sent": false,
+   "deadline": "2026-11-23T17:30:55.702747+05:30",
+   "decided": null,
+   "written": []
   }
  },
- "retry": {
-  "https://www.dinakaran.com/news/former-union-minister-murasoli-maran-death-anniversary-opposition-leader-udhayanidhi-stalin-paid-tribute/amp": {
-   "it": {
-    "key": "CBMi1gFBVV95cUxNR0NwaHNrMnB6VXhvaUlXSVhlN1UxMHZnTHQ1bUFydUtNMGdwT2ZGUnVNTlRfMXlDQlEta3FDUlYyMkxzai1CcE9TV254ODVINXNiOHc4cUJUT0NaUFZHZWdfTVNLOXRqeC1VWThfZW9Hc1FqTFR2U0N0Y3VmZDhFeGF2UnFJaUFvN3ZJRERXTGRCOGdDRnJSSlI2MlBFVENwU2tmd3BkQlQ0LWVOMnBtQ3NyZHdlNzVSc0NFVkpkVTZETGFxSzVlOEhTaTE0Z2pnb3lvMDlB0gHWAUFVX3lxTE1HQ3Boc2sycHpVeG9pSVdJWGU3VTEwdmdMdDVtQXJ1S00wZ3BPZkZSdU1OVF8xeUNCUS1rcUNSVjIyTHNqLUJwT1NXbng4NUg1c2I4dzhxQlRPQ1pQVkdlZ19NU0s5dGp4LVVZOF9lb0dzUWpMVHZTQ3RjdWZkOEV4YXZScUlpQW83dklERFdMZEI4Z0NGclJKUjYyUEVUQ3BTa2Z3cGRCVDQtZU4ycG1Dc3Jkd2U3NVJzQ0VWSmRVNkRMYXFLNWU4SFNpMTRnamdveW8wOUE",
-    "url": "https://www.dinakaran.com/news/former-union-minister-murasoli-maran-death-anniversary-opposition-leader-udhayanidhi-stalin-paid-tribute/amp",
-    "title": "முன்னாள் ஒன்றிய அமைச்சர் முரசொலி மாறன் நினைவு நாள்: எதிர்க்கட்சி தலைவர் உதயநிதி ஸ்டாலின் புகழாரம்",
-    "site": "https://www.dinakaran.com",
-    "source": "Dinakaran",
-    "published": "2026-11-23T09:33:25+05:30",
-    "via": "google",
-    "query": "சேலம் site:dinakaran.com",
-    "snippet": " முன்னாள் ஒன்றிய அமைச்சர் முரசொலி மாறன் நினைவு நாள்: எதிர்க்கட்சி தலைவர் உதயநிதி ஸ்டாலின் புகழாரம்    Dinakaran "
-   },
-   "first": "2026-11-23T12:33:36.846189+05:30"
-  }
- }
+ "retry": {}
 }
