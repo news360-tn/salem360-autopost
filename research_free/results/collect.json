@@ -3,107 +3,111 @@
   "earlier stories still waiting for images: []",
   "instagram check: 50 recent posts read from the page",
   "pick round: only the picked links are written (research_free/pick.py)",
-  "manual link added: https://www.dinamalar.com/news/tamil-nadu-news/3-deputy-tahsildars-on-leave-in-protest-against-woman-tahsildar/4384547",
+  "manual link added: https://www.dinamalar.com/news/tamil-nadu-news/hindu-front-bjp-office-bearers-under-house-arrest/4384688",
   "candidate filter: collected=1",
   "to write: 1 Salem district candidates (max 1 stories)",
   "round: top 1 of 1 candidates",
   "candidates waiting: 1 Salem; time left 79 min",
-  "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-news/3-deputy-tahs",
+  "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-news/hindu-front-b",
   "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 2})",
   "posting job started at once",
-  "candidate loop ended: left 0, tried={'N': 1}, done={'N': 1}, time left 76 min",
+  "candidate loop ended: left 0, tried={'N': 1}, done={'N': 1}, time left 74 min",
   "filed: 1 Salem district stories (target 1), reels only",
   "queue: 0 news waiting to be written",
   "All News sheet: {\"ok\":true,\"added\":1,\"updated\":0}"
  ],
  "llm": [
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok gemini/gemini-3.6-flash (51s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
-  "dead for this round: gemini/gemini-3.6-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "fail gemini/gemini-3.6-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=60)",
+  "poor answer - skipped for 30 min: gemini/gemini-3.6-flash",
   "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
   "dead for this round: gemini/gemini-3.5-flash",
   "fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing ",
-  "fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, plea",
-  "dead for this round: gemini/gemini-3-flash-preview",
+  "fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing ",
+  "switching away from gemini/gemini-3-flash-preview for 10 min",
   "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 400: {\"error\":{\"message\":\"Failed to validate JSON. Please adjust your prompt. See 'failed_gener",
   "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 413: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
   "ok anthropic/claude-haiku-5-5",
   "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 400: {\"error\":{\"message\":\"Failed to validate JSON. Please adjust your prompt. See 'failed_gener",
+  "ok groq/qwen/qwen3.8-27b (2s)",
   "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok groq/openai/gpt-oss-120b (6s)",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok groq/qwen/qwen3.8-27b (5s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok groq/openai/gpt-oss-120b (6s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
-  "switching away from groq/openai/gpt-oss-120b for 10 min",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
   "ok groq/qwen/qwen3.8-27b (3s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash"
  ],
  "stories": [
   {
-   "tamil_headline": "கெங்கவல்லி தாசில்தார் மீது புகார்: 3 துணை தாசில்தார் விடுமுறை",
-   "english_headline": "Kengavalli tahsildar faces complaint; 3 deputy tahsildars take leave",
-   "category": "Government & Services",
-   "location": "Kengavalli taluk, Attur, Salem district",
-   "importance": "Medium",
-   "scope": "local",
+   "tamil_headline": "ஆத்தூரில் ஹிந்து முன்னணி, பா.ஜ.க. நிர்வாகிகள் நால்வர் வீட்டுக்காவலில்",
+   "english_headline": "Four Hindu Munnani and BJP executives placed under house arrest in Attur and nearby areas as Thiruparankundram lamp lighting is allowed",
+   "category": "Crime & Safety",
+   "location": "Attur town, Salem district",
+   "importance": "High",
+   "scope": "district",
    "post_to": "Salem 360",
    "slides_spec": {
     "v": 3,
-    "cat": "அரசு நிர்வாகம்",
-    "loc": "கெங்கவல்லி, ஆத்தூர்",
-    "hl1": "கெங்கவல்லியில் தாசில்தார் மீது புகார்",
-    "hl2": "3 துணை தாசில்தார் விடுமுறை",
+    "cat": "வீட்டுக்காவல்",
+    "loc": "ஆத்தூர்",
+    "hl1": "ஆத்தூரில் நால்வர் வீட்டுக்காவலில்",
+    "hl2": "ஹிந்து முன்னணி, பா.ஜ.க.",
     "slides": [
      {
-      "title": "என்ன நடந்தது?",
+      "title": "யார் யார்?",
       "lines": [
-       "கெங்கவல்லி தாலுகா அலுவலகத்தில் தாசில்தார் ஈஸ்வரி மீது புகார்",
-       "கோப்புகளில் கையெழுத்து போடாமல் தாமதம்",
-       "அவதூறாகத் திட்டியதாக துணை தாசில்தார்கள் ஆர்.டி.ஓ.விடம்"
+       "ஹிந்து முன்னணி மாவட்டப் பொறுப்பாளர் சபரிராஜா உட்பட நால்வர்",
+       "முருகன், பா.ஜ.க. முன்னாள் நிர்வாகி, சிறுவாச்சூர்",
+       "ராஜா, ஹிந்து முன்னணி நிர்வாகி"
       ]
      },
      {
-      "title": "விடுமுறை",
+      "title": "எங்கே, யார் காவல்?",
       "lines": [
-       "துணை தாசில்தார்கள் ஹரிகிருஷ்ணன், பழனிவேல்",
-       "தேர்தல் பிரிவு அலுவலர் ஜெயசித்ரா ஆகிய <b>3 பேர்</b>",
-       "தாசில்தாரைக் கண்டித்து வருவாய்த்துறையினர் ஆர்ப்பாட்டம்"
+       "ஆத்தூர் டவுன் போலீசார், தலைவாசல், தம்மம்பட்டி, ஏத்தாப்பூர்",
+       "ஹிந்து முன்னணி மாவட்டத் தலைவர் பிரசாந்த் வீட்டுக்காவலில்",
+       "சேலம் மாவட்டம் முழுவதும் கண்காணிப்பு"
       ]
      },
      {
-      "title": "தாசில்தார்",
+      "title": "ஏன்?",
       "lines": [
-       "துணை தாசில்தார்கள் உடல் நலக் காரணத்திற்காக விடுமுறை",
-       "தாம் யாரையும் திட்டவில்லை என்று மறுப்பு",
-       "பொய்யான புகார் கூறுவதாகவும் குற்றம்சாட்டினார்"
+       "திருப்பரங்குன்றம் தீபத்தூணில் ஒரு முறை தீபம் ஏற்ற",
+       "பொதுமக்கள் பங்கேற்பு, ஊர்வலங்களுக்கு நீதிமன்றம் தடை",
+       "போராட்டங்களைத் தவிர்க்க போலீஸ் கண்காணிப்பு"
+      ]
+     },
+     {
+      "title": "போக்குவரத்து",
+      "lines": [
+       "பெங்களூரு, ஓசூர் வழி சரக்கு வாகனங்களுக்குத் தடை",
+       "ஓமலூர், தீவட்டிப்பட்டி வழியாக ஆத்தூர் செல்லலாம்",
+       "சுங்கச்சாவடிகளில் 24 மணி நேரக் கண்காணிப்பு"
       ]
      }
     ],
     "carousel": false
    },
-   "reel_script": "கெங்கவல்லி தாலுகா அலுவலகத்தில் தாசில்தார் ஈஸ்வரி மீது புகார் எழுந்துள்ளது. அவதூறாகத் திட்டியதைக் கண்டித்து 3 துணை தாசில்தார்கள் விடுமுறை எடுத்துள்ளனர். கோப்புகளில் கையெழுத்து போடாமல் தாமதம் செய்வதாக தாசில்தார் மீது குற்றச்சாட்டு உள்ளது. கடந்த அக்டோபர் முதல் அவர் கெங்கவல்லி தாலுகா தாசில்தாராகப் பணிபுரிகிறார். வாரிசு, பட்டா மாறுதல், உதவித்தொகைச் சான்றுகளுக்கும் தாமதம் ஏற்படுவதாக மக்கள் கூறுகின்றனர். கடந்த 20ஆம் தேதி சேலம் கலெக்டர் அலுவலகத்தில் நடந்த விவசாயிகள் குறைதீர் கூட்டத்தில், தாசில்தாரை பணியிட மாற்றம் செய்ய வேண்டும் என விவசாய சங்கத்தினர் கோரினர். கலெக்டர் இளம்பகவத் தாசில்தாரை அழைத்துக் கண்டித்தார். அதன்பின் துணை தாசில்தார்கள் ஹரிகிருஷ்ணன், பழனிவேல் ஆகியோரிடம் தாசில்தார் பேசியதாக புகார் எழுந்தது. அதே நாளில் நடுவலூரைச் சேர்ந்த ஒருவர் துணை தாசில்தார்கள் இருவரையும் திட்டியதாகவும், அது தாசில்தாரின் தூண்டுதலால் நடந்ததாகவும் குற்றச்சாட்டு உள்ளது. ஆத்தூர் வருவாய் கோட்டாட்சியர் சவுந்தர்யாவிடம் துணை தாசில்தார்கள் புகார் அளித்தனர். நேற்று துணை தாசில்தார்கள் ஹரிகிருஷ்ணன், பழனிவேல், தேர்தல் பிரிவு அலுவலர் ஜெயசித்ரா ஆகிய மூவரும் விடுமுறை எடுத்தனர். இன்று வருவாய்த்துறையினர் கெங்கவல்லி தாலுகா அலுவலகம் முன் கண்டன ஆர்ப்பாட்டம் நடத்த முடிவு செய்துள்ளனர். இதுகுறித்து தாசில்தார் ஈஸ்வரி, துணை தாசில்தார்கள் உடல் நலக் காரணத்தால் விடுமுறை கேட்டதாகவும், தாம் யாரையும் திட்டவில்லை என்றும் கூறினார். பட்டா பெயர் விவகாரத்தில் நபர்களைத்தான் கண்டித்ததாகவும், தாம் பொய்யான புகார்களுக்கு ஆளாவதாகவும் தெரிவித்தார். மேலும் செய்திகளுக்கு சேலம் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🚨 கெங்கவல்லியில் தாசில்தார் மீது புகார்: 3 துணை தாசில்தார்கள் விடுமுறை\n\n📰 முழு விவரம்:\nகெங்கவல்லி தாலுகா அலுவலகத்தில் தாசில்தார் ஈஸ்வரி மீது கோப்புகளில் கையெழுத்து போடாமல் தாமதம் செய்வதாக குற்றச்சாட்டு எழுந்துள்ளது.\nஅவதூறாகத் திட்டியதைக் கண்டித்து துணை தாசில்தார்கள் ஹரிகிருஷ்ணன், பழனிவேல் மற்றும் தேர்தல் பிரிவு அலுவலர் ஜெயசித்ரா ஆகிய 3 பேர் விடுமுறை எடுத்துள்ளனர்.\nஇதுகுறித்து ஆத்தூர் ஆர்.டி.ஓ. சவுந்தர்யாவிடம் புகார் அளிக்கப்பட்டுள்ளது. இன்று வருவாய்த்துறையினர் கண்டன ஆர்ப்பாட்டம் நடத்த முடிவு செய்துள்ளனர்.\n\nKengavalli tahsildar complaint, 3 deputy tahsildars on leave | Salem news\n📍 கெங்கவல்லி, ஆத்தூர், சேலம் மாவட்டம் | 23 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Salem360 #Salem #Attur #SalemNews #சேலம்",
-   "prompts": "A group of revenue department officials stands in a line in front of the Kengavalli Taluk Office, holding placards to protest against the Tahsildar. The location is the government taluk office building in Attur, Salem district, a standard concrete structure with a formal entrance. The officials, seen from behind, are men in shirts and trousers, standing firmly on the paved ground in front of the office gate. No vehicles are visible in the immediate foreground, keeping the focus on the human presence. The scene is set in daylight with clear visibility, typical of a mid-day civic action. The camera is positioned at eye level, 35 mm, capturing the full width of the protest group against the backdrop of the government building, emphasizing the scale of the official dissent. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up view of the entrance gate of the Kengavalli Taluk Office, showing the concrete pillars and the metal gate, with the blurred figures of officials standing just outside. The focus is on the official nature of the location, highlighting the government building's architecture and the formal setting where the administrative dispute is taking place. The ground is paved, and the lighting is natural daylight. The camera is slightly high, 35 mm, framing the gate and the immediate foreground where the protest is occurring, without showing any readable text or faces, ensuring the focus remains on the institutional setting of the news story. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamalar.com/news/tamil-nadu-news/3-deputy-tahsildars-on-leave-in-protest-against-woman-tahsildar/4384547",
-   "published": "2026-11-23T21:06:34+05:30",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: caption misses facts of the article (put every one in 📰 முழு விவரம்): 20 ('கடந்த, 20ல், சேலம் கலெக்டர் அலுவலகத்தில் நடந்த விவசாயிகள் கு'); 5 ('துணை தாசில்தார் இருவர், உடல் நலம் பிரச்னை காரணமாக, 5 நாள் வி')",
-   "note": "free-model draft anthropic/claude-haiku-5-5, 12 attempt(s), 1 validator problem(s)",
+   "reel_script": "ஆத்தூரில் ஹிந்து முன்னணி மற்றும் பா.ஜ.க. நிர்வாகிகள் நால்வர் போலீசாரால் வீட்டுக்காவலில் வைக்கப்பட்டுள்ளனர். ஆத்தூர் டவுன் போலீசார் ஹிந்து முன்னணி மாவட்டப் பொறுப்பாளர் சபரிராஜாவை வீட்டுக்காவலில் வைத்துள்ளனர். இதையடுத்து, தலைவாசல் போலீசார் சிறுவாச்சூரைச் சேர்ந்த பா.ஜ.க. முன்னாள் நிர்வாகி முருகனை வீட்டுக்காவலில் வைத்துள்ளனர். மேலும், தம்மம்பட்டி போலீசார் ஹிந்து முன்னணி நிர்வாகி ராஜாவை வீட்டுக்காவலில் வைத்துள்ளனர். ஏத்தாப்பூர் போலீசார் ஹிந்து முன்னணி மாவட்டத் தலைவர் பிரசாந்தை வீட்டுக்காவலில் வைத்துள்ளனர். இதற்குக் காரணமாக, திருப்பரங்குன்றம் மலை உச்சியில் உள்ள தீபத்தூணில் இன்று ஒரு முறை மட்டும் தீபம் ஏற்ற உச்சநீதிமன்றம் நிபந்தனைகளுடன் இடைக்கால அனுமதி வழங்கியுள்ளது. இந்த நிகழ்வில் பொதுமக்கள் பங்கேற்கவோ ஊர்வலங்கள் நடத்தவோ நீதிமன்றம் தடை விதித்துள்ளது. இது குறித்து சேலம் மாவட்ட காவல் கண்காணிப்பாளர் குத்தாலிங்கம் தெரிவித்ததாவது, மாவட்டம் முழுவதும் கூடுதல் போலீசார் பாதுகாப்பு மற்றும் கண்காணிப்புப் பணியில் ஈடுபட்டுள்ளனர். சுங்கச்சாவடிகளில் 24 மணி நேரக் கண்காணிப்பு உள்ளது. பெங்களூரு, ஓசூரிலிருந்து கிருஷ்ணகிரி, திருவண்ணாமலை, வேலூர் வழியாகச் செல்லும் கன்டெய்னர் போன்ற சரக்கு வாகனங்களுக்கு அவ்வழியாகச் செல்லத் தடை விதிக்கப்பட்டுள்ளது. இந்த வாகனங்கள் ஓமலூர், தீவட்டிப்பட்டியிலிருந்து ஆத்தூர், கள்ளக்குறிச்சி வழியாகச் சென்னைக்குச் செல்லுமாறு போக்குவரத்து மாற்றப்பட்டுள்ளது. இந்து அமைப்பு நிர்வாகிகளின் போராட்டங்களைத் தவிர்க்க போலீசார் கண்காணிப்புப் பணியில் ஈடுபட்டு வருகின்றனர். மேலும் செய்திகளுக்கு சேலம் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🚨 ஆத்தூரில் ஹிந்து முன்னணி, பா.ஜ.க. நிர்வாகிகள் நால்வர் வீட்டுக்காவலில்\n\n📰 முழு விவரம்:\nஆத்தூர் டவுன், தலைவாசல், தம்மம்பட்டி, ஏத்தாப்பூர் போலீசார் ஹிந்து முன்னணி மற்றும் பா.ஜ.க. நிர்வாகிகள் நால்வரை வீட்டுக்காவலில் வைத்துள்ளனர்.\nதிருப்பரங்குன்றம் மலை உச்சியிலுள்ள தீபத்தூணில் இன்று ஒரு முறை மட்டும் தீபம் ஏற்ற உச்சநீதிமன்றம் நிபந்தனைகளுடன் இடைக்கால அனுமதி வழங்கியுள்ளது.\nஇந்த நிகழ்வில் பொதுமக்கள் பங்கேற்கவும், ஊர்வலங்கள் நடத்தவும் நீதிமன்றம் தடை விதித்துள்ளது.\nசேலம் மாவட்டம் முழுவதும் கூடுதல் போலீசார் பாதுகாப்புப் பணியில் உள்ளனர்.\n🚚 பெங்களூரு, ஓசூரிலிருந்து கிருஷ்ணகிரி, திருவண்ணாமலை, வேலூர் வழியாகச் செல்லும் கன்டெய்னர் போன்ற சரக்கு வாகனங்களுக்குத் தடை.\n🔄 இந்த வாகனங்கள் ஓமலூர், தீவட்டிப்பட்டியிலிருந்து ஆத்தூர், கள்ளக்குறிச்சி வழியாகச் சென்னை செல்லலாம்.\n\nAttur house arrest Hindu Munnani BJP | Salem news\n📍 ஆத்தூர், சேலம் மாவட்டம் | 24 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Salem360 #Salem #Attur #SalemNews #சேலம்",
+   "prompts": "Tamil Nadu police officers in khaki uniforms stand guard at the entrance of a residential house in Attur town, enforcing house arrest on a local executive. The scene is set on a quiet residential street in Attur, Salem district, with typical Tamil Nadu housing featuring tiled roofs and compound walls. Four police officers, including an Inspector and a Head Constable, are visible from behind, standing alert near the main gate of the house. They are positioned to prevent the executive from leaving. A police jeep is parked on the road in front of the house, its lights off, indicating a static security detail. The atmosphere is tense but orderly, with no crowds present. The time is daylight, with clear skies and bright natural light illuminating the street. The camera is positioned at eye level, 35 mm lens, capturing the width of the street and the house facade to show the scale of the police deployment. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up view of a police officer in khaki uniform standing at the gate of a residential house in Vazhapadi, Salem district. The officer is seen from the back, holding a baton, guarding the entrance where a BJP executive is under house arrest. The gate is a standard metal gate of a local home, with a concrete wall surrounding the property. In the background, the blurred figures of two other police officers can be seen patrolling the perimeter. The focus is on the officer's stance and the gate, symbolizing the restriction of movement. The lighting is bright daylight, casting sharp shadows on the ground. The camera is slightly high, looking down at the gate and the officer, emphasizing the containment. No readable text or signs are visible, only the uniform and the residential setting. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamalar.com/news/tamil-nadu-news/hindu-front-bjp-office-bearers-under-house-arrest/4384688",
+   "published": "2026-11-23T23:30:02+05:30",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5 + proofread groq/qwen/qwen3.8-27b) - NOT CLEAN, held from posting - problems: caption misses facts of the article (put every one in 📰 முழு விவரம்): 23 ('இந்து முன்னணி சேலம் மேற்கு மாவட்ட துணைத் தலைவர் சின்னுசாமியை'); 7 ('இந்து முன்னணி சேலம் மேற்கு மாவட்ட துணைத் தலைவர் சின்னுசாமியை'); சங்ககிரி ('இந்து முன்னணி சேலம் மேற்கு மாவட்ட துணைத் தலைவர் சின்னுசாமியை'); வாழப்பாடி ('வாழப்பாடியை சேர்ந்த, ப.ஜ.,சேலம் கிழக்கு மாவட்ட தலைவர் சண்முக')",
+   "note": "free-model draft anthropic/claude-haiku-5-5 + proofread groq/qwen/qwen3.8-27b, 13 attempt(s), 1 validator problem(s)",
    "post_time": "right after your reply, same day",
    "_area": "N",
    "_score": 999,
    "images": [
-    "https://res.cloudinary.com/jrmwajfz/image/upload/v1795453273/salem360/llulvsyayxumdshtffey.jpg",
-    "https://res.cloudinary.com/jrmwajfz/image/upload/v1795453276/salem360/wwv3xccsmle8dcnojomq.jpg"
+    "https://res.cloudinary.com/jrmwajfz/image/upload/v1795459299/salem360/qz6bpjsytfqzo5ymxta4.jpg",
+    "https://res.cloudinary.com/jrmwajfz/image/upload/v1795459314/salem360/bxmciqrac2yd5rwp8mik.jpg"
    ]
   }
  ]
