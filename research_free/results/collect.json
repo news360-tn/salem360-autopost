@@ -3,53 +3,124 @@
   "earlier stories still waiting for images: []",
   "instagram check: 50 recent posts read from the page",
   "pick round: only the picked links are written (research_free/pick.py)",
-  "manual link added: https://www.polimernews.com/politicsnews/they-assured-me-i-would-become-a-minister-only-the-portfolio-was-yet-to-be-decided-12833001",
-  "candidate filter: collected=1",
-  "to write: 1 Salem district candidates (max 1 stories)",
-  "round: top 1 of 1 candidates",
-  "candidates waiting: 1 Salem; time left 79 min",
-  "try (N) manual=True: https://www.polimernews.com/politicsnews/they-assured-me-i-w",
-  "NOT filed (N) 'நீங்கள் அமைச்சராவது உறுதி, துறை தான் முடிவாகனும் : not Salem district news (the story's first lines name another place and no Salem place)",
-  "candidate loop ended: left 0, tried={'N': 1}, done={'N': 0}, time left 75 min",
-  "filed: 0 Salem district stories (target 1), reels only",
+  "manual link added: https://pukaarpetti.dailythanthi.com/transportation/news-68819",
+  "manual link added: https://pukaarpetti.dailythanthi.com/road/news-68757",
+  "manual link added: https://pukaarpetti.dailythanthi.com/transportation/news-68775",
+  "manual link added: https://pukaarpetti.dailythanthi.com/transportation/news-68750",
+  "manual link added: https://tamil.oneindia.com/news/coimbatore/edappadi-palaniswami-will-fade-from-politics-sengottaiyan-s-response-to-a-question-about-velumani-847563.html",
+  "manual link added: https://www.dailythanthi.com/news/tamilnadu/bisons-destroying-crops-near-omalur-farmers-are-suffering",
+  "candidate filter: collected=6",
+  "to write: 6 Salem district candidates (max 6 stories)",
+  "round: top 6 of 6 candidates",
+  "candidates waiting: 6 Salem; time left 79 min",
+  "try (N) manual=True: https://www.dailythanthi.com/news/tamilnadu/bisons-destroyin",
+  "try (N) manual=True: https://tamil.oneindia.com/news/coimbatore/edappadi-palanisw",
+  "try (N) manual=True: https://pukaarpetti.dailythanthi.com/transportation/news-687",
+  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 2, 'pollinations': 1})",
+  "posting job started at once",
+  "try (N) manual=True: https://pukaarpetti.dailythanthi.com/transportation/news-687",
+  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 4, 'pollinations': 1})",
+  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 7, 'pollinations': 1})",
+  "try (N) manual=True: https://pukaarpetti.dailythanthi.com/road/news-68757",
+  "try (N) manual=True: https://pukaarpetti.dailythanthi.com/transportation/news-688",
+  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 10, 'pollinations': 1})",
+  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 12, 'pollinations': 1})",
+  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 14, 'pollinations': 1})",
+  "candidate loop ended: left 0, tried={'N': 6}, done={'N': 6}, time left 72 min",
+  "filed: 6 Salem district stories (target 6), reels only",
   "queue: 0 news waiting to be written",
-  "All News sheet: {\"ok\":true,\"added\":1,\"updated\":0}"
+  "All News sheet: {\"ok\":true,\"added\":1,\"updated\":5}"
  ],
  "llm": [
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok gemini/gemini-3.6-flash (26s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok gemini/gemini-3.6-flash (19s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok gemini/gemini-3.6-flash (27s)",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "ok gemini/gemini-3.6-flash (27s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok gemini/gemini-3.6-flash (30s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "ok gemini/gemini-3.6-flash (28s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "fail gemini/gemini-3.6-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=60)",
+  "poor answer - skipped for 30 min: gemini/gemini-3.6-flash",
+  "fail gemini/gemini-3.6-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=60)",
+  "poor answer - skipped for 30 min: gemini/gemini-3.6-flash",
+  "ok gemini/gemini-3.6-flash (39s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
-  "dead for this round: gemini/gemini-3.6-flash",
-  "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
-  "dead for this round: gemini/gemini-3.5-flash",
-  "fail gemini/gemini-3-flash-preview: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=60)",
-  "poor answer - skipped for 30 min: gemini/gemini-3-flash-preview",
-  "ok groq/openai/gpt-oss-120b (4s)",
+  "fail gemini/gemini-3.5-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=60)",
+  "poor answer - skipped for 30 min: gemini/gemini-3.5-flash",
+  "ok gemini/gemini-3.5-flash (25s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok gemini/gemini-3-flash-preview (9s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok gemini/gemini-3-flash-preview (11s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok gemini/gemini-3-flash-preview (9s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "fail gemini/gemini-3.5-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=60)",
+  "poor answer - skipped for 30 min: gemini/gemini-3.5-flash",
+  "ok gemini/gemini-3-flash-preview (9s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok gemini/gemini-3-flash-preview (5s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok gemini/gemini-3-flash-preview (11s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, plea",
+  "ok gemini/gemini-3-flash-preview (49s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok gemini/gemini-3-flash-preview (6s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "ok gemini/gemini-3-flash-preview (12s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "fail gemini/gemini-3-flash-preview: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=60)",
+  "poor answer - skipped for 30 min: gemini/gemini-3-flash-preview",
+  "ok gemini/gemini-3-flash-preview (14s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
-  "ok groq/openai/gpt-oss-120b (7s)",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 400: {\"error\":{\"message\":\"Failed to validate JSON. Please adjust your prompt. See 'failed_gener",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 413: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
+  "ok anthropic/claude-haiku-5-5",
+  "ok groq/openai/gpt-oss-120b (5s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
   "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
   "switching away from groq/openai/gpt-oss-120b for 10 min",
-  "ok groq/qwen/qwen3.8-27b (3s)",
+  "ok groq/qwen/qwen3.8-27b (5s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 413: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
+  "ok anthropic/claude-haiku-5-5",
+  "ok groq/openai/gpt-oss-120b (6s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok groq/qwen/qwen3.8-27b (1s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
@@ -59,16 +130,396 @@
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "ok anthropic/claude-haiku-5-5",
+  "ok groq/qwen/qwen3.8-27b (3s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok anthropic/claude-haiku-5-5",
   "ok anthropic/claude-haiku-5-5",
   "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok anthropic/claude-haiku-5-5",
   "ok anthropic/claude-haiku-5-5"
  ],
- "stories": []
+ "stories": [
+  {
+   "tamil_headline": "சேலம் பழைய பஸ் நிலையத்தில் போக்குவரத்து விதிமீறல்: ஒருவழிப்பாதையில் நுழையும் பஸ்கள்",
+   "english_headline": "Traffic violations at Salem Old Bus Stand: Buses entering through one-way exit cause congestion",
+   "category": "Roads & Transport",
+   "location": "Old Bus Stand, Salem city, Salem district",
+   "importance": "Medium",
+   "scope": "local",
+   "post_to": "Salem 360",
+   "slides_spec": {
+    "v": 3,
+    "cat": "போக்குவரத்து",
+    "loc": "பழைய பஸ் நிலையம், சேலம்",
+    "hl1": "பழைய பஸ் நிலையத்தில் விதிமீறல்",
+    "hl2": "ஒருவழிப்பாதையில் வரும்",
+    "slides": [
+     {
+      "title": "என்ன நடக்கிறது?",
+      "lines": [
+       "சேலம் பழைய பஸ் நிலையத்தில் <b>போக்குவரத்து விதிமீறல்</b>",
+       "வெளியே செல்லும் பாதையில் பஸ்கள் உள்ளே வருகின்றன",
+       "அரசு மற்றும் தனியார் பஸ்கள் விதிமீறல்"
+      ]
+     },
+     {
+      "title": "பாதிப்புகள்",
+      "lines": [
+       "பொதுமக்கள், வாகன ஓட்டிகள் கடும் அவதி",
+       "பஸ் நிலையப் பகுதியில் கடும் <b>போக்குவரத்து நெரிசல்</b>",
+       "விதிமுறைகளை மீறி இயக்கப்படும் வாகனங்கள்"
+      ]
+     },
+     {
+      "title": "கோரிக்கை",
+      "lines": [
+       "போக்குவரத்துத் துறை அதிகாரிகள் நடவடிக்கை எடுக்கக் கோரிக்கை",
+       "ஒருவழிப்பாதை விதிமீறலைத் தடுக்க வலியுறுத்தல்"
+      ]
+     }
+    ],
+    "carousel": false
+   },
+   "reel_script": "சேலம் பழைய பஸ் நிலையத்தில் ஒருவழிப்பாதையில் பஸ்கள் நுழைவதால் கடும் போக்குவரத்து நெரிசல் ஏற்படுகிறது. சேலம் பழைய பஸ் நிலையத்தில் இருந்து பல்வேறு ஊர்களுக்கு அரசு மற்றும் தனியார் பஸ்கள் இயக்கப்படுகின்றன. இந்த பஸ் நிலையத்தில் பஸ்கள் உள்ளே வரவும், வெளியே செல்லவும் தனித்தனியாகச் சாலைகள் உள்ளன. ஆனால், சில அரசு மற்றும் தனியார் பஸ்கள் போக்குவரத்து விதிகளை மீறி, வெளியே செல்லும் ஒருவழிப்பாதை வழியாக பஸ் நிலையத்திற்குள் வருகின்றன. இதனால் அந்தப் பகுதியில் கடும் போக்குவரத்து நெரிசல் ஏற்படுகிறது. ஒருவழிப்பாதையில் பஸ்கள் வருவதால் பொதுமக்கள் மற்றும் மற்ற வாகன ஓட்டிகள் கடும் அவதிக்கு உள்ளாகின்றனர். இந்த விதிமீறலைத் தடுக்க போக்குவரத்துத் துறை அதிகாரிகள் உரிய நடவடிக்கை எடுக்க வேண்டும் என்று கோரிக்கை எழுந்துள்ளது. மேலும் செய்திகளுக்கு சேலம் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🚨 சேலம் பழைய பஸ் நிலையத்தில் போக்குவரத்து விதிமீறல்: ஒருவழிப்பாதையில் நுழையும் பஸ்கள்\n\n📰 முழு விவரம்:\nசேலம் பழைய பஸ் நிலையத்தில் பஸ்கள் வெளியே செல்லும் ஒருவழிப்பாதை வழியாக சில பஸ்கள் உள்ளே வருவதால் கடும் போக்குவரத்து நெரிசல் ஏற்படுகிறது. இங்கு பஸ்கள் உள்ளே வரவும் வெளியே செல்லவும் தனித்தனி பாதைகள் உள்ள நிலையில், விதிகளை மீறி பஸ்கள் இயக்கப்படுகின்றன.\n📍 இடம்: பழைய பஸ் நிலையம், சேலம் நகரம்.\n🚌 வாகனங்கள்: விதிமீறலில் ஈடுபடும் அரசு மற்றும் தனியார் பஸ்கள்.\n⚠️ பாதிப்பு: பொதுமக்கள் மற்றும் வாகன ஓட்டிகளுக்கு கடும் அவதி.\n👮 நடவடிக்கை: போக்குவரத்துத் துறை அதிகாரிகள் உரிய நடவடிக்கை எடுக்க வேண்டும் என கோரிக்கை எழுந்துள்ளது.\n\nSalem Old Bus Stand traffic violation | Salem news\n📍 சேலம் பழைய பஸ் நிலையம் | 23 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Salem360 #Salem #SalemCity #SalemNews #சேலம்",
+   "prompts": "A private bus and a green TNSTC government bus are entering the Salem Old Bus Stand through the narrow one-way exit road, blocking the path of oncoming vehicles. The scene is set at the busy exit gate of the Old Bus Stand in Salem city, with the paved road showing signs of heavy use. Several men in shirts and veshtis are seen from behind, standing on the pavement watching the congestion. A yellow autorickshaw and multiple two-wheelers are caught in a bottleneck directly in front of the buses. The scene is captured in bright daylight with clear visibility. The camera is at eye level, using a 35mm lens to show the entire width of the blocked road and the surrounding bus stand area. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA wide shot shows a line of two-wheelers and an autorickshaw forced to a halt as a large town bus occupies the entire one-way exit lane at the Salem Old Bus Stand. The asphalt road is crowded, and the concrete pillars of the bus stand terminal are visible in the background. Motorists in casual shirts are seen from behind, waiting on their two-wheelers for the bus to move. The vehicles include a brightly painted private bus and several scooters squeezed toward the edge of the road. It is a sunny day with harsh shadows on the ground, indicating midday. The camera is positioned at a slightly high angle to emphasize the traffic pile-up and the violation of the one-way system. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://pukaarpetti.dailythanthi.com/transportation/news-68750",
+   "published": "2026-11-22T19:38:18+05:30",
+   "verification": "DRAFT (gemini/gemini-3-flash-preview) - fact-check: no problems found",
+   "note": "free-model draft gemini/gemini-3-flash-preview, 2 attempt(s), 0 validator problem(s)",
+   "post_time": "right after your reply, same day",
+   "_area": "N",
+   "_score": 999,
+   "images": [
+    "https://res.cloudinary.com/jrmwajfz/image/upload/v1795432166/salem360/a82ipli8zxgbgximg09q.jpg",
+    "https://res.cloudinary.com/jrmwajfz/image/upload/v1795432171/salem360/go3zobxuuwrhob54c1cw.jpg"
+   ]
+  },
+  {
+   "tamil_headline": "ஓமலூர் அருகே பயிர்களை நாசம் செய்யும் காட்டெருமைகள்; விவசாயிகள் வேதனை",
+   "english_headline": "Wild gaurs damage crops near Omalur; farmers in distress",
+   "category": "Weather & Agriculture",
+   "location": "Danishpettai and Balamedu, Omalur, Salem district",
+   "importance": "Medium",
+   "scope": "local",
+   "post_to": "Salem 360",
+   "slides_spec": {
+    "v": 3,
+    "cat": "காட்டெருமை தொல்லை",
+    "loc": "டேனிஷ்பேட்டை, ஓமலூர்",
+    "hl1": "ஓமலூர் அருகே காட்டெருமைகள் அட்டகாசம்",
+    "hl2": "பயிர்கள் நாசம், விவசாயிகள்",
+    "slides": [
+     {
+      "title": "எங்கே?",
+      "lines": [
+       "ஓமலூர் அருகே டேனிஷ்பேட்டை ஊராட்சி",
+       "பாலமேடு உள்கோம்பை, வத்தியூர் கிராமங்கள்",
+       "ஏற்காடு மலை அடிவாரத்தை ஒட்டிய பகுதி"
+      ]
+     },
+     {
+      "title": "என்ன நடந்தது?",
+      "lines": [
+       "<b>10-க்கும் மேற்பட்ட</b> காட்டெருமைகள் முகாம்",
+       "இரவு, அதிகாலையில் விளைநிலங்களுக்குள் புகுந்தன",
+       "வாழை, மஞ்சள், சோளம் பயிர்கள் நாசம்"
+      ]
+     },
+     {
+      "title": "விவசாயிகள்",
+      "lines": [
+       "புகார் அளித்தும் அதிகாரிகள் நடவடிக்கை இல்லை",
+       "<b>லட்சக்கணக்கான ரூபாய்</b> இழப்பு",
+       "இழப்பீடு வழங்கி, வனப்பகுதிக்குள் விரட்ட கோரிக்கை"
+      ]
+     }
+    ],
+    "carousel": false
+   },
+   "reel_script": "ஓமலூர் அருகே காட்டெருமைகள் பயிர்களை நாசம் செய்வதால் விவசாயிகள் வேதனையில் உள்ளனர். ஓமலூர் அடுத்த டேனிஷ்பேட்டை ஊராட்சியில் உள்ள பாலமேடு உள்கோம்பை பகுதியில் 10-க்கும் மேற்பட்ட காட்டெருமைகள் முகாமிட்டுள்ளன. இந்தப் பகுதிகள் ஏற்காடு மலை அடிவாரத்தை ஒட்டி அமைந்துள்ளன. இவை இரவு மற்றும் அதிகாலை நேரங்களில் விளைநிலங்களுக்குள் புகுந்து பயிர்களைத் தின்றும், மிதித்தும் சேதப்படுத்துகின்றன. நேற்று அதிகாலையும் 10-க்கும் மேற்பட்ட காட்டெருமைகள் தோட்டத்துக்குள் புகுந்து பயிர்களைச் சேதப்படுத்தின. வாழை, மஞ்சள், சோளம் உள்ளிட்ட பயிர்கள் பாதிக்கப்பட்டுள்ளன. வனத்துறை, வருவாய்த்துறை அதிகாரிகளுக்குப் பலமுறை புகார் அளித்தும் நடவடிக்கை இல்லை என மக்கள் குற்றம் சாட்டுகின்றனர். லட்சக்கணக்கான ரூபாய் மதிப்பிலான பயிர்கள் சேதமடைந்ததால் பெரும் நஷ்டம் ஏற்பட்டுள்ளதாக விவசாயிகள் கூறுகின்றனர். பாதிக்கப்பட்ட விவசாயிகளுக்கு உரிய இழப்பீடு வழங்கவும், காட்டெருமைகளை வனப்பகுதிக்குள் நிரந்தரமாக விரட்டவும் மாவட்ட நிர்வாகம் உடனடியாக நடவடிக்கை எடுக்க வேண்டும் என்று விவசாயிகள் கோரிக்கை விடுத்துள்ளனர். மேலும் செய்திகளுக்கு சேலம் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🐃 ஓமலூர் அருகே காட்டெருமைகள் அட்டகாசம்: பயிர்கள் நாசம், விவசாயிகள் வேதனை\n\n📰 முழு விவரம்:\nசேலம் மாவட்டம் ஓமலூர் அடுத்த டேனிஷ்பேட்டை ஊராட்சிக்கு உட்பட்ட பாலமேடு உள்கோம்பை, வத்தியூர், மோளக்கரட்டூர், காஞ்சேரி ஆகிய கிராமங்களில் காட்டெருமைகள் மீண்டும் புகுந்து பயிர்களை நாசம் செய்துள்ளன. இந்த கிராமங்கள் ஏற்காடு மலை அடிவாரத்தை ஒட்டி அமைந்துள்ளன.\nஇப்பகுதி விவசாயிகள் வாழை, மஞ்சள், சாமந்தி, பாக்கு, சோளம், கம்பு, கேழ்வரகு மற்றும் கால்நடை தீவனப்புல் பயிரிடுகின்றனர். டேனிஷ்பேட்டை அடிவாரம், பாலமேடு உள்கோம்பை பகுதியில் 10-க்கும் மேற்பட்ட காட்டெருமைகள் முகாமிட்டுள்ளன. இரவு, அதிகாலை நேரங்களில் விளைநிலங்களுக்குள் புகுந்து பயிர்களைத் தின்றும், மிதித்தும் நாசப்படுத்துகின்றன.\nநேற்று அதிகாலையும் 10-க்கும் மேற்பட்ட காட்டெருமைகள் தோட்டத்துக்குள் புகுந்து பயிர்களைச் சேதப்படுத்தின. வனத்துறை, வருவாய்த்துறை அதிகாரிகளுக்குப் பலமுறை புகார் அளித்தும், அதிகாரிகள் சம்பவ இடத்துக்கு வந்து நடவடிக்கை எடுக்கவில்லை என மக்கள் குற்றம் சாட்டுகின்றனர்.\nகாட்டெருமைகளின் நடமாட்டம் நாளுக்கு நாள் அதிகரிப்பதால் தோட்டத்துக்குச் செல்லவே அச்சமாக உள்ளதாக விவசாயிகள் கூறுகின்றனர். லட்சக்கணக்கான ரூபாய் மதிப்பிலான பயிர்கள் சேதமடைந்து பெரும் நஷ்டம் ஏற்பட்டுள்ளது.\n📝 கோரிக்கை: பாதிக்கப்பட்ட விவசாயிகளுக்கு உரிய இழப்பீடு வழங்கவும், காட்டெருமைகளை வனப்பகுதிக்குள் நிரந்தரமாக விரட்டவும் மாவட்ட நிர்வாகம் போர்க்கால அடிப்படையில் நடவடிக்கை எடுக்க வேண்டும்.\n\nOmalur wild gaur crop damage farmers | Salem news\n📍 டேனிஷ்பேட்டை, ஓமலூர், சேலம் மாவட்டம் | 22 நவம்பர் 2026\n\nதேவைப்படுவோருக்கு Share செய்யுங்கள்\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Salem360 #Salem #Omalur #SalemNews #சேலம்",
+   "prompts": "A herd of more than ten wild gaurs, large dark bison with heavy shoulders and short curved horns, stands and grazes inside a farm field at the foothills of the Yercaud hills near Balamedu in Omalur, Salem district, trampling the crops. In the foreground, a banana plantation with broad green leaves and rows of turmeric and maize plants is torn up, with flattened stalks and churned soil showing the damage. Behind them, a low wooden fence and a dirt field path lead to a few scattered village houses and mango and areca palm trees, with the rising green slopes of the Shevaroy hills in the far background. In the lower corner, a few farmers stand far away, seen from behind in shirts and veshti, looking at the herd and holding their heads. It is early morning in soft pale daylight with mist over the fields. Shot at eye level with a 35 mm lens, wide enough to show the field, the herd and the hills. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up of trampled crops in a farm field at Balamedu near Omalur, Salem district: a patch of maize and millet stalks snapped and pressed flat into muddy soil, with broken banana leaves and split turmeric plants lying in the furrows. Large hoof prints of gaurs are pressed deep into the wet earth between the rows, and a few scattered chewed stalks lie on the ground. In the soft background, a low fence and the dark green slope of the Yercaud hill foothills are blurred. Early morning daylight, soft and pale, with dew on the leaves. Shot close to the ground at a slightly high angle with a 35 mm lens, so the hoof prints and damaged crops fill the frame. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dailythanthi.com/news/tamilnadu/bisons-destroying-crops-near-omalur-farmers-are-suffering",
+   "published": "2026-11-22T15:52:47Z",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - fact-check: no problems found",
+   "note": "free-model draft anthropic/claude-haiku-5-5, 12 attempt(s), 0 validator problem(s)",
+   "post_time": "right after your reply, same day",
+   "_area": "N",
+   "_score": 999,
+   "images": [
+    "https://res.cloudinary.com/jrmwajfz/image/upload/v1795432199/salem360/ktwvherllsd43xcdhn2d.jpg",
+    "https://res.cloudinary.com/jrmwajfz/image/upload/v1795432202/salem360/hjybrgxp2hjrz7d23zbb.jpg"
+   ]
+  },
+  {
+   "tamil_headline": "வேலுமணி விவகாரம்: \"காலம் எடப்பாடிக்கு பதில் சொல்லும்\" - செங்கோட்டையன்",
+   "english_headline": "Sengottaiyan says time will answer Edappadi Palaniswami over the Velumani row, says Kongu region now with TVK leadership",
+   "category": "Government & Services",
+   "location": "Coimbatore airport, Coimbatore district",
+   "importance": "Medium",
+   "scope": "district",
+   "post_to": "Salem 360",
+   "slides_spec": {
+    "v": 3,
+    "cat": "அரசியல் பேட்டி",
+    "loc": "கோவை",
+    "hl1": "கோவை: எடப்பாடிக்கு காலம் பதில் சொல்லும்",
+    "hl2": "செங்கோட்டையன் பேட்டி",
+    "slides": [
+     {
+      "title": "என்ன சொன்னார்?",
+      "lines": [
+       "கோவை விமான நிலையத்தில் செய்தியாளர்களிடம் பேசினார்",
+       "காலத்தை எதிர்த்து போரிட முடியாது என்றார்",
+       "எந்தத் தலைமைக்கு மன்னிப்பு இல்லையோ அது நீடிக்காது"
+      ]
+     },
+     {
+      "title": "வேலுமணி விவகாரம்",
+      "lines": [
+       "பொள்ளாச்சி திருமணத்தில் வேலுமணியுடன் பேசியது",
+       "அரசியல் பேசவில்லை, வணக்கம் மட்டுமே என்றார்",
+       "வேலுமணி முக்கிய பொறுப்பாளர் என்றார்"
+      ]
+     },
+     {
+      "title": "கொங்கு மண்டலம்",
+      "lines": [
+       "தவெக தலைமையில் கொங்கு மண்டலம் உள்ளது",
+       "தனித்து போட்டியிட்டு 25 எம்எல்ஏக்கள் பெற்றோம்",
+       "யாரையும் யாராலும் குறைக்க முடியாது"
+      ]
+     }
+    ],
+    "carousel": false
+   },
+   "reel_script": "எடப்பாடி பழனிச்சாமிக்கு காலம் பதில் சொல்லும் என்று வருவாய்த்துறை அமைச்சர் செங்கோட்டையன் கூறினார். கோவை விமான நிலையத்தில் அவர் செய்தியாளர்களைச் சந்தித்தபோது இதைத் தெரிவித்தார். அ தி மு க பொதுச்செயலாளர் எடப்பாடி பழனிச்சாமிக்கும் காவல் கண்காணிப்பாளர்வேலுமணிக்கும் இடையிலான கருத்து மோதல் குறித்து கேள்வி எழுப்பப்பட்டது. முன் ஞானத்தை எதிர்த்து போரிட முடியும், ஆனால் காலத்தை எதிர்த்து போரிட முடியாது என்று செங்கோட்டையன் கூறினார். எந்தத் தலைமைக்கு மன்னிக்கும் தன்மையும் பெருந்தன்மையும் இல்லையோ, அந்தத் தலைமை நீடித்து நிலைக்காது என்றும் அவர் தெரிவித்தார். பொள்ளாச்சி திருமணத்தில் வேலுமணியுடன் பேசியது குறித்தும் கேள்வி எழுந்தது. அது உறவினர் திருமணம் என்றும், அரசியல் பேசவில்லை, வணக்கம் செலுத்தி பேசிக்கொண்டிருந்தோம் என்றும் அவர் விளக்கம் அளித்தார். எடப்பாடி பழனிச்சாமி கூறிய கருத்துக்கு பதிலளித்த செங்கோட்டையன், வேலுமணி கட்சியின் முக்கிய பொறுப்பாளர் என்றார். எடப்பாடி பழனிச்சாமியை பொதுச்செயலாளராகவும் முதலமைச்சராகவும் ஆக்க உறுதுணையாக இருந்தவர் வேலுமணி என்றும் அவர் கூறினார். த வெ க தலைமையில் கொங்கு மண்டலம் உள்ளது என்றும், தனித்து போட்டியிட்டு 25 சட்டமன்ற உறுப்பினர்களைப் பெற்றதாகவும் அவர் குறிப்பிட்டார். மேலும் செய்திகளுக்கு சேலம் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🗣️ எடப்பாடிக்கு காலம் பதில் சொல்லும்: செங்கோட்டையன் பேட்டி\n\n📰 முழு விவரம்:\nவருவாய்த்துறை அமைச்சர் செங்கோட்டையன் கோவை விமான நிலையத்தில் செய்தியாளர்களைச் சந்தித்தார்.\nஅதிமுக பொதுச்செயலாளர் எடப்பாடி பழனிச்சாமி, எஸ்.பி.வேலுமணி இடையிலான கருத்து மோதல் குறித்து கேள்வி எழுப்பப்பட்டது.\nகாலத்தை எதிர்த்து போரிட முடியாது, காலம் வைக்கும் புள்ளியை அழிக்க முடியாது என்றார்.\nஎந்தத் தலைமைக்கு மன்னிக்கும் தன்மை, பெருந்தன்மை இல்லையோ அது நீடித்து நிலைக்காது என்றார்.\nபொள்ளாச்சி திருமணத்தில் வேலுமணியுடன் பேசியது உறவினர் திருமணம் என்றும், அரசியல் பேசவில்லை என்றும் விளக்கினார்.\nஎடப்பாடி \"ஜாக்பாட் அடித்து ஆட்சி வந்தது\" என விமர்சித்தது குறித்து, திமுகவுடன் சேர்ந்து ஜாக்பாட் அடிக்கப் பார்த்தார் என்றார்.\nஎம்.ஜி.ஆர், ஜெயலலிதா வழியில் வந்த இயக்கம் எங்கே செல்கிறது என்பதுதான் மக்கள் கேள்வி என்றும், எம்ஜிஆர், ஜெயலலிதா என்பது வேறு, எடப்பாடி பழனிச்சாமி என்பது வேறு என்றும் கூறினார்.\nவேலுமணி 2 கோடி தொண்டர்களில் ஒருவர் என்ற எடப்பாடியின் கருத்துக்கு, அவர் முக்கிய பொறுப்பாளர் என்றும், எடப்பாடியை பொதுச்செயலாளர், முதலமைச்சராக ஆக்க உறுதுணையாக இருந்தவர் என்றும் பதிலளித்தார்.\nயாரையும் யாராலும் குறைத்துவிட முடியாது என்றும், கொங்கு மண்டலம் இப்போது தவெக தலைமையில் உள்ளது என்றும் கூறினார்.\nதனித்து போட்டியிட்டு 25 சட்டமன்ற உறுப்பினர்கள் பெற்றதாகவும், எதிர்காலத்தில் கொங்கு மண்டலம் வெற்றி தளபதி தலைமையில் பவனி வரும் என்றும் கூறினார்.\n\nSengottaiyan says time will answer Edappadi over Velumani row | Coimbatore news\n📍 கோவை | 23 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Salem360 #Salem #Coimbatore #அரசியல் #SalemNews",
+   "prompts": "A Revenue Minister in a white shirt and veshti stands at the Coimbatore airport press area, speaking to a tight cluster of reporters who hold up microphones and phones toward him as he answers questions about the AIADMK rift. The setting is the arrival hall of a regional airport in Coimbatore, with a glass facade, a row of metal barricades and a few airport staff in the background. Party supporters in shirts and veshtis and reporters in plain shirts stand close, seen from behind or at a distance, some with notepads and one cameraman with a shoulder camera. The minister gestures with one hand while speaking, his face kept at a distance and slightly soft. Daylight streams through the glass roof, with the bright midday sun giving clean, even light. Camera at eye level, 35 mm, wide enough to show the crowd and the airport interior. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up of a bunch of microphones and recording devices pushed forward on a press-meet stand at Coimbatore airport, their black foam heads and cables in sharp focus. Behind them, out of focus, the blurred shoulders and arms of reporters in shirts and a few party workers in white veshti crowd the barricade. A metal barrier rail runs across the frame, with the glass wall of the airport terminal bright in the background under daylight. Camera at slightly high angle, 35 mm, shallow depth of field, daylight and no readable text anywhere in the frame. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://tamil.oneindia.com/news/coimbatore/edappadi-palaniswami-will-fade-from-politics-sengottaiyan-s-response-to-a-question-about-velumani-847563.html",
+   "published": "2026-11-23T12:41:41+05:30",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: reel_script sentence 1 (heard in the first 3 seconds) must name the place 'கோவை' and the news itself, e.g. 'கோவை-இல் ... 3 பேர் கைது.' - viewers decide in 3 seconds whether the news is about their area",
+   "note": "free-model draft anthropic/claude-haiku-5-5, 11 attempt(s), 1 validator problem(s)",
+   "post_time": "right after your reply, same day",
+   "_area": "N",
+   "_score": 999,
+   "images": [
+    "https://res.cloudinary.com/jrmwajfz/image/upload/v1795432220/salem360/acj6wjkhkboujzqtafyu.jpg",
+    "https://res.cloudinary.com/jrmwajfz/image/upload/v1795432223/salem360/ndczr63cepzxfhr7slx6.jpg"
+   ]
+  },
+  {
+   "tamil_headline": "புகளூர் தவிட்டுப்பாளையத்தில் சர்வீஸ் சாலையில் வாகனங்கள் நிறுத்தம்: விபத்து அபாயம்",
+   "english_headline": "Vehicles parked in the middle of the service road at Thavittupalayam, Pugalur: accident risk",
+   "category": "Roads & Transport",
+   "location": "Thavittupalayam, Nanchai Pugalur, Pugalur taluk, Karur district",
+   "importance": "Medium",
+   "scope": "local",
+   "post_to": "Salem 360",
+   "slides_spec": {
+    "v": 3,
+    "cat": "சாலை விபத்து அபாயம்",
+    "loc": "தவிட்டுப்பாளையம், புகளூர்",
+    "hl1": "புகளூரில் சாலையின் வாகனங்கள் நிறுத்தம்",
+    "hl2": "விபத்து ஏற்படும் அபாயம்",
+    "slides": [
+     {
+      "title": "எங்கே?",
+      "lines": [
+       "நன்செய் புகளூர், தவிட்டுப்பாளையம்",
+       "சேலம் - கரூர் தேசிய நெடுஞ்சாலையின் சர்வீஸ் சாலை",
+       "புகளூர் தாலுகா, கரூர் மாவட்டம்"
+      ]
+     },
+     {
+      "title": "என்ன பிரச்சனை?",
+      "lines": [
+       "சர்வீஸ் சாலையில் வாகனங்கள் சாலையின் நடுவே நிறுத்தப்படுகின்றன",
+       "பஸ், பள்ளி, கல்லூரி வாகனங்கள் உள்ளிட்ட ஏராளமான வாகனங்கள்",
+       "இதனால் <b>விபத்து ஏற்படும் அபாயம்</b> உள்ளது"
+      ]
+     },
+     {
+      "title": "யாருக்கு சிரமம்?",
+      "lines": [
+       "சாலையை கடக்கும் பொதுமக்கள் மிகவும் சிரமப்படுகின்றனர்",
+       "வாகன ஓட்டிகளும் சிரமப்படுகின்றனர்"
+      ]
+     },
+     {
+      "title": "என்ன நடவடிக்கை?",
+      "lines": [
+       "சர்வீஸ் சாலையில் வாகனம் நிறுத்துவதை தடுக்க வேண்டும்",
+       "விதிமீறி நிறுத்தும் வாகனங்களுக்கு அபராதம் விதிக்க வேண்டும்"
+      ]
+     }
+    ],
+    "carousel": false
+   },
+   "reel_script": "கரூர் மாவட்டம் புகளூர் தாலுகா, நன்செய் புகளூர் தவிட்டுப்பாளையத்தில் விபத்து ஏற்படும் அபாயம் உள்ளது. சேலம் - கரூர் தேசிய நெடுஞ்சாலையின் சர்வீஸ் சாலையில் வாகனங்கள் சாலையின் நடுவே நிறுத்தப்படுகின்றன. பஸ்கள், பள்ளி மற்றும் கல்லூரி வாகனங்கள் உள்ளிட்ட ஏராளமான வாகனங்கள் இந்தச் சாலையில் செல்கின்றன. இதனால் சாலையைக் கடக்கும் பொதுமக்களும் வாகன ஓட்டிகளும் மிகவும் சிரமப்படுகின்றனர். எனவே, சம்பந்தப்பட்ட அதிகாரிகள் சர்வீஸ் சாலையில் வாகனங்கள் நிறுத்துவதைத் தடுக்க வேண்டும். விதிமீறி நிறுத்தப்படும் வாகனங்களுக்கு அபராதம் விதித்து நடவடிக்கை எடுக்க வேண்டும். மேலும் செய்திகளுக்கு சேலம் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🚗 புகளூரில் சர்வீஸ் சாலையில் வாகனங்கள் நிறுத்தம்: விபத்து அபாயம்\n\n📰 முழு விவரம்:\nகரூர் மாவட்டம், புகளூர் தாலுகா, நன்செய் புகளூர் தவிட்டுப்பாளையத்தில் சேலம் - கரூர் தேசிய நெடுஞ்சாலையின் சர்வீஸ் சாலையில் வாகனங்கள் சாலையின் நடுவே நிறுத்தப்படுகின்றன.\nபஸ், பள்ளி, கல்லூரி வாகனங்கள் உள்ளிட்ட ஏராளமான வாகனங்கள் செல்வதால் விபத்து ஏற்படும் அபாயம் உள்ளது.\nசாலையைக் கடக்கும் பொதுமக்களும் வாகன ஓட்டிகளும் மிகவும் சிரமப்படுகின்றனர்.\nசம்பந்தப்பட்ட அதிகாரிகள் சர்வீஸ் சாலையில் வாகனங்கள் நிறுத்துவதைத் தடுத்து, விதிமீறி நிறுத்தும் வாகனங்களுக்கு அபராதம் விதித்து நடவடிக்கை எடுக்க வேண்டும்.\n\n📍 இடம்: தவிட்டுப்பாளையம், நன்செய் புகளூர், புகளூர் தாலுகா, கரூர் மாவட்டம்\n\nVehicles parked on Salem-Karur service road at Pugalur, accident risk | Salem news\n📍 தவிட்டுப்பாளையம், புகளூர், கரூர் மாவட்டம் | 22 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Salem360 #Salem #SalemNews #சேலம் #Karur",
+   "prompts": "A line of parked buses, a school van and two-wheelers stands in the middle of a service road beside a national highway at Thavittupalayam near Pugalur, Karur district, forcing moving traffic to swerve around them. Along the wide tarred service road, a town bus and a private bus are halted at an angle while a few autorickshaws and two-wheelers weave between them. On the roadside, a few people in shirts and sarees stand at the edge waiting to cross, seen from behind and far away. The highway lane beyond is busy with lorries and cars. Daylight, clear sky, typical Tamil Nadu roadside with concrete median and low shops. Camera at eye level, 35 mm, wide enough to show the full stretch of road and the parked vehicles in the centre. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up detail of a school van and a private bus parked side by side in the centre of a narrow service road at Thavittupalayam, with their rear bumpers nearly touching the lane where two-wheelers and an autorickshaw are forced to slow down. A pedestrian in a faded shirt and veshti stands at the kerb, waiting to cross, seen from behind. Dusty tarmac, a concrete roadside drain edge and a low wall run along the frame. Daylight, bright and even. Camera slightly high, 35 mm, focusing on the blocked stretch of road and the tight gap between the vehicles. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://pukaarpetti.dailythanthi.com/transportation/news-68775",
+   "published": "2026-11-22T20:07:29+05:30",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - fact-check: no problems found",
+   "note": "free-model draft anthropic/claude-haiku-5-5, 12 attempt(s), 0 validator problem(s)",
+   "post_time": "right after your reply, same day",
+   "_area": "N",
+   "_score": 999,
+   "images": [
+    "https://res.cloudinary.com/jrmwajfz/image/upload/v1795432233/salem360/qjd7kkzxduv4v6nrbyzp.jpg",
+    "https://res.cloudinary.com/jrmwajfz/image/upload/v1795432242/salem360/hm45xg7ei5stadlxeqiq.jpg"
+   ]
+  },
+  {
+   "tamil_headline": "கள்ளக்குறிச்சியில் ஷேர் ஆட்டோக்களால் விபத்து அபாயம்",
+   "english_headline": "Share autos parked haphazardly on Salem-Thurugam Road and Gandhi Road in Kallakurichi cause traffic jams and frequent minor accidents",
+   "category": "Roads & Transport",
+   "location": "Kallakurichi town, Kallakurichi district",
+   "importance": "Medium",
+   "scope": "local",
+   "post_to": "Salem 360",
+   "slides_spec": {
+    "v": 3,
+    "cat": "போக்குவரத்து",
+    "loc": "கள்ளக்குறிச்சி",
+    "hl1": "கள்ளக்குறிச்சியில் ஷேர் ஆட்டோ அபாயம்",
+    "hl2": "கடும் நெரிசல், அடிக்கடி",
+    "slides": [
+     {
+      "title": "எங்கே?",
+      "lines": [
+       "சேலம்-துருகம் சாலை, காந்தி சாலை",
+       "ஷேர் ஆட்டோக்கள் சாலையில் தாறுமாறாக நிறுத்தம்",
+       "பயணிகளை ஏற்றி இறக்குவதால் அபாயம்"
+      ]
+     },
+     {
+      "title": "என்ன பாதிப்பு?",
+      "lines": [
+       "கடும் போக்குவரத்து நெரிசல் ஏற்படுகிறது",
+       "அடிக்கடி சிறு விபத்துகள் நிகழ்கின்றன",
+       "பெரிய அசம்பாவிதம் நிகழும் முன் நடவடிக்கை தேவை"
+      ]
+     },
+     {
+      "title": "அதிகாரிகள்",
+      "lines": [
+       "போக்குவரத்துத்துறை அதிகாரிகள் விரைந்து நடவடிக்கை எடுக்க",
+       "ஷேர் ஆட்டோக்களை முறையாக நிறுத்த வலியுறுத்தல்"
+      ]
+     }
+    ],
+    "carousel": false
+   },
+   "reel_script": "கள்ளக்குறிச்சியில் ஷேர் ஆட்டோக்களால் கடும் போக்குவரத்து நெரிசலும் விபத்து அபாயமும் உள்ளன. சேலம்-துருகம் சாலை மற்றும் காந்தி சாலையில் ஷேர் ஆட்டோக்கள் சாலைகளில் தாறுமாறாக நிறுத்தப்பட்டு பயணிகளை ஏற்றி இறக்குகின்றன. இதனால் அப்பகுதியில் கடும் போக்குவரத்து நெரிசல் ஏற்படுகிறது. அடிக்கடி சிறு விபத்துகளும் நிகழ்கின்றன. பெரிய அசம்பாவிதம் ஏதும் நிகழும் முன், போக்குவரத்துத்துறை அதிகாரிகள் விரைந்து நடவடிக்கை எடுக்க வேண்டியது அவசியம் என பொதுமக்கள் வலியுறுத்துகின்றனர். மேலும் செய்திகளுக்கு சேலம் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🚦 கள்ளக்குறிச்சியில் ஷேர் ஆட்டோக்களால் விபத்து அபாயம்\n\n📰 முழு விவரம்:\nகள்ளக்குறிச்சியில் சேலம்-துருகம் சாலை மற்றும் காந்தி சாலையில் ஷேர் ஆட்டோக்களைச் சாலைகளில் தாறுமாறாக நிறுத்தி பயணிகளை ஏற்றி இறக்குகின்றனர்.\nஇதனால் அப்பகுதியில் கடும் போக்குவரத்து நெரிசல் ஏற்படுகிறது. அடிக்கடி சிறு சிறு விபத்துகளும் நிகழ்கின்றன.\nபெரிய அசம்பாவிதம் ஏதும் நிகழும் முன் போக்குவரத்துத்துறை அதிகாரிகள் விரைந்து நடவடிக்கை எடுக்க வேண்டியது அவசியம்.\n\n📍 இடம்: சேலம்-துருகம் சாலை, காந்தி சாலை, கள்ளக்குறிச்சி\nℹ️ மக்கள் கவனத்திற்கு: சாலையோரம் வாகனங்களை நிறுத்தும்போதும், பயணிகளை ஏற்றி இறக்கும்போதும் கவனமாக இருங்கள்.\n\nKallakurichi share autos road accident risk | Salem news\n📍 கள்ளக்குறிச்சி, கள்ளக்குறிச்சி மாவட்டம் | 22 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Salem360 #Salem #Kallakurichi #SalemNews #சேலம்",
+   "prompts": "A row of share autos is parked haphazardly across the lane of a busy town road in Kallakurichi, with passengers stepping in and out of them while other vehicles queue behind. The road is a Kallakurichi town street on the Salem-Thurugam Road stretch, lined with small shops, shop fronts and roadside stalls. Several passengers, men in shirts and trousers and women in sarees, stand near the autos, seen from behind or at a distance. Two-wheelers and a private bus are stuck in a slow traffic jam behind the parked share autos. Daylight, slightly overcast midday light. Camera at eye level, 35 mm lens, wide enough to show the full road and the jam. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up of a share auto parked at the edge of a narrow Kallakurichi town road, its yellow-green body and open rear seat clearly visible, with the front wheel jutting into the lane. Behind it, a two-wheeler and a few autorickshaws are squeezed into the remaining space, with a slight dent or scrape on a nearby vehicle suggesting a minor collision. A passenger's hand rests on the door handle as they prepare to board. Shop walls and a roadside pole sit behind. Daylight, neutral midday light. Camera slightly high, 35 mm lens, focused on the parked auto and the cramped road space around it. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://pukaarpetti.dailythanthi.com/transportation/news-68819",
+   "published": "2026-11-22T22:52:50+05:30",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: reel_script has 54 words; need 60-160 (the key facts once each, in at most 90 seconds; every other detail goes in the caption's 📰 முழு விவரம் block)",
+   "note": "free-model draft anthropic/claude-haiku-5-5, 12 attempt(s), 1 validator problem(s)",
+   "post_time": "right after your reply, same day",
+   "_area": "N",
+   "_score": 999,
+   "images": [
+    "https://res.cloudinary.com/jrmwajfz/image/upload/v1795432293/salem360/mzvp0yrw32epxas3wilv.jpg",
+    "https://res.cloudinary.com/jrmwajfz/image/upload/v1795432295/salem360/w2hlogrfidcyknawlcwm.jpg"
+   ]
+  },
+  {
+   "tamil_headline": "ராசிபுரம் அருகே சர்வீஸ் ரோட்டில் லாரிகள் நிறுத்தம்: அடிக்கடி விபத்துகள்",
+   "english_headline": "Heavy trucks parked on the service road near Rasipuram cause frequent accidents on the Salem road",
+   "category": "Roads & Transport",
+   "location": "Andalurkkate, Rasipuram, Namakkal district",
+   "importance": "Medium",
+   "scope": "",
+   "post_to": "Salem 360",
+   "slides_spec": {
+    "v": 3,
+    "cat": "சாலை விபத்து",
+    "loc": "ஆண்டகளூர்கேட், ராசிபுரம்",
+    "hl1": "ராசிபுரம் அருகே லாரிகளால் விபத்துகள்",
+    "hl2": "சர்வீஸ் ரோட்டில் நிறுத்தம்",
+    "slides": [
+     {
+      "title": "என்ன பிரச்சினை?",
+      "lines": [
+       "ஆண்டகளூர்கேட்டில் இருந்து சேலம் செல்லும் சாலை",
+       "சர்வீஸ் ரோட்டின் நடுவே கனரக சரக்கு லாரிகள் நிறுத்தம்",
+       "போக்குவரத்துக்கு இடையூறாக லாரிகள் நிற்கின்றன"
+      ]
+     },
+     {
+      "title": "ஏன் விபத்து?",
+      "lines": [
+       "இருசக்கர வாகனங்கள், கார்கள் சர்வீஸ் ரோட்டில் செல்ல",
+       "தேசிய நெடுஞ்சாலையின் எதிர்திசையில் வர வேண்டியுள்ளது",
+       "இதனால் <b>அடிக்கடி விபத்துகள்</b> நடக்கின்றன"
+      ]
+     },
+     {
+      "title": "தீர்வு கோரிக்கை",
+      "lines": [
+       "இப்பிரச்சினைக்கு உரிய நடவடிக்கை எடுக்க வேண்டும்",
+       "லாரிகள் நிறுத்துவதை தடுக்க வேண்டும்",
+       "பொதுமக்களின் பாதுகாப்பு உறுதி செய்யப்பட வேண்டும்"
+      ]
+     }
+    ],
+    "carousel": false
+   },
+   "reel_script": "ராசிபுரம் அருகே சாலை விபத்துகள் அடிக்கடி நடக்கின்றன. ஆண்டகளூர்கேட்டில் இருந்து சேலம் செல்லும் சாலையின் இருபுறமும் உள்ள சர்வீஸ் ரோட்டின் நடுவே கனரக சரக்கு லாரிகள் நிறுத்தப்படுகின்றன. இதனால் போக்குவரத்துக்கு இடையூறு ஏற்படுகிறது. சர்வீஸ் ரோட்டைப் பயன்படுத்தும் இருசக்கர வாகன ஓட்டிகள் மற்றும் கார்கள் தேசிய நெடுஞ்சாலையில் எதிர்திசையில் வர வேண்டியுள்ளது. இதனால் விபத்துகள் நடக்கின்றன. இப்பிரச்சினைக்கு உரிய நடவடிக்கை எடுக்க வேண்டும் என பொதுமக்கள் கோரிக்கை வைத்துள்ளனர். மேலும் செய்திகளுக்கு சேலம் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🚛 ராசிபுரம் அருகே சர்வீஸ் ரோட்டில் லாரிகள் நிறுத்தம்: அடிக்கடி விபத்துகள்\n\n📰 முழு விவரம்:\nராசிபுரம் அடுத்த ஆண்டகளூர்கேட்டில் இருந்து சேலம் செல்லும் சாலையின் இருபுறமும் உள்ள சர்வீஸ் ரோட்டின் நடுவே கனரக சரக்கு லாரிகள் நிறுத்தப்படுகின்றன.\nஇதனால் போக்குவரத்துக்கு இடையூறு ஏற்படுகிறது.\nசர்வீஸ் ரோட்டைப் பயன்படுத்தும் இருசக்கர வாகன ஓட்டிகள், கார்கள் தேசிய நெடுஞ்சாலையின் எதிர்திசையில் வர வேண்டியுள்ளது.\nஇதனால் அடிக்கடி விபத்துகள் நடக்கின்றன.\nஇப்பிரச்சினைக்கு உரிய நடவடிக்கை எடுக்க வேண்டும் என கோரிக்கை எழுந்துள்ளது.\n\nRasipuram service road trucks cause accidents | Salem news\n📍 ஆண்டகளூர்கேட், ராசிபுரம், நாமக்கல் மாவட்டம் | 22 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Salem360 #Salem #Rasipuram #SalemNews #சேலம்",
+   "prompts": "A row of large heavy goods lorries stands parked in the middle of a service road running alongside a national highway at Andalurkkate near Rasipuram, narrowing the lane so that a two-wheeler rider and a car are squeezed toward the opposite side of the main road. The setting is a busy stretch of Salem road on the outskirts of Rasipuram, Namakkal district, with a concrete median divider, roadside shops and a faded tar surface, mango groves and dry hills faintly visible far behind. Two-wheelers and a few cars move through the narrow gap, seen from a distance with riders shown from behind, wearing shirts and helmets, no faces visible. The scene is in daylight under a clear sky with bright sun casting short shadows. Camera at eye level, 35 mm lens, wide enough to show the full length of the parked lorries, the service road and the highway together. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up of the rear side of a heavy goods lorry parked on the edge of a service road in Andalurkkate, Rasipuram, its large dark tyres resting on cracked, worn tar and a painted white edge line running beside it. Just beyond, the narrow remaining space is shown with a two-wheeler's front wheel and a bit of its handlebar partly visible, forced close to the lorry's flank, with the national highway's median divider and passing traffic blurred in the background. The surface shows loose gravel and dust at the verge, dry roadside weeds and a utility pole on the side. The light is daytime sunlight with harsh shadows under the lorry. Camera slightly low, 50 mm lens, focused on the lorry's tyres and the narrow gap to show the blocking and danger without any readable markings or numbers. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://pukaarpetti.dailythanthi.com/road/news-68757",
+   "published": "2026-11-22T19:48:16+05:30",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: reel_script has 56 words; need 60-160 (the key facts once each, in at most 90 seconds; every other detail goes in the caption's 📰 முழு விவரம் block)",
+   "note": "free-model draft anthropic/claude-haiku-5-5, 13 attempt(s), 1 validator problem(s)",
+   "post_time": "right after your reply, same day",
+   "_area": "N",
+   "_score": 999,
+   "images": [
+    "https://res.cloudinary.com/jrmwajfz/image/upload/v1795432305/salem360/u3tszademtkiuce1f8pn.jpg",
+    "https://res.cloudinary.com/jrmwajfz/image/upload/v1795432307/salem360/ra6hebmrl9jhbg7sc6mf.jpg"
+   ]
+  }
+ ]
 }
