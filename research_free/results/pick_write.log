@@ -1,88 +1,88 @@
-writing [N]: பூசாரிப்பட்டி சந்தைக்கு சாமந்தி பூ வரத்து அதிகமானதால் விலை க
-writing [N]: ஈரோடில் பராமரிப்பு பணி: 2 ரயில் சேவையில் மாற்றம்
+writing [N]: பெண் தாசில்தாரை கண்டித்து 3 துணை தாசில்தார் விடுமுறை
 gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
+ok gemini/gemini-3.6-flash (51s)
+attempt 1 gemini/gemini-3.6-flash: 1 problems
+  caption misses facts of the article (put every one in 📰 முழு விவரம்): 5 ('துணை தாசில்தார் இருவர், உடல் நலம் பிரச்னை காரணமாக, 5 நாள் வி')
 gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
 fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 429: {
   "error": {
     "code": 429,
     "message": "You exceeded your current quota, please che
 dead for this round: gemini/gemini-3.6-flash
-ok gemini/gemini-3.6-flash (12s)
-gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
-ok gemini/gemini-3.5-flash (13s)
-attempt 1 gemini/gemini-3.5-flash: 1 problems
-  sentence 1 (one-line story) has 12 words; make it 6-9 words (about 2-3 seconds), the details follow in the next sentences
-gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
-ok gemini/gemini-3.5-flash (5s)
-factcheck by gemini/gemini-3.5-flash: 0 problems
-attempt 1 gemini/gemini-3.6-flash: 0 problems
-gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
 fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {
   "error": {
     "code": 429,
     "message": "You exceeded your current quota, please che
 dead for this round: gemini/gemini-3.5-flash
-ok gemini/gemini-3.5-flash (16s)
-attempt 2 gemini/gemini-3.5-flash: 1 problems
-  reel_script has numbers without their meaning (25); write what each number is: '15 வயது', '30 பாட்டில்கள்', 'அக்டோபர் 26ஆம் தேதி'
-gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
-ok gemini/gemini-3-flash-preview (14s)
-proofread rejected (1 problems)
-  caption needs 5 hashtags (Instagram max), has 8
-gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
-ok gemini/gemini-3-flash-preview (6s)
-real photo: no picture on the source page -> AI pictures
-gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-image match check unavailable: gemini-3.5-flash: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/g
-ok gemini/gemini-3-flash-preview (10s)
-gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
-image match: False The image is a generic close-up of yellow chrysanthemums in a wicker basket and does not show the Poosaripatti flower ma
-image match: True The photo depicts a flower market scene filled with large quantities of bright yellow chrysanthemums, matching the story
-images made: 2 for 'Chrysanthemum prices drop to Rs 80-100 p'
-bridge: 200 {"ok":true,"added":1,"auto_queued":1,"emailed":0,"reoffered":0,"batch":"B20261123-2036","first":"RN-267"}
-ok gemini/gemini-3-flash-preview (22s)
-factcheck by gemini/gemini-3-flash-preview: 0 problems
-attempt 3 gemini/gemini-3-flash-preview: 0 problems
-gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
-posting job started at once
-ok gemini/gemini-3-flash-preview (10s)
-proofread rejected (3 problems)
-  sentence 1 (one-line story) has 16 words; make it 6-9 words (about 2-3 seconds), the details follow in the next sentences
-  caption needs 5 hashtags (Instagram max), has 7
-  numbers not found in the article: 2024
-gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
+fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 503: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing 
 fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 429: {
   "error": {
     "code": 429,
     "message": "You exceeded your current quota, plea
 dead for this round: gemini/gemini-3-flash-preview
-ok groq/openai/gpt-oss-120b (2s)
+fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 400: {"error":{"message":"Failed to validate JSON. Please adjust your prompt. See 'failed_gener
+fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 413: {"error":{"message":"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7
+free models unavailable: no free model answered: groq qwen/qwen3.8-27b 413: {"error":{"message":"Request too large for model `qwen/qwen3.8-27b` i
+ok anthropic/claude-haiku-5-5
+claude rewrite 1 anthropic/claude-haiku-5-5: 1 problems
+  hl1 is 42 characters (max 40) - write a SHORTER COMPLETE phrase with fewer words that still ends with its key word (what happened: e.g. 'X அருகே வீட்டில் கொள்ளை'); never stop a phrase in the middle
+ok anthropic/claude-haiku-5-5
+claude rewrite 2 anthropic/claude-haiku-5-5: 1 problems
+  caption misses facts of the article (put every one in 📰 முழு விவரம்): 20 ('கடந்த, 20ல், சேலம் கலெக்டர் அலுவலகத்தில் நடந்த விவசாயிகள் கு'); 5 ('துணை தாசில்தார் இருவர், உடல் நலம் பிரச்னை காரணமாக, 5 நாள் வி')
+ok anthropic/claude-haiku-5-5
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
+ok groq/openai/gpt-oss-120b (6s)
+factcheck by groq/openai/gpt-oss-120b: 4 problems
+  Reel script incorrectly states that deputy tahsildars were falsely assaulted by tahsildar Eeswari, contradicting the article which says she denied assault and only incited a third‑party assault
+  Slides spec repeats the same inaccurate claim that deputies were falsely assaulted by the tahsildar
+  Caption repeats the false claim that tahsildar Eeswari assaulted the deputy tahsildars
+  Reel script omits the important fact that a person from Naduvallur assaulted the deputy tahsildars, which is mentioned in the article
+claude rewrite 3 anthropic/claude-haiku-5-5: 4 problems
+  fact-check: Reel script incorrectly states that deputy tahsildars were falsely assaulted by tahsildar Eeswari, contradicting the article which says she denied assault and only incited a third‑party assault
+  fact-check: Slides spec repeats the same inaccurate claim that deputies were falsely assaulted by the tahsildar
+  fact-check: Caption repeats the false claim that tahsildar Eeswari assaulted the deputy tahsildars
+  fact-check: Reel script omits the important fact that a person from Naduvallur assaulted the deputy tahsildars, which is mentioned in the article
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
+ok groq/openai/gpt-oss-120b (6s)
+proofread rejected (4 problems)
+  caption must contain the exact follow line
+  not grounded: location 'அத்தூர்' is not in the article
+  caption full details are too short - at least 3-4 sentences with every fact of the article
+  caption misses facts of the article (put every one in 📰 முழு விவரம்): 20 ('கடந்த, 20ல், சேலம் கலெக்டர் அலுவலகத்தில் நடந்த விவசாயிகள் கு'); 5 ('துணை தாசில்தார் இருவர், உடல் நலம் பிரச்னை காரணமாக, 5 நாள் வி')
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
+fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {"error":{"message":"Rate limit reached for model `openai/gpt-oss-120b` in organization `o
+fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {"error":{"message":"Rate limit reached for model `openai/gpt-oss-120b` in organization `o
+switching away from groq/openai/gpt-oss-120b for 10 min
+ok groq/qwen/qwen3.8-27b (3s)
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+real photo: vision check unavailable: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-3.6-flash:ge
+real photo: vision check out of free quota
+image match check unavailable: gemini-3.5-flash: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/g
+image match check unavailable: gemini-3.5-flash: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/g
+images made: 2 for 'Kengavalli tahsildar faces complaint; 3 '
+bridge: 200 {"ok":true,"added":1,"auto_queued":1,"emailed":0,"reoffered":0,"batch":"B20261123-2231","first":"RN-268"}
+posting job started at once
 earlier stories still waiting for images: []
 instagram check: 50 recent posts read from the page
 pick round: only the picked links are written (research_free/pick.py)
-manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-salem/the-price-of-fenugreek-has-come-down-due-to-the-increase-in-the-arrival-of-fenugreek-flowers-in-the-poojaripatti-market/4384261
-manual link added: https://www.dinamalar.com/news/tamil-nadu-news/maintenance-work-at-erode-2-train-service-converted/4384262
-candidate filter: collected=2
-to write: 2 Salem district candidates (max 2 stories)
-round: top 2 of 2 candidates
-candidates waiting: 2 Salem; time left 79 min
-try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-news/maintenance-w
-try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-sale
-auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 3})
+manual link added: https://www.dinamalar.com/news/tamil-nadu-news/3-deputy-tahsildars-on-leave-in-protest-against-woman-tahsildar/4384547
+candidate filter: collected=1
+to write: 1 Salem district candidates (max 1 stories)
+round: top 1 of 1 candidates
+candidates waiting: 1 Salem; time left 79 min
+try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-news/3-deputy-tahs
+auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 2})
 posting job started at once
-NOT filed (N) ஈரோடில் பராமரிப்பு பணி: 2 ரயில் சேவையில் மாற்றம்: not Salem district news (the story's first lines name another place and no Salem place)
-candidate loop ended: left 0, tried={'N': 2}, done={'N': 1}, time left 78 min
-filed: 1 Salem district stories (target 2), reels only
+candidate loop ended: left 0, tried={'N': 1}, done={'N': 1}, time left 76 min
+filed: 1 Salem district stories (target 1), reels only
 queue: 0 news waiting to be written
-All News sheet: {"ok":true,"added":2,"updated":0} 
+All News sheet: {"ok":true,"added":1,"updated":0} 
 stories: 1
