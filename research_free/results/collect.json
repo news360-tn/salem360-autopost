@@ -3,181 +3,72 @@
   "earlier stories still waiting for images: []",
   "instagram check: 50 recent posts read from the page",
   "pick round: only the picked links are written (research_free/pick.py)",
-  "manual link added: https://www.dinakaran.com/news/tamil-nadu-11-districts-chance-of-rain-meteorological-department-information-2",
-  "manual link added: https://www.dinamalar.com/news/premium-news/pm-modi-pays-tribute-to-national-flag/4383790",
-  "candidate filter: collected=2",
-  "to write: 2 Salem district candidates (max 2 stories)",
-  "round: top 2 of 2 candidates",
-  "candidates waiting: 2 Salem; time left 79 min",
-  "try (N) manual=True: https://www.dinamalar.com/news/premium-news/pm-modi-pays-tri",
-  "try (N) manual=True: https://www.dinakaran.com/news/tamil-nadu-11-districts-chanc",
-  "auto images: 1 of 1 stories ({'pollinations': 2})",
-  "posting job started at once",
-  "auto images: 1 of 1 stories ({'pollinations': 5})",
-  "candidate loop ended: left 0, tried={'N': 2}, done={'N': 2}, time left 77 min",
-  "filed: 2 Salem district stories (target 2), reels only",
+  "manual link added: https://www.polimernews.com/politicsnews/they-assured-me-i-would-become-a-minister-only-the-portfolio-was-yet-to-be-decided-12833001",
+  "candidate filter: collected=1",
+  "to write: 1 Salem district candidates (max 1 stories)",
+  "round: top 1 of 1 candidates",
+  "candidates waiting: 1 Salem; time left 79 min",
+  "try (N) manual=True: https://www.polimernews.com/politicsnews/they-assured-me-i-w",
+  "NOT filed (N) 'நீங்கள் அமைச்சராவது உறுதி, துறை தான் முடிவாகனும் : not Salem district news (the story's first lines name another place and no Salem place)",
+  "candidate loop ended: left 0, tried={'N': 1}, done={'N': 0}, time left 75 min",
+  "filed: 0 Salem district stories (target 1), reels only",
   "queue: 0 news waiting to be written",
-  "All News sheet: {\"ok\":true,\"added\":2,\"updated\":0}"
+  "All News sheet: {\"ok\":true,\"added\":1,\"updated\":0}"
  ],
  "llm": [
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok gemini/gemini-3.6-flash (26s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok gemini/gemini-3.6-flash (19s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok gemini/gemini-3.6-flash (27s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok gemini/gemini-3.6-flash (27s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok gemini/gemini-3.6-flash (28s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
   "dead for this round: gemini/gemini-3.6-flash",
   "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
   "dead for this round: gemini/gemini-3.5-flash",
-  "fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, plea",
-  "dead for this round: gemini/gemini-3-flash-preview",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 400: {\"error\":{\"message\":\"Failed to generate JSON. Please adjust your prompt. See 'failed_gener",
-  "ok groq/qwen/qwen3.8-27b (2s)",
+  "fail gemini/gemini-3-flash-preview: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=60)",
+  "poor answer - skipped for 30 min: gemini/gemini-3-flash-preview",
+  "ok groq/openai/gpt-oss-120b (4s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
-  "ok gemini/gemini-3.6-flash (20s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
-  "switching away from groq/qwen/qwen3.8-27b for 10 min",
+  "ok groq/openai/gpt-oss-120b (7s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
   "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
   "switching away from groq/openai/gpt-oss-120b for 10 min",
+  "ok groq/qwen/qwen3.8-27b (3s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
+  "switching away from groq/qwen/qwen3.8-27b for 10 min",
   "ok anthropic/claude-haiku-5-5",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 400: {\"error\":{\"message\":\"Failed to validate JSON. Please adjust your prompt. See 'failed_gener",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "ok anthropic/claude-haiku-5-5",
   "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "ok anthropic/claude-haiku-5-5"
  ],
- "stories": [
-  {
-   "tamil_headline": "தமிழகத்தில் இன்று 11 மாவட்டங்களுக்கு மழைக்கு வாய்ப்பு",
-   "english_headline": "Rain likely in 11 Tamil Nadu districts today, says Chennai Met Centre",
-   "category": "Weather & Agriculture",
-   "location": "Tamil Nadu statewide, Salem district included",
-   "importance": "High",
-   "scope": "district",
-   "post_to": "Salem 360",
-   "slides_spec": {
-    "v": 3,
-    "cat": "மழை எச்சரிக்கை",
-    "loc": "சேலம் மாவட்டம்",
-    "hl1": "சேலத்துக்கு இன்று மழைக்கு வாய்ப்பு",
-    "hl2": "இடி மின்னலுடன் மிதமான மழை",
-    "slides": [
-     {
-      "title": "இன்று மழை",
-      "lines": [
-       "சேலம் மாவட்டத்தில் அநேக இடங்களில் மிதமான மழை பெய்யக்கூடும்",
-       "இடி மின்னல் மற்றும் பலத்த காற்றுடன் மழை",
-       "சென்னை வானிலை ஆய்வு மையம் தகவல் தெரிவித்துள்ளது"
-      ]
-     },
-     {
-      "title": "நாளை மழை",
-      "lines": [
-       "நாளை சேலம் மாவட்டத்துக்கு நிலையான மழை எச்சரிக்கை இல்லை",
-       "நாளை மறுநாள் (25.11.2026) சேலத்தில் மிதமான மழைக்கு வாய்ப்பு",
-       "இடி மின்னல் மற்றும் பலத்த காற்று இருக்கலாம்"
-      ]
-     },
-     {
-      "title": "பொதுமக்கள்",
-      "lines": [
-       "மரங்கள், மின் கம்பங்கள் அருகில் நிற்க வேண்டாம்",
-       "வயல், திறந்த வெளியில் இடி மின்னலில் இருக்க வேண்டாம்",
-       "வானிலை அறிவிப்புகளை தொடர்ந்து பாருங்கள்"
-      ]
-     }
-    ],
-    "carousel": false
-   },
-   "reel_script": "சேலம் மாவட்டத்தில் இன்று இடி மின்னலுடன் கூடிய மிதமான மழைக்கு வாய்ப்பு உள்ளது. சென்னை வானிலை ஆய்வு மையம் இதை அறிவித்துள்ளது. தமிழகத்தில் இன்று மொத்தம் 11 மாவட்டங்களுக்கு மழைக்கு வாய்ப்பு உள்ளது. சேலம் மாவட்டத்தில் அநேக இடங்களில் மிதமான மழை பெய்யக்கூடும். பலத்த காற்றும் வீசக்கூடும். நாளை சேலம் மாவட்டத்துக்கு நிலையான மழை எச்சரிக்கை இல்லை. நாளை மறுநாள், நவம்பர் 25ஆம் தேதி, சேலம் மாவட்டத்தில் அநேக இடங்களில் மிதமான மழை பெய்யக்கூடும். வானிலை ஆய்வு மையம் வெளியிடும் அறிவிப்புகளை தொடர்ந்து பாருங்கள். மரங்கள் மற்றும் மின் கம்பங்கள் அருகில் நிற்க வேண்டாம். மேலும் செய்திகளுக்கு சேலம் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🌧️ சேலம் மாவட்டத்தில் இன்று இடி மின்னலுடன் மழைக்கு வாய்ப்பு\n\n📰 முழு விவரம்:\nதமிழகத்தில் இன்று 11 மாவட்டங்களுக்கு மழைக்கு வாய்ப்பு உள்ளதாக சென்னை வானிலை ஆய்வு மையம் தெரிவித்துள்ளது.\nசென்னை, திருவள்ளூர், செங்கல்பட்டு, விழுப்புரம், கடலூர், தஞ்சாவூர், திருவாரூர், மயிலாடுதுறை, நாகை மாவட்டங்கள் மற்றும் புதுச்சேரி, காரைக்காலில் இன்று கனமழைக்கு வாய்ப்பு உள்ளது.\nசேலம் உட்பட ஒருசில மாவட்டங்களில் இடி மின்னல் மற்றும் பலத்த காற்றுடன் கூடிய மிதமான மழை பெய்யக்கூடும்.\nதமிழகத்தில் ஒருசில இடங்களில் இடி மின்னலுடன் கூடிய லேசான மழை பெய்யக்கூடும்.\nநாளை தமிழகத்தில் கடலூர், தஞ்சாவூர், திருவாரூர், மயிலாடுதுறை, நாகப்பட்டினம், புதுக்கோட்டை, சிவகங்கை, இராமநாதபுரம், தூத்துக்குடி மாவட்டங்களில் ஓரிரு இடங்களிலும், புதுவை, காரைக்காலிலும் மணிக்கு 40 முதல் 50 கிலோமீட்டர் வேகத்தில் பலத்த காற்றுடன் கனமழை பெய்யக்கூடும்.\nநாளை சேலம் உட்பட பல மாவட்டங்களில் அநேக இடங்களில் மிதமான மழை பெய்யக்கூடும்.\nநாளை மறுநாள் (25.11.2026) தஞ்சாவூர், திருவாரூர், மயிலாடுதுறை, நாகப்பட்டினம், புதுக்கோட்டை, சிவகங்கை, இராமநாதபுரம், திண்டுக்கல், மதுரை, விருதுநகர், தேனி, தென்காசி, தூத்துக்குடி, திருநெல்வேலி, கன்னியாகுமரி மாவட்டங்களில் ஓரிரு இடங்களிலும், காரைக்கால் பகுதியிலும் மணிக்கு 40 முதல் 50 கிலோமீட்டர் வேகத்தில் காற்றுடன் கனமழை பெய்யக்கூடும்.\nநாளை மறுநாள் சேலம் உட்பட பல மாவட்டங்களில் அநேக இடங்களில் மிதமான மழை பெய்யக்கூடும்.\nமழையில் பாதுகாப்பாக இருங்கள், வானிலை அறிவிப்புகளை பின்பற்றுங்கள்.\n\nRain likely in Salem district today and on 25 Nov | Salem news\n📍 சேலம் மாவட்டம் | 23 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Salem360 #Salem #SalemRain #மழை #SalemNews",
-   "prompts": "Dark grey monsoon clouds gather over the city of Salem as the first gusts of wind sweep across the old bus stand, where a few town buses and TNSTC buses stand parked under a low, overcast sky. Men in shirts with veshti and women in sarees hold their cloth and umbrellas as they walk toward the bus shelters, seen from behind and at a distance. The Shevaroy hills of Yercaud fade into haze in the far background, and a concrete flyover of the city rises at one side. Early afternoon with diffused grey light and the first drops of rain starting to fall. Camera at eye level, 35 mm, wide enough to show the bus stand and the sky above the hills. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up of a roadside tea stall's wet, rain-darkened tarpaulin flapping in strong wind on Omalur Main Road in Salem, with puddles forming on the cracked tar surface and a few dry leaves blown across the ground. Two-wheelers stand parked nearby with their seats beaded in rain droplets, and a stack of empty glass tumblers sits on a wooden table under the shelter. Overcast daylight with heavy grey clouds overhead and the faint outline of the Shevaroy hills in the distance. Camera slightly high, 35 mm, focused on the tarpaulin and puddles with the road edge visible. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinakaran.com/news/tamil-nadu-11-districts-chance-of-rain-meteorological-department-information-2",
-   "published": "2026-11-23T07:32:24+05:30",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: reel_script has 74 words; need 100-160 (the key facts once each, in at most 90 seconds; every other detail goes in the caption's 📰 முழு விவரம் block); reel_script must tell how the story ENDED, as the article's last lines say ('தமிழகத்தில் இன்று 11 மாவட்டங்களுக்கு மழைக்கு வாய்ப்பு: வானிலை ஆய்வு மையம் தகவல் - Dinakaran - Dinakaran') - say what finally happened (complaint, action promised, released, arrested, case filed, how long it lasted); never write that details are unknown; slides_spec.loc 'சேலம் மாவட்டம்' is only the district: write the town / village / area the article names (people share news of their own area)",
-   "note": "free-model draft anthropic/claude-haiku-5-5, 11 attempt(s), 3 validator problem(s)",
-   "post_time": "right after your reply, same day",
-   "_area": "N",
-   "_score": 999,
-   "images": [
-    "https://res.cloudinary.com/jrmwajfz/image/upload/v1795403043/salem360/bmvhfsbfsljltobidbxg.jpg",
-    "https://res.cloudinary.com/jrmwajfz/image/upload/v1795403059/salem360/li3otqc5qtc7qzodwjra.jpg"
-   ]
-  },
-  {
-   "tamil_headline": "தேசியக்கொடிக்கு பிரதமர் மோடி அளித்த மரியாதை: அந்துமணி பதில்கள்",
-   "english_headline": "PM Modi's respect for the national flag and other reader questions in Anthumani's replies",
-   "category": "Government & Services",
-   "location": "unknown",
-   "importance": "Low",
-   "scope": "district",
-   "post_to": "Salem 360",
-   "slides_spec": {
-    "v": 3,
-    "cat": "வாசகர் கேள்வி",
-    "loc": "சேலம் மாவட்டம்",
-    "hl1": "பிரதமர் மோடி தேசியக்கொடி சம்பவம்",
-    "hl2": "அந்துமணி பதில்கள்",
-    "slides": [
-     {
-      "title": "தேசியக்கொடி",
-      "lines": [
-       "ஆசியான் மாநாட்டில் பிரதமர் மோடி பரிசுகள் வழங்கினார்",
-       "குழு படத்தின்போது தரையிலிருந்த தேசியக்கொடியை எடுத்து",
-       "இதுகுறித்து வாசகர் கேள்வி எழுப்பியுள்ளார்"
-      ]
-     },
-     {
-      "title": "சுகாதாரம்",
-      "lines": [
-       "நாட்டின் சுகாதாரம் மோசமான நிலையில் உள்ளது என உச்ச",
-       "தூய்மை இந்தியா வெற்றிபெற ஒவ்வொரு குடிமகனும் பொறுப்பு"
-      ]
-     },
-     {
-      "title": "போதை பழக்கம்",
-      "lines": [
-       "இளைஞர்களை போதையிலிருந்து காக்க அரசு என்ன செய்யும் என வாசகர்",
-       "நக்சல் ஒழிப்பைப் போல போதையையும் ஒழிப்பார்கள் என பதில்"
-      ]
-     }
-    ],
-    "carousel": false
-   },
-   "reel_script": "பிரதமர் மோடி பரிசளித்த நிகழ்வு குறித்து அந்துமணி பதில் அளித்துள்ளார். ஆசியான் மாநாடு பிலிப்பைன்ஸ் நாட்டின் மணிலாவில் நடைபெற்றது. அங்கு பங்கேற்ற தலைவர்களுக்கு இந்திய பாரம்பரியக் கலைப் பொருட்களை பிரதமர் மோடி பரிசளித்தார். குழு புகைப்படம் எடுக்கும்போது தரையில் ஒட்டப்பட்டிருந்த இந்திய தேசியக்கொடியை எடுத்து அவர் தன் சட்டைப் பையில் வைத்ததாக வாசகர் ஒருவர் கேள்வி எழுப்பியுள்ளார். நாட்டின் சுகாதாரம் மிக மோசமான நிலையில் உள்ளது என உச்ச நீதிமன்றம் வருத்தம் தெரிவித்துள்ளது. சுகாதாரம் அரசின் கடமை மட்டுமல்ல, ஒவ்வொரு குடிமகனின் கடமையும் என அந்துமணி கூறுகிறார். போதையில் சிக்காமல் இளைஞர்களைக் காக்க பிரதமர் மோடி என்ன செய்வார் என்ற கேள்வியும் வாசகர்களிடமிருந்து வந்துள்ளது. நக்சல்களை ஒழித்ததுபோல, மக்கள் சக்தியுடன் சேர்ந்து போதையையும் பிரதமரும் உள்துறை அமைச்சரும் விரைவில் ஒழிப்பார்கள் என்று அந்துமணி பதில் அளித்துள்ளார். மேலும் செய்திகளுக்கு சேலம் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🗳️ பிரதமர் மோடி தேசியக்கொடி சம்பவம் குறித்த வாசகர் கேள்விக்கு அந்துமணி பதில்\n\n📰 முழு விவரம்:\nஆசியான் மாநாட்டில் பங்கேற்ற தலைவர்களுக்கு பிரதமர் மோடி இந்திய பாரம்பரியக் கலைப் பொருட்களை பரிசளித்தார். குழு புகைப்படத்தின்போது தரையில் ஒட்டப்பட்டிருந்த தேசியக்கொடியை எடுத்து சட்டைப் பையில் வைத்ததை வாசகர் ஒருவர் கவனித்ததாகக் கேள்வி எழுப்பியுள்ளார்.\nநாட்டின் சுகாதாரம் மோசமான நிலையில் உள்ளது என உச்ச நீதிமன்றம் வருத்தம் தெரிவித்ததையும் வாசகர் குறிப்பிட்டுள்ளார். அதற்கு, சுகாதாரம் அரசின் கடமை மட்டுமல்ல, ஒவ்வொரு குடிமகனின் தலையாய கடமை என அந்துமணி பதில் அளித்துள்ளார்.\nஇளைஞர்களை போதையில் இருந்து காக்க பிரதமர் மோடி என்ன செய்யப்போகிறார் என்ற கேள்விக்கு, நக்சல்களை ஒழித்ததுபோல போதையையும் மக்கள் சக்தியுடன் சேர்ந்து பிரதமரும் உள்துறை அமைச்சர் அமித் ஷாவும் விரைவில் ஒழிப்பார்கள் என்று பதில் அளிக்கப்பட்டுள்ளது.\n\nAnthumani replies: PM Modi national flag, health, drugs | Salem news\n📍 சேலம் மாவட்டம் | 23 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Salem360 #Salem #SalemNews #சேலம்",
-   "prompts": "A Tamil Nadu newspaper editor's desk in a small Salem city office, with a stack of printed Tamil newspapers and a folded page of reader letters under a desk lamp. A reader holds a pen and notebook from behind, writing a question, while a framed portrait is out of focus on the wall. Daylight from a window falls across the desk. Shot at eye level, 35 mm, wide enough to show the office and the letters. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up of a handwritten Tamil reader letter on a newspaper column, with a pen resting across the paper and a small Indian national flag folded beside it on a wooden desk. The letters are unreadable and no text, names or logos are visible. Soft daylight from a window, shot slightly high, 35 mm, focused on the paper and the folded flag. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamalar.com/news/premium-news/pm-modi-pays-tribute-to-national-flag/4383790",
-   "published": "2026-11-23T05:15:00+05:30",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: slides_spec.loc 'சேலம் மாவட்டம்' is only the district: write the town / village / area the article names (people share news of their own area)",
-   "note": "free-model draft anthropic/claude-haiku-5-5, 12 attempt(s), 1 validator problem(s)",
-   "post_time": "right after your reply, same day",
-   "_area": "N",
-   "_score": 999,
-   "images": [
-    "https://res.cloudinary.com/jrmwajfz/image/upload/v1795403086/salem360/wxkhlbx4svjeb1v0tkxe.jpg",
-    "https://res.cloudinary.com/jrmwajfz/image/upload/v1795403095/salem360/rfqomdmoxz2w5vx7td2h.jpg"
-   ]
-  }
- ]
+ "stories": []
 }

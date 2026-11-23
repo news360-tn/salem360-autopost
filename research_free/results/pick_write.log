@@ -1,7 +1,27 @@
-writing [N]: தமிழகத்தில் இன்று 11 மாவட்டங்களுக்கு மழைக்கு வாய்ப்பு: வானில
+writing [N]: 'நீங்கள் அமைச்சராவது உறுதி, துறை தான் முடிவாகனும் என நம்ப வை
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
+ok gemini/gemini-3.6-flash (26s)
+attempt 1 gemini/gemini-3.6-flash: 1 problems
+  sentence 1 (one-line story) has 17 words; make it 6-9 words (about 2-3 seconds), the details follow in the next sentences
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
+ok gemini/gemini-3.6-flash (19s)
+attempt 2 gemini/gemini-3.6-flash: 1 problems
+  sentence 1 (one-line story) has 12 words; make it 6-9 words (about 2-3 seconds), the details follow in the next sentences
 gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
 groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
-writing [N]: தேசியக்கொடிக்கு பிரதமர் மோடி அளித்த மரியாதை..: அந்துமணி பதில
+ok gemini/gemini-3.6-flash (27s)
+attempt 3 gemini/gemini-3.6-flash: 1 problems
+  sentence 1 (one-line story) has 12 words; make it 6-9 words (about 2-3 seconds), the details follow in the next sentences
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
+ok gemini/gemini-3.6-flash (27s)
+attempt 4 gemini/gemini-3.6-flash: 1 problems
+  sentence 1 (one-line story) has 13 words; make it 6-9 words (about 2-3 seconds), the details follow in the next sentences
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
+ok gemini/gemini-3.6-flash (28s)
 gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
 groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
 fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 429: {
@@ -14,108 +34,88 @@ fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {
     "code": 429,
     "message": "You exceeded your current quota, please che
 dead for this round: gemini/gemini-3.5-flash
-fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 429: {
-  "error": {
-    "code": 429,
-    "message": "You exceeded your current quota, plea
-dead for this round: gemini/gemini-3-flash-preview
-fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 400: {"error":{"message":"Failed to generate JSON. Please adjust your prompt. See 'failed_gener
-ok groq/qwen/qwen3.8-27b (2s)
-attempt 1 groq/qwen/qwen3.8-27b: 1 problems
-  reel_script has 43 words; need 93-160 (the key facts once each, in at most 90 seconds; every other detail goes in the caption's 📰 முழு விவரம் block)
+fail gemini/gemini-3-flash-preview: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=60)
+poor answer - skipped for 30 min: gemini/gemini-3-flash-preview
+ok groq/openai/gpt-oss-120b (4s)
+factcheck by groq/openai/gpt-oss-120b: 3 problems
+  Reel script incorrectly says the phrase was said by "public" ("பொதுமக்கள் கூறியதாக"), which is not stated in the article
+  Reel script adds the term "ஆரத்தித் தட்டைக்" instead of the article's "தட்டைக்", introducing an invented detail
+  Reel script omits the article's key quote "நீங்கள் அமைச்சராவது உறுதி, துறை தான் முடிவாகனும்" which is an important fact
+attempt 5 gemini/gemini-3.6-flash: 3 problems
+  fact-check: Reel script incorrectly says the phrase was said by "public" ("பொதுமக்கள் கூறியதாக"), which is not stated in the article
+  fact-check: Reel script adds the term "ஆரத்தித் தட்டைக்" instead of the article's "தட்டைக்", introducing an invented detail
+  fact-check: Reel script omits the article's key quote "நீங்கள் அமைச்சராவது உறுதி, துறை தான் முடிவாகனும்" which is an important fact
 gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
-fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {"error":{"message":"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m
-ok gemini/gemini-3.6-flash (20s)
-attempt 1 gemini/gemini-3.6-flash: 3 problems
-  reel_script has 85 words; need 100-160 (the key facts once each, in at most 90 seconds; every other detail goes in the caption's 📰 முழு விவரம் block)
-  slides_spec.loc 'சேலம் மாவட்டம்' is only the district: write the town / village / area the article names (people share news of their own area)
-  caption misses facts of the article (put every one in 📰 முழு விவரம்): 25 ('தமிழகத்தில் ஒருசில இடங்களில் இடி மின்னலுடன் கூடிய லேசான மழை ')
-gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
 fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {"error":{"message":"Rate limit reached for model `openai/gpt-oss-120b` in organization `o
-fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {"error":{"message":"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m
-switching away from groq/qwen/qwen3.8-27b for 10 min
+ok groq/openai/gpt-oss-120b (7s)
+attempt 6 groq/openai/gpt-oss-120b: 3 problems
+  missing key: reel_script
+  missing key: caption
+  missing key: scenes
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
 fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {"error":{"message":"Rate limit reached for model `openai/gpt-oss-120b` in organization `o
 fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {"error":{"message":"Rate limit reached for model `openai/gpt-oss-120b` in organization `o
 switching away from groq/openai/gpt-oss-120b for 10 min
-free models unavailable: no free model answered: groq openai/gpt-oss-120b 429: {"error":{"message":"Rate limit reached for model `openai/gpt-oss-
-ok anthropic/claude-haiku-5-5
-claude rewrite 1 anthropic/claude-haiku-5-5: 3 problems
-  reel_script has 74 words; need 100-160 (the key facts once each, in at most 90 seconds; every other detail goes in the caption's 📰 முழு விவரம் block)
-  reel_script must tell how the story ENDED, as the article's last lines say ('தமிழகத்தில் இன்று 11 மாவட்டங்களுக்கு மழைக்கு வாய்ப்பு: வானிலை ஆய்வு மையம் தகவல் - Dinakaran - Dinakaran') - say what finally happened (complaint, action promised, released, arrested, case filed, how long it lasted); never write that details are unknown
-  slides_spec.loc 'சேலம் மாவட்டம்' is only the district: write the town / village / area the article names (people share news of their own area)
-fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 400: {"error":{"message":"Failed to validate JSON. Please adjust your prompt. See 'failed_gener
-free models unavailable: no free model answered: groq openai/gpt-oss-120b 400: {"error":{"message":"Failed to validate JSON. Please adjust your p
-ok anthropic/claude-haiku-5-5
-claude rewrite 2 anthropic/claude-haiku-5-5: 4 problems
-  reel_script has 84 words; need 100-160 (the key facts once each, in at most 90 seconds; every other detail goes in the caption's 📰 முழு விவரம் block)
-  reel_script must tell how the story ENDED, as the article's last lines say ('தமிழகத்தில் இன்று 11 மாவட்டங்களுக்கு மழைக்கு வாய்ப்பு: வானிலை ஆய்வு மையம் தகவல் - Dinakaran - Dinakaran') - say what finally happened (complaint, action promised, released, arrested, case filed, how long it lasted); never write that details are unknown
-  slides_spec.loc 'சேலம் மாவட்டம்' is only the district: write the town / village / area the article names (people share news of their own area)
-  caption misses facts of the article (put every one in 📰 முழு விவரம்): 40 ('தமிழகத்தில் ஒருசில இடங்களில் இடி மின்னலுடன் கூடிய லேசான மழை '); 50 ('தமிழகத்தில் ஒருசில இடங்களில் இடி மின்னலுடன் கூடிய லேசான மழை ')
-ok anthropic/claude-haiku-5-5
-claude rewrite 1 anthropic/claude-haiku-5-5: 2 problems
-  reel_script has 85 words; need 93-160 (the key facts once each, in at most 90 seconds; every other detail goes in the caption's 📰 முழு விவரம் block)
-  not grounded: location 'unknown' is not a place: write the town or village the article names (never 'விவரம் இல்லை' / unknown)
-ok anthropic/claude-haiku-5-5
-claude rewrite 3 anthropic/claude-haiku-5-5: 4 problems
-  reel_script has 95 words; need 100-160 (the key facts once each, in at most 90 seconds; every other detail goes in the caption's 📰 முழு விவரம் block)
-  sentence 1 (one-line story) has 12 words; make it 6-9 words (about 2-3 seconds), the details follow in the next sentences
-  slides_spec.loc 'சேலம் மாவட்டம்' is only the district: write the town / village / area the article names (people share news of their own area)
-  caption misses facts of the article (put every one in 📰 முழு விவரம்): 11 ('தமிழகத்தில் ஒருசில இடங்களில் இடி மின்னலுடன் கூடிய லேசான மழை '); 11 ('தமிழகத்தில் இன்று 11 மாவட்டங்களுக்கு மழைக்கு வாய்ப்பு: வானில')
+ok groq/qwen/qwen3.8-27b (3s)
+attempt 7 groq/qwen/qwen3.8-27b: 1 problems
+  hl1 (the first headline on screen) must name the place 'ஈரோடு', e.g. 'ஈரோடு: ...' or 'ஈரோடு-இல் ...' - viewers share news of their own area
 gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
 groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
-proofread skipped: no free model answered: None
+fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {"error":{"message":"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m
+fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {"error":{"message":"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m
+switching away from groq/qwen/qwen3.8-27b for 10 min
+free models unavailable: no free model answered: groq qwen/qwen3.8-27b 429: {"error":{"message":"Rate limit reached for model `qwen/qwen3.8-27b` 
+ok anthropic/claude-haiku-5-5
 gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
 groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
+free fact-check unavailable, using Claude: no free model answered: None
+ok anthropic/claude-haiku-5-5
+factcheck by anthropic/claude-haiku-5-5: 3 problems
+  The article says Udhayakumar spoke at an AIADMK Jayalalithaa Peravai consultation meeting in Erode, but the reel_script and captions do not mention the 'ஆரத்தி' (aarathi) details correctly: the article says people stood for up to 2 km for aarathi, and the draft says 'மக்கள் நின்றனர்' which is consistent, but the sentence 'ஒருவரது தட்டைக் கூட விடாமல் தொட்டு வணங்கிச் சென்றனர்' attributes the action to people while the article's sentence is ambiguous; the draft's reel_script and caption also add the claim 'அவர் சிரித்தபடி சொன்னார்' (said while laughing), which is not in the article, though 'கலகலப்பாகப் பேசினார்' is in the article.
+  The reel_script says Udhayakumar was 'முன்னாள் அமைச்சர்' and the slides say 'அதிமுக முன்னாள் அமைச்சர்' — consistent with article, no issue there.
+  The slides_spec 'hl2' and the slide line 'கூட்டம் ஆலோசனைக்காக நடத்தப்பட்டது' are fine, but the caption's '🗓️ நாள்: 23 நவம்பர் 2026' is a posting-date footer and is excluded, so no problem there.
+claude rewrite 1 anthropic/claude-haiku-5-5: 3 problems
+  fact-check: The article says Udhayakumar spoke at an AIADMK Jayalalithaa Peravai consultation meeting in Erode, but the reel_script and captions do not mention the 'ஆரத்தி' (aarathi) details correctly: the article says people stood for up to 2 km for aarathi, and the draft says 'மக்கள் நின்றனர்' which is consistent, but the sentence 'ஒருவரது தட்டைக் கூட விடாமல் தொட்டு வணங்கிச் சென்றனர்' attributes the action to people while the article's sentence is ambiguous; the draft's reel_script and caption also add the claim 'அவர் சிரித்தபடி சொன்னார்' (said while laughing), which is not in the article, though 'கலகலப்பாகப் பேசினார்' is in the article.
+  fact-check: The reel_script says Udhayakumar was 'முன்னாள் அமைச்சர்' and the slides say 'அதிமுக முன்னாள் அமைச்சர்' — consistent with article, no issue there.
+  fact-check: The slides_spec 'hl2' and the slide line 'கூட்டம் ஆலோசனைக்காக நடத்தப்பட்டது' are fine, but the caption's '🗓️ நாள்: 23 நவம்பர் 2026' is a posting-date footer and is excluded, so no problem there.
 ok anthropic/claude-haiku-5-5
 claude rewrite 2 anthropic/claude-haiku-5-5: 1 problems
-  slides_spec.loc 'சேலம் மாவட்டம்' is only the district: write the town / village / area the article names (people share news of their own area)
+  sentence 1 (one-line story) has 12 words; make it 6-9 words (about 2-3 seconds), the details follow in the next sentences
 ok anthropic/claude-haiku-5-5
 gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
 groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
+free fact-check unavailable, using Claude: no free model answered: None
 ok anthropic/claude-haiku-5-5
+factcheck by anthropic/claude-haiku-5-5: 4 problems
+  The article says the Erode meeting was an 'ஆலோசனைக் கூட்டம்' and the reel says he spoke in Erode generally, which is consistent; however the reel_script states Edappadi Palaniswami as 'எடப்பாடி பழனிசாமி' while the article only says 'எடப்பாடியார்', an expansion of the name not stated in the article (minor, but an added detail)
+  The reel_script says people 'நின்றனர்' and 'வணங்கிச் சென்றனர்' as a general statement, but the article attributes the 2 km aarathi queue and touching plates to his remarks, and the reel omits that the claim concerns his own election experience framed as his speech, which is an interpretation shift rather than a stated fact
+  The slide 'எடப்பாடி பழனிசாமி முதல்வர் ஆவார் என்று சொன்னார்கள்' and the reel's 'நீங்கள்தான் அமைச்சர்' attribute the promise to unspecified people, while the article says 'போகிற இடமெல்லாம் சொன்னதை' — the reel says 'இடமெல்லாம் சொன்னதை' which is an ungrammatical phrasing with unclear meaning in Tamil
+  The reel_script sentence 'அமைச்சர் ஆவது உறுதி என நம்ப வைத்தார்கள், ஆனால் துறைதான் முடிவாகும்' merges the article's 'துறை தான் முடிவாகனும்' into a contrast ('but') that the article does not state, mixing separate facts
+claude rewrite 3 anthropic/claude-haiku-5-5: 4 problems
+  fact-check: The article says the Erode meeting was an 'ஆலோசனைக் கூட்டம்' and the reel says he spoke in Erode generally, which is consistent; however the reel_script states Edappadi Palaniswami as 'எடப்பாடி பழனிசாமி' while the article only says 'எடப்பாடியார்', an expansion of the name not stated in the article (minor, but an added detail)
+  fact-check: The reel_script says people 'நின்றனர்' and 'வணங்கிச் சென்றனர்' as a general statement, but the article attributes the 2 km aarathi queue and touching plates to his remarks, and the reel omits that the claim concerns his own election experience framed as his speech, which is an interpretation shift rather than a stated fact
+  fact-check: The slide 'எடப்பாடி பழனிசாமி முதல்வர் ஆவார் என்று சொன்னார்கள்' and the reel's 'நீங்கள்தான் அமைச்சர்' attribute the promise to unspecified people, while the article says 'போகிற இடமெல்லாம் சொன்னதை' — the reel says 'இடமெல்லாம் சொன்னதை' which is an ungrammatical phrasing with unclear meaning in Tamil
+  fact-check: The reel_script sentence 'அமைச்சர் ஆவது உறுதி என நம்ப வைத்தார்கள், ஆனால் துறைதான் முடிவாகும்' merges the article's 'துறை தான் முடிவாகனும்' into a contrast ('but') that the article does not state, mixing separate facts
 gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-real photo: vision check unavailable: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-3.6-flash:ge
-real photo: vision check out of free quota
-imagegen: cloudflare black-forest-labs/flux-1-schnell 429: {"errors":[{"message":"AiError: AiError: you have used up your daily free allocation of 10,000 neurons, please upgrade to Cloudflare's Workers Paid plan if you would like 
-ok anthropic/claude-haiku-5-5
-claude rewrite 3 anthropic/claude-haiku-5-5: 2 problems
-  reel_script has 78 words; need 93-160 (the key facts once each, in at most 90 seconds; every other detail goes in the caption's 📰 முழு விவரம் block)
-  slides_spec.loc 'சேலம் மாவட்டம்' is only the district: write the town / village / area the article names (people share news of their own area)
-gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
 proofread skipped: no free model answered: None
 gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
 ok anthropic/claude-haiku-5-5
-image match: True The photo shows people walking under an umbrella on a wet road with an overcast sky in a Tamil Nadu setting, perfectly i
-image match: True The photo shows a rainy outdoor scene with wet streets, puddles, and sheltered motorcycles, matching the news topic abou
-images made: 2 for 'Rain likely in 11 Tamil Nadu districts t'
-bridge: 200 {"ok":true,"added":1,"auto_queued":1,"emailed":0,"reoffered":0,"batch":"B20261123-0834","first":"RN-259"}
-posting job started at once
-real photo: vision check resting (free quota busy)
-image match: False The photo is a generic/AI-generated image showing a person sitting at a desk with newspapers and documents, and does not
-image match check unavailable: gemini-3.5-flash: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/g
-image match check unavailable: gemini-3.5-flash: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/g
-images made: 2 for 'PM Modi's respect for the national flag '
-bridge: 200 {"ok":true,"added":1,"auto_queued":1,"emailed":0,"reoffered":0,"batch":"B20261123-0834","first":"RN-260"}
 earlier stories still waiting for images: []
 instagram check: 50 recent posts read from the page
 pick round: only the picked links are written (research_free/pick.py)
-manual link added: https://www.dinakaran.com/news/tamil-nadu-11-districts-chance-of-rain-meteorological-department-information-2
-manual link added: https://www.dinamalar.com/news/premium-news/pm-modi-pays-tribute-to-national-flag/4383790
-candidate filter: collected=2
-to write: 2 Salem district candidates (max 2 stories)
-round: top 2 of 2 candidates
-candidates waiting: 2 Salem; time left 79 min
-try (N) manual=True: https://www.dinamalar.com/news/premium-news/pm-modi-pays-tri
-try (N) manual=True: https://www.dinakaran.com/news/tamil-nadu-11-districts-chanc
-auto images: 1 of 1 stories ({'pollinations': 2})
-posting job started at once
-auto images: 1 of 1 stories ({'pollinations': 5})
-candidate loop ended: left 0, tried={'N': 2}, done={'N': 2}, time left 77 min
-filed: 2 Salem district stories (target 2), reels only
+manual link added: https://www.polimernews.com/politicsnews/they-assured-me-i-would-become-a-minister-only-the-portfolio-was-yet-to-be-decided-12833001
+candidate filter: collected=1
+to write: 1 Salem district candidates (max 1 stories)
+round: top 1 of 1 candidates
+candidates waiting: 1 Salem; time left 79 min
+try (N) manual=True: https://www.polimernews.com/politicsnews/they-assured-me-i-w
+NOT filed (N) 'நீங்கள் அமைச்சராவது உறுதி, துறை தான் முடிவாகனும் : not Salem district news (the story's first lines name another place and no Salem place)
+candidate loop ended: left 0, tried={'N': 1}, done={'N': 0}, time left 75 min
+filed: 0 Salem district stories (target 1), reels only
 queue: 0 news waiting to be written
-All News sheet: {"ok":true,"added":2,"updated":0} 
-stories: 2
+All News sheet: {"ok":true,"added":1,"updated":0} 
+stories: 0
