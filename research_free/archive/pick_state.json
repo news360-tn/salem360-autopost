@@ -1,5 +1,5 @@
 {
- "last_end": "2026-11-23T22:26:12.161422+05:30",
+ "last_end": "2026-11-24T00:07:13.154096+05:30",
  "pool": {
   "Ca620ae6": {
    "id": "Ca620ae6",
@@ -69,64 +69,20 @@
    "picked_at": "2026-11-23T20:35:40.476494+05:30",
    "refused": "not filed: not Salem district news (the story's first lines name another place and no Salem place)"
   },
-  "C79bfa53": {
-   "id": "C79bfa53",
-   "url": "https://www.dinamalar.com/news/tamil-nadu-news/3-deputy-tahsildars-on-leave-in-protest-against-woman-tahsildar/4384547",
-   "title": "பெண் தாசில்தாரை கண்டித்து 3 துணை தாசில்தார் விடுமுறை",
-   "summary": "ஆத்துார்: அவதுாறாக திட்டிய பெண் தாசில்தாரை கண்டித்து, 3 துணை தாசில்தார்கள் விடுமுறை எடுத்துள்ளனர். சேலம் மாவட்டம், கெங்கவல்லி தாலுகா அலுவலகத்தில், கடந்த அக்டோபர் முதல், ஈஸ்வரி என்பவர் தாசில்தாராக பணிபுரிகிறார்.",
+  "C1641e55": {
+   "id": "C1641e55",
+   "url": "https://www.dinamalar.com/news/tamil-nadu-news/hindu-front-bjp-office-bearers-under-house-arrest/4384688",
+   "title": "வீட்டுக்காவலில் ஹிந்து முன்னணி, பா.ஜ., நிர்வாகிகள்",
+   "summary": "ஆத்துார்: ஆத்துாரில், ஹிந்து முன்னணி நிர்வாகிகள் உட்பட நான்கு பேரை, போலீசார் வீட்டு காவலில் வைத்துள்ளனர். திருப்பரங்குன்றம் மலை உச்சியில் உள்ள தீபத்துாணில், இன்று ஒரு முறை மட்டும் தீபம் ஏற்ற உச்சநீதிமன்றம் நிபந்தனைகளு...",
    "source": "தினமலர்",
-   "published": "2026-11-23T21:06:34+05:30",
+   "published": "2026-11-23T23:30:02+05:30",
    "category": "பொது",
-   "score": 11.0,
+   "score": 10.0,
    "power_cut": false,
-   "listed_at": "2026-11-23T22:26:12.161422+05:30",
-   "picked_at": "2026-11-23T22:27:36.252873+05:30",
-   "posted": true
+   "listed_at": "2026-11-24T00:07:13.154096+05:30"
   }
  },
  "rounds": {
-  "2026-11-21_16": {
-   "window": [
-    "2026-11-21T12:41:18.790354+05:30",
-    "2026-11-21T16:27:46.953305+05:30"
-   ],
-   "ids": [
-    "C62a6757",
-    "C5fc5d81",
-    "C808c5b8",
-    "Ce8294dd",
-    "Cf17f014",
-    "C27cda37",
-    "C42e5207",
-    "Cfdba0f9",
-    "Ce56ce1f"
-   ],
-   "sent": false,
-   "deadline": "2026-11-21T17:27:46.953305+05:30",
-   "decided": {
-    "how": "automatic: top 6 of 8 by insights",
-    "ids": [
-     "C62a6757",
-     "C5fc5d81",
-     "Ce8294dd",
-     "Cf17f014",
-     "C27cda37",
-     "C42e5207"
-    ],
-    "at": "2026-11-21T16:30:05.311025+05:30"
-   },
-   "written": [
-    "C27cda37",
-    "C42e5207",
-    "C5fc5d81",
-    "C62a6757",
-    "Ce8294dd",
-    "Cf17f014"
-   ],
-   "refused": {
-    "C62a6757": "not filed: not Salem district news (the story's first lines name another place and no Salem place)"
-   }
-  },
   "2026-11-21_20": {
    "window": [
     "2026-11-21T16:27:46.953305+05:30",
@@ -773,6 +729,20 @@
    "written": [
     "C79bfa53"
    ]
+  },
+  "2026-11-24_00": {
+   "window": [
+    "2026-11-23T22:26:12.161422+05:30",
+    "2026-11-24T00:07:13.154096+05:30"
+   ],
+   "ids": [
+    "C1641e55",
+    "C73cd8f7"
+   ],
+   "sent": false,
+   "deadline": "2026-11-24T01:07:13.154096+05:30",
+   "decided": null,
+   "written": []
   }
  },
  "retry": {}
