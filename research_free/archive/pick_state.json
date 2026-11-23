@@ -1,5 +1,5 @@
 {
- "last_end": "2026-11-23T08:30:19.181520+05:30",
+ "last_end": "2026-11-23T12:33:36.846189+05:30",
  "pool": {
   "C6fac304": {
    "id": "C6fac304",
@@ -99,59 +99,20 @@
    "picked_at": "2026-11-23T03:27:52.723073+05:30",
    "refused": "not filed: not Salem district news (the story's first lines name another place and no Salem place)"
   },
-  "C025b398": {
-   "id": "C025b398",
-   "url": "https://www.dinakaran.com/news/tamil-nadu-11-districts-chance-of-rain-meteorological-department-information-2",
-   "title": "தமிழகத்தில் இன்று 11 மாவட்டங்களுக்கு மழைக்கு வாய்ப்பு: வானிலை ஆய்வு மையம் தகவல் - Dinakaran - Dinakaran",
-   "summary": "சென்னை: சென்னை, திருவள்ளூர், செங்கல்பட்டு, விழுப்புரம், கடலூர், தஞ்சாவூர், திருவாரூர், மயிலாடுதுறை, நாகை மாவட்டங்கள் மற்றும் புதுச்சேரி, காரைக்காலில் இன்று கனமழைக்கு வாய்ப்பு என சென்னை வானிலை ஆய்வு மையம் தகவல் தெரிவித...",
-   "source": "தினகரன்",
-   "published": "2026-11-23T07:32:24+05:30",
-   "category": "மழை / வானிலை",
-   "score": 10.5,
-   "power_cut": false,
-   "listed_at": "2026-11-23T08:30:19.181520+05:30",
-   "picked_at": "2026-11-23T08:32:18.658461+05:30",
-   "posted": true
-  },
-  "C5643fa3": {
-   "id": "C5643fa3",
-   "url": "https://www.dinamalar.com/news/premium-news/pm-modi-pays-tribute-to-national-flag/4383790",
-   "title": "தேசியக்கொடிக்கு பிரதமர் மோடி அளித்த மரியாதை..: அந்துமணி பதில்கள்",
-   "summary": "அ.குணசேகரன், புவனகிரி: சென்னை கொளத்துாரில் மீண்டும் ஸ்டாலின் போட்டியிடுவாரா? அப்படிப்பட்ட தவறை ஸ்டாலின் ஒருநாளும் செய்யமாட்டார்; அனுபவம் வாய்ந்த அரசியல்வாதி அல்லவா!",
-   "source": "தினமலர்",
-   "published": "2026-11-23T05:15:00+05:30",
+  "Ca4ae685": {
+   "id": "Ca4ae685",
+   "url": "https://www.polimernews.com/politicsnews/they-assured-me-i-would-become-a-minister-only-the-portfolio-was-yet-to-be-decided-12833001",
+   "title": "'நீங்கள் அமைச்சராவது உறுதி, துறை தான் முடிவாகனும் என நம்ப வைத்தார்கள்' - ஆர்.பி.உதயகுமார் கலகலப்பு",
+   "summary": "எடப்பாடியார்தான் முதல்வர், நீங்கள்தான் அமைச்சர் எனப் போகிற இடமெல்லாம் சொன்னதைக் கேட்டு நம்பிக்கையுடன் இருந்தேன் என அதிமுக முன்னாள் அமைச்சர் ஆர்.பி.",
+   "source": "பாலிமர்",
+   "published": "2026-11-23T10:30:58+05:30",
    "category": "பொது",
    "score": 3.0,
    "power_cut": false,
-   "listed_at": "2026-11-23T08:30:19.181520+05:30",
-   "picked_at": "2026-11-23T08:32:18.658463+05:30",
-   "posted": true
+   "listed_at": "2026-11-23T12:33:36.846189+05:30"
   }
  },
  "rounds": {
-  "2026-11-21_02": {
-   "window": [
-    "2026-11-21T00:26:51.992561+05:30",
-    "2026-11-21T02:20:11.038653+05:30"
-   ],
-   "ids": [
-    "C263b81e",
-    "C30ac276",
-    "Cdd12c47"
-   ],
-   "sent": false,
-   "deadline": "2026-11-21T03:20:11.038653+05:30",
-   "decided": {
-    "how": "automatic: top 4 of 1 by insights",
-    "ids": [
-     "C263b81e"
-    ],
-    "at": "2026-11-21T02:21:08.907558+05:30"
-   },
-   "written": [
-    "C263b81e"
-   ]
-  },
   "2026-11-21_04": {
    "window": [
     "2026-11-21T02:20:11.038653+05:30",
@@ -839,7 +800,35 @@
     "C025b398",
     "C5643fa3"
    ]
+  },
+  "2026-11-23_12": {
+   "window": [
+    "2026-11-23T08:30:19.181520+05:30",
+    "2026-11-23T12:33:36.846189+05:30"
+   ],
+   "ids": [
+    "Ca4ae685"
+   ],
+   "sent": false,
+   "deadline": "2026-11-23T13:33:36.846189+05:30",
+   "decided": null,
+   "written": []
   }
  },
- "retry": {}
+ "retry": {
+  "https://www.dinakaran.com/news/former-union-minister-murasoli-maran-death-anniversary-opposition-leader-udhayanidhi-stalin-paid-tribute/amp": {
+   "it": {
+    "key": "CBMi1gFBVV95cUxNR0NwaHNrMnB6VXhvaUlXSVhlN1UxMHZnTHQ1bUFydUtNMGdwT2ZGUnVNTlRfMXlDQlEta3FDUlYyMkxzai1CcE9TV254ODVINXNiOHc4cUJUT0NaUFZHZWdfTVNLOXRqeC1VWThfZW9Hc1FqTFR2U0N0Y3VmZDhFeGF2UnFJaUFvN3ZJRERXTGRCOGdDRnJSSlI2MlBFVENwU2tmd3BkQlQ0LWVOMnBtQ3NyZHdlNzVSc0NFVkpkVTZETGFxSzVlOEhTaTE0Z2pnb3lvMDlB0gHWAUFVX3lxTE1HQ3Boc2sycHpVeG9pSVdJWGU3VTEwdmdMdDVtQXJ1S00wZ3BPZkZSdU1OVF8xeUNCUS1rcUNSVjIyTHNqLUJwT1NXbng4NUg1c2I4dzhxQlRPQ1pQVkdlZ19NU0s5dGp4LVVZOF9lb0dzUWpMVHZTQ3RjdWZkOEV4YXZScUlpQW83dklERFdMZEI4Z0NGclJKUjYyUEVUQ3BTa2Z3cGRCVDQtZU4ycG1Dc3Jkd2U3NVJzQ0VWSmRVNkRMYXFLNWU4SFNpMTRnamdveW8wOUE",
+    "url": "https://www.dinakaran.com/news/former-union-minister-murasoli-maran-death-anniversary-opposition-leader-udhayanidhi-stalin-paid-tribute/amp",
+    "title": "முன்னாள் ஒன்றிய அமைச்சர் முரசொலி மாறன் நினைவு நாள்: எதிர்க்கட்சி தலைவர் உதயநிதி ஸ்டாலின் புகழாரம்",
+    "site": "https://www.dinakaran.com",
+    "source": "Dinakaran",
+    "published": "2026-11-23T09:33:25+05:30",
+    "via": "google",
+    "query": "சேலம் site:dinakaran.com",
+    "snippet": " முன்னாள் ஒன்றிய அமைச்சர் முரசொலி மாறன் நினைவு நாள்: எதிர்க்கட்சி தலைவர் உதயநிதி ஸ்டாலின் புகழாரம்    Dinakaran "
+   },
+   "first": "2026-11-23T12:33:36.846189+05:30"
+  }
+ }
 }
