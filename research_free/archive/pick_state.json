@@ -65,7 +65,8 @@
    "category": "விலை",
    "score": 6.78,
    "power_cut": false,
-   "listed_at": "2026-11-23T20:32:32.560793+05:30"
+   "listed_at": "2026-11-23T20:32:32.560793+05:30",
+   "picked_at": "2026-11-23T20:35:40.476492+05:30"
   },
   "C4c8b2a4": {
    "id": "C4c8b2a4",
@@ -77,7 +78,8 @@
    "category": "ரயில்",
    "score": 6.0,
    "power_cut": false,
-   "listed_at": "2026-11-23T20:32:32.560793+05:30"
+   "listed_at": "2026-11-23T20:32:32.560793+05:30",
+   "picked_at": "2026-11-23T20:35:40.476494+05:30"
   }
  },
  "rounds": {
@@ -779,8 +781,18 @@
    ],
    "sent": false,
    "deadline": "2026-11-23T21:32:32.560793+05:30",
-   "decided": null,
-   "written": []
+   "decided": {
+    "how": "automatic: top 5 of 2 by insights",
+    "ids": [
+     "Ce43639d",
+     "C4c8b2a4"
+    ],
+    "at": "2026-11-23T20:35:40.476483+05:30"
+   },
+   "written": [
+    "C4c8b2a4",
+    "Ce43639d"
+   ]
   }
  },
  "retry": {}
