@@ -1,0 +1,29 @@
+11:28:41 hold lifted: RN-2 - not grounded: location 'பகுதிகள்' is not in the article - the location IS in the article (checked again)
+11:28:51 hold lifted: RN-106 - not grounded: location 'நகரம்' is not in the article - the location IS in the article (checked again)
+11:28:51 1 held news to fix: ['RN-247']
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
+ok gemini/gemini-3.6-flash (24s)
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
+ok gemini/gemini-3.6-flash (17s)
+factcheck by gemini/gemini-3.6-flash: 0 problems
+attempt 1 gemini/gemini-3.6-flash: 0 problems
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
+fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 429: {
+  "error": {
+    "code": 429,
+    "message": "You exceeded your current quota, please che
+dead for this round: gemini/gemini-3.6-flash
+fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {
+  "error": {
+    "code": 429,
+    "message": "You exceeded your current quota, please che
+dead for this round: gemini/gemini-3.5-flash
+ok gemini/gemini-3-flash-preview (15s)
+proofread rejected (3 problems)
+  hl2 longer than 28 characters
+  sentence 1 (one-line story) has 13 words; make it 6-9 words (about 2-3 seconds), the details follow in the next sentences
+  caption needs 5 hashtags (Instagram max), has 7
+11:29:51 RN-247 FIXED - posts with the corrected text: சேலம் கோட்டை அழகிரிநாதர் கோவில் வைகுண்ட ஏகாதசி விழா: நாளை முகூர்த்தக்கம்பம் நடப்
