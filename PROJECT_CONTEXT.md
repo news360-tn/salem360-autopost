@@ -83,6 +83,16 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 <!-- recent-changes:start (updated automatically by .github/workflows/context.yml - do not edit by hand) -->
 | Date | Commit | Change |
 |---|---|---|
+| 2026-11-24 | `fd54e4e` | stories shared / Instagram pause |
+| 2026-11-24 | `519cd91` | Fixes: Facebook 24-hour-limit news wait or are e-mailed (never silently skipped); slow sheet reads get more time; YouTube stops for the whole day after its quota; YouTube tests use today's date |
+| 2026-11-24 | `563e557` | autofix: corrected held news |
+| 2026-11-24 | `adcea19` | stories shared / Instagram pause |
+| 2026-11-24 | `4ba63b3` | stories shared / Instagram pause |
+| 2026-11-24 | `ac47dd0` | stories shared / Instagram pause |
+| 2026-11-24 | `2248042` | stories shared / Instagram pause |
+| 2026-11-24 | `953a516` | stories shared / Instagram pause |
+| 2026-11-24 | `a08535c` | stories shared / Instagram pause |
+| 2026-11-24 | `c79e5f3` | stories shared / Instagram pause |
 | 2026-11-24 | `92f016c` | Auto-fix held news (rewrite from the article, check again, post); Cloudinary fallbacks: pictures kept in the repo, reels direct then repo link; rasipalan and gold the same |
 | 2026-11-24 | `b18bacb` | stories shared / Instagram pause |
 | 2026-11-24 | `2075cc6` | stories shared / Instagram pause |
@@ -103,14 +113,4 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 | 2026-11-24 | `d253b6e` | stories shared / Instagram pause |
 | 2026-11-24 | `e7ebc0d` | facebook RN-272 |
 | 2026-11-24 | `6b76854` | posted RN-272 |
-| 2026-11-24 | `659e303` | stories shared / Instagram pause |
-| 2026-11-24 | `9cf6223` | stories shared / Instagram pause |
-| 2026-11-24 | `0e3e3d0` | facebook RN-273 |
-| 2026-11-24 | `f359b73` | posted RN-273 |
-| 2026-11-24 | `fd410ab` | stories shared / Instagram pause |
-| 2026-11-24 | `40769eb` | facebook RN-270 |
-| 2026-11-24 | `00d5a22` | posted RN-270 |
-| 2026-11-24 | `ca40cb9` | E-mail for every posted news again (posted_email each) |
-| 2026-11-24 | `897a36a` | stories shared / Instagram pause |
-| 2026-11-24 | `094e6db` | facebook RN-269 |
 <!-- recent-changes:end -->
