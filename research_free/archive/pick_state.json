@@ -1,5 +1,5 @@
 {
- "last_end": "2026-11-24T22:32:14.822118+05:30",
+ "last_end": "2026-11-24T23:36:52.674734+05:30",
  "pool": {
   "Ce9a8fd8": {
    "id": "Ce9a8fd8",
@@ -14,50 +14,9 @@
    "listed_at": "2026-11-24T12:28:14.238239+05:30",
    "picked_at": "2026-11-24T12:29:15.024705+05:30",
    "refused": "not filed: not Salem district news (the story's first lines name another place and no Salem place)"
-  },
-  "Cec50df9": {
-   "id": "Cec50df9",
-   "url": "https://www.vikatan.com/food/thattu-vadai-set-the-secret-behind-salems-evening-snack-taste",
-   "title": "`மாலை வேளையில் சேலம் வீதிகளில் நடந்து பாருங்க' - தட்டுவடைக்குள் ஒளிந்திருக்கும் தனித்துவமான சுவை!",
-   "summary": "சேலம் என்றாலே மாம்பழம், ஏற்காடு, எஃகு, ஜவ்வரிசி எனப் பெருமை பேசப் பல விஷயங்கள் உண்டு. அந்தப் பட்டியலில் மாலை நேரத்தில் பலரையும் தேடிச் செல்ல வைக்கும் சுவையும் ஒன்று...",
-   "source": "விகடன்",
-   "published": "2026-11-24T06:57:56Z",
-   "category": "பொது",
-   "score": 5.0,
-   "power_cut": false,
-   "late_listed": true,
-   "listed_at": "2026-11-24T22:32:14.822118+05:30",
-   "picked_at": "2026-11-24T22:33:09.380704+05:30",
-   "posted": true
   }
  },
  "rounds": {
-  "2026-11-22_23": {
-   "window": [
-    "2026-11-22T22:29:42.584980+05:30",
-    "2026-11-22T23:30:14.348860+05:30"
-   ],
-   "ids": [
-    "C3c2f654",
-    "C3c7d5c0",
-    "C422d8f8"
-   ],
-   "sent": false,
-   "deadline": "2026-11-23T00:30:14.348860+05:30",
-   "decided": {
-    "how": "automatic: top 3 of 1 by insights",
-    "ids": [
-     "C3c2f654"
-    ],
-    "at": "2026-11-22T23:32:21.062161+05:30"
-   },
-   "written": [
-    "C3c2f654"
-   ],
-   "refused": {
-    "C3c2f654": "not written: the day's maximum of 30 news was reached"
-   }
-  },
   "2026-11-23_02": {
    "window": [
     "2026-11-22T23:30:14.348860+05:30",
@@ -526,6 +485,17 @@
    "written": [
     "Cec50df9"
    ]
+  },
+  "2026-11-24_23": {
+   "window": [
+    "2026-11-24T22:32:14.822118+05:30",
+    "2026-11-24T23:36:52.674734+05:30"
+   ],
+   "ids": [],
+   "sent": false,
+   "deadline": "2026-11-25T00:36:52.674734+05:30",
+   "decided": null,
+   "written": []
   }
  },
  "retry": {}
