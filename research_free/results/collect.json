@@ -3,22 +3,21 @@
   "earlier stories still waiting for images: []",
   "instagram check: 50 recent posts read from the page",
   "pick round: only the picked links are written (research_free/pick.py)",
-  "manual link added: https://www.dinamani.com/all-editions/edition-dharmapuri/salem/2026/Nov/24/ijk-union-secretary-killed-after-an-electric-wire-snaps-and-falls-near-vazhapadi",
+  "manual link added: https://www.hindutamil.in/news/supplements/agriculture/kuppanur-bitter-gourds-are-exported-to-european-countries",
   "candidate filter: collected=1",
   "to write: 1 Salem district candidates (max 1 stories)",
   "round: top 1 of 1 candidates",
   "candidates waiting: 1 Salem; time left 79 min",
-  "try (N) manual=True: https://www.dinamani.com/all-editions/edition-dharmapuri/sal",
-  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 2})",
-  "posting job started at once",
-  "candidate loop ended: left 0, tried={'N': 1}, done={'N': 1}, time left 76 min",
-  "filed: 1 Salem district stories (target 1), reels only",
+  "try (N) manual=True: https://www.hindutamil.in/news/supplements/agriculture/kuppa",
+  "NOT filed (N) ஐரோப்பிய நாடுகளுக்கு ஏற்றுமதியாகும் குப்பனூர் பாகற: not Salem district news (the story's first lines name another place and no Salem place)",
+  "candidate loop ended: left 0, tried={'N': 1}, done={'N': 0}, time left 77 min",
+  "filed: 0 Salem district stories (target 1), reels only",
   "queue: 0 news waiting to be written",
   "All News sheet: {\"ok\":true,\"added\":1,\"updated\":0}"
  ],
  "llm": [
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high d",
   "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
   "dead for this round: gemini/gemini-3.6-flash",
@@ -26,88 +25,17 @@
   "dead for this round: gemini/gemini-3.5-flash",
   "fail gemini/gemini-3-flash-preview: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=60)",
   "poor answer - skipped for 30 min: gemini/gemini-3-flash-preview",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 400: {\"error\":{\"message\":\"Failed to validate JSON. Please adjust your prompt. See 'failed_gener",
-  "ok groq/qwen/qwen3.8-27b (9s)",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 413: {\"error\":{\"message\":\"Request too large for model `openai/gpt-oss-120b` in organization `or",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 413: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
-  "switching away from groq/qwen/qwen3.8-27b for 10 min",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 400: {\"error\":{\"message\":\"Failed to validate JSON. Please adjust your prompt. See 'failed_gener",
-  "ok anthropic/claude-haiku-5-5",
+  "ok groq/openai/gpt-oss-120b (6s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok groq/openai/gpt-oss-120b (4s)",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok groq/openai/gpt-oss-120b (4s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
-  "not available on this plan: groq/openai/gpt-oss-120b",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash"
+  "ok groq/openai/gpt-oss-120b (3s)"
  ],
- "stories": [
-  {
-   "tamil_headline": "வாழப்பாடி அருகே மின்கம்பி அறுந்து விழுந்து ஐ.ஜே.கே. ஒன்றிய செயலர் பலி",
-   "english_headline": "IJK Union Secretary Dies After Entangling in Snapped Live Wire Near Vazhapadi",
-   "category": "Crime & Safety",
-   "location": "Kurichi Manjamai Medu, Vazhapadi, Salem district",
-   "importance": "Medium",
-   "scope": "local",
-   "post_to": "Salem 360",
-   "slides_spec": {
-    "v": 3,
-    "cat": "மின்சார விபத்து",
-    "loc": "குறிச்சி மஞ்சைமேடு, வாழப்பாடி",
-    "hl1": "வாழப்பாடி அருகே மின்கம்பி செயலர் பலி",
-    "hl2": "40 வயது விவசாயி உயிரிழப்பு",
-    "slides": [
-     {
-      "title": "சம்பவம்",
-      "lines": [
-       "வாழப்பாடி அருகே மின்கம்பி அறுந்து விழுந்தது",
-       "குறிச்சி மஞ்சைமேடு பகுதியில் சம்பவம் நடந்தது"
-      ]
-     },
-     {
-      "title": "பலியானவர்",
-      "lines": [
-       "40 வயது கோபாலகிருஷ்ணன் உயிரிழந்தார்",
-       "ஐ.ஜே.கே. வடக்கு ஒன்றிய செயலராக பணியாற்றினார்"
-      ]
-     },
-     {
-      "title": "விவரங்கள்",
-      "lines": [
-       "பால் ஊற்றி வீடு திரும்பும் போது மின்கம்பியில் சிக்கினார்",
-       "வாழப்பாடி போலீசார் வழக்கு பதிவு செய்துள்ளனர்"
-      ]
-     }
-    ],
-    "carousel": false
-   },
-   "reel_script": "வாழப்பாடி அருகே அறுந்து விழுந்த மின்கம்பியில் சிக்கி 40 வயது விவசாயி உயிரிழந்தார். இவர் ஐ ஜே கே கட்சியின் வடக்கு ஒன்றிய செயலராக பணியாற்றி வந்தார். நேற்று மாலை தனது தோட்டத்தில் இருந்து பால் கறந்து எடுத்துக்கொண்டார். இருசக்கர வாகனத்தில் பால் சேகரிப்பு நிலையத்திற்கு சென்று பால் ஊற்றிவிட்டார். வீடு திரும்பும் போது சாலையில் அறுந்து கிடந்த மின்கம்பியில் சிக்கினார். வீடு திரும்பாததால் குடும்பத்தினர் தேடினர். மின்கம்பியில் சிக்கி உயிரிழந்து கிடந்தது தெரியவந்தது. இன்று காலை வாழப்பாடி காவல் நிலையத்தில் புகார் தெரிவித்தனர். வாழப்பாடி போலீசார் வழக்கு பதிவு செய்து விசாரணை நடத்தி வருகின்றனர். மேலும் செய்திகளுக்கு சேலம் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "⚡ வாழப்பாடி அருகே மின்கம்பி அறுந்து விழுந்து ஐ.ஜே.கே. செயலர் பலி\n\n📰 முழு விவரம்:\nசேலம் மாவட்டம் வாழப்பாடியை அடுத்த குறிச்சி மஞ்சைமேடு பகுதியைச் சேர்ந்த 40 வயது கோபாலகிருஷ்ணன் உயிரிழந்தார். இவர் விவசாயியாகவும், வாழப்பாடி வடக்கு ஒன்றிய ஐ.ஜே.கே. கட்சி செயலராகவும் பணியாற்றி வந்தார். நேற்று (நவம்பர் 24) மாலை தனது தோட்டத்தில் இருந்து பால் கறந்து எடுத்துக்கொண்டு இருசக்கர வாகனத்தில் சென்றார். பால் சேகரிப்பு நிலையத்தில் பால் ஊற்றிவிட்டு வீடு திரும்பும் போது சாலையில் அறுந்து கிடந்த மின்கம்பியில் சிக்கினார். வீடு திரும்பாததால் குடும்பத்தினர் தேடிய போது, மின்கம்பியில் சிக்கி உயிரிழந்து கிடந்தது தெரியவந்தது. இன்று காலை வாழப்பாடி காவல் நிலையத்தில் புகார் தெரிவித்தனர். வாழப்பாடி போலீசார் வழக்கு பதிவு செய்து விசாரணை நடத்தி வருகின்றனர்.\n\n📍 இடம்: குறிச்சி மஞ்சைமேடு, வாழப்பாடி\n🗓️ நாள்: நவம்பர் 24\n👮 நடவடிக்கை: வழக்கு பதிவு செய்து விசாரணை நடத்தப்படுகிறது\n\nஇந்த செய்தியை தேவைப்படுவோருக்கு Share செய்யுங்கள்\n\nVazhapadi electric wire accident | Salem news\n📍 Kurichi Manjamai Medu, Vazhapadi, Salem | 24 Nov 2026\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Salem360 #Salem #Vazhapadi #SalemNews #சேலம்",
-   "prompts": "A TNEB lineman in a khaki-blue uniform and safety helmet, seen from behind, works on a snapped electric wire lying across a rural road in Kurichi Manjamai Medu, Vazhapadi, as a Tamil Nadu police constable in khaki keeps onlookers back at a distance. The place is a narrow village road lined with dry farmland, a low concrete electric pole leaning slightly, and a parked two-wheeler with empty milk cans tied to its carrier. A few villagers in shirts with veshti and women in cotton sarees stand far off at the roadside, faces turned away. Light is dusk, soft orange sky with a dim lamp just starting to glow on the pole. Camera at eye level, 35 mm, wide enough to show the road, fields and the pole together, the wire clearly the focus. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up of a snapped live electric wire lying coiled on a dirt road beside a concrete electric pole, with a plastic milk can and a steel milk pail lying on the wet earth nearby, dropped by the rider. Behind it, a Tamil Nadu police constable in khaki stands at a distance, and the blurred figure of a lineman in uniform is seen far off. The ground is damp dirt with scattered dry leaves and tyre marks, a two-wheeler's handlebar visible at the edge of frame. Evening light, low sun, soft shadows across the road. Camera close and slightly low, 35 mm, shallow depth of field so the wire and pails are sharp and the background people are softly blurred. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamani.com/all-editions/edition-dharmapuri/salem/2026/Nov/24/ijk-union-secretary-killed-after-an-electric-wire-snaps-and-falls-near-vazhapadi",
-   "published": "2026-11-24T04:31:03.517Z",
-   "verification": "DRAFT (groq/qwen/qwen3.8-27b) - NOT CLEAN, held from posting - problems: caption misses facts of the article (put every one in 📰 முழு விவரம்): 23 ('23) காலை வாழப்பாடி காவல் நிலையத்தில் புகார் தெரிவித்தனர்.')",
-   "note": "free-model draft groq/qwen/qwen3.8-27b, 1 attempt(s), 1 validator problem(s)",
-   "post_time": "right after your reply, same day",
-   "_area": "N",
-   "_score": 999,
-   "images": [
-    "https://res.cloudinary.com/jrmwajfz/image/upload/v1795501370/salem360/lzet78xrhnrbm9ytdvsd.jpg",
-    "https://res.cloudinary.com/jrmwajfz/image/upload/v1795501374/salem360/sher1riovhznj0iutsr4.jpg"
-   ]
-  }
- ]
+ "stories": []
 }

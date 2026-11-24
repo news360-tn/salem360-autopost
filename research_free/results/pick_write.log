@@ -1,6 +1,6 @@
-writing [N]: வாழப்பாடி அருகே மின்கம்பி அறுந்து விழுந்து ஐ.ஜே.கே. ஒன்றிய ச
+writing [N]: ஐரோப்பிய நாடுகளுக்கு ஏற்றுமதியாகும் குப்பனூர் பாகற்காய்: மேற
 gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
 fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 503: {
   "error": {
     "code": 503,
@@ -17,87 +17,44 @@ fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {
 dead for this round: gemini/gemini-3.5-flash
 fail gemini/gemini-3-flash-preview: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=60)
 poor answer - skipped for 30 min: gemini/gemini-3-flash-preview
-fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 400: {"error":{"message":"Failed to validate JSON. Please adjust your prompt. See 'failed_gener
-ok groq/qwen/qwen3.8-27b (9s)
-attempt 1 groq/qwen/qwen3.8-27b: 2 problems
-  hl1 is 53 characters (max 40) - write a SHORTER COMPLETE phrase with fewer words that still ends with its key word (what happened: e.g. 'X அருகே வீட்டில் கொள்ளை'); never stop a phrase in the middle
-  caption misses facts of the article (put every one in 📰 முழு விவரம்): 23 ('23) காலை வாழப்பாடி காவல் நிலையத்தில் புகார் தெரிவித்தனர்.')
+fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 413: {"error":{"message":"Request too large for model `openai/gpt-oss-120b` in organization `or
+fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 413: {"error":{"message":"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7
+free models unavailable: no free model answered: groq qwen/qwen3.8-27b 413: {"error":{"message":"Request too large for model `qwen/qwen3.8-27b` i
+ok anthropic/claude-haiku-5-5
+claude rewrite 1 anthropic/claude-haiku-5-5: 3 problems
+  reel_script has 98 words; need 100-160 (the key facts once each, in at most 90 seconds; every other detail goes in the caption's 📰 முழு விவரம் block)
+  sentence 1 (one-line story) has 13 words; make it 6-9 words (about 2-3 seconds), the details follow in the next sentences
+  caption misses facts of the article (put every one in 📰 முழு விவரம்): 6 ('கரோனா பெருந்​தொற்​றுக்​குப் பிறகு, சத்​தான உணவு​களே மனித வாழ')
+ok anthropic/claude-haiku-5-5
+claude rewrite 2 anthropic/claude-haiku-5-5: 2 problems
+  hl1 is 42 characters (max 40) - write a SHORTER COMPLETE phrase with fewer words that still ends with its key word (what happened: e.g. 'X அருகே வீட்டில் கொள்ளை'); never stop a phrase in the middle
+  reel_script has 90 words; need 100-160 (the key facts once each, in at most 90 seconds; every other detail goes in the caption's 📰 முழு விவரம் block)
+ok anthropic/claude-haiku-5-5
+claude rewrite 3 anthropic/claude-haiku-5-5: 2 problems
+  hl1 (the first headline on screen) must name the place 'கொளத்தூர்', e.g. 'கொளத்தூர்: ...' or 'கொளத்தூர்-இல் ...' - viewers share news of their own area
+  caption misses facts of the article (put every one in 📰 முழு விவரம்): 6 ('கரோனா பெருந்​தொற்​றுக்​குப் பிறகு, சத்​தான உணவு​களே மனித வாழ')
 gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
 groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
-fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {"error":{"message":"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m
-fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {"error":{"message":"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m
-switching away from groq/qwen/qwen3.8-27b for 10 min
-fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {"error":{"message":"Rate limit reached for model `openai/gpt-oss-120b` in organization `o
-fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 400: {"error":{"message":"Failed to validate JSON. Please adjust your prompt. See 'failed_gener
-free models unavailable: no free model answered: groq openai/gpt-oss-120b 400: {"error":{"message":"Failed to validate JSON. Please adjust your p
-ok anthropic/claude-haiku-5-5
+ok groq/openai/gpt-oss-120b (6s)
+proofread rejected (3 problems)
+  missing key: reel_script
+  missing key: caption
+  missing key: scenes
 gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
 groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
-ok groq/openai/gpt-oss-120b (4s)
-factcheck by groq/openai/gpt-oss-120b: 4 problems
-  Headline calls the victim “நிர்வாகி” instead of the correct title “செயலாளர்” as in the article
-  Slide headline hl2 and slide text use “செயலர்” (wrong term) instead of the correct “செயலாளர்”
-  Caption repeats the wrong term “செயலர்” instead of “செயலாளர்”
-  Caption phrase “மின்கம்பி பட்டு” does not match the article’s description “மின்கம்பி அறுந்து விழுந்து”
-claude rewrite 1 anthropic/claude-haiku-5-5: 4 problems
-  fact-check: Headline calls the victim “நிர்வாகி” instead of the correct title “செயலாளர்” as in the article
-  fact-check: Slide headline hl2 and slide text use “செயலர்” (wrong term) instead of the correct “செயலாளர்”
-  fact-check: Caption repeats the wrong term “செயலர்” instead of “செயலாளர்”
-  fact-check: Caption phrase “மின்கம்பி பட்டு” does not match the article’s description “மின்கம்பி அறுந்து விழுந்து”
-ok anthropic/claude-haiku-5-5
-claude rewrite 2 anthropic/claude-haiku-5-5: 3 problems
-  hl1 is 43 characters (max 40) - write a SHORTER COMPLETE phrase with fewer words that still ends with its key word (what happened: e.g. 'X அருகே வீட்டில் கொள்ளை'); never stop a phrase in the middle
-  slide 1 line 2 longer than 60 characters
-  caption misses facts of the article (put every one in 📰 முழு விவரம்): 23 ('23) காலை வாழப்பாடி காவல் நிலையத்தில் புகார் தெரிவித்தனர்.')
-ok anthropic/claude-haiku-5-5
-gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
-ok groq/openai/gpt-oss-120b (4s)
-factcheck by groq/openai/gpt-oss-120b: 6 problems
-  tamil_headline uses the role term “நிர்வாகி” instead of the article’s “செயலாளர்”, a factual mismatch
-  tamil_headline includes the phrase “மின்கம்பி பட்டு” which is not mentioned in the article
-  slides_spec hl1 says “மின்சாரம் தாக்கி” implying electricity struck, differing from the article’s cause of a snapped live wire
-  caption headline repeats the incorrect role “நிர்வாகி” instead of “செயலாளர்”
-  caption adds a year “2026” to the date, which is not present in the article
-  the phrase “மின்கம்பி பட்டு” in the headline is ungrammatical/unclear in Tamil
-claude rewrite 3 anthropic/claude-haiku-5-5: 6 problems
-  fact-check: tamil_headline uses the role term “நிர்வாகி” instead of the article’s “செயலாளர்”, a factual mismatch
-  fact-check: tamil_headline includes the phrase “மின்கம்பி பட்டு” which is not mentioned in the article
-  fact-check: slides_spec hl1 says “மின்சாரம் தாக்கி” implying electricity struck, differing from the article’s cause of a snapped live wire
-  fact-check: caption headline repeats the incorrect role “நிர்வாகி” instead of “செயலாளர்”
-  fact-check: caption adds a year “2026” to the date, which is not present in the article
-  fact-check: the phrase “மின்கம்பி பட்டு” in the headline is ungrammatical/unclear in Tamil
-hl1 shortened at a natural break: 'வாழப்பாடி அருகே மின்கம்பி அறுந்து விழுந்து செயலர் பலி' -> 'வாழப்பாடி அருகே மின்கம்பி செயலர் பலி'
-gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
-fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {"error":{"message":"Rate limit reached for model `openai/gpt-oss-120b` in organization `o
-fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {"error":{"message":"Rate limit reached for model `openai/gpt-oss-120b` in organization `o
-not available on this plan: groq/openai/gpt-oss-120b
-proofread skipped: no free model answered: groq openai/gpt-oss-120b 429: {"error":{"message":"Rate limit reached for model `openai/gpt-oss-120b` in organization `org_01m7a2xrr0edj82ech8tq0xtz4` service tier `on_demand` on tokens per minute (TPM): Limit 8000, Used 5701, Requested 4010. Please try again in 12.8325s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing","type":"tokens","code":"rate_limit_exceeded"}}
-
-gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
-ok anthropic/claude-haiku-5-5
-real photo skipped (photo uploaded 2026-05-01 (older than the news)): https://media.dinamani.com/dinamani/2026-05-01/j4q5rlo2/TNIEimport2023713originaldeath.avi
-gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-image match check unavailable: gemini-3.5-flash: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/g
-image match check unavailable: gemini-3.5-flash: 503 Server Error: Service Unavailable for url: https://generativelanguage.googleapis.com/v1beta/models
-images made: 2 for 'IJK Union Secretary Dies After Entanglin'
-bridge: 200 {"ok":true,"added":1,"auto_queued":1,"emailed":0,"reoffered":0,"batch":"B20261124-1152","first":"RN-277"}
-posting job started at once
+ok groq/openai/gpt-oss-120b (3s)
 earlier stories still waiting for images: []
 instagram check: 50 recent posts read from the page
 pick round: only the picked links are written (research_free/pick.py)
-manual link added: https://www.dinamani.com/all-editions/edition-dharmapuri/salem/2026/Nov/24/ijk-union-secretary-killed-after-an-electric-wire-snaps-and-falls-near-vazhapadi
+manual link added: https://www.hindutamil.in/news/supplements/agriculture/kuppanur-bitter-gourds-are-exported-to-european-countries
 candidate filter: collected=1
 to write: 1 Salem district candidates (max 1 stories)
 round: top 1 of 1 candidates
 candidates waiting: 1 Salem; time left 79 min
-try (N) manual=True: https://www.dinamani.com/all-editions/edition-dharmapuri/sal
-auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 2})
-posting job started at once
-candidate loop ended: left 0, tried={'N': 1}, done={'N': 1}, time left 76 min
-filed: 1 Salem district stories (target 1), reels only
+try (N) manual=True: https://www.hindutamil.in/news/supplements/agriculture/kuppa
+NOT filed (N) ஐரோப்பிய நாடுகளுக்கு ஏற்றுமதியாகும் குப்பனூர் பாகற: not Salem district news (the story's first lines name another place and no Salem place)
+candidate loop ended: left 0, tried={'N': 1}, done={'N': 0}, time left 77 min
+filed: 0 Salem district stories (target 1), reels only
 queue: 0 news waiting to be written
 All News sheet: {"ok":true,"added":1,"updated":0} 
-stories: 1
+stories: 0
