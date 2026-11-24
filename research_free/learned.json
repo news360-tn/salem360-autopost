@@ -1,16 +1,17 @@
 {
- "updated": "2026-11-24T12:28+05:30",
- "posts_measured": 256,
+ "updated": "2026-11-24T16:27+05:30",
+ "posts_measured": 258,
  "topic_weight": {
   "crime": 1.5,
-  "poultry_agri": -0.06,
-  "education": -0.44,
-  "accident": 0.68,
-  "temple": 0.03,
+  "poultry_agri": -0.08,
+  "education": -0.45,
+  "accident": 0.45,
+  "temple": 0.1,
   "civic": -0.5,
   "weather": -0.5,
-  "sports_culture": -0.47,
-  "politics": -0.33
+  "sports_culture": -0.46,
+  "politics": -0.33,
+  "power_cut": 1.0
  },
  "topic_n": {
   "crime": 54,
@@ -23,7 +24,7 @@
   "sports_culture": 4,
   "politics": 26,
   "jobs": 1,
-  "power_cut": 1
+  "power_cut": 3
  },
  "best_hours_ist": [
   2,
@@ -37,11 +38,11 @@
   "🚨 காடையாம்பட்டியில் கிணற்றில் ஆண் சடலம்: கொலையா என போலீஸ் விசாரணை",
   "🚨 பனமரத்துப்பட்டியில் போதையில் பைக் ஓட்டுவது அதிகரிப்பு: போலீஸ் நடவடிக்கை கோரிக்"
  ],
- "avg_watch_s": 7.8,
+ "avg_watch_s": 7.9,
  "best_topics": [
   "crime",
-  "accident",
-  "temple"
+  "power_cut",
+  "accident"
  ],
  "weak_topics": [
   "civic",
