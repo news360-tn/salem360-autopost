@@ -83,6 +83,9 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 <!-- recent-changes:start (updated automatically by .github/workflows/context.yml - do not edit by hand) -->
 | Date | Commit | Change |
 |---|---|---|
+| 2026-11-24 | `779b41e` | Facebook check: read-only views report of the latest reels (plays, reach, processing status) |
+| 2026-11-24 | `0e5f29f` | pick: picked news saved |
+| 2026-11-24 | `508d41b` | pick: list sent |
 | 2026-11-24 | `6580db6` | More district source pages: Hindu Tamil, Vikatan, Polimer (and OneIndia where it has the district) - Trichy, Tiruppur, Salem, Erode, Karur read only 1-2 pages |
 | 2026-11-24 | `e599c0c` | pick: written and posted |
 | 2026-11-24 | `0f64e23` | pick: list sent |
@@ -110,7 +113,4 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 | 2026-11-24 | `1c2cfa0` | stories shared / Instagram pause |
 | 2026-11-24 | `829e9b6` | stories shared / Instagram pause |
 | 2026-11-24 | `fc6c6ac` | stories shared / Instagram pause |
-| 2026-11-24 | `7866342` | stories shared / Instagram pause |
-| 2026-11-24 | `7d1c770` | stories shared / Instagram pause |
-| 2026-11-24 | `152cb02` | stories shared / Instagram pause |
 <!-- recent-changes:end -->
