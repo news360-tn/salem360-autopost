@@ -574,3 +574,253 @@ filed: 1 Salem district stories (target 1), reels only
 queue: 0 news waiting to be written
 All News sheet: {"ok":true,"added":1,"updated":0} 
 stories: 1
+writing [N]: சேலம் மாவட்டத்தில் நாளை (25-11-2026) மின்தடை: அதனூர்பட்டி, வ
+writing [N]: சேலம் மாவட்டத்தில் 24-11-2026 மின்தடை: திம்மநாயக்கன்பட்டி, ச
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
+ok gemini/gemini-3.6-flash (20s)
+attempt 1 gemini/gemini-3.6-flash: 2 problems
+  slides_spec.loc 'சேலம் மாவட்டம்' is only the district: write the town / village / area the article names (people share news of their own area)
+  caption misses facts of the article (put every one in 📰 முழு விவரம்): 11 ('சேலம் மாவட்டத்தில் 24-11-2026 மின்தடை: திம்மநாயக்கன்பட்டி, ச')
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
+fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 503: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high d
+ok gemini/gemini-3.6-flash (59s)
+attempt 2 gemini/gemini-3.6-flash: 2 problems
+  reel_script sentence 1 (heard in the first 3 seconds) must name the place 'திம்மநாயக்கன்பட்டி' and the news itself, e.g. 'திம்மநாயக்கன்பட்டி-இல் ... 3 பேர் கைது.' - viewers decide in 3 seconds whether the news is about their area
+  caption misses facts of the article (put every one in 📰 முழு விவரம்): 11 ('சேலம் மாவட்டத்தில் 24-11-2026 மின்தடை: திம்மநாயக்கன்பட்டி, ச')
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
+fail gemini/gemini-3.6-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=60)
+poor answer - skipped for 30 min: gemini/gemini-3.6-flash
+fail gemini/gemini-3.6-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=60)
+poor answer - skipped for 30 min: gemini/gemini-3.6-flash
+fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 503: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high d
+fail gemini/gemini-3.5-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=60)
+poor answer - skipped for 30 min: gemini/gemini-3.5-flash
+fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 503: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high d
+switching away from gemini/gemini-3.5-flash for 10 min
+ok gemini/gemini-3-flash-preview (12s)
+attempt 1 gemini/gemini-3-flash-preview: 6 problems
+  hl1 is 45 characters (max 40) - write a SHORTER COMPLETE phrase with fewer words that still ends with its key word (what happened: e.g. 'X அருகே வீட்டில் கொள்ளை'); never stop a phrase in the middle
+  sentence 1 (one-line story) has 13 words; make it 6-9 words (about 2-3 seconds), the details follow in the next sentences
+  caption needs 5 hashtags (Instagram max), has 6
+  numbers not found in the article: 7
+  not grounded: only 48% of the words come from the article (e.g. மற்றும், உள்ளிட்ட, நேரம், செய்யப்படுகிறது, இருக்காது); use the article's own words and facts
+  hl1 (the first headline on screen) must name the place 'அதனூர்பட்டி', e.g. 'அதனூர்பட்டி: ...' or 'அதனூர்பட்டி-இல் ...' - viewers share news of their own area
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
+ok gemini/gemini-3-flash-preview (13s)
+attempt 3 gemini/gemini-3-flash-preview: 1 problems
+  caption needs 5 hashtags (Instagram max), has 6
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
+ok gemini/gemini-3-flash-preview (15s)
+attempt 2 gemini/gemini-3-flash-preview: 1 problems
+  caption misses facts of the article (put every one in 📰 முழு விவரம்): 11 ('சேலம் மாவட்டத்தில் நாளை (25-11-2026) மின்தடை: அதனூர்பட்டி, வ')
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
+ok gemini/gemini-3-flash-preview (10s)
+attempt 3 gemini/gemini-3-flash-preview: 3 problems
+  numbers not found in the article: 7
+  slides_spec.loc 'சேலம் மாவட்டம்' is only the district: write the town / village / area the article names (people share news of their own area)
+  caption misses facts of the article (put every one in 📰 முழு விவரம்): 11 ('சேலம் மாவட்டத்தில் நாளை (25-11-2026) மின்தடை: அதனூர்பட்டி, வ')
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+ok gemini/gemini-3-flash-preview (13s)
+attempt 4 gemini/gemini-3-flash-preview: 3 problems
+  numbers not found in the article: 12
+  slides_spec.loc 'சேலம் மாவட்டம்' is only the district: write the town / village / area the article names (people share news of their own area)
+  caption misses facts of the article (put every one in 📰 முழு விவரம்): 11 ('சேலம் மாவட்டத்தில் 24-11-2026 மின்தடை: திம்மநாயக்கன்பட்டி, ச')
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
+fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 429: {
+  "error": {
+    "code": 429,
+    "message": "You exceeded your current quota, plea
+ok gemini/gemini-3-flash-preview (13s)
+attempt 4 gemini/gemini-3-flash-preview: 4 problems
+  sentence 1 (one-line story) has 13 words; make it 6-9 words (about 2-3 seconds), the details follow in the next sentences
+  numbers not found in the article: 7
+  not grounded: only 47% of the words come from the article (e.g. மற்றும், நேரம், செய்யப்பட, உள்ளது, இருக்காது); use the article's own words and facts
+  caption misses facts of the article (put every one in 📰 முழு விவரம்): 11 ('சேலம் மாவட்டத்தில் நாளை (25-11-2026) மின்தடை: அதனூர்பட்டி, வ')
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
+fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 429: {
+  "error": {
+    "code": 429,
+    "message": "You exceeded your current quota, plea
+ok gemini/gemini-3-flash-preview (13s)
+attempt 5 gemini/gemini-3-flash-preview: 1 problems
+  hl1 (the first headline on screen) must name the place 'திம்மநாயக்கன்பட்டி', e.g. 'திம்மநாயக்கன்பட்டி: ...' or 'திம்மநாயக்கன்பட்டி-இல் ...' - viewers share news of their own area
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
+ok gemini/gemini-3-flash-preview (10s)
+attempt 6 gemini/gemini-3-flash-preview: 1 problems
+  caption misses facts of the article (put every one in 📰 முழு விவரம்): 11 ('சேலம் மாவட்டத்தில் 24-11-2026 மின்தடை: திம்மநாயக்கன்பட்டி, ச')
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
+ok gemini/gemini-3-flash-preview (19s)
+attempt 5 gemini/gemini-3-flash-preview: 1 problems
+  numbers not found in the article: 7
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
+ok gemini/gemini-3-flash-preview (17s)
+attempt 7 gemini/gemini-3-flash-preview: 2 problems
+  slides_spec.loc 'சேலம் மாவட்டம்' is only the district: write the town / village / area the article names (people share news of their own area)
+  caption misses facts of the article (put every one in 📰 முழு விவரம்): 11 ('சேலம் மாவட்டத்தில் 24-11-2026 மின்தடை: திம்மநாயக்கன்பட்டி, ச')
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
+ok gemini/gemini-3-flash-preview (10s)
+attempt 6 gemini/gemini-3-flash-preview: 3 problems
+  numbers not found in the article: 7
+  slides_spec.loc 'சேலம் மாவட்டம்' is only the district: write the town / village / area the article names (people share news of their own area)
+  caption misses facts of the article (put every one in 📰 முழு விவரம்): 11 ('சேலம் மாவட்டத்தில் நாளை (25-11-2026) மின்தடை: அதனூர்பட்டி, வ')
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
+ok gemini/gemini-3-flash-preview (10s)
+attempt 8 gemini/gemini-3-flash-preview: 2 problems
+  hl1 (the first headline on screen) must name the place 'திம்மநாயக்கன்பட்டி', e.g. 'திம்மநாயக்கன்பட்டி: ...' or 'திம்மநாயக்கன்பட்டி-இல் ...' - viewers share news of their own area
+  caption misses facts of the article (put every one in 📰 முழு விவரம்): 11 ('சேலம் மாவட்டத்தில் 24-11-2026 மின்தடை: திம்மநாயக்கன்பட்டி, ச')
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
+fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 429: {
+  "error": {
+    "code": 429,
+    "message": "You exceeded your current quota, plea
+ok gemini/gemini-3-flash-preview (15s)
+attempt 7 gemini/gemini-3-flash-preview: 2 problems
+  numbers not found in the article: 7
+  caption misses facts of the article (put every one in 📰 முழு விவரம்): 11 ('சேலம் மாவட்டத்தில் நாளை (25-11-2026) மின்தடை: அதனூர்பட்டி, வ')
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
+ok gemini/gemini-3-flash-preview (13s)
+attempt 8 gemini/gemini-3-flash-preview: 2 problems
+  numbers not found in the article: 7
+  slides_spec.loc 'சேலம் மாவட்டம்' is only the district: write the town / village / area the article names (people share news of their own area)
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
+ok gemini/gemini-3-flash-preview (11s)
+attempt 9 gemini/gemini-3-flash-preview: 1 problems
+  caption misses facts of the article (put every one in 📰 முழு விவரம்): 11 ('சேலம் மாவட்டத்தில் 24-11-2026 மின்தடை: திம்மநாயக்கன்பட்டி, ச')
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
+ok gemini/gemini-3-flash-preview (11s)
+attempt 9 gemini/gemini-3-flash-preview: 3 problems
+  numbers not found in the article: 7
+  reel_script sentence 1 (heard in the first 3 seconds) must name the place 'அதனூர்பட்டி' and the news itself, e.g. 'அதனூர்பட்டி-இல் ... 3 பேர் கைது.' - viewers decide in 3 seconds whether the news is about their area
+  caption misses facts of the article (put every one in 📰 முழு விவரம்): 11 ('சேலம் மாவட்டத்தில் நாளை (25-11-2026) மின்தடை: அதனூர்பட்டி, வ')
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
+ok gemini/gemini-3-flash-preview (15s)
+attempt 10 gemini/gemini-3-flash-preview: 2 problems
+  numbers not found in the article: 7
+  caption misses facts of the article (put every one in 📰 முழு விவரம்): 11 ('சேலம் மாவட்டத்தில் நாளை (25-11-2026) மின்தடை: அதனூர்பட்டி, வ')
+ok anthropic/claude-haiku-5-5
+claude rewrite 1 anthropic/claude-haiku-5-5: 3 problems
+  sentence 1 (one-line story) has 13 words; make it 6-9 words (about 2-3 seconds), the details follow in the next sentences
+  slides_spec.loc 'சேலம் மாவட்டம்' is only the district: write the town / village / area the article names (people share news of their own area)
+  caption misses facts of the article (put every one in 📰 முழு விவரம்): 11 ('சேலம் மாவட்டத்தில் நாளை (25-11-2026) மின்தடை: அதனூர்பட்டி, வ')
+ok anthropic/claude-haiku-5-5
+claude rewrite 2 anthropic/claude-haiku-5-5: 2 problems
+  reel_script sentence 1 (heard in the first 3 seconds) must name the place 'அதனூர்பட்டி' and the news itself, e.g. 'அதனூர்பட்டி-இல் ... 3 பேர் கைது.' - viewers decide in 3 seconds whether the news is about their area
+  caption misses facts of the article (put every one in 📰 முழு விவரம்): 11 ('சேலம் மாவட்டத்தில் நாளை (25-11-2026) மின்தடை: அதனூர்பட்டி, வ')
+fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 503: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing 
+ok anthropic/claude-haiku-5-5
+claude rewrite 3 anthropic/claude-haiku-5-5: 1 problems
+  caption misses facts of the article (put every one in 📰 முழு விவரம்): 11 ('சேலம் மாவட்டத்தில் நாளை (25-11-2026) மின்தடை: அதனூர்பட்டி, வ')
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
+ok gemini/gemini-3-flash-preview (16s)
+proofread rejected (2 problems)
+  caption needs 5 hashtags (Instagram max), has 6
+  caption misses facts of the article (put every one in 📰 முழு விவரம்): 11 ('சேலம் மாவட்டத்தில் நாளை (25-11-2026) மின்தடை: அதனூர்பட்டி, வ')
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
+ok gemini/gemini-3-flash-preview (7s)
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+real photo: vision check unavailable: 503 Server Error: Service Unavailable for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-3.5-flash:
+fail gemini/gemini-3-flash-preview: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=60)
+poor answer - skipped for 30 min: gemini/gemini-3-flash-preview
+fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 400: {"error":{"message":"Failed to validate JSON. Please adjust your prompt. See 'failed_gener
+ok groq/qwen/qwen3.8-27b (4s)
+attempt 10 groq/qwen/qwen3.8-27b: 3 problems
+  missing key: reel_script
+  missing key: caption
+  missing key: scenes
+ok anthropic/claude-haiku-5-5
+claude rewrite 1 anthropic/claude-haiku-5-5: 2 problems
+  slides_spec.loc 'சேலம் மாவட்டம்' is only the district: write the town / village / area the article names (people share news of their own area)
+  caption misses facts of the article (put every one in 📰 முழு விவரம்): 11 ('சேலம் மாவட்டத்தில் 24-11-2026 மின்தடை: திம்மநாயக்கன்பட்டி, ச')
+ok anthropic/claude-haiku-5-5
+claude rewrite 2 anthropic/claude-haiku-5-5: 4 problems
+  reel_script talks about the article instead of the news (கட்டுரை) - if the article has no real news, return an empty reel_script
+  hl1 (the first headline on screen) must name the place 'திம்மநாயக்கன்பட்டி', e.g. 'திம்மநாயக்கன்பட்டி: ...' or 'திம்மநாயக்கன்பட்டி-இல் ...' - viewers share news of their own area
+  caption misses facts of the article (put every one in 📰 முழு விவரம்): 11 ('சேலம் மாவட்டத்தில் 24-11-2026 மின்தடை: திம்மநாயக்கன்பட்டி, ச')
+  known issue meta_article: script talks about the article instead of the news ('கட்டுரை') - rewrite so it does not happen again
+ok anthropic/claude-haiku-5-5
+claude rewrite 3 anthropic/claude-haiku-5-5: 3 problems
+  reel_script talks about the article instead of the news (குறிப்பிடப்படவில்லை) - if the article has no real news, return an empty reel_script
+  caption misses facts of the article (put every one in 📰 முழு விவரம்): 11 ('சேலம் மாவட்டத்தில் 24-11-2026 மின்தடை: திம்மநாயக்கன்பட்டி, ச')
+  known issue meta_article: script talks about the article instead of the news ('குறிப்பிடப்படவில்லை') - rewrite so it does not happen again
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
+fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {"error":{"message":"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m
+ok groq/qwen/qwen3.8-27b (3s)
+proofread by groq/qwen/qwen3.8-27b: 1 problems
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
+fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {"error":{"message":"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m
+fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {"error":{"message":"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m
+switching away from groq/qwen/qwen3.8-27b for 10 min
+ok groq/openai/gpt-oss-120b (2s)
+real photo: vision check unavailable: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=40)
+real photo not this news (The image is a graphic illustration representing a power cut, not a real photogr): https://static.langimg.com/tml/thumb/136116776/samayam-tamil.jpg?imgsize=213923&
+image match check unavailable: gemini-3.5-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout
+image match: True The photo features electrical infrastructure, insulators, and power lines, which appropriately illustrates a news story 
+images made: 2 for 'Power cut in Salem district tomorrow (25'
+bridge: 200 {"ok":true,"added":1,"auto_queued":1,"emailed":0,"reoffered":0,"batch":"B20261124-1544","first":"RN-278"}
+posting job started at once
+real photo: vision check unavailable: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-3.6-flash:ge
+real photo not this news (The photo is a generic stock image of electric transmission towers combined with): https://static.langimg.com/tml/thumb/136116571/power-outage-in-tamilnadu-on-nove
+real photo not downloaded: 400 Client Error: Bad Request for url: https://static.langimg.com/tml/thumb/1361
+real photo not this news (This is a generic stock photograph of power transmission towers at sunset, not s): https://static.langimg.com/tml/thumb/136116590/samayam-tamil.jpg?imgsize=51532&w
+real photo not this news (The image is a generic stock photo of power transmission towers during sunset, n): https://static.langimg.com/tml/thumb/136116589/samayam-tamil.jpg?imgsize=59464&w
+real photo: vision check out of free quota
+image match: True The photo shows workers conducting maintenance on an electrical power pole with a ladder and safety equipment, which vis
+image match check unavailable: gemini-3.5-flash: 503 Server Error: Service Unavailable for url: https://generativelanguage.googleapis.com/v1beta/models
+images made: 2 for 'Power shutdown in Thimmanayakkanpatti an'
+bridge: 200 {"ok":true,"added":1,"auto_queued":1,"emailed":0,"reoffered":0,"batch":"B20261124-1547","first":"RN-279"}
+earlier stories still waiting for images: []
+instagram check: 50 recent posts read from the page
+pick round: only the picked links are written (research_free/pick.py)
+manual link added: https://tamil.samayam.com/tamil-nadu/news/power-outage-in-tamilnadu-on-november-25-2026-due-to-maintenance-work/articleshow/136116766.cms#district-section
+manual link added: https://tamil.samayam.com/tamil-nadu/news/power-outage-in-tamilnadu-on-november-24-2026-due-to-maintenance-work/articleshow/136116571.cms#district-section
+candidate filter: collected=2
+to write: 2 Salem district candidates (max 2 stories)
+round: top 2 of 2 candidates
+candidates waiting: 2 Salem; time left 39 min
+try (N) manual=True: https://tamil.samayam.com/tamil-nadu/news/power-outage-in-ta
+try (N) manual=True: https://tamil.samayam.com/tamil-nadu/news/power-outage-in-ta
+auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 2})
+posting job started at once
+auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 4})
+candidate loop ended: left 0, tried={'N': 2}, done={'N': 2}, time left 27 min
+filed: 2 Salem district stories (target 2), reels only
+queue: 0 news waiting to be written
+All News sheet: {"ok":true,"added":2,"updated":0} 
+stories: 2
