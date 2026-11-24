@@ -83,6 +83,26 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 <!-- recent-changes:start (updated automatically by .github/workflows/context.yml - do not edit by hand) -->
 | Date | Commit | Change |
 |---|---|---|
+| 2026-11-24 | `179ae1d` | Facebook posts every news like Instagram: daily news limit 15 -> 30 (Meta's own API reel limit per page in 24 h) |
+| 2026-11-24 | `8fa0e36` | stories shared / Instagram pause |
+| 2026-11-24 | `9d4c4d2` | stories shared / Instagram pause |
+| 2026-11-24 | `783f76d` | stories shared / Instagram pause |
+| 2026-11-24 | `aae284c` | stories shared / Instagram pause |
+| 2026-11-24 | `bc3fd65` | stories shared / Instagram pause |
+| 2026-11-24 | `a209824` | stories shared / Instagram pause |
+| 2026-11-24 | `4666dd3` | stories shared / Instagram pause |
+| 2026-11-24 | `d09ce04` | stories shared / Instagram pause |
+| 2026-11-24 | `903816e` | stories shared / Instagram pause |
+| 2026-11-24 | `19ac2a9` | pick: written and posted |
+| 2026-11-24 | `e940113` | pick: picked news saved |
+| 2026-11-24 | `b08d2b5` | pick: picked news saved |
+| 2026-11-24 | `e8a1b27` | pick: list sent |
+| 2026-11-24 | `d4b7599` | stories shared / Instagram pause |
+| 2026-11-24 | `e30ace9` | stories shared / Instagram pause |
+| 2026-11-24 | `cfced78` | pick: written and posted |
+| 2026-11-24 | `f1a6f37` | stories shared / Instagram pause |
+| 2026-11-24 | `26f1eb8` | facebook RN-277 |
+| 2026-11-24 | `41923f3` | posted RN-277 |
 | 2026-11-24 | `3948541` | Google News links: when Google refuses the decoder (429), the same headline on Bing (same newspaper) gives the article link - news is no longer dropped |
 | 2026-11-24 | `042b21f` | stories shared / Instagram pause |
 | 2026-11-24 | `8df6ec0` | pick: picked news saved |
@@ -93,24 +113,4 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 | 2026-11-24 | `9afe38b` | stories shared / Instagram pause |
 | 2026-11-24 | `766644c` | facebook RN-247 |
 | 2026-11-24 | `c01dafb` | posted RN-247 |
-| 2026-11-24 | `6c733ce` | Auto-fix: busy AI writers do not use up a news's tries; each page runs at its own minutes; try counts reset |
-| 2026-11-24 | `fd54e4e` | stories shared / Instagram pause |
-| 2026-11-24 | `519cd91` | Fixes: Facebook 24-hour-limit news wait or are e-mailed (never silently skipped); slow sheet reads get more time; YouTube stops for the whole day after its quota; YouTube tests use today's date |
-| 2026-11-24 | `563e557` | autofix: corrected held news |
-| 2026-11-24 | `adcea19` | stories shared / Instagram pause |
-| 2026-11-24 | `4ba63b3` | stories shared / Instagram pause |
-| 2026-11-24 | `ac47dd0` | stories shared / Instagram pause |
-| 2026-11-24 | `2248042` | stories shared / Instagram pause |
-| 2026-11-24 | `953a516` | stories shared / Instagram pause |
-| 2026-11-24 | `a08535c` | stories shared / Instagram pause |
-| 2026-11-24 | `c79e5f3` | stories shared / Instagram pause |
-| 2026-11-24 | `92f016c` | Auto-fix held news (rewrite from the article, check again, post); Cloudinary fallbacks: pictures kept in the repo, reels direct then repo link; rasipalan and gold the same |
-| 2026-11-24 | `b18bacb` | stories shared / Instagram pause |
-| 2026-11-24 | `2075cc6` | stories shared / Instagram pause |
-| 2026-11-24 | `576a689` | stories shared / Instagram pause |
-| 2026-11-24 | `dace957` | pick: written and posted |
-| 2026-11-24 | `8cfa94b` | goldrate posted |
-| 2026-11-24 | `42999f7` | pick: picked news saved |
-| 2026-11-24 | `382a60c` | pick: list sent |
-| 2026-11-24 | `b26a5ea` | stories shared / Instagram pause |
 <!-- recent-changes:end -->
