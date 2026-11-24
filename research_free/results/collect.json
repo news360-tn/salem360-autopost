@@ -3,104 +3,362 @@
   "earlier stories still waiting for images: []",
   "instagram check: 50 recent posts read from the page",
   "pick round: only the picked links are written (research_free/pick.py)",
-  "manual link added: https://www.vikatan.com/food/thattu-vadai-set-the-secret-behind-salems-evening-snack-taste",
-  "candidate filter: collected=1",
-  "to write: 1 Salem district candidates (max 1 stories)",
-  "round: top 1 of 1 candidates",
-  "candidates waiting: 1 Salem; time left 79 min",
-  "try (N) manual=True: https://www.vikatan.com/food/thattu-vadai-set-the-secret-beh",
-  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 2})",
+  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-salem/labourer-jumps-to-death-from-hospital/4385358",
+  "manual link added: https://www.dinamani.com/all-editions/edition-dharmapuri/salem/2026/Nov/24/தம்மம்பட்டியில்-பலத்த-மழை",
+  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-salem/elephant-trespasses-into-farm-damages-banana-sugarcane/4385467",
+  "manual link added: https://www.dinamani.com/all-editions/edition-dharmapuri/salem/2026/Nov/24/புத்தக-வாசிப்பை-ஊக்குவிக்கும்-வகையில்-பள்ளிகளில்-7-வகையான-போட்டிகள்-முதன்மைக்-கல்வி-அலுவலா்",
+  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-salem/funding-to-prevent-drug-use-in-schools-committee-to-monitor/4385129",
+  "candidate filter: collected=5",
+  "to write: 5 Salem district candidates (max 5 stories)",
+  "round: top 5 of 5 candidates",
+  "candidates waiting: 5 Salem; time left 79 min",
+  "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-sale",
+  "try (N) manual=True: https://www.dinamani.com/all-editions/edition-dharmapuri/sal",
+  "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-sale",
+  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 3})",
   "posting job started at once",
-  "candidate loop ended: left 0, tried={'N': 1}, done={'N': 1}, time left 77 min",
-  "filed: 1 Salem district stories (target 1), reels only",
+  "try (N) manual=True: https://www.dinamani.com/all-editions/edition-dharmapuri/sal",
+  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 7})",
+  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 10})",
+  "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-sale",
+  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 12})",
+  "NOT filed (N) மருத்துவமனையில் இருந்து குதித்து தொழிலாளி பலி: all free models failed: no usable answer from the models",
+  "candidate loop ended: left 0, tried={'N': 5}, done={'N': 4}, time left 74 min",
+  "filed: 4 Salem district stories (target 5), reels only",
   "queue: 0 news waiting to be written",
-  "All News sheet: {\"ok\":true,\"added\":1,\"updated\":0}"
+  "All News sheet: {\"ok\":true,\"added\":5,\"updated\":0}"
  ],
  "llm": [
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok gemini/gemini-3.6-flash (20s)",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "fail gemini/gemini-3.6-flash: Expecting ',' delimiter: line 1 column 1226 (char 1225)",
-  "poor answer - skipped for 30 min: gemini/gemini-3.6-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
+  "dead for this round: gemini/gemini-3.6-flash",
   "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
   "dead for this round: gemini/gemini-3.5-flash",
-  "ok gemini/gemini-3-flash-preview (12s)",
+  "ok gemini/gemini-3.6-flash (16s)",
+  "ok gemini/gemini-3-flash-preview (14s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok gemini/gemini-3-flash-preview (14s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, plea",
   "dead for this round: gemini/gemini-3-flash-preview",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 400: {\"error\":{\"message\":\"Failed to validate JSON. Please adjust your prompt. See 'failed_gener",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 413: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
+  "ok gemini/gemini-3-flash-preview (16s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok groq/openai/gpt-oss-120b (7s)",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 400: {\"error\":{\"message\":\"Failed to validate JSON. Please adjust your prompt. See 'failed_gener",
+  "ok gemini/gemini-3.6-flash (38s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
-  "ok groq/openai/gpt-oss-120b (3s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash"
+  "ok groq/qwen/qwen3.8-27b (4s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
+  "switching away from groq/openai/gpt-oss-120b for 10 min",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
+  "switching away from groq/openai/gpt-oss-120b for 10 min",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 413: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
+  "switching away from groq/qwen/qwen3.8-27b for 10 min",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
+  "switching away from groq/qwen/qwen3.8-27b for 10 min",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b"
  ],
  "stories": [
   {
-   "tamil_headline": "சேலம் தட்டுவடை செட்: 30 ஆண்டுகளாக மூன்று தலைமுறைகள் நடத்தும் தள்ளுவண்டி சுவை",
-   "english_headline": "Salem's thattuvadai set: a 1996 hand-cart business run by three generations, now at Pattaikoil",
-   "category": "Business & Prices",
-   "location": "Pattaikoil, Second Agraharam, Salem city, Salem district",
-   "importance": "Low",
-   "scope": "local",
+   "tamil_headline": "பள்ளிகளில் புத்தக வாசிப்பு போட்டிகள்: 7 வகை, நவ. 28 முதல்",
+   "english_headline": "Salem schools to hold 7 reading competitions for classes 6-12 ahead of Book Festival",
+   "category": "Education",
+   "location": "Salem city, Salem district",
+   "importance": "High",
+   "scope": "district",
    "post_to": "Salem 360",
    "slides_spec": {
     "v": 3,
-    "cat": "உள்ளூர் தொழில்",
-    "loc": "பட்டைக்கோயில், சேலம்",
-    "hl1": "பட்டைக்கோயிலில் 30 ஆண்டு தட்டுவடை சுவை",
-    "hl2": "தள்ளுவண்டியில் தொடங்கிய",
+    "cat": "கல்வி",
+    "loc": "சேலம் மாவட்டம்",
+    "hl1": "பள்ளிகளில் 7 வகை வாசிப்புப் போட்டிகள்",
+    "hl2": "நவ. 28 முதல் டிச. 3 வரை",
     "slides": [
      {
-      "title": "எப்படித்",
+      "title": "எந்த மாணவர்கள்?",
       "lines": [
-       "1996ஆம் ஆண்டு வெங்கடலட்சுமி தள்ளுவண்டியில் தொடங்கினார்",
-       "தள்ளுவண்டி ரூ.4,500, ஆரம்ப முதலீடு ரூ.500",
-       "ஆரம்பத்தில் ஏழு துண்டுகள் கொண்ட செட் ரூ.5"
+       "6 முதல் 12ஆம் வகுப்பு வரை படிக்கும் மாணவர்கள்",
+       "அரசுப் பள்ளி, மெட்ரிக், சிபிஎஸ்இ பள்ளிகளில் நடத்தப்படும்",
+       "புத்தக வாசிப்பை ஊக்குவிக்க <b>7 வகை</b> போட்டிகள்"
       ]
      },
      {
-      "title": "இன்றைய கடை",
+      "title": "போட்டி நாட்கள்",
       "lines": [
-       "'சக்தி தட்டுவடை செட் கார்னர்' பட்டைக்கோயிலில் உள்ளது",
-       "லோகேஷும் ஹரிஹரனும் இணைந்து நடத்துகின்றனர்",
-       "விலை ரூ.10-ல் தொடங்குகிறது"
+       "பள்ளி அளவில் போட்டி: <b>நவ. 28</b>",
+       "வட்டார அளவில் போட்டி: <b>டிச. 1</b>",
+       "மாவட்ட அளவில் போட்டி: <b>டிச. 3</b>"
       ]
      },
      {
-      "title": "வகைகளும் நேரமும்",
+      "title": "போட்டி வகைகள்",
       "lines": [
-       "பூண்டு, ஆனியன், பொடி, தக்காளி, காம்போ செட்",
-       "மதியம் 12 முதல் இரவு 11 மணி வரை திறந்திருக்கும்",
-       "தினமும் 150 முதல் 200 வாடிக்கையாளர்கள்"
+       "6 முதல் 8ஆம் வகுப்பு: 3 வகை போட்டிகள்",
+       "9 முதல் 10ஆம் வகுப்பு: தலா 2 போட்டிகள்",
+       "11 முதல் 12ஆம் வகுப்பு: தலா 2 போட்டிகள்"
+      ]
+     },
+     {
+      "title": "பரிசு விவரம்",
+      "lines": [
+       "சிறப்பிடம் பெறும் மாணவர்களுக்கு பரிசு",
+       "சேலம் புத்தகத் திருவிழாவில் பரிசு வழங்கப்படும்",
+       "திருவிழா <b>நவ. 27 முதல் டிச. 7</b> வரை நடைபெறும்"
       ]
      }
     ],
     "carousel": false
    },
-   "reel_script": "பட்டைக்கோயிலில் 30 ஆண்டுகளாக ஒரு தட்டுவடை செட் கடை மூன்று தலைமுறைகளாக நடந்து வருகிறது. 1996ஆம் ஆண்டு வெங்கடலட்சுமி ரூ.5,000 முதலீட்டில் தள்ளுவண்டியில் இந்தத் தொழிலைத் தொடங்கினார். தள்ளுவண்டி வாங்க ரூ.4,500 செலவானது. ஆரம்பத்தில் ஏழு துண்டுகள் கொண்ட ஒரு செட் ரூ.5க்கு விற்கப்பட்டது. வெங்கடலட்சுமிக்கு அவரது மகன் ராமகிருஷ்ணன் துணையாக இருந்தார். இன்றும் ராமகிருஷ்ணன் அதே பட்டைக்கோயில் பகுதியில் தள்ளுவண்டியில் விற்பனை செய்கிறார். தற்போது 'சக்தி தட்டுவடை செட் கார்னர்' என்ற பெயரில் லோகேஷும் அவரது சகோதரர் ஹரிஹரனும் கடையை நடத்துகின்றனர். பூண்டு, ஆனியன், தக்காளி, காம்போ உள்ளிட்ட பல வகை செட்கள் கிடைக்கின்றன. விலை பத்து ரூபாயில் தொடங்குகிறது. கடை மதியம் 12 மணி முதல் இரவு 11 மணி வரை திறந்திருக்கும். தினமும் 150 முதல் 200 வாடிக்கையாளர்கள் வருகின்றனர். தினமும் ரூ.4,000 முதல் ரூ.5,000 வரை விற்பனை நடைபெறுகிறது. மேலும் செய்திகளுக்கு சேலம் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🥘 பட்டைக்கோயிலில் 30 ஆண்டு பழைய தட்டுவடை செட் சுவை\n\n📰 முழு விவரம்:\n1996ஆம் ஆண்டு வெங்கடலட்சுமி தள்ளுவண்டியில் தட்டுவடை செட் விற்பனையைத் தொடங்கினார். அவருக்கு மகன் ராமகிருஷ்ணன் துணையாக இருந்தார். தள்ளுவண்டி வாங்க ரூ.4,500, ஆரம்ப முதலீடு ரூ.500 ஆக மொத்தம் ரூ.5,000 செலவானது. ஆரம்பத்தில் ஏழு துண்டுகள் கொண்ட செட் ரூ.5க்கு விற்கப்பட்டது. இன்று ராமகிருஷ்ணன் அதே பட்டைக்கோயில் பகுதியில் தள்ளுவண்டியில் விற்பனை செய்கிறார். தற்போது 'சக்தி தட்டுவடை செட் கார்னர்' கடையை லோகேஷும் ஹரிஹரனும் நடத்துகின்றனர்.\n📍 இடம்: பட்டைக்கோயில், இரண்டாவது அக்ரஹாரம், சேலம்\n🕘 நேரம்: மதியம் 12 மணி முதல் இரவு 11 மணி வரை\n💰 விலை: ரூ.10இல் தொடங்குகிறது\n🍽️ வகைகள்: பூண்டு, ஆனியன், பொடி, தக்காளி, வெள்ளரிக்காய், ஊறுகாய், காம்போ செட்; பன் ரோஸ்ட், மசாலா சுண்டலும் கிடைக்கும்\n👥 தினமும் 150 முதல் 200 வாடிக்கையாளர்கள்; தினசரி விற்பனை ரூ.4,000 முதல் ரூ.5,000 வரை\nதேவைப்படுவோருக்கு Share செய்யுங்கள்.\n\nSalem Pattaikoil thattuvadai set, 30 years old | Salem news\n📍 பட்டைக்கோயில், சேலம் | 24 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Salem360 #Salem #SalemNews #சேலம்",
-   "prompts": "A vendor from the three‑generation family sells steaming tallu vadai sets from a wooden hand‑cart, arranging plates of the fried snack topped with bright red chutney, chopped onion, carrot, beetroot, coriander leaves and a squeeze of lemon, while a small adjoining shop displays additional varieties. PLACE: The scene is set on a bustling street corner in Pattaikoil, Second Agraharam, Salem – narrow road flanked by low‑rise houses and a modest shop façade typical of the neighbourhood. PEOPLE: Three men – an older man (Ramakrishnan) standing behind the cart, a younger man (Lokesh) handing plates to customers, and a third (Hariraman) arranging snacks inside the shop – all in simple shirts and veshti, viewed from behind or side. VEHICLES/OBJECTS: The wooden hand‑cart with a metal canopy, a metal table with assorted tallu vadai plates, bowls of chutney and chopped vegetables, and the shop counter with snack trays. TIME+LIGHT+WEATHER: Late afternoon, warm daylight fading into evening, clear sky. CAMERA: Eye‑level, 35 mm lens, wide enough to capture the cart, shop front and street activity. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close‑up of a single tallu vadai set on a shallow metal plate: the golden‑brown vadai sits beside a dollop of fiery red chutney, a mound of finely chopped onion, bright orange carrot strips, deep‑red beetroot cubes, fresh green coriander and a drizzle of lemon juice, all sprinkled with chat masala. PLACE: The plate rests on the cart’s countertop at the Pattaikoil corner, with the shop’s wooden railing blurred in the background, hinting at the street‑side location. PEOPLE: Only the hands of the vendor are hinted at, out of focus, as the food is arranged. VEHICLES/OBJECTS: The hand‑cart surface, metal plate, small bowls of chutney and chopped vegetables, and a wooden serving spoon. TIME+LIGHT+WEATHER: Soft evening light creates gentle shadows, highlighting the vivid colours of the food. CAMERA: Slightly high angle, 35 mm lens, tight framing to capture the colourful ingredients and textures clearly. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.vikatan.com/food/thattu-vadai-set-the-secret-behind-salems-evening-snack-taste",
-   "published": "2026-11-24T06:57:56Z",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: caption misses facts of the article (put every one in 📰 முழு விவரம்): 6 ('கடையின் அன்றாடப் பணிகள் குறித்துக் கூறும் லோகேஷ், மதியம் 12 ')",
+   "reel_script": "சேலம் மாவட்டப் பள்ளிகளில் 7 வகை வாசிப்புப் போட்டிகள் நடத்தப்பட உள்ளன. 6 முதல் 12ஆம் வகுப்பு வரை படிக்கும் மாணவர்கள் இந்தப் போட்டிகளில் பங்கேற்கலாம். அரசுப் பள்ளிகள், மெட்ரிக், சிபிஎஸ்இ மற்றும் பிற வாரியப் பள்ளிகளில் போட்டிகள் நடைபெறும். புத்தக வாசிப்புப் பழக்கத்தை ஊக்குவிப்பது, சிந்தனைத் திறன், பேச்சாற்றல், படைப்பாற்றலை வளர்ப்பது ஆகியவை இதன் நோக்கம். 6 முதல் 8ஆம் வகுப்பு வரை 3 வகை போட்டிகளும், 9 முதல் 10 மற்றும் 11 முதல் 12ஆம் வகுப்பு வரை தலா 2 போட்டிகளும் நடத்தப்படும். பள்ளி அளவிலான போட்டி நவம்பர் 28ஆம் தேதி நடைபெறும். வட்டார அளவிலான போட்டி டிசம்பர் 1ஆம் தேதி நடைபெறும். மாவட்ட அளவிலான போட்டி டிசம்பர் 3ஆம் தேதி நடைபெறும். சிறப்பிடம் பெறும் மாணவர்களுக்கு புத்தகத் திருவிழாவில் பரிசு வழங்கப்படும். இந்தத் திருவிழா நவம்பர் 27 முதல் டிசம்பர் 7ஆம் தேதி வரை சேலம் புதிய பேருந்து நிலையம் அருகே நடைபெறும். போட்டிகள் பற்றிய திட்டத்தை மாவட்ட முதன்மைக் கல்வி அலுவலர் ஆ எல்லப்பன் தலைமையில் நடைபெற்ற இணையவழிக் கூட்டத்தில் தலைமை ஆசிரியர்கள், வட்டாரக் கல்வி அலுவலர்கள் சுமார் 700 பேர் பங்கேற்று அறிந்தனர். மேலும் செய்திகளுக்கு சேலம் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "📚 சேலம் பள்ளிகளில் 7 வகை வாசிப்புப் போட்டிகள் | நவ. 28 முதல்\n\n📰 முழு விவரம்:\nபுத்தக வாசிப்பை ஊக்குவிக்க சேலம் மாவட்டப் பள்ளிகளில் 6 முதல் 12ஆம் வகுப்பு வரை படிக்கும் மாணவ, மாணவிகளுக்கு 7 வகை போட்டிகள் நடத்தத் திட்டமிடப்பட்டுள்ளது.\nஅரசுப் பள்ளிகள், மெட்ரிக், சிபிஎஸ்இ மற்றும் பிற வாரியப் பள்ளிகள் இதில் பங்கேற்கும். சிந்தனைத் திறன், பேச்சாற்றல், படைப்பாற்றலை வளர்ப்பதே நோக்கம்.\nஇதற்கான இணையவழிக் கூட்டம் மாவட்ட முதன்மைக் கல்வி அலுவலர் ஆ. எல்லப்பன் தலைமையில் செவ்வாய்க்கிழமை நடைபெற்றது. சுமார் 700 பேர் பங்கேற்றனர்.\n6-8ஆம் வகுப்புகளுக்கு 3 வகை போட்டிகளும், 9-10 மற்றும் 11-12ஆம் வகுப்புகளுக்கு தலா 2 போட்டிகளும் நடத்தப்படும்.\n📅 பள்ளி அளவில்: நவ. 28\n📅 வட்டார அளவில்: டிச. 1 (பள்ளி முதலிடம் பெற்றவர்கள்)\n📅 மாவட்ட அளவில்: டிச. 3 (வட்டார முதலிடம் பெற்றவர்கள்)\n🎁 சிறப்பிடம் பெறும் மாணவர்களுக்கு புத்தகத் திருவிழாவில் பரிசு வழங்கப்படும்.\n📍 புத்தகத் திருவிழா: நவ. 27 முதல் டிச. 7 வரை, சேலம் புதிய பேருந்து நிலையம் அருகே\n\nSalem school reading competitions 7 types | Salem news\n📍 சேலம் மாவட்டம் | 25 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Salem360 #Salem #SalemNews #சேலம்",
+   "prompts": "A row of headmasters and block education officers sits in a government meeting hall in Salem city, seen from behind and slightly blurred, attending an online review meeting on a large projector screen at the front. Men in shirts and trousers and women in sarees sit at long tables with laptops, notebooks and water bottles in front of them. The hall has white walls, ceiling fans, tube lights and tall windows letting in daylight, with the Shevaroy hills faintly visible through the glass in the far background. The screen shows only a plain blue slide with no readable text. A stack of books sits on the table at the front as a nod to the reading theme. Midday daylight mixed with indoor light, a crowd of about 700 implied by rows of seated people, shot at eye level with a 35 mm lens wide enough to show the whole hall and its seated participants. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up of a wooden table in a school classroom in Salem city with a neatly stacked pile of storybooks, a few open notebooks and a pencil box placed beside a school bag, as if prepared for a reading competition. Behind the table, out of focus, a row of wooden benches and a green chalkboard, with two students in Tamil Nadu school uniform seen from behind, slightly blurred. Soft daylight from a window falls across the books and the warm wooden surface. The books have plain covers with no readable titles or logos. Shot at a slightly high angle with a 35 mm lens to focus on the books while keeping the classroom visible behind. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamani.com/all-editions/edition-dharmapuri/salem/2026/Nov/24/புத்தக-வாசிப்பை-ஊக்குவிக்கும்-வகையில்-பள்ளிகளில்-7-வகையான-போட்டிகள்-முதன்மைக்-கல்வி-அலுவலா்",
+   "published": "2026-11-24T20:26:16.868Z",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: slides_spec.loc 'சேலம் மாவட்டம்' is only the district: write the town / village / area the article names (people share news of their own area)",
    "note": "free-model draft anthropic/claude-haiku-5-5, 13 attempt(s), 1 validator problem(s)",
    "post_time": "right after your reply, same day",
    "_area": "N",
    "_score": 999,
    "images": [
-    "https://res.cloudinary.com/jrmwajfz/image/upload/v1795539924/salem360/ifome87ia3iujrgkp1fu.jpg",
-    "https://res.cloudinary.com/jrmwajfz/image/upload/v1795539927/salem360/seraha41lfjqhtrc7edj.jpg"
+    "https://res.cloudinary.com/jrmwajfz/image/upload/v1795553590/salem360/n5o62zj4nvrqg0yufehb.jpg",
+    "https://res.cloudinary.com/jrmwajfz/image/upload/v1795553594/salem360/zuftcsdtqipn1wy3d1bd.jpg"
+   ]
+  },
+  {
+   "tamil_headline": "பள்ளிகளில் போதை பொருள் தடுப்புக்கு ரூ.10,000 நிதி; மாவட்ட கண்காணிப்புக் குழு அமைப்பு",
+   "english_headline": "Tamil Nadu sanctions Rs 10,000 per school to curb drug use; district monitoring committee formed",
+   "category": "Education",
+   "location": "Salem district (all government and aided high and higher secondary schools)",
+   "importance": "High",
+   "scope": "district",
+   "post_to": "Salem 360",
+   "slides_spec": {
+    "v": 3,
+    "cat": "பள்ளி கல்வி",
+    "loc": "சேலம் மாவட்டம்",
+    "hl1": "பள்ளிகளில் போதை தடுப்புக்கு நிதி",
+    "hl2": "ரூ.10,000 ஒவ்வொரு",
+    "slides": [
+     {
+      "title": "எவ்வளவு நிதி?",
+      "lines": [
+       "ஒவ்வொரு பள்ளிக்கும் <b>10,000 ரூபாய்</b> நிதி",
+       "அரசு, அரசு உதவி பெறும் உயர்நிலை, மேல்நிலைப் பள்ளிகளுக்கு",
+       "மொத்தம் <b>7,208 பள்ளிகளுக்கு 7.20 கோடி ரூபாய்</b>"
+      ]
+     },
+     {
+      "title": "என்ன செய்ய",
+      "lines": [
+       "போதை பொருள் எதிர்ப்பு மன்றம் அமைக்க வேண்டும்",
+       "பேரணி, பேச்சு, கட்டுரை போட்டி நடத்த வேண்டும்",
+       "மாணவர் தன்னார்வலர் குழுக்கள் அமைக்க வேண்டும்"
+      ]
+     },
+     {
+      "title": "புகார் எண்",
+      "lines": [
+       "போதை பொருள் ஒழிப்பு உதவி எண் <b>10581</b>",
+       "பள்ளி வளாகத்தில் தெளிவாகக் காட்சிப்படுத்த வேண்டும்",
+       "ரகசியமாகப் புகார் அளிக்க Drug Free TN செயலி"
+      ]
+     },
+     {
+      "title": "கண்காணிப்புக் குழு",
+      "lines": [
+       "கலெக்டர் தலைமையில் <b>14 பேர்</b> கொண்ட மாவட்டக் குழு",
+       "காலாண்டுக்கு ஒருமுறை அனைத்துப் பள்ளிகளிலும் ஆய்வு",
+       "மாதம் ஒருமுறை கூடி மாணவர் கருத்துகளைக் கேட்கும்"
+      ]
+     }
+    ],
+    "carousel": false
+   },
+   "reel_script": "பள்ளிகளில் போதை பொருள் தடுப்புக்கு ஒவ்வொரு பள்ளிக்கும் 10,000 ரூபாய் நிதி ஒதுக்கப்பட்டுள்ளது. தமிழக அரசு இதற்கான அரசாணையை வெளியிட்டுள்ளது. இது அரசு மற்றும் அரசு உதவி பெறும் உயர்நிலை, மேல்நிலைப் பள்ளிகளுக்குப் பொருந்தும். நடப்பு கல்வியாண்டில் மாநிலத்தில் உள்ள 7,208 பள்ளிகளுக்கு மொத்தம் 7.20 கோடி ரூபாய் ஒதுக்கப்பட்டுள்ளது. இந்த நிதியில் விழிப்புணர்வு நிகழ்ச்சிகளை நடத்த வேண்டும் என்று பள்ளிக் கல்வித்துறை அறிவுறுத்தியுள்ளது. போதை பொருள் எதிர்ப்பு மன்றம் மற்றும் மாணவர் தன்னார்வலர் குழுக்களை பள்ளிகள் அமைக்க வேண்டும். பேரணி, பேச்சு, கட்டுரைப் போட்டிகளும் நடத்தப்பட வேண்டும். பள்ளி வளாகங்களில் போதை பொருள் ஒழிப்பு உதவி எண் 10581 தெளிவாகத் தெரியும்படி காட்சிப்படுத்தப்பட வேண்டும். மாணவர்கள், ஆசிரியர்கள் ரகசியமாகப் புகார் அளிக்க ட்ரக் ஃப்ரீ டி என் செயலி குறித்தும் விழிப்புணர்வு ஏற்படுத்தப்பட வேண்டும். கல்வி நிறுவனங்களைச் சுற்றி புகையிலை விற்பனை இல்லாததை உறுதி செய்ய வேண்டும். மாவட்ட கலெக்டர் தலைமையில் 14 பேர் கொண்ட குழு இத்திட்டத்தைக் கண்காணிக்கும். இக்குழு காலாண்டுக்கு ஒருமுறை அனைத்துப் பள்ளிகளிலும் ஆய்வு செய்யும். மேலும் செய்திகளுக்கு சேலம் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🏫 பள்ளிகளில் போதை பொருள் தடுப்புக்கு ஒவ்வொரு பள்ளிக்கும் ரூ.10,000 நிதி\n\n📰 முழு விவரம்:\nபள்ளி மாணவர்களிடையே போதை பொருள் பயன்பாட்டைத் தடுக்கவும், விழிப்புணர்வு ஏற்படுத்தவும் அரசு மற்றும் அரசு உதவி பெறும் உயர்நிலை, மேல்நிலைப் பள்ளிகளுக்கு தலா 10 ஆயிரம் ரூபாய் நிதி ஒதுக்கி தமிழக அரசு அரசாணை வெளியிட்டுள்ளது.\nஇத்திட்டத்தைக் கண்காணிக்க மாவட்ட மற்றும் வட்டார அளவில் சிறப்புக் குழுக்கள் அமைக்கப்பட்டுள்ளன.\nதமிழக அரசின் 2026-27ஆம் ஆண்டு பட்ஜெட்டில் போதை பொருள் இல்லாத தமிழ்நாடு திட்டத்தை பள்ளிகளில் செயல்படுத்துவது அறிவிக்கப்பட்டது.\nநடப்பு கல்வியாண்டில் மாநிலத்தில் உள்ள 7,208 அரசு மற்றும் அரசு உதவி பெறும் உயர்நிலை, மேல்நிலைப் பள்ளிகளுக்கு மொத்தம் 7.20 கோடி ரூபாய் ஒதுக்கப்பட்டுள்ளது. பள்ளிக் கல்வித்துறை செயலர் இன்னசென்ட் திவ்யா அரசாணையை வெளியிட்டுள்ளார்.\nஅனைத்து அரசு, அரசு உதவி பெறும், தனியார் உயர்நிலை, மேல்நிலைப் பள்ளிகளில் போதை பொருள் எதிர்ப்பு மன்றம், மாணவர் தன்னார்வலர் குழுக்கள் அமைக்க வேண்டும். பேரணி, பேச்சு, கட்டுரைப் போட்டிகள் நடத்த வேண்டும்.\nபள்ளி வளாகங்களில் போதை பொருள் ஒழிப்பு உதவி எண் 10581 தெளிவாகத் தெரியும்படி காட்சிப்படுத்த வேண்டும். போதை பொருள் விற்பனை, கடத்தல் குறித்து ரகசியமாகப் புகார் அளிக்க ‘Drug Free TN’ செயலி குறித்து விழிப்புணர்வு ஏற்படுத்த வேண்டும்.\nகல்வி நிறுவனங்களைச் சுற்றி புகையிலை பொருட்கள் விற்பனை, பயன்பாடு இல்லாததை உறுதி செய்ய வேண்டும். போதை பழக்கத்துக்கு ஆளாகும் அபாயம் உள்ள மாணவர்களை ஆரம்ப நிலையிலேயே கண்டறிந்து ஆலோசனை வழங்க ஆசிரியர்களுக்குப் பயிற்சி அளிக்க வேண்டும்.\nமாவட்ட கலெக்டர் தலைமையில் எஸ்.பி., முதன்மைக் கல்வி அலுவலர், சுகாதாரம், சமூக நலன், குழந்தைகள் பாதுகாப்பு, மருந்துக் கட்டுப்பாட்டுத் துறை அலுவலர்கள், தன்னார்வலர்கள் அடங்கிய 14 பேர் கொண்ட மாவட்டக் குழு செயல்படும். இக்குழு சார்பில் வட்டார அளவிலான குழுக்கள் அமைக்கப்பட்டு, காலாண்டுக்கு ஒருமுறை அனைத்துப் பள்ளிகளிலும் ஆய்வு செய்ய வேண்டும்.\nமாவட்டக் குழு மாதம் ஒருமுறை கூடி மாணவர்களின் கருத்துகளைக் கேட்டு ஆலோசனை வழங்க வேண்டும். இப்பணிகளைச் சிறப்பாகச் செய்யும் பள்ளிகள் மாவட்டத்தின் சிறந்த பள்ளிகளுக்கான தேர்வில் பரிசீலிக்கப்படும்.\n\nTN sanctions Rs 10,000 per school to curb drug use | Salem news\n📍 சேலம் மாவட்டம் | 25 நவம்பர் 2026\n\nதேவைப்படுவோருக்கு Share செய்யுங்கள்\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Salem360 #Salem #SalemNews #சேலம்",
+   "prompts": "Students in Tamil Nadu school uniform march in an anti-drug awareness rally out of a government high school gate in Salem, with a teacher leading them from the front while a few volunteers walk alongside carrying blank placards. Seen from behind and from a distance, the children hold no readable signs. The school compound has a plain concrete boundary wall, a gate with a flagpole, and neem trees in the background, under bright daylight with a clear sky. Behind the gate, a few older students and a teacher stand near a wall where a rectangular anti-drug notice board is mounted, its text not legible. Shot at eye level with a 35 mm lens wide enough to show the school gate, the marching group, and the surrounding street, the Shevaroy hills faintly visible on the horizon. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up of a government school wall in Salem where a rectangular anti-drug awareness board is fixed at child-eye height, its lettering deliberately out of focus and unreadable, with a few students' shoes and the edge of a school uniform visible at the bottom of the frame. Beside it, a blank white government notice sheet is pinned to a green painted wall, and a teacher's hand rests on the edge of a wooden table holding a neatly stacked pile of printed circular papers. Soft daylight falls across the scene from one side, with peeling plaster and a small potted plant in the background. Shot at a slightly high angle with a 35 mm lens focused on the notice board and papers, the background gently blurred. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-salem/funding-to-prevent-drug-use-in-schools-committee-to-monitor/4385129",
+   "published": "2026-11-24T18:56:25+05:30",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: slides_spec.loc 'சேலம் மாவட்டம்' is only the district: write the town / village / area the article names (people share news of their own area); known issue meta_article: cards talks about the article instead of the news ('கட்டுரை') - rewrite so it does not happen again",
+   "note": "free-model draft anthropic/claude-haiku-5-5, 11 attempt(s), 2 validator problem(s)",
+   "post_time": "right after your reply, same day",
+   "_area": "N",
+   "_score": 999,
+   "images": [
+    "https://res.cloudinary.com/jrmwajfz/image/upload/v1795553644/salem360/cu9teug8qpmwnaz7oqii.jpg",
+    "https://res.cloudinary.com/jrmwajfz/image/upload/v1795553681/salem360/vgamvkxa3vafd6mrgopi.jpg"
+   ]
+  },
+  {
+   "tamil_headline": "மேட்டூர் அருகே விவசாய நிலத்தில் யானை: வாழை, கரும்பு சேதம்",
+   "english_headline": "Wild elephant enters farms near Mettur, damages banana and sugarcane crops",
+   "category": "Weather & Agriculture",
+   "location": "Dharkadu village, Karungalur panchayat, Kolathur union, Mettur, Salem district",
+   "importance": "High",
+   "scope": "",
+   "post_to": "Salem 360",
+   "slides_spec": {
+    "v": 3,
+    "cat": "வனவிலங்கு",
+    "loc": "தார்க்காடு, மேட்டூர்",
+    "hl1": "மேட்டூர் அருகே யானை அட்டகாசம்",
+    "hl2": "வாழை, கரும்பு சேதம்",
+    "slides": [
+     {
+      "title": "என்ன நடந்தது?",
+      "lines": [
+       "தார்க்காடு கிராமத்தில் காட்டு யானை புகுந்தது",
+       "இன்று (நவ. <b>24</b>) அதிகாலை வனப்பகுதியில் இருந்து வந்தது",
+       "கரும்பு, வாழை, கம்பி வேலிகளை சேதப்படுத்தியது"
+      ]
+     },
+     {
+      "title": "எவ்வளவு சேதம்?",
+      "lines": [
+       "மணி, <b>54</b> வயது நிலத்தில் <b>50</b> வாழை மரங்கள்",
+       "மற்றொரு மணி, <b>48</b> வயது நிலத்தில் <b>35</b> வாழை மரங்கள்",
+       "மாரப்பன், <b>58</b> வயது நிலத்தில் <b>1 டன்</b> கரும்பு"
+      ]
+     },
+     {
+      "title": "அதிகாரிகள்",
+      "lines": [
+       "வனத்துறையினர் சேதத்தை கணக்கீடு செய்தனர்",
+       "அரசுக்கு அறிக்கை அனுப்பப்பட்டுள்ளது",
+       "அப்பகுதி மக்கள் கவனமாக இருக்க வேண்டும்"
+      ]
+     }
+    ],
+    "carousel": false
+   },
+   "reel_script": "மேட்டூர் அருகே விவசாய நிலத்தில் யானை புகுந்து வாழை, கரும்பை சேதப்படுத்தியது. சேலம் மாவட்டம், கொளத்தூர் ஒன்றியம், கருங்கல்லூர் ஊராட்சி, தார்க்காடு கிராமத்தில் இந்தச் சம்பவம் நடந்தது. இன்று நவம்பர் 24ஆம் தேதி அதிகாலை அருகிலுள்ள வனப்பகுதியிலிருந்து ஒரு காட்டு யானை நிலங்களில் புகுந்தது. செம்மலை சிவிலிகரடு ஏரி பாசனப் பகுதியில் விவசாயிகள் கரும்பு, வாழை, மக்காசோளம் பயிரிட்டிருந்தனர். விவசாயி மணி, 54 வயது நிலத்தில் 50 வாழை மரங்களை யானை சேதப்படுத்தியது. மற்றொரு மணி, 48 வயது நிலத்தில் 35 வாழை மரங்கள் சேதமடைந்தன. மாரப்பன், 58 வயது நிலத்தில் ஒரு டன் ஆலைக் கரும்பை மிதித்து சேதப்படுத்தியது. ரகுநாதன், 37 வயது நிலத்தில் தர்பூசணி கொடிகளும் சேதமடைந்தன. மணி, ரகுநாதன் ஆகியோரின் நிலங்களில் 20 கல் தூண்களை சாய்த்து, கம்பி வேலிகளையும் யானை சேதப்படுத்தியது. தகவல் அறிந்து மேட்டூர் சரக வனத்துறை அலுவலர்களும், கருங்கல்லூர் கிராம நிர்வாக அலுவலர் திருநாவுக்கரசும் நேரில் பார்வையிட்டனர். சேதம் குறித்து வனத்துறை கணக்கீடு செய்து அரசுக்கு அறிக்கை அனுப்பியுள்ளது. இரு நாட்களுக்கு முன்பு, நவம்பர் 21ஆம் தேதி அதிகாலை தார்க்காடு கிராமத்தில் கரடி புகுந்து, பால் வாங்கிச் சென்ற பெண்ணை விரட்டியது. இதனால் அப்பகுதி மக்களிடையே அச்சம் ஏற்பட்டுள்ளது. மேலும் செய்திகளுக்கு சேலம் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🐘 மேட்டூர் அருகே யானை புகுந்து வாழை, கரும்பு சேதம்\n\n📰 முழு விவரம்:\nசேலம் மாவட்டம், கொளத்தூர் ஒன்றியம், கருங்கல்லூர் ஊராட்சி, தார்க்காடு கிராமத்தில் நவம்பர் 24ஆம் தேதி அதிகாலை வனப்பகுதியிலிருந்து ஒரு காட்டு யானை விவசாய நிலத்தில் புகுந்தது.\nசெம்மலை சிவிலிகரடு ஏரி பாசனப் பகுதியில் கரும்பு, வாழை, மக்காசோளம் பயிரிடப்பட்டிருந்தன.\nயானை கரும்பு, வாழை, கம்பி வேலிகளை சேதப்படுத்தியது. விவசாயி மணி (54 வயது) நிலத்தில் 50 வாழை மரங்கள், மற்றொரு மணி (48 வயது) நிலத்தில் 35 வாழை மரங்கள், மாரப்பன் (58 வயது) நிலத்தில் ஒரு டன் ஆலைக் கரும்பு, ரகுநாதன் (37 வயது) நிலத்தில் தர்பூசணி கொடிகள் சேதமடைந்தன.\n20 கல் தூண்கள் சாய்க்கப்பட்டு கம்பி வேலிகளும் சேதமடைந்தன.\nவனத்துறை அலுவலர்கள், கருங்கல்லூர் வி.ஏ.ஓ. திருநாவுக்கரசு ஆகியோர் நேரில் பார்வையிட்டனர். வனத்துறை சேதத்தைக் கணக்கீடு செய்து அரசுக்கு அறிக்கை அனுப்பியுள்ளது.\nநவம்பர் 21ஆம் தேதி அதிகாலை தார்க்காடு கிராமத்தில் கரடி புகுந்து, பால் வாங்கிச் சென்ற பெண்ணை விரட்டியது; இதனால் மக்களிடையே அச்சம் நிலவுகிறது.\nℹ️ விவசாயிகளும் அப்பகுதி மக்களும் கவனமாக இருங்கள்.\n\nWild elephant damages banana and sugarcane near Mettur | Salem news\n📍 தார்க்காடு, மேட்டூர், சேலம் மாவட்டம் | 24 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Salem360 #Salem #Mettur #SalemNews #சேலம்",
+   "prompts": "A wild elephant stands among trampled banana trees and broken sugarcane stalks in an irrigated farm at dawn in Dharkadu village near Mettur, Salem district. Several banana trees lie flattened and a fallen stone pillar and sagging wire fence lie in the mud, while the elephant's large grey body and raised trunk are seen against the edge of a dense green forest in the background. Two farmers in shirts and veshti stand at a distance, seen from behind, looking on helplessly. Mettur hills and the forest line form the horizon, with the early-morning light soft and golden. Shot at eye level on a 35 mm lens, wide enough to show the field, the forest edge and the elephant together. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up of a trampled sugarcane patch in a Dharkadu village farm, with crushed cane stalks, torn leaves of a broken banana tree and a toppled stone pillar with a snapped wire fence strand lying in damp soil. Large elephant footprints press deep into the mud, and the edge of the dense forest is faintly visible at the back. The light is early-morning daylight, low and warm. Shot from slightly above at ground level on a 35 mm lens to show the damage and footprints clearly. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-salem/elephant-trespasses-into-farm-damages-banana-sugarcane/4385467",
+   "published": "2026-11-24T22:38:02+05:30",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: fact-check: reel_script says the elephant 'entered' and damaged fields in Tarkadu village, but the article's damage is only described from the early-morning entry; no claim of mismatch there, but reel_script states Maranappan's sugarcane was trampled while the article says one tonne of mill sugarcane was trampled (consistent) — however reel_script says Raghunathan's field had watermelon vines damaged, which the article supports, so this is fine; the actual problem: reel_script says 'சேதம் குறித்து வனத்துறை கணக்கீடு செய்து அரசுக்கு அறிக்கை அனுப்பியுள்ளது' which is accurate, but the reel_script attributes the bear incident to 'இரு நாட்களுக்கு முன்பு, நவம்பர் 21ஆம் தேதி' while the article says 'கடந்த, 21' without explicitly confirming November; this is a minor date inference, not a clear error.",
+   "note": "free-model draft anthropic/claude-haiku-5-5, 13 attempt(s), 1 validator problem(s)",
+   "post_time": "right after your reply, same day",
+   "_area": "N",
+   "_score": 999,
+   "images": [
+    "https://res.cloudinary.com/jrmwajfz/image/upload/v1795553735/salem360/tqfp7lr7ij6wjfwowl8z.jpg",
+    "https://res.cloudinary.com/jrmwajfz/image/upload/v1795553738/salem360/jpzuea072wdkgau1ucng.jpg"
+   ]
+  },
+  {
+   "tamil_headline": "தம்மம்பட்டியில் பலத்த மழை: மரக்கிளை விழுந்து வீடு சேதம்",
+   "english_headline": "Heavy rain in Thammampatti: tree branch falls on a house on Konerippatti-Gengavalli road",
+   "category": "Weather & Agriculture",
+   "location": "Thammampatti area, Salem district",
+   "importance": "Medium",
+   "scope": "local",
+   "post_to": "Salem 360",
+   "slides_spec": {
+    "v": 3,
+    "cat": "மழை",
+    "loc": "தம்மம்பட்டி",
+    "hl1": "தம்மம்பட்டியில் பலத்த மரக்கிளை விழுந்தது",
+    "hl2": "சாலைகளில் மழைநீர் தேக்கம்",
+    "slides": [
+     {
+      "title": "திங்கள் இரவு மழை",
+      "lines": [
+       "திங்கள்கிழமை இரவு 10 மணி முதல் நள்ளிரவு வரை பலத்த மழை",
+       "இடி-மின்னலுடன் மழை பெய்தது",
+       "தம்மம்பட்டி மற்றும் சுற்றுவட்டாரப் பகுதிகளில் மழை"
+      ]
+     },
+     {
+      "title": "மரக்கிளை விழுந்தது",
+      "lines": [
+       "கோனேரிப்பட்டி-கெங்கவல்லி சாலையில் கல்லறைத்தோட்டம் அருகே",
+       "வின்சென்ட் வீட்டின் மீது புளியமரக் கிளை முறிந்து விழுந்தது",
+       "வீட்டுக்கு சேதம் ஏற்பட்டது"
+      ]
+     },
+     {
+      "title": "செவ்வாய் பிற்பகல்",
+      "lines": [
+       "செவ்வாய்க்கிழமை பிற்பகல் 3 மணி முதல் 4 மணி வரை பலத்த மழை",
+       "சாலைகளிலும் வயல்களிலும் மழைநீர் தேங்கி நின்றது"
+      ]
+     }
+    ],
+    "carousel": false
+   },
+   "reel_script": "தம்மம்பட்டியில் திங்கள்கிழமை இரவு பெய்த பலத்த மழையால் வீட்டின் மீது மரக்கிளை விழுந்தது. தம்மம்பட்டி அருகே கோனேரிப்பட்டி-கெங்கவல்லி சாலையில் கல்லறைத்தோட்டம் அருகே வசிக்கும் வின்சென்ட் வீட்டின் மீது புளியமரக் கிளை முறிந்து விழுந்தது. திங்கள்கிழமை இரவு 10 மணி முதல் நள்ளிரவு வரை இடி-மின்னலுடன் பலத்த மழை பெய்தது. செவ்வாய்க்கிழமை பிற்பகல் 3 மணி முதல் 4 மணி வரை மீண்டும் பலத்த மழை பெய்தது. இதனால் சாலைகளிலும் வயல்களிலும் மழைநீர் தேங்கி நின்றது. மேலும் செய்திகளுக்கு சேலம் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🌧️ தம்மம்பட்டியில் பலத்த மழை: வீட்டின் மீது மரக்கிளை விழுந்தது\n\n📰 முழு விவரம்:\nதிங்கள்கிழமை இரவு 10 மணி முதல் நள்ளிரவு வரை தம்மம்பட்டி மற்றும் சுற்றுவட்டாரப் பகுதிகளில் இடி-மின்னலுடன் பலத்த மழை பெய்தது.\nதம்மம்பட்டி அருகே கோனேரிப்பட்டி-கெங்கவல்லி சாலையில் கல்லறைத்தோட்டம் அருகே வசிக்கும் வின்சென்ட் வீட்டின் மீது அருகிலிருந்த புளியமரக் கிளை முறிந்து விழுந்தது.\nசெவ்வாய்க்கிழமை பிற்பகல் 3 மணி முதல் 4 மணி வரை மீண்டும் பலத்த மழை பெய்தது. இதனால் சாலைகளிலும் வயல்களிலும் மழைநீர் தேங்கி நின்றது.\n\n📍 இடம்: தம்மம்பட்டி, சேலம் மாவட்டம்\n🗓️ நாள்: 24 நவம்பர் 2026 (திங்கள்கிழமை இரவு, செவ்வாய்க்கிழமை பிற்பகல்)\n🕘 நேரம்: இரவு 10 மணி முதல் நள்ளிரவு வரை; பிற்பகல் 3 மணி முதல் 4 மணி வரை\n\nThammampatti heavy rain, tree branch falls on house | Salem news\n📍 தம்மம்பட்டி, சேலம் மாவட்டம் | 25 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Salem360 #Salem #Thammampatti #மழை #SalemNews",
+   "prompts": "A large tamarind tree branch lies broken across the tiled roof of a modest single-storey house on the Konerippatti-Gengavalli road in Thammampatti, Salem district, after heavy overnight thunderstorms. The house stands beside a cemetery garden with a few low walls and green shrubs. Rainwater still stands in shallow puddles on the tarmac road and the broken leaves and branches are scattered over the roof and the front yard. No people are visible; a single distant figure from behind may be seen walking near the road. A narrow two-lane village road lined with tamarind trees and bare electric poles runs in front of the house. The scene is in daylight after rain, with a grey, cloudy sky and wet, glistening surfaces. Taken at eye level with a 35 mm lens, wide enough to show the house, the fallen branch, the road and the cemetery garden in the background. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up of a heavy tamarind tree branch with dense dark-green leaves and thick brown bark resting on the corrugated sheet and tiles of a village house roof in Thammampatti, Salem district. Broken twigs, wet leaves and small fragments of tile are scattered on the roof edge and gutter, and rainwater drips from the damaged section. Behind the branch, the grey sky is visible after the overnight rain, and a few wet tamarind leaves lie on the concrete wall below. No people are visible. The light is soft daylight after rain, with water droplets glistening on the leaves. Shot at a slightly high angle with a 35 mm lens, focused on the branch and the damaged roof to tell the story of the fallen tree. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamani.com/all-editions/edition-dharmapuri/salem/2026/Nov/24/தம்மம்பட்டியில்-பலத்த-மழை",
+   "published": "2026-11-24T20:16:59.715Z",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - fact-check: no problems found",
+   "note": "free-model draft anthropic/claude-haiku-5-5, 13 attempt(s), 0 validator problem(s)",
+   "post_time": "right after your reply, same day",
+   "_area": "N",
+   "_score": 999,
+   "images": [
+    "https://res.cloudinary.com/jrmwajfz/image/upload/v1795553747/salem360/y3ddqs5nx4nemtx7cd9h.jpg",
+    "https://res.cloudinary.com/jrmwajfz/image/upload/v1795553751/salem360/sgw6pcpkzor8yllrklkl.jpg"
    ]
   }
  ]
