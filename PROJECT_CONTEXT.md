@@ -83,6 +83,12 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 <!-- recent-changes:start (updated automatically by .github/workflows/context.yml - do not edit by hand) -->
 | Date | Commit | Change |
 |---|---|---|
+| 2026-11-24 | `ca40cb9` | E-mail for every posted news again (posted_email each) |
+| 2026-11-24 | `897a36a` | stories shared / Instagram pause |
+| 2026-11-24 | `094e6db` | facebook RN-269 |
+| 2026-11-24 | `5b3ca42` | posted RN-269 |
+| 2026-11-24 | `548f19a` | manual post e-mail RN-270 |
+| 2026-11-24 | `d97927b` | stories shared / Instagram pause |
 | 2026-11-24 | `e0c8a6a` | Retry plan for any posting problem: 3 tries 5 minutes apart, then 2 tries 15 minutes apart, then Hold + one e-mail; 'account restricted' follows the same plan |
 | 2026-11-24 | `15df6e4` | facebook RN-271 |
 | 2026-11-24 | `727f0d1` | posted RN-271 |
@@ -107,10 +113,4 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 | 2026-11-23 | `2d37ed6` | stories shared / Instagram pause |
 | 2026-11-23 | `57a769f` | stories shared / Instagram pause |
 | 2026-11-23 | `78a343e` | stories shared / Instagram pause |
-| 2026-11-23 | `1ed38c9` | stories shared / Instagram pause |
-| 2026-11-23 | `e0f66ef` | stories shared / Instagram pause |
-| 2026-11-23 | `8080f9b` | stories shared / Instagram pause |
-| 2026-11-23 | `dbfb4b1` | pick: written and posted |
-| 2026-11-23 | `70a44d0` | pick: picked news saved |
-| 2026-11-23 | `f3e46a5` | pick: picked news saved |
 <!-- recent-changes:end -->
