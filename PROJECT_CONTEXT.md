@@ -83,34 +83,34 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 <!-- recent-changes:start (updated automatically by .github/workflows/context.yml - do not edit by hand) -->
 | Date | Commit | Change |
 |---|---|---|
-| 2026-11-23 | `23a4b7d` | District check before every post (picked news too), neighbour-district towns, Facebook 5-minute gap, more Tamil news outlets + one open district search per round |
-| 2026-11-23 | `d11d350` | facebook RN-267 |
-| 2026-11-23 | `d507924` | posted RN-267 |
-| 2026-11-23 | `ba85906` | stories shared / Instagram pause |
-| 2026-11-23 | `8fe5383` | pick: picked news saved |
-| 2026-11-23 | `e2907bd` | pick: picked news saved |
-| 2026-11-23 | `1812113` | pick: list sent |
-| 2026-11-23 | `118bdd5` | stories shared / Instagram pause |
-| 2026-11-23 | `5ea769a` | stories shared / Instagram pause |
-| 2026-11-23 | `d8e52ed` | stories shared / Instagram pause |
-| 2026-11-23 | `cfc0595` | stories shared / Instagram pause |
-| 2026-11-23 | `874c24f` | stories shared / Instagram pause |
-| 2026-11-23 | `d792852` | stories shared / Instagram pause |
-| 2026-11-23 | `a60ad99` | stories shared / Instagram pause |
-| 2026-11-23 | `0f772ed` | stories shared / Instagram pause |
-| 2026-11-23 | `c5226b5` | stories shared / Instagram pause |
-| 2026-11-23 | `cefe60f` | stories shared / Instagram pause |
-| 2026-11-23 | `8a89e07` | stories shared / Instagram pause |
-| 2026-11-23 | `1173d01` | stories shared / Instagram pause |
-| 2026-11-23 | `1f0e09d` | stories shared / Instagram pause |
-| 2026-11-23 | `f75c0c4` | stories shared / Instagram pause |
-| 2026-11-23 | `ca7e600` | stories shared / Instagram pause |
-| 2026-11-23 | `4406327` | stories shared / Instagram pause |
-| 2026-11-23 | `c547dd3` | stories shared / Instagram pause |
-| 2026-11-23 | `116cbe2` | pick: written and posted |
-| 2026-11-23 | `8819cc1` | facebook RN-265 |
-| 2026-11-23 | `50a720c` | posted RN-265 |
-| 2026-11-23 | `a997609` | Reels only: no Instagram or Facebook stories; wait 5 minutes after an error |
-| 2026-11-23 | `f02144a` | stories shared / Instagram pause |
-| 2026-11-23 | `02cbd0c` | stories shared / Instagram pause |
+| 2026-11-24 | `e0c8a6a` | Retry plan for any posting problem: 3 tries 5 minutes apart, then 2 tries 15 minutes apart, then Hold + one e-mail; 'account restricted' follows the same plan |
+| 2026-11-24 | `15df6e4` | facebook RN-271 |
+| 2026-11-24 | `727f0d1` | posted RN-271 |
+| 2026-11-24 | `8087733` | stories shared / Instagram pause |
+| 2026-11-24 | `b539f34` | stories shared / Instagram pause |
+| 2026-11-24 | `16df639` | rasipalan posted |
+| 2026-11-24 | `f8efb03` | facebook RN-276 |
+| 2026-11-24 | `d7ed6f0` | posted RN-276 |
+| 2026-11-24 | `635a21d` | stories shared / Instagram pause |
+| 2026-11-24 | `ca712f1` | pick: picked news saved |
+| 2026-11-24 | `7a6fbc1` | pick: picked news saved |
+| 2026-11-24 | `c2946d3` | pick: list sent |
+| 2026-11-24 | `03077f2` | stories shared / Instagram pause |
+| 2026-11-24 | `cd90003` | stories shared / Instagram pause |
+| 2026-11-24 | `47fd1a7` | stories shared / Instagram pause |
+| 2026-11-24 | `cf307c1` | stories shared / Instagram pause |
+| 2026-11-24 | `410cf8c` | stories shared / Instagram pause |
+| 2026-11-24 | `a6ccf0d` | stories shared / Instagram pause |
+| 2026-11-24 | `c08633a` | stories shared / Instagram pause |
+| 2026-11-24 | `7aa3893` | stories shared / Instagram pause |
+| 2026-11-24 | `8b824fa` | stories shared / Instagram pause |
+| 2026-11-23 | `2d37ed6` | stories shared / Instagram pause |
+| 2026-11-23 | `57a769f` | stories shared / Instagram pause |
+| 2026-11-23 | `78a343e` | stories shared / Instagram pause |
+| 2026-11-23 | `1ed38c9` | stories shared / Instagram pause |
+| 2026-11-23 | `e0f66ef` | stories shared / Instagram pause |
+| 2026-11-23 | `8080f9b` | stories shared / Instagram pause |
+| 2026-11-23 | `dbfb4b1` | pick: written and posted |
+| 2026-11-23 | `70a44d0` | pick: picked news saved |
+| 2026-11-23 | `f3e46a5` | pick: picked news saved |
 <!-- recent-changes:end -->
