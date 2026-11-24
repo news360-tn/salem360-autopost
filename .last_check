@@ -1,67 +1,65 @@
-09:17:02 bridge get 'queue' failed (try 1): HTTPSConnectionPool(host='script.google.com', port=443): Read timed out. (read timeout=120)
-09:17:26 SKIP RN-2 stale: published 10 Nov, older than yesterday
-09:17:26 SKIP RN-7 stale: published 13 Nov, older than yesterday
-09:17:26 SKIP RN-30 stale: published 14 Nov, older than yesterday
-09:17:26 SKIP RN-36 stale: published 14 Nov, older than yesterday
-09:17:26 SKIP RN-55 stale: published 15 Nov, older than yesterday
-09:17:26 SKIP RN-61 stale: published 16 Nov, older than yesterday
-09:17:26 SKIP RN-65 stale: published 16 Nov, older than yesterday
-09:17:26 SKIP RN-66 stale: published 16 Nov, older than yesterday
-09:17:26 SKIP RN-71 stale: published 16 Nov, older than yesterday
-09:17:26 SKIP RN-75 stale: published 16 Nov, older than yesterday
-09:17:26 SKIP RN-102 stale: published 17 Nov, older than yesterday
-09:17:26 SKIP RN-106 stale: published 17 Nov, older than yesterday
-09:17:26 SKIP RN-119 stale: published 18 Nov, older than yesterday
-09:17:26 SKIP RN-123 stale: published 18 Nov, older than yesterday
-09:17:26 SKIP RN-127 stale: published 18 Nov, older than yesterday
-09:17:26 SKIP RN-142 stale: published 19 Nov, older than yesterday
-09:17:26 SKIP RN-147 stale: published 19 Nov, older than yesterday
-09:17:26 SKIP RN-154 stale: published 19 Nov, older than yesterday
-09:17:26 SKIP RN-160 stale: published 20 Nov, older than yesterday
-09:17:26 SKIP RN-161 stale: published 20 Nov, older than yesterday
-09:17:26 SKIP RN-172 stale: published 20 Nov, older than yesterday
-09:17:26 SKIP RN-175 stale: published 20 Nov, older than yesterday
-09:17:26 SKIP RN-176 stale: published 20 Nov, older than yesterday
-09:17:26 SKIP RN-197 stale: published 21 Nov, older than yesterday
-09:17:26 SKIP RN-198 stale: published 21 Nov, older than yesterday
-09:17:26 SKIP RN-233 held: location is only the district - the town from the article is missing
-09:17:27 SKIP RN-247 held: fact-check problems - fact-check: The draft gives the date of tomorrow's kambam planting as 'நவம்பர் 24' (Nov 24) in the reel_script and caption
-09:17:27 SKIP RN-260 held: location unknown
-09:17:27 story catch-up off (test run or post_stories false)
-09:17:27 31 stories in the queue, ready to post: 3
-09:17:27   keys: ['batch', 'caption', 'category', 'doc', 'email_sent', 'gmail_id', 'headline_en', 'headline_ta', 'images', 'importance', 'location', 'notes', 'notion', 'other_sources', 'post_status', 'post_to', 'posted_at', 'prompts', 'published', 'reel', 'reel_link', 'reel_script', 'researched', 'review', 'review_page', 'row', 'salem_link', 'slides_spec', 'source', 'spare_link', 'story_id', 'verification']
-09:17:27    RN-2 review= 'Auto' images= 98 spec= 686 pages= ['salem'] links= '' '' age_h= 274.1 ready= False set_started= True
-09:17:27    RN-7 review= 'Auto' images= 98 spec= 838 pages= ['salem'] links= '' '' age_h= 262.1 ready= False set_started= True
-09:17:27    RN-30 review= 'Auto' images= 195 spec= 688 pages= ['salem'] links= '' '' age_h= 231.6 ready= False set_started= True
-09:17:27    RN-36 review= 'Auto' images= 195 spec= 694 pages= ['salem'] links= '' '' age_h= 227.5 ready= False set_started= True
-09:17:27    RN-55 review= 'Auto' images= 195 spec= 679 pages= ['salem'] links= '' '' age_h= 207.5 ready= False set_started= True
-09:17:27    RN-61 review= 'Auto' images= 195 spec= 656 pages= ['salem'] links= '' '' age_h= 196.2 ready= False set_started= True
-09:17:27    RN-65 review= 'Auto' images= 195 spec= 680 pages= ['salem'] links= '' '' age_h= 196.2 ready= False set_started= True
-09:17:27    RN-66 review= 'Auto' images= 195 spec= 719 pages= ['salem'] links= '' '' age_h= 196.2 ready= False set_started= True
-09:17:27    RN-71 review= 'Auto' images= 195 spec= 791 pages= ['salem'] links= '' '' age_h= 195.0 ready= False set_started= True
-09:17:27    RN-75 review= 'Auto' images= 195 spec= 702 pages= ['salem'] links= '' '' age_h= 184.8 ready= False set_started= True
-09:17:27    RN-102 review= 'Auto' images= 195 spec= 746 pages= ['salem'] links= '' '' age_h= 158.6 ready= False set_started= True
-09:17:27    RN-106 review= 'Auto' images= 195 spec= 974 pages= ['salem'] links= '' '' age_h= 158.6 ready= False set_started= True
-09:17:27    RN-119 review= 'Auto' images= 195 spec= 684 pages= ['salem'] links= '' '' age_h= 143.1 ready= False set_started= True
-09:17:27    RN-123 review= 'Auto' images= 195 spec= 740 pages= ['salem'] links= '' '' age_h= 135.9 ready= False set_started= True
-09:17:27    RN-127 review= 'Auto' images= 195 spec= 695 pages= ['salem'] links= '' '' age_h= 135.8 ready= False set_started= True
-09:17:27    RN-142 review= 'Auto' images= 195 spec= 736 pages= ['salem'] links= '' '' age_h= 120.5 ready= False set_started= True
-09:17:27    RN-147 review= 'Auto' images= 195 spec= 834 pages= ['salem'] links= '' '' age_h= 118.6 ready= False set_started= True
-09:17:27    RN-154 review= 'Auto' images= 195 spec= 852 pages= ['salem'] links= '' '' age_h= 107.0 ready= False set_started= True
-09:17:27    RN-160 review= 'Auto' images= 195 spec= 676 pages= ['salem'] links= '' '' age_h= 100.7 ready= False set_started= True
-09:17:27    RN-161 review= 'Auto' images= 195 spec= 768 pages= ['salem'] links= '' '' age_h= 100.7 ready= False set_started= True
-09:17:27    RN-172 review= 'Auto' images= 195 spec= 731 pages= ['salem'] links= '' '' age_h= 96.0 ready= False set_started= True
-09:17:27    RN-175 review= 'Auto' images= 195 spec= 592 pages= ['salem'] links= '' '' age_h= 91.7 ready= False set_started= True
-09:17:27    RN-176 review= 'Auto' images= 195 spec= 968 pages= ['salem'] links= '' '' age_h= 91.6 ready= False set_started= True
-09:17:27    RN-197 review= 'Auto' images= 195 spec= 711 pages= ['salem'] links= '' '' age_h= 68.5 ready= False set_started= True
-09:17:27    RN-198 review= 'Auto' images= 195 spec= 742 pages= ['salem'] links= '' '' age_h= 68.5 ready= False set_started= True
-09:17:27    RN-233 review= 'Auto' images= 195 spec= 983 pages= ['salem'] links= '' '' age_h= 44.7 ready= False set_started= True
-09:17:27    RN-247 review= 'Auto' images= 195 spec= 892 pages= ['salem'] links= '' '' age_h= 30.9 ready= False set_started= True
-09:17:27    RN-260 review= 'Auto' images= 195 spec= 626 pages= ['salem'] links= '' '' age_h= 24.7 ready= False set_started= True
-09:17:27    RN-272 review= 'Auto' images= 195 spec= 679 pages= ['salem'] links= '' '' age_h= 1.9 ready= True set_started= True
-09:17:27    RN-274 review= 'Auto' images= 195 spec= 634 pages= ['salem'] links= '' '' age_h= 1.8 ready= True set_started= True
-09:17:27    RN-275 review= 'Auto' images= 195 spec= 646 pages= ['salem'] links= '' '' age_h= 1.8 ready= True set_started= True
-09:17:29 publishing quota salem: 17/50
-09:17:31 instagram duplicate check salem: 50 recent posts read
-09:17:31    RN-274 waits for the 5-minute gap after the last post on ['salem']
-09:17:31    RN-275 waits for the 5-minute gap after the last post on ['salem']
+09:24:03 SKIP RN-2 stale: published 10 Nov, older than yesterday
+09:24:03 SKIP RN-7 stale: published 13 Nov, older than yesterday
+09:24:03 SKIP RN-30 stale: published 14 Nov, older than yesterday
+09:24:03 SKIP RN-36 stale: published 14 Nov, older than yesterday
+09:24:03 SKIP RN-55 stale: published 15 Nov, older than yesterday
+09:24:03 SKIP RN-61 stale: published 16 Nov, older than yesterday
+09:24:03 SKIP RN-65 stale: published 16 Nov, older than yesterday
+09:24:03 SKIP RN-66 stale: published 16 Nov, older than yesterday
+09:24:03 SKIP RN-71 stale: published 16 Nov, older than yesterday
+09:24:03 SKIP RN-75 stale: published 16 Nov, older than yesterday
+09:24:03 SKIP RN-102 stale: published 17 Nov, older than yesterday
+09:24:03 SKIP RN-106 stale: published 17 Nov, older than yesterday
+09:24:03 SKIP RN-119 stale: published 18 Nov, older than yesterday
+09:24:03 SKIP RN-123 stale: published 18 Nov, older than yesterday
+09:24:03 SKIP RN-127 stale: published 18 Nov, older than yesterday
+09:24:03 SKIP RN-142 stale: published 19 Nov, older than yesterday
+09:24:03 SKIP RN-147 stale: published 19 Nov, older than yesterday
+09:24:03 SKIP RN-154 stale: published 19 Nov, older than yesterday
+09:24:03 SKIP RN-160 stale: published 20 Nov, older than yesterday
+09:24:03 SKIP RN-161 stale: published 20 Nov, older than yesterday
+09:24:03 SKIP RN-172 stale: published 20 Nov, older than yesterday
+09:24:03 SKIP RN-175 stale: published 20 Nov, older than yesterday
+09:24:03 SKIP RN-176 stale: published 20 Nov, older than yesterday
+09:24:03 SKIP RN-197 stale: published 21 Nov, older than yesterday
+09:24:03 SKIP RN-198 stale: published 21 Nov, older than yesterday
+09:24:03 SKIP RN-233 held: location is only the district - the town from the article is missing
+09:24:03 SKIP RN-247 held: fact-check problems - fact-check: The draft gives the date of tomorrow's kambam planting as 'நவம்பர் 24' (Nov 24) in the reel_script and caption
+09:24:03 SKIP RN-260 held: location unknown
+09:24:03 story catch-up off (test run or post_stories false)
+09:24:03 30 stories in the queue, ready to post: 2
+09:24:03   keys: ['batch', 'caption', 'category', 'doc', 'email_sent', 'gmail_id', 'headline_en', 'headline_ta', 'images', 'importance', 'location', 'notes', 'notion', 'other_sources', 'post_status', 'post_to', 'posted_at', 'prompts', 'published', 'reel', 'reel_link', 'reel_script', 'researched', 'review', 'review_page', 'row', 'salem_link', 'slides_spec', 'source', 'spare_link', 'story_id', 'verification']
+09:24:03    RN-2 review= 'Auto' images= 98 spec= 686 pages= ['salem'] links= '' '' age_h= 274.2 ready= False set_started= True
+09:24:03    RN-7 review= 'Auto' images= 98 spec= 838 pages= ['salem'] links= '' '' age_h= 262.3 ready= False set_started= True
+09:24:03    RN-30 review= 'Auto' images= 195 spec= 688 pages= ['salem'] links= '' '' age_h= 231.7 ready= False set_started= True
+09:24:03    RN-36 review= 'Auto' images= 195 spec= 694 pages= ['salem'] links= '' '' age_h= 227.6 ready= False set_started= True
+09:24:03    RN-55 review= 'Auto' images= 195 spec= 679 pages= ['salem'] links= '' '' age_h= 207.6 ready= False set_started= True
+09:24:03    RN-61 review= 'Auto' images= 195 spec= 656 pages= ['salem'] links= '' '' age_h= 196.3 ready= False set_started= True
+09:24:03    RN-65 review= 'Auto' images= 195 spec= 680 pages= ['salem'] links= '' '' age_h= 196.3 ready= False set_started= True
+09:24:03    RN-66 review= 'Auto' images= 195 spec= 719 pages= ['salem'] links= '' '' age_h= 196.3 ready= False set_started= True
+09:24:03    RN-71 review= 'Auto' images= 195 spec= 791 pages= ['salem'] links= '' '' age_h= 195.1 ready= False set_started= True
+09:24:03    RN-75 review= 'Auto' images= 195 spec= 702 pages= ['salem'] links= '' '' age_h= 185.0 ready= False set_started= True
+09:24:03    RN-102 review= 'Auto' images= 195 spec= 746 pages= ['salem'] links= '' '' age_h= 158.7 ready= False set_started= True
+09:24:03    RN-106 review= 'Auto' images= 195 spec= 974 pages= ['salem'] links= '' '' age_h= 158.7 ready= False set_started= True
+09:24:03    RN-119 review= 'Auto' images= 195 spec= 684 pages= ['salem'] links= '' '' age_h= 143.2 ready= False set_started= True
+09:24:03    RN-123 review= 'Auto' images= 195 spec= 740 pages= ['salem'] links= '' '' age_h= 136.0 ready= False set_started= True
+09:24:03    RN-127 review= 'Auto' images= 195 spec= 695 pages= ['salem'] links= '' '' age_h= 135.9 ready= False set_started= True
+09:24:03    RN-142 review= 'Auto' images= 195 spec= 736 pages= ['salem'] links= '' '' age_h= 120.6 ready= False set_started= True
+09:24:03    RN-147 review= 'Auto' images= 195 spec= 834 pages= ['salem'] links= '' '' age_h= 118.7 ready= False set_started= True
+09:24:03    RN-154 review= 'Auto' images= 195 spec= 852 pages= ['salem'] links= '' '' age_h= 107.1 ready= False set_started= True
+09:24:03    RN-160 review= 'Auto' images= 195 spec= 676 pages= ['salem'] links= '' '' age_h= 100.8 ready= False set_started= True
+09:24:03    RN-161 review= 'Auto' images= 195 spec= 768 pages= ['salem'] links= '' '' age_h= 100.8 ready= False set_started= True
+09:24:03    RN-172 review= 'Auto' images= 195 spec= 731 pages= ['salem'] links= '' '' age_h= 96.2 ready= False set_started= True
+09:24:03    RN-175 review= 'Auto' images= 195 spec= 592 pages= ['salem'] links= '' '' age_h= 91.8 ready= False set_started= True
+09:24:03    RN-176 review= 'Auto' images= 195 spec= 968 pages= ['salem'] links= '' '' age_h= 91.8 ready= False set_started= True
+09:24:03    RN-197 review= 'Auto' images= 195 spec= 711 pages= ['salem'] links= '' '' age_h= 68.6 ready= False set_started= True
+09:24:03    RN-198 review= 'Auto' images= 195 spec= 742 pages= ['salem'] links= '' '' age_h= 68.6 ready= False set_started= True
+09:24:03    RN-233 review= 'Auto' images= 195 spec= 983 pages= ['salem'] links= '' '' age_h= 44.8 ready= False set_started= True
+09:24:03    RN-247 review= 'Auto' images= 195 spec= 892 pages= ['salem'] links= '' '' age_h= 31.0 ready= False set_started= True
+09:24:03    RN-260 review= 'Auto' images= 195 spec= 626 pages= ['salem'] links= '' '' age_h= 24.8 ready= False set_started= True
+09:24:03    RN-274 review= 'Auto' images= 195 spec= 634 pages= ['salem'] links= '' '' age_h= 2.0 ready= True set_started= True
+09:24:03    RN-275 review= 'Auto' images= 195 spec= 646 pages= ['salem'] links= '' '' age_h= 1.9 ready= True set_started= True
+09:24:04 publishing quota salem: 18/50
+09:24:06 instagram duplicate check salem: 50 recent posts read
+09:24:06    RN-274 waits for the 5-minute gap after the last post on ['salem']
+09:24:06    RN-275 waits for the 5-minute gap after the last post on ['salem']
