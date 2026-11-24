@@ -3,16 +3,15 @@
   "earlier stories still waiting for images: []",
   "instagram check: 50 recent posts read from the page",
   "pick round: only the picked links are written (research_free/pick.py)",
-  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-salem/private-bank-atrocity-son-suicide-mother-tries-to-set-himself-on-fire/4384339",
+  "manual link added: https://www.vikatan.com/food/thattu-vadai-set-the-secret-behind-salems-evening-snack-taste",
   "candidate filter: collected=1",
   "to write: 1 Salem district candidates (max 1 stories)",
   "round: top 1 of 1 candidates",
   "candidates waiting: 1 Salem; time left 79 min",
-  "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-sale",
-  "real photo from the source (Dinamalar) for 'Son dies by suicide in Iyangattur near S'",
-  "auto images: 1 of 1 stories ({})",
+  "try (N) manual=True: https://www.vikatan.com/food/thattu-vadai-set-the-secret-beh",
+  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 2})",
   "posting job started at once",
-  "candidate loop ended: left 0, tried={'N': 1}, done={'N': 1}, time left 75 min",
+  "candidate loop ended: left 0, tried={'N': 1}, done={'N': 1}, time left 77 min",
   "filed: 1 Salem district stories (target 1), reels only",
   "queue: 0 news waiting to be written",
   "All News sheet: {\"ok\":true,\"added\":1,\"updated\":0}"
@@ -20,93 +19,89 @@
  "llm": [
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "fail gemini/gemini-3.6-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=60)",
+  "ok gemini/gemini-3.6-flash (20s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "fail gemini/gemini-3.6-flash: Expecting ',' delimiter: line 1 column 1226 (char 1225)",
   "poor answer - skipped for 30 min: gemini/gemini-3.6-flash",
   "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
   "dead for this round: gemini/gemini-3.5-flash",
-  "fail gemini/gemini-3-flash-preview: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=60)",
-  "poor answer - skipped for 30 min: gemini/gemini-3-flash-preview",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 400: {\"error\":{\"message\":\"Failed to validate JSON. Please adjust your prompt. See 'failed_gener",
-  "ok groq/qwen/qwen3.8-27b (12s)",
+  "ok gemini/gemini-3-flash-preview (12s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
-  "switching away from groq/qwen/qwen3.8-27b for 10 min",
+  "fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, plea",
+  "dead for this round: gemini/gemini-3-flash-preview",
   "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 400: {\"error\":{\"message\":\"Failed to validate JSON. Please adjust your prompt. See 'failed_gener",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 413: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
   "ok anthropic/claude-haiku-5-5",
   "ok anthropic/claude-haiku-5-5",
   "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok groq/openai/gpt-oss-120b (3s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok groq/openai/gpt-oss-120b (6s)",
+  "ok groq/openai/gpt-oss-120b (7s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
-  "ok groq/openai/gpt-oss-120b (2s)",
+  "ok groq/openai/gpt-oss-120b (3s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash"
  ],
  "stories": [
   {
-   "tamil_headline": "சங்ககிரி அருகே ஐயங்காட்டூரில் வங்கி நெருக்கடியால் மகன் தற்கொலை; தாய் தீக்குளிக்க முயற்சி",
-   "english_headline": "Son dies by suicide in Iyangattur near Sankagiri over alleged bank harassment; mother attempts self-immolation at Salem collectorate",
-   "category": "Crime & Safety",
-   "location": "Iyangattur, near Sankagiri, Salem district",
-   "importance": "High",
+   "tamil_headline": "சேலம் தட்டுவடை செட்: 30 ஆண்டுகளாக மூன்று தலைமுறைகள் நடத்தும் தள்ளுவண்டி சுவை",
+   "english_headline": "Salem's thattuvadai set: a 1996 hand-cart business run by three generations, now at Pattaikoil",
+   "category": "Business & Prices",
+   "location": "Pattaikoil, Second Agraharam, Salem city, Salem district",
+   "importance": "Low",
    "scope": "local",
    "post_to": "Salem 360",
    "slides_spec": {
     "v": 3,
-    "cat": "வங்கி நெருக்கடி",
-    "loc": "ஐயங்காட்டூர், சங்ககிரி",
-    "hl1": "ஐயங்காட்டூர்: வங்கி மகன் தற்கொலை",
-    "hl2": "தாய் தீக்குளிக்க முயற்சி",
+    "cat": "உள்ளூர் தொழில்",
+    "loc": "பட்டைக்கோயில், சேலம்",
+    "hl1": "பட்டைக்கோயிலில் 30 ஆண்டு தட்டுவடை சுவை",
+    "hl2": "தள்ளுவண்டியில் தொடங்கிய",
     "slides": [
      {
-      "title": "என்ன நடந்தது?",
+      "title": "எப்படித்",
       "lines": [
-       "ஐயங்காட்டூரைச் சேர்ந்த நவீன் (25 வயது), தற்கொலை செய்தார்",
-       "தனியார் வங்கி கடன் தவணை தாமதத்தால் நெருக்கடி",
-       "அக். 31 அன்று வீட்டில் தூக்கிட்டு இறந்தார்"
+       "1996ஆம் ஆண்டு வெங்கடலட்சுமி தள்ளுவண்டியில் தொடங்கினார்",
+       "தள்ளுவண்டி ரூ.4,500, ஆரம்ப முதலீடு ரூ.500",
+       "ஆரம்பத்தில் ஏழு துண்டுகள் கொண்ட செட் ரூ.5"
       ]
      },
      {
-      "title": "என்ன தொல்லை?",
+      "title": "இன்றைய கடை",
       "lines": [
-       "3 நாட்களாக வீடு தேடி வந்து தகாத வார்த்தைகளில் பேசினர்",
-       "வங்கி ஊழியர்கள் தகராறு செய்து அவமானப்படுத்தினர்",
-       "மகனின் தற்கொலைக்கு வங்கி மிரட்டலே காரணம் என தாய்"
+       "'சக்தி தட்டுவடை செட் கார்னர்' பட்டைக்கோயிலில் உள்ளது",
+       "லோகேஷும் ஹரிஹரனும் இணைந்து நடத்துகின்றனர்",
+       "விலை ரூ.10-ல் தொடங்குகிறது"
       ]
      },
      {
-      "title": "தாயின் போராட்டம்",
+      "title": "வகைகளும் நேரமும்",
       "lines": [
-       "நவ. 23 அன்று சேலம் கலெக்டர் அலுவலகத்தில் மனு கொடுக்க வந்தார்",
-       "பெட்ரோல் ஊற்றி தீக்குளிக்க முயன்றார்",
-       "போலீசார் தடுத்து மீட்டனர்; சங்ககிரி போலீசார் விசாரணை"
+       "பூண்டு, ஆனியன், பொடி, தக்காளி, காம்போ செட்",
+       "மதியம் 12 முதல் இரவு 11 மணி வரை திறந்திருக்கும்",
+       "தினமும் 150 முதல் 200 வாடிக்கையாளர்கள்"
       ]
      }
     ],
     "carousel": false
    },
-   "reel_script": "சங்ககிரி அருகே ஐயங்காட்டூரில் வங்கி நெருக்கடியால் 25 வயது இளைஞர் தற்கொலை செய்துகொண்டார். ஐயங்காட்டூரைச் சேர்ந்த நாகராஜின் மனைவி அம்சா இதற்குக் காரணம் தனியார் வங்கி ஊழியர்கள் என்று குற்றம் சாட்டினார். அவரது மூத்த மகன் நவீன் (25 வயது), சொந்தமாக ஆட்டோ ஓட்டி வந்தார். ஏப்ரல் 28ஆம் தேதி சங்ககிரியில் உள்ள பந்தனா தனியார் வங்கியில் 1.5 லட்சம் ரூபாய் கடன் வாங்கினார். மாதத் தவணையாக 7,800 ரூபாய் வீதம் 24 மாதங்கள் செலுத்த வேண்டும். அக்டோபர் மாதம் வருவாய் குறைந்ததால் தவணைத்தொகை செலுத்துவதில் தாமதம் ஏற்பட்டது. அப்போது வங்கி ஊழியர்கள் தொடர்ந்து மூன்று நாட்கள் வீடு தேடி வந்து, தகாத வார்த்தைகளால் பேசி, தகராறு செய்து அவமானப்படுத்தினர். மனஉளைச்சலில் இருந்த நவீன், அக்டோபர் 31ஆம் தேதி தவணைத்தொகையைச் செலுத்தினார். அன்று இரவே வீட்டில் தூக்கிட்டுத் தற்கொலை செய்துகொண்டார். இன்று நவம்பர் 23ஆம் தேதி, சேலம் கலெக்டர் அலுவலகத்தில் மனு கொடுக்க வந்த அம்சா, திடீரென பெட்ரோல் ஊற்றிக்கொண்டு தீக்குளிக்க முயன்றார். போலீசார் அவரைத் தடுத்து மீட்டனர். சம்பந்தப்பட்டவர்கள் மீது கடும் நடவடிக்கை வேண்டும் என்று அவர் கோரினார். சங்ககிரி போலீசார் அம்சாவிடம் விசாரணை நடத்தி வருகின்றனர். மேலும் செய்திகளுக்கு சேலம் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🚨 ஐயங்காட்டூர்: வங்கி நெருக்கடியால் மகன் தற்கொலை; தாய் தீக்குளிக்க முயற்சி\n\n📰 முழு விவரம்:\nசங்ககிரி அடுத்த ஐயங்காட்டூரைச் சேர்ந்த நவீன் (25 வயது), சொந்தமாக ஆட்டோ ஓட்டி வந்தார். ஏப்ரல் 28ஆம் தேதி சங்ககிரியில் உள்ள பந்தனா தனியார் வங்கியில் 1.5 லட்சம் ரூபாய் கடன் வாங்கினார். மாதத் தவணை 7,800 ரூபாய் வீதம் 24 மாதங்கள் செலுத்த வேண்டும். அக்டோபரில் வருவாய் குறைந்ததால் தவணை தாமதமானது. வங்கி ஊழியர்கள் தொடர்ந்து மூன்று நாட்கள் வீடு தேடி வந்து தகாத வார்த்தைகளால் பேசி, தகராறு செய்து அவமானப்படுத்தியதாக அவரது தாய் அம்சா தெரிவித்துள்ளார். அக்டோபர் 31ஆம் தேதி தவணைத்தொகையைச் செலுத்திய பின், அன்று இரவு வீட்டில் தூக்கிட்டு தற்கொலை செய்துகொண்டார்.\n📍 இடம்: ஐயங்காட்டூர், சங்ககிரி அருகே, சேலம் மாவட்டம்\n🗓️ நாள்: நவம்பர் 23, 2026\n👮 நடவடிக்கை: நவம்பர் 23 அன்று சேலம் கலெக்டர் அலுவலகத்தில் மனு கொடுக்க வந்த அம்சா பெட்ரோல் ஊற்றி தீக்குளிக்க முயன்றார்; போலீசார் தடுத்து மீட்டனர். சங்ககிரி போலீசார் விசாரணை நடத்தி வருகின்றனர்.\nℹ️ மக்கள் கவனத்திற்கு: கடன் தவணை நெருக்கடி ஏற்பட்டால் உதவி பெற அதிகாரிகளை அணுகுங்கள்.\nஇந்தச் செய்தியைத் தேவைப்படுவோருக்கு Share செய்யுங்கள்.\n\nIyangattur suicide bank harassment, Sankagiri | Salem news\n📍 ஐயங்காட்டூர், சங்ககிரி, சேலம் மாவட்டம் | 23 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Salem360 #Salem #Sankagiri #SalemNews #சேலம்",
-   "prompts": "A woman in a simple saree pours a clear petrol bottle over her shoulders, attempting self‑immolation, while two police officers in khaki step forward to pull her back. The scene is at the main entrance of the Salem Collectorate, a low‑rise government building with tiled floor and marble railing, located on the busy road near Iyangattur. The woman is seen from behind, head bowed; the officers are seen from the side, one holding her arm, the other reaching for the bottle. A police jeep is parked nearby, its markings visible; the petrol bottle, a small transparent container, lies on the stone steps. It is late morning on 23 November, bright daylight, clear sky. Eye‑level shot, 35 mm, wide enough to include the building façade and the jeep. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose‑up of a half‑empty transparent petrol bottle lying on the marble steps of the Salem Collectorate, a thin stream of fuel glistening on the stone. The bottle shows dark liquid, with a few droplets on the edge. A police officer’s gloved hand is visible, gripping the bottle’s neck, trying to stop further pouring. The collectorate’s stone railing and a portion of the tiled floor frame the object. Harsh daylight casts sharp shadows. Shot from a slightly high angle, 35 mm, focusing on the bottle and spilled fuel, with the background blurred. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-salem/private-bank-atrocity-son-suicide-mother-tries-to-set-himself-on-fire/4384339",
-   "published": "2026-11-23T19:27:02+05:30",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5) - fact-check: no problems found",
-   "note": "free-model draft anthropic/claude-haiku-5-5, 12 attempt(s), 0 validator problem(s)",
+   "reel_script": "பட்டைக்கோயிலில் 30 ஆண்டுகளாக ஒரு தட்டுவடை செட் கடை மூன்று தலைமுறைகளாக நடந்து வருகிறது. 1996ஆம் ஆண்டு வெங்கடலட்சுமி ரூ.5,000 முதலீட்டில் தள்ளுவண்டியில் இந்தத் தொழிலைத் தொடங்கினார். தள்ளுவண்டி வாங்க ரூ.4,500 செலவானது. ஆரம்பத்தில் ஏழு துண்டுகள் கொண்ட ஒரு செட் ரூ.5க்கு விற்கப்பட்டது. வெங்கடலட்சுமிக்கு அவரது மகன் ராமகிருஷ்ணன் துணையாக இருந்தார். இன்றும் ராமகிருஷ்ணன் அதே பட்டைக்கோயில் பகுதியில் தள்ளுவண்டியில் விற்பனை செய்கிறார். தற்போது 'சக்தி தட்டுவடை செட் கார்னர்' என்ற பெயரில் லோகேஷும் அவரது சகோதரர் ஹரிஹரனும் கடையை நடத்துகின்றனர். பூண்டு, ஆனியன், தக்காளி, காம்போ உள்ளிட்ட பல வகை செட்கள் கிடைக்கின்றன. விலை பத்து ரூபாயில் தொடங்குகிறது. கடை மதியம் 12 மணி முதல் இரவு 11 மணி வரை திறந்திருக்கும். தினமும் 150 முதல் 200 வாடிக்கையாளர்கள் வருகின்றனர். தினமும் ரூ.4,000 முதல் ரூ.5,000 வரை விற்பனை நடைபெறுகிறது. மேலும் செய்திகளுக்கு சேலம் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🥘 பட்டைக்கோயிலில் 30 ஆண்டு பழைய தட்டுவடை செட் சுவை\n\n📰 முழு விவரம்:\n1996ஆம் ஆண்டு வெங்கடலட்சுமி தள்ளுவண்டியில் தட்டுவடை செட் விற்பனையைத் தொடங்கினார். அவருக்கு மகன் ராமகிருஷ்ணன் துணையாக இருந்தார். தள்ளுவண்டி வாங்க ரூ.4,500, ஆரம்ப முதலீடு ரூ.500 ஆக மொத்தம் ரூ.5,000 செலவானது. ஆரம்பத்தில் ஏழு துண்டுகள் கொண்ட செட் ரூ.5க்கு விற்கப்பட்டது. இன்று ராமகிருஷ்ணன் அதே பட்டைக்கோயில் பகுதியில் தள்ளுவண்டியில் விற்பனை செய்கிறார். தற்போது 'சக்தி தட்டுவடை செட் கார்னர்' கடையை லோகேஷும் ஹரிஹரனும் நடத்துகின்றனர்.\n📍 இடம்: பட்டைக்கோயில், இரண்டாவது அக்ரஹாரம், சேலம்\n🕘 நேரம்: மதியம் 12 மணி முதல் இரவு 11 மணி வரை\n💰 விலை: ரூ.10இல் தொடங்குகிறது\n🍽️ வகைகள்: பூண்டு, ஆனியன், பொடி, தக்காளி, வெள்ளரிக்காய், ஊறுகாய், காம்போ செட்; பன் ரோஸ்ட், மசாலா சுண்டலும் கிடைக்கும்\n👥 தினமும் 150 முதல் 200 வாடிக்கையாளர்கள்; தினசரி விற்பனை ரூ.4,000 முதல் ரூ.5,000 வரை\nதேவைப்படுவோருக்கு Share செய்யுங்கள்.\n\nSalem Pattaikoil thattuvadai set, 30 years old | Salem news\n📍 பட்டைக்கோயில், சேலம் | 24 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Salem360 #Salem #SalemNews #சேலம்",
+   "prompts": "A vendor from the three‑generation family sells steaming tallu vadai sets from a wooden hand‑cart, arranging plates of the fried snack topped with bright red chutney, chopped onion, carrot, beetroot, coriander leaves and a squeeze of lemon, while a small adjoining shop displays additional varieties. PLACE: The scene is set on a bustling street corner in Pattaikoil, Second Agraharam, Salem – narrow road flanked by low‑rise houses and a modest shop façade typical of the neighbourhood. PEOPLE: Three men – an older man (Ramakrishnan) standing behind the cart, a younger man (Lokesh) handing plates to customers, and a third (Hariraman) arranging snacks inside the shop – all in simple shirts and veshti, viewed from behind or side. VEHICLES/OBJECTS: The wooden hand‑cart with a metal canopy, a metal table with assorted tallu vadai plates, bowls of chutney and chopped vegetables, and the shop counter with snack trays. TIME+LIGHT+WEATHER: Late afternoon, warm daylight fading into evening, clear sky. CAMERA: Eye‑level, 35 mm lens, wide enough to capture the cart, shop front and street activity. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close‑up of a single tallu vadai set on a shallow metal plate: the golden‑brown vadai sits beside a dollop of fiery red chutney, a mound of finely chopped onion, bright orange carrot strips, deep‑red beetroot cubes, fresh green coriander and a drizzle of lemon juice, all sprinkled with chat masala. PLACE: The plate rests on the cart’s countertop at the Pattaikoil corner, with the shop’s wooden railing blurred in the background, hinting at the street‑side location. PEOPLE: Only the hands of the vendor are hinted at, out of focus, as the food is arranged. VEHICLES/OBJECTS: The hand‑cart surface, metal plate, small bowls of chutney and chopped vegetables, and a wooden serving spoon. TIME+LIGHT+WEATHER: Soft evening light creates gentle shadows, highlighting the vivid colours of the food. CAMERA: Slightly high angle, 35 mm lens, tight framing to capture the colourful ingredients and textures clearly. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.vikatan.com/food/thattu-vadai-set-the-secret-behind-salems-evening-snack-taste",
+   "published": "2026-11-24T06:57:56Z",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: caption misses facts of the article (put every one in 📰 முழு விவரம்): 6 ('கடையின் அன்றாடப் பணிகள் குறித்துக் கூறும் லோகேஷ், மதியம் 12 ')",
+   "note": "free-model draft anthropic/claude-haiku-5-5, 13 attempt(s), 1 validator problem(s)",
    "post_time": "right after your reply, same day",
    "_area": "N",
    "_score": 999,
    "images": [
-    "https://res.cloudinary.com/jrmwajfz/image/upload/v1795519206/salem360/f6s0eu3hiox2uhnqrpzd.jpg",
-    "https://res.cloudinary.com/jrmwajfz/image/upload/v1795519207/salem360/ps4h2kpg6pjcc6oxo7yg.jpg"
-   ],
-   "real_photo": "Dinamalar"
+    "https://res.cloudinary.com/jrmwajfz/image/upload/v1795539924/salem360/ifome87ia3iujrgkp1fu.jpg",
+    "https://res.cloudinary.com/jrmwajfz/image/upload/v1795539927/salem360/seraha41lfjqhtrc7edj.jpg"
+   ]
   }
  ]
 }
