@@ -3,30 +3,46 @@
   "earlier stories still waiting for images: []",
   "instagram check: 50 recent posts read from the page",
   "pick round: only the picked links are written (research_free/pick.py)",
-  "manual link added: https://www.hindutamil.in/news/supplements/agriculture/kuppanur-bitter-gourds-are-exported-to-european-countries",
+  "manual link added: https://www.dinakaran.com/news/bjp-office-bearer-illegal-house-arrest-confinement-edappadi-palaniswami",
   "candidate filter: collected=1",
   "to write: 1 Salem district candidates (max 1 stories)",
   "round: top 1 of 1 candidates",
   "candidates waiting: 1 Salem; time left 79 min",
-  "try (N) manual=True: https://www.hindutamil.in/news/supplements/agriculture/kuppa",
-  "NOT filed (N) ஐரோப்பிய நாடுகளுக்கு ஏற்றுமதியாகும் குப்பனூர் பாகற: not Salem district news (the story's first lines name another place and no Salem place)",
-  "candidate loop ended: left 0, tried={'N': 1}, done={'N': 0}, time left 77 min",
-  "filed: 0 Salem district stories (target 1), reels only",
+  "try (N) manual=True: https://www.dinakaran.com/news/bjp-office-bearer-illegal-hou",
+  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 3})",
+  "posting job started at once",
+  "candidate loop ended: left 0, tried={'N': 1}, done={'N': 1}, time left 76 min",
+  "filed: 1 Salem district stories (target 1), reels only",
   "queue: 0 news waiting to be written",
   "All News sheet: {\"ok\":true,\"added\":1,\"updated\":0}"
  ],
  "llm": [
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high d",
   "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
   "dead for this round: gemini/gemini-3.6-flash",
   "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
   "dead for this round: gemini/gemini-3.5-flash",
-  "fail gemini/gemini-3-flash-preview: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=60)",
-  "poor answer - skipped for 30 min: gemini/gemini-3-flash-preview",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 413: {\"error\":{\"message\":\"Request too large for model `openai/gpt-oss-120b` in organization `or",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 413: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
+  "ok gemini/gemini-3-flash-preview (16s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok gemini/gemini-3-flash-preview (12s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok gemini/gemini-3-flash-preview (20s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, plea",
+  "dead for this round: gemini/gemini-3-flash-preview",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 400: {\"error\":{\"message\":\"Failed to validate JSON. Please adjust your prompt. See 'failed_gener",
+  "ok groq/qwen/qwen3.8-27b (3s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
+  "switching away from groq/qwen/qwen3.8-27b for 10 min",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 400: {\"error\":{\"message\":\"Failed to validate JSON. Please adjust your prompt. See 'failed_gener",
   "ok anthropic/claude-haiku-5-5",
   "ok anthropic/claude-haiku-5-5",
   "ok anthropic/claude-haiku-5-5",
@@ -34,8 +50,67 @@
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "ok groq/openai/gpt-oss-120b (6s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok groq/openai/gpt-oss-120b (3s)"
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok groq/openai/gpt-oss-120b (3s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash"
  ],
- "stories": []
+ "stories": [
+  {
+   "tamil_headline": "பாஜக நிர்வாகிகள் வீட்டுக்காவலில்: எடப்பாடி பழனிசாமி கண்டனம்",
+   "english_headline": "BJP leaders put under house arrest in Chennai; Edappadi Palaniswami condemns",
+   "category": "Government & Services",
+   "location": "Tirunelveli city, Tirunelveli district",
+   "importance": "High",
+   "scope": "",
+   "post_to": "Salem 360",
+   "slides_spec": {
+    "v": 3,
+    "cat": "அரசியல் செய்தி",
+    "loc": "திருநெல்வேலி",
+    "hl1": "பாஜக தலைவர் வீட்டுக்காவலில்",
+    "hl2": "எடப்பாடி பழனிசாமி கண்டனம்",
+    "slides": [
+     {
+      "title": "என்ன நடந்தது?",
+      "lines": [
+       "பாஜக மாநிலத் தலைவர் நயினார் நாகேந்திரன் வீட்டுக்காவலில்",
+       "நெல்லையில் உள்ள அவரது வீட்டில் இன்று காலை",
+       "பாஜக நிர்வாகிகளும் வீட்டுக்காவலில் வைக்கப்பட்டனர்"
+      ]
+     },
+     {
+      "title": "ஏன் தடை?",
+      "lines": [
+       "திருப்பரங்குன்றம் மலை உச்சித் தூணில் தீபம் ஏற்ற அனுமதி",
+       "இன்று ஒரு நாள் மட்டும் தீபம் ஏற்ற உச்ச நீதிமன்ற உத்தரவு",
+       "அசம்பாவிதம் தடுக்க காவல்துறை முன்னெச்சரிக்கை நடவடிக்கை"
+      ]
+     },
+     {
+      "title": "கண்டனம்",
+      "lines": [
+       "அதிமுக பொதுச்செயலர் எடப்பாடி பழனிசாமி கண்டனம்",
+       "ஒரு தேசியக் கட்சித் தலைவரை முடக்குவது ஜனநாயகத்துக்கு",
+       "அடக்குமுறையைக் கைவிட வேண்டும் என வலியுறுத்தல்"
+      ]
+     }
+    ],
+    "carousel": false
+   },
+   "reel_script": "பா ஜ க நிர்வாகிகள் வீட்டுக்காவலில் முடக்கம். பா ஜ க மாநிலத் தலைவர் நயினார் நாகேந்திரன் உள்ளிட்ட நிர்வாகிகள் சட்டவிரோதமாக வீட்டுக்காவலில் வைக்கப்பட்டதாக எடப்பாடி பழனிசாமி கண்டனம் தெரிவித்துள்ளார். இன்று காலை நெல்லையில் உள்ள நயினார் நாகேந்திரனை காவல்துறையினர் திடீரென வீட்டுக்காவலில் வைத்தனர். திருப்பரங்குன்றம் மலை உச்சியில் உள்ள தூணில் கார்த்திகைத் திருநாளான இன்று ஒரு நாள் மட்டும் தீபம் ஏற்ற உச்ச நீதிமன்றம் அனுமதி அளித்துள்ளது. நயினார் நாகேந்திரன் நிர்வாகிகள் மற்றும் தொண்டர்களுடன் சென்று விளக்கேற்றும் நிகழ்ச்சியில் பங்கேற்கத் திட்டமிட்டிருந்தார். அசம்பாவிதங்களைத் தடுக்கும் முன்னெச்சரிக்கை நடவடிக்கையாக காவல்துறை இந்த நடவடிக்கையை எடுத்தது. எடப்பாடி பழனிசாமி தனது எக்ஸ் தள பதிவில் இதை வன்மையாகக் கண்டித்துள்ளார். ஒரு தேசியக் கட்சியின் மாநிலத் தலைவரை முடக்குவது ஜனநாயகத்துக்கு அச்சுறுத்தல் என அவர் தெரிவித்துள்ளார். அடக்குமுறைகளைக் கைவிட வேண்டும் என அவர் வலியுறுத்தியுள்ளார். மேலும் செய்திகளுக்கு சேலம் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🚨 பாஜக தலைவர் நயினார் நாகேந்திரன் வீட்டுக்காவலில் முடக்கம்\n\n📰 முழு விவரம்:\nதிருப்பரங்குன்றம் மலை உச்சித் தூணில் கார்த்திகைத் திருநாளான இன்று ஒரு நாள் மட்டும் தீபம் ஏற்ற உச்ச நீதிமன்றம் அனுமதி அளித்தது.\nஇதற்காக நெல்லையிலிருந்து நிர்வாகிகள், தொண்டர்களுடன் சென்று விளக்கேற்ற பாஜக மாநிலத் தலைவர் நயினார் நாகேந்திரன் திட்டமிட்டிருந்தார்.\nஅசம்பாவிதங்களைத் தடுக்கும் முன்னெச்சரிக்கையாக இன்று காலை நெல்லையில் உள்ள அவரை காவல்துறையினர் வீட்டுக்காவலில் வைத்தனர்.\nஇது சட்டவிரோதம் என அதிமுக பொதுச்செயலர் எடப்பாடி பழனிசாமி தனது எக்ஸ் பதிவில் கண்டித்துள்ளார்.\n\nBJP leaders house arrest Tirunelveli | Salem news\n📍 திருநெல்வேலி | 24 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Salem360 #Salem #SalemNews #சேலம்",
+   "prompts": "A group of Tamil Nadu police officers in khaki stand guard outside a modest tiled‑roof house, blocking the entrance as they enforce a house‑arrest order on BJP state leader Nayinar Nagendran. The scene unfolds on a typical residential street in Tirunelveli city, with closely built houses and a narrow paved lane. From a distance, the police form a semi‑circle, their shoulders visible, while the BJP leader can be seen from behind, stepping towards the doorway under their watch. No vehicles are present; the focus is on the people and the house. The morning light casts soft shadows, indicating a clear day. Shot at eye level with a 35 mm lens, the frame captures the house façade, the police presence and the restrained movement of the leader. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close‑up view of the same residential house’s front door, slightly ajar, with a police officer’s hand resting on the knob, emphasizing the house‑arrest action. The background shows the same narrow Tirunelveli lane, with other houses lining the street, but the focus is on the door and the officer’s uniform sleeve. The BJP leader’s silhouette is barely visible just inside the doorway, reinforcing the narrative without revealing faces. Morning daylight illuminates the scene, creating clear contrast on the wooden door and the khaki fabric. The camera is positioned slightly higher than eye level, using a 35 mm lens to frame the door and the officer’s hand as the decisive detail. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinakaran.com/news/bjp-office-bearer-illegal-house-arrest-confinement-edappadi-palaniswami",
+   "published": "2026-11-24T12:35:10+05:30",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: hl1 (the first headline on screen) must name the place 'திருநெல்வேலி', e.g. 'திருநெல்வேலி: ...' or 'திருநெல்வேலி-இல் ...' - viewers share news of their own area",
+   "note": "free-model draft anthropic/claude-haiku-5-5, 12 attempt(s), 1 validator problem(s)",
+   "post_time": "right after your reply, same day",
+   "_area": "N",
+   "_score": 999,
+   "images": [
+    "https://res.cloudinary.com/jrmwajfz/image/upload/v1795518235/salem360/wgcb783nbuk7hzuskdqg.jpg",
+    "https://res.cloudinary.com/jrmwajfz/image/upload/v1795518238/salem360/mr6fibvo0vdch5fbvsbi.jpg"
+   ]
+  }
+ ]
 }
