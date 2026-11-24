@@ -1,20 +1,6 @@
 {
- "last_end": "2026-11-24T09:53:46.886890+05:30",
+ "last_end": "2026-11-24T11:48:17.932490+05:30",
  "pool": {
-  "Ca4ae685": {
-   "id": "Ca4ae685",
-   "url": "https://www.polimernews.com/politicsnews/they-assured-me-i-would-become-a-minister-only-the-portfolio-was-yet-to-be-decided-12833001",
-   "title": "'நீங்கள் அமைச்சராவது உறுதி, துறை தான் முடிவாகனும் என நம்ப வைத்தார்கள்' - ஆர்.பி.உதயகுமார் கலகலப்பு",
-   "summary": "எடப்பாடியார்தான் முதல்வர், நீங்கள்தான் அமைச்சர் எனப் போகிற இடமெல்லாம் சொன்னதைக் கேட்டு நம்பிக்கையுடன் இருந்தேன் என அதிமுக முன்னாள் அமைச்சர் ஆர்.பி.",
-   "source": "பாலிமர்",
-   "published": "2026-11-23T10:30:58+05:30",
-   "category": "பொது",
-   "score": 3.0,
-   "power_cut": false,
-   "listed_at": "2026-11-23T12:33:36.846189+05:30",
-   "picked_at": "2026-11-23T12:38:12.759006+05:30",
-   "refused": "not filed: not Salem district news (the story's first lines name another place and no Salem place)"
-  },
   "C73cd8f7": {
    "id": "C73cd8f7",
    "url": "https://www.dinamalar.com/news/tamil-nadu-district-news-salem/private-bank-atrocity-son-suicide-mother-tries-to-set-himself-on-fire/4384339",
@@ -40,52 +26,21 @@
    "listed_at": "2026-11-23T20:32:32.560793+05:30",
    "picked_at": "2026-11-23T20:35:40.476494+05:30",
    "refused": "not filed: not Salem district news (the story's first lines name another place and no Salem place)"
+  },
+  "C296dc44": {
+   "id": "C296dc44",
+   "url": "https://www.dinamani.com/all-editions/edition-dharmapuri/salem/2026/Nov/24/ijk-union-secretary-killed-after-an-electric-wire-snaps-and-falls-near-vazhapadi",
+   "title": "வாழப்பாடி அருகே மின்கம்பி அறுந்து விழுந்து ஐ.ஜே.கே. ஒன்றிய செயலர் பலி!",
+   "summary": "சேலம் மாவட்டம் வாழப்பாடி அருகே அறுந்து விழுந்து கிடந்த மின்சார கம்பியில் சிக்கி இந்திய ஜனநாயக கட்சி ஒன்றிய செயலாளர் பலியானார். சேலம் மாவட்டம் வாழப்பாடியை அடுத்த குறிச்சி மஞ்சைமேடு பகுதியைச் சேர்ந்தவர் கோபாலகிருஷ்ணன் (...",
+   "source": "தினமணி",
+   "published": "2026-11-24T04:31:03.517Z",
+   "category": "விபத்து",
+   "score": 10.69,
+   "power_cut": false,
+   "listed_at": "2026-11-24T11:48:17.932490+05:30"
   }
  },
  "rounds": {
-  "2026-11-22_08": {
-   "window": [
-    "2026-11-22T04:28:40.062265+05:30",
-    "2026-11-22T08:02:56.569302+05:30"
-   ],
-   "ids": [
-    "C3c7d5c0",
-    "C98b31af",
-    "C422d8f8",
-    "C51ac9af",
-    "C36fbb21",
-    "Cc0ffc2f",
-    "C99452e2",
-    "Ce2d964f",
-    "Ca974279",
-    "C333bdee",
-    "C46e3086",
-    "Cc3dee36",
-    "Cd91b1ba"
-   ],
-   "sent": false,
-   "deadline": "2026-11-22T09:02:56.569302+05:30",
-   "decided": {
-    "how": "automatic: top 6 of 11 by insights",
-    "ids": [
-     "C98b31af",
-     "C51ac9af",
-     "C36fbb21",
-     "Cc0ffc2f",
-     "C99452e2",
-     "Ce2d964f"
-    ],
-    "at": "2026-11-22T08:03:37.228401+05:30"
-   },
-   "written": [
-    "C36fbb21",
-    "C51ac9af",
-    "C98b31af",
-    "C99452e2",
-    "Cc0ffc2f",
-    "Ce2d964f"
-   ]
-  },
   "2026-11-22_12": {
    "window": [
     "2026-11-22T08:02:56.569302+05:30",
@@ -620,6 +575,20 @@
     "ids": [],
     "at": "2026-11-24T09:55:08.584671+05:30"
    },
+   "written": []
+  },
+  "2026-11-24_11": {
+   "window": [
+    "2026-11-24T09:53:46.886890+05:30",
+    "2026-11-24T11:48:17.932490+05:30"
+   ],
+   "ids": [
+    "C296dc44",
+    "C73cd8f7"
+   ],
+   "sent": false,
+   "deadline": "2026-11-24T12:48:17.932490+05:30",
+   "decided": null,
    "written": []
   }
  },
