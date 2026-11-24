@@ -3,429 +3,110 @@
   "earlier stories still waiting for images: []",
   "instagram check: 50 recent posts read from the page",
   "pick round: only the picked links are written (research_free/pick.py)",
-  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-salem/two-held-for-bank-loan-fraud-in-students-name/4384768",
-  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-salem/cannabis-smuggled-on-a-train-seized/4384767",
-  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-salem/joyers-26-arts-festival-at-senthil-public-school/4384794",
-  "manual link added: https://www.dinamani.com/all-editions/edition-dharmapuri/salem/2026/Nov/23/வனப்-பகுதியில்-எரிந்த-நிலையில்-பெண்-சடலம்-போலீஸாா்-விசாரணை",
-  "manual link added: https://www.dinamani.com/all-editions/edition-dharmapuri/salem/2026/Nov/23/மூளைச்சாவு-அடைந்த-கட்டடத்-தொழிலாளியின்-உடல்-உறுப்புகளை-தானம்-செய்ய-முடிவு",
-  "candidate filter: collected=5",
-  "to write: 5 Salem district candidates (max 5 stories)",
-  "round: top 5 of 5 candidates",
-  "candidates waiting: 5 Salem; time left 79 min",
+  "manual link added: https://www.dinamani.com/all-editions/edition-dharmapuri/salem/2026/Nov/24/ijk-union-secretary-killed-after-an-electric-wire-snaps-and-falls-near-vazhapadi",
+  "candidate filter: collected=1",
+  "to write: 1 Salem district candidates (max 1 stories)",
+  "round: top 1 of 1 candidates",
+  "candidates waiting: 1 Salem; time left 79 min",
   "try (N) manual=True: https://www.dinamani.com/all-editions/edition-dharmapuri/sal",
-  "try (N) manual=True: https://www.dinamani.com/all-editions/edition-dharmapuri/sal",
-  "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-sale",
-  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 3})",
+  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 2})",
   "posting job started at once",
-  "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-sale",
-  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 5})",
-  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 8})",
-  "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-sale",
-  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 10})",
-  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 12})",
-  "candidate loop ended: left 0, tried={'N': 5}, done={'N': 5}, time left 70 min",
-  "filed: 5 Salem district stories (target 5), reels only",
+  "candidate loop ended: left 0, tried={'N': 1}, done={'N': 1}, time left 76 min",
+  "filed: 1 Salem district stories (target 1), reels only",
   "queue: 0 news waiting to be written",
-  "All News sheet not updated: HTTPSConnectionPool(host='script.googleusercontent.com', port=443): Read timed out. (read timeout=180)"
+  "All News sheet: {\"ok\":true,\"added\":1,\"updated\":0}"
  ],
  "llm": [
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high d",
   "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
   "dead for this round: gemini/gemini-3.6-flash",
   "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
   "dead for this round: gemini/gemini-3.5-flash",
-  "ok gemini/gemini-3-flash-preview (9s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok gemini/gemini-3.6-flash (34s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok gemini/gemini-3.6-flash (45s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, plea",
-  "dead for this round: gemini/gemini-3-flash-preview",
-  "ok groq/openai/gpt-oss-120b (7s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
-  "ok gemini/gemini-3-flash-preview (19s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
-  "switching away from groq/openai/gpt-oss-120b for 10 min",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
-  "switching away from groq/openai/gpt-oss-120b for 10 min",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
   "fail gemini/gemini-3-flash-preview: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=60)",
   "poor answer - skipped for 30 min: gemini/gemini-3-flash-preview",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
-  "ok groq/qwen/qwen3.8-27b (10s)",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 400: {\"error\":{\"message\":\"Failed to validate JSON. Please adjust your prompt. See 'failed_gener",
+  "ok groq/qwen/qwen3.8-27b (9s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok groq/qwen/qwen3.8-27b (0s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok groq/qwen/qwen3.8-27b (3s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
   "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
   "switching away from groq/qwen/qwen3.8-27b for 10 min",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 400: {\"error\":{\"message\":\"Failed to validate JSON. Please adjust your prompt. See 'failed_gener",
   "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok anthropic/claude-haiku-5-5",
+  "ok groq/openai/gpt-oss-120b (4s)",
   "ok anthropic/claude-haiku-5-5",
   "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok groq/openai/gpt-oss-120b (4s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
+  "not available on this plan: groq/openai/gpt-oss-120b",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok anthropic/claude-haiku-5-5"
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash"
  ],
  "stories": [
   {
-   "tamil_headline": "வாழப்பாடியில் மூளைச்சாவு அடைந்த தொழிலாளியின் உடல் உறுப்புகள் தானம்",
-   "english_headline": "Vazhapadi construction worker declared brain dead after fall; family decides to donate organs",
+   "tamil_headline": "வாழப்பாடி அருகே மின்கம்பி அறுந்து விழுந்து ஐ.ஜே.கே. ஒன்றிய செயலர் பலி",
+   "english_headline": "IJK Union Secretary Dies After Entangling in Snapped Live Wire Near Vazhapadi",
    "category": "Crime & Safety",
-   "location": "Attur (Vazhapadi) area, Salem district",
+   "location": "Kurichi Manjamai Medu, Vazhapadi, Salem district",
    "importance": "Medium",
    "scope": "local",
    "post_to": "Salem 360",
    "slides_spec": {
     "v": 3,
-    "cat": "விபத்து",
-    "loc": "வாழப்பாடி, சேலம் மாவட்டம்",
-    "hl1": "வாழப்பாடியில் பைக்கில் விபத்து",
-    "hl2": "உடல் உறுப்புகள் தானம்",
+    "cat": "மின்சார விபத்து",
+    "loc": "குறிச்சி மஞ்சைமேடு, வாழப்பாடி",
+    "hl1": "வாழப்பாடி அருகே மின்கம்பி செயலர் பலி",
+    "hl2": "40 வயது விவசாயி உயிரிழப்பு",
     "slides": [
      {
-      "title": "என்ன நடந்தது?",
+      "title": "சம்பவம்",
       "lines": [
-       "வாழப்பாடி அருகே பைக்கில் சென்றபோது தவறி விழுந்தார்",
-       "மது போதையில் இருந்த கட்டடத் தொழிலாளி கர்ணா",
-       "தலையின் பின்பகுதியில் உள்காயம் ஏற்பட்டது"
+       "வாழப்பாடி அருகே மின்கம்பி அறுந்து விழுந்தது",
+       "குறிச்சி மஞ்சைமேடு பகுதியில் சம்பவம் நடந்தது"
       ]
      },
      {
-      "title": "சிகிச்சை",
+      "title": "பலியானவர்",
       "lines": [
-       "அத்தனூர்பட்டி ஏரி பகுதியில் மயங்கிக் கிடந்தார்",
-       "பேளூர் ஆரம்ப சுகாதார நிலையம் கொண்டு செல்லப்பட்டார்",
-       "சேலம் அரசு மருத்துவமனையில் அனுமதிக்கப்பட்டார்"
+       "40 வயது கோபாலகிருஷ்ணன் உயிரிழந்தார்",
+       "ஐ.ஜே.கே. வடக்கு ஒன்றிய செயலராக பணியாற்றினார்"
       ]
      },
      {
-      "title": "இறுதி முடிவு",
+      "title": "விவரங்கள்",
       "lines": [
-       "திங்கள்கிழமை <b>மூளைச்சாவு</b> அடைந்தார்",
-       "உடல் உறுப்புகளை தானம் செய்ய உறவினர்கள் முடிவு",
-       "போலீசார் வழக்குப் பதிவு செய்து விசாரணை"
+       "பால் ஊற்றி வீடு திரும்பும் போது மின்கம்பியில் சிக்கினார்",
+       "வாழப்பாடி போலீசார் வழக்கு பதிவு செய்துள்ளனர்"
       ]
      }
     ],
     "carousel": false
    },
-   "reel_script": "வாழப்பாடி அருகே பைக் விபத்தில் கட்டடத் தொழிலாளி மூளைச்சாவு அடைந்தார். ஞாயிற்றுக்கிழமை அத்தனூர்பட்டி கிராமத்தைச் சேர்ந்த 26 வயது கர்ணா, நண்பர் சூரியபிரகாசத்துடன் இருசக்கர வாகனத்தில் சென்றார். மது போதையில் இருந்த கர்ணா வாகனத்திலிருந்து தவறி கீழே விழுந்தார். அவரது தலையின் பின்பகுதியில் உள்காயம் ஏற்பட்டது. இதை அறியாத அவர் நண்பருடன் அத்தனூர்பட்டி ஏரி பகுதிக்குச் சென்றார். அங்கு மயங்கிக் கிடந்த அவரை உறவினர்கள் மீட்டனர். முதலில் பேளூர் அரசு ஆரம்ப சுகாதார நிலையத்திலும், பின்னர் சேலம் தனியார் மருத்துவமனையிலும் சிகிச்சை அளிக்கப்பட்டது. உடல்நிலை மோசமடைந்ததால் சேலம் அரசு மருத்துவமனையில் அனுமதிக்கப்பட்டார். திங்கள்கிழமை கர்ணா மூளைச்சாவு அடைந்தார். இதையடுத்து அவரது உடல் உறுப்புகளை தானம் செய்ய உறவினர்கள் முடிவு செய்துள்ளனர். இந்த விபத்து குறித்து வாழப்பாடி போலீசார் வழக்குப் பதிவு செய்து, நண்பர் சூரியபிரகாசத்திடம் விசாரணை நடத்தி வருகின்றனர். மேலும் செய்திகளுக்கு சேலம் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🚑 வாழப்பாடி அருகே பைக் விபத்தில் மூளைச்சாவு: உடல் உறுப்புகள் தானம்\n\n📰 முழு விவரம்:\nவாழப்பாடி அருகே அத்தனூர்பட்டி கிராமத்தைச் சேர்ந்த 26 வயது கட்டடத் தொழிலாளி கர்ணா, ஞாயிற்றுக்கிழமை நண்பர் சூரியபிரகாசத்துடன் இருசக்கர வாகனத்தில் சென்றபோது தவறி கீழே விழுந்தார். மது போதையில் இருந்த அவரது தலையின் பின்பகுதியில் உள்காயம் ஏற்பட்டது.\nஅவர் நண்பருடன் அத்தனூர்பட்டி ஏரி பகுதிக்குச் சென்றார். அங்கு மயங்கிக் கிடந்த அவரை உறவினர்கள் மீட்டு பேளூர் அரசு ஆரம்ப சுகாதார நிலையத்திலும், பின்னர் சேலம் தனியார் மருத்துவமனையிலும் சேர்த்தனர். உடல்நிலை மோசமடைந்ததால் சேலம் அரசு மருத்துவமனையில் அனுமதிக்கப்பட்டார்.\n🩺 திங்கள்கிழமை கர்ணா மூளைச்சாவு அடைந்தார்.\n🫀 அவரது உடல் உறுப்புகளை தானம் செய்ய உறவினர்கள் முடிவு செய்துள்ளனர்.\n👮 இந்த விபத்து குறித்து வாழப்பாடி போலீசார் வழக்குப் பதிவு செய்து, நண்பர் சூரியபிரகாசத்திடம் விசாரணை நடத்தி வருகின்றனர்.\n\nVazhapadi bike accident brain dead, organs donated | Salem news\n📍 வாழப்பாடி, சேலம் மாவட்டம் | 24 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Salem360 #Salem #Attur #SalemNews #சேலம்",
-   "prompts": "A group of rural family members stands quietly outside the main gate of Salem government hospital, with a Vazhapadi police constable in khaki standing a few steps away, as they discuss the decision to donate the organs of a young construction worker declared brain dead after a fall. The setting is the hospital entrance in Salem city, with a concrete compound wall, a rows of parked two-wheelers and an autorickshaw at the edge of the frame, and a few men in shirts with veshti and women in sarees and salwar sitting on a low bench near the gate. The atmosphere is solemn: the family members are seen from behind or in profile at a distance, heads lowered, one older man holding a folded cloth. It is daylight, with a hazy overcast sky and the hospital's pale concrete building in the background. Camera: eye level, 35 mm lens, wide enough to show the gate, the police constable and the parked vehicles, faces turned away or softly blurred. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA red-and-black two-wheeler lies on its side on the edge of a rural village road beside a dry lake bank, its front wheel bent and its handlebar scraped, with a pair of worn men's sandals and a cracked helmet-less scatter of dust-covered debris next to it. Behind the scooter, the shallow earthen embankment of a village lake stretches out, with a few palm trees and dry grass at the edge of the water. A Tamil Nadu police constable in khaki is seen far in the background, bending to note something in a small notebook, with no faces visible. It is daylight, with flat midday light casting short shadows on the dusty road. Camera: close, slightly high angle, 50 mm lens, focusing on the damaged two-wheeler and the dusty road surface, with the lake and the distant police figure softly out of focus. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamani.com/all-editions/edition-dharmapuri/salem/2026/Nov/23/மூளைச்சாவு-அடைந்த-கட்டடத்-தொழிலாளியின்-உடல்-உறுப்புகளை-தானம்-செய்ய-முடிவு",
-   "published": "2026-11-23T23:09:44.576Z",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5) - fact-check: no problems found",
-   "note": "free-model draft anthropic/claude-haiku-5-5, 12 attempt(s), 0 validator problem(s)",
+   "reel_script": "வாழப்பாடி அருகே அறுந்து விழுந்த மின்கம்பியில் சிக்கி 40 வயது விவசாயி உயிரிழந்தார். இவர் ஐ ஜே கே கட்சியின் வடக்கு ஒன்றிய செயலராக பணியாற்றி வந்தார். நேற்று மாலை தனது தோட்டத்தில் இருந்து பால் கறந்து எடுத்துக்கொண்டார். இருசக்கர வாகனத்தில் பால் சேகரிப்பு நிலையத்திற்கு சென்று பால் ஊற்றிவிட்டார். வீடு திரும்பும் போது சாலையில் அறுந்து கிடந்த மின்கம்பியில் சிக்கினார். வீடு திரும்பாததால் குடும்பத்தினர் தேடினர். மின்கம்பியில் சிக்கி உயிரிழந்து கிடந்தது தெரியவந்தது. இன்று காலை வாழப்பாடி காவல் நிலையத்தில் புகார் தெரிவித்தனர். வாழப்பாடி போலீசார் வழக்கு பதிவு செய்து விசாரணை நடத்தி வருகின்றனர். மேலும் செய்திகளுக்கு சேலம் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "⚡ வாழப்பாடி அருகே மின்கம்பி அறுந்து விழுந்து ஐ.ஜே.கே. செயலர் பலி\n\n📰 முழு விவரம்:\nசேலம் மாவட்டம் வாழப்பாடியை அடுத்த குறிச்சி மஞ்சைமேடு பகுதியைச் சேர்ந்த 40 வயது கோபாலகிருஷ்ணன் உயிரிழந்தார். இவர் விவசாயியாகவும், வாழப்பாடி வடக்கு ஒன்றிய ஐ.ஜே.கே. கட்சி செயலராகவும் பணியாற்றி வந்தார். நேற்று (நவம்பர் 24) மாலை தனது தோட்டத்தில் இருந்து பால் கறந்து எடுத்துக்கொண்டு இருசக்கர வாகனத்தில் சென்றார். பால் சேகரிப்பு நிலையத்தில் பால் ஊற்றிவிட்டு வீடு திரும்பும் போது சாலையில் அறுந்து கிடந்த மின்கம்பியில் சிக்கினார். வீடு திரும்பாததால் குடும்பத்தினர் தேடிய போது, மின்கம்பியில் சிக்கி உயிரிழந்து கிடந்தது தெரியவந்தது. இன்று காலை வாழப்பாடி காவல் நிலையத்தில் புகார் தெரிவித்தனர். வாழப்பாடி போலீசார் வழக்கு பதிவு செய்து விசாரணை நடத்தி வருகின்றனர்.\n\n📍 இடம்: குறிச்சி மஞ்சைமேடு, வாழப்பாடி\n🗓️ நாள்: நவம்பர் 24\n👮 நடவடிக்கை: வழக்கு பதிவு செய்து விசாரணை நடத்தப்படுகிறது\n\nஇந்த செய்தியை தேவைப்படுவோருக்கு Share செய்யுங்கள்\n\nVazhapadi electric wire accident | Salem news\n📍 Kurichi Manjamai Medu, Vazhapadi, Salem | 24 Nov 2026\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Salem360 #Salem #Vazhapadi #SalemNews #சேலம்",
+   "prompts": "A TNEB lineman in a khaki-blue uniform and safety helmet, seen from behind, works on a snapped electric wire lying across a rural road in Kurichi Manjamai Medu, Vazhapadi, as a Tamil Nadu police constable in khaki keeps onlookers back at a distance. The place is a narrow village road lined with dry farmland, a low concrete electric pole leaning slightly, and a parked two-wheeler with empty milk cans tied to its carrier. A few villagers in shirts with veshti and women in cotton sarees stand far off at the roadside, faces turned away. Light is dusk, soft orange sky with a dim lamp just starting to glow on the pole. Camera at eye level, 35 mm, wide enough to show the road, fields and the pole together, the wire clearly the focus. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up of a snapped live electric wire lying coiled on a dirt road beside a concrete electric pole, with a plastic milk can and a steel milk pail lying on the wet earth nearby, dropped by the rider. Behind it, a Tamil Nadu police constable in khaki stands at a distance, and the blurred figure of a lineman in uniform is seen far off. The ground is damp dirt with scattered dry leaves and tyre marks, a two-wheeler's handlebar visible at the edge of frame. Evening light, low sun, soft shadows across the road. Camera close and slightly low, 35 mm, shallow depth of field so the wire and pails are sharp and the background people are softly blurred. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamani.com/all-editions/edition-dharmapuri/salem/2026/Nov/24/ijk-union-secretary-killed-after-an-electric-wire-snaps-and-falls-near-vazhapadi",
+   "published": "2026-11-24T04:31:03.517Z",
+   "verification": "DRAFT (groq/qwen/qwen3.8-27b) - NOT CLEAN, held from posting - problems: caption misses facts of the article (put every one in 📰 முழு விவரம்): 23 ('23) காலை வாழப்பாடி காவல் நிலையத்தில் புகார் தெரிவித்தனர்.')",
+   "note": "free-model draft groq/qwen/qwen3.8-27b, 1 attempt(s), 1 validator problem(s)",
    "post_time": "right after your reply, same day",
    "_area": "N",
    "_score": 999,
    "images": [
-    "https://res.cloudinary.com/jrmwajfz/image/upload/v1795485343/salem360/rwtbdovqy7o2dcykiddk.jpg",
-    "https://res.cloudinary.com/jrmwajfz/image/upload/v1795485377/salem360/vxe4sinvzui1ajvudfoc.jpg"
-   ]
-  },
-  {
-   "tamil_headline": "மேட்டூர் அருகே வனப் பகுதியில் எரிந்த நிலையில் பெண் சடலம்: போலீஸ் விசாரணை",
-   "english_headline": "Half-burnt woman's body found in forest area near Mettur; police investigating",
-   "category": "Crime & Safety",
-   "location": "Mettur, Salem district",
-   "importance": "Medium",
-   "scope": "local",
-   "post_to": "Salem 360",
-   "slides_spec": {
-    "v": 3,
-    "cat": "போலீஸ் விசாரணை",
-    "loc": "மேட்டூர்",
-    "hl1": "மேட்டூர் அருகே வனப் பகுதியில் பெண் சடலம்",
-    "hl2": "பாதி எரிந்த நிலையில் மீட்பு",
-    "slides": [
-     {
-      "title": "என்ன நடந்தது?",
-      "lines": [
-       "திங்கள்கிழமை மாலை வனப் பகுதியில் புகை தெரிந்தது",
-       "அங்கு சென்ற மக்கள் பெண் சடலத்தைக் கண்டனர்",
-       "உடல் <b>பாதி எரிந்த</b> நிலையில் கிடந்தது"
-      ]
-     },
-     {
-      "title": "போலீஸ் நடவடிக்கை",
-      "lines": [
-       "கருமலைக்கூடல் போலீசார் சடலத்தை மீட்டனர்",
-       "பிரேத பரிசோதனைக்காக அரசு மருத்துவமனைக்கு அனுப்பினர்",
-       "சேலம் மாவட்டக் காவல் கண்காணிப்பாளர் விசாரணை நடத்தினார்"
-      ]
-     },
-     {
-      "title": "விசாரணை",
-      "lines": [
-       "துப்பறியும் நாய் மற்றும் தடவியல் நிபுணர்கள்",
-       "கருமலைக்கூடல் போலீசார் வழக்குப் பதிவு செய்து"
-      ]
-     }
-    ],
-    "carousel": false
-   },
-   "reel_script": "மேட்டூர் அருகே வனப் பகுதியில் பெண் ஒருவரின் உடல் பாதி எரிந்த நிலையில் மீட்கப்பட்டது. திங்கள்கிழமை மாலை, மலைப் பகுதி அருகே வனப் பகுதியில் புகை வருவதைக் கண்ட அப்பகுதி மக்கள் அங்கு சென்று பார்த்தனர். அங்கு பெண்ணின் உடல் பாதி எரிந்த நிலையில் கிடந்தது. தகவலின் பேரில் சம்பவ இடத்துக்கு வந்த கருமலைக்கூடல் போலீசார் சடலத்தைக் கைப்பற்றினர். பிரேத பரிசோதனைக்காக அரசு மருத்துவமனைக்கு அனுப்பி வைத்தனர். சேலம் மாவட்டக் காவல் கண்காணிப்பாளர் குத்தாலிங்கம் சம்பவ இடத்துக்குச் சென்று விசாரணை நடத்தினார். துப்பறியும் நாய் மற்றும் தடவியல் நிபுணர்களும் தடயங்களைச் சேகரித்தனர். கருமலைக்கூடல் போலீசார் வழக்குப் பதிவு செய்து விசாரித்து வருகின்றனர். மேலும் செய்திகளுக்கு சேலம் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🚨 மேட்டூர் அருகே வனப் பகுதியில் எரிந்த நிலையில் பெண் சடலம்: போலீஸ் விசாரணை\n\n📰 முழு விவரம்:\nமேட்டூர் அருகே மலைப் பகுதியில் பெண் சடலம் பாதி எரிந்த நிலையில் மீட்கப்பட்டது. திங்கள்கிழமை மாலை வனப் பகுதியில் புகை வருவதைக் கண்ட அப்பகுதி மக்கள் அங்கு சென்று பார்த்தபோது சடலம் தெரியவந்தது.\nகருமலைக்கூடல் போலீசார் சடலத்தைக் கைப்பற்றி பிரேத பரிசோதனைக்காக அரசு மருத்துவமனைக்கு அனுப்பினர். சேலம் மாவட்டக் காவல் கண்காணிப்பாளர் குத்தாலிங்கம் சம்பவ இடத்துக்குச் சென்று விசாரித்தார். துப்பறியும் நாய் மற்றும் தடவியல் நிபுணர்கள் தடயங்களைச் சேகரித்தனர். கருமலைக்கூடல் போலீசார் வழக்குப் பதிவு செய்து விசாரித்து வருகின்றனர்.\n\n📍 இடம்: மேட்டூர் அருகே மலைப் பகுதி, சேலம் மாவட்டம்\n🕘 நேரம்: திங்கள்கிழமை மாலை\n👮 நடவடிக்கை: கருமலைக்கூடல் போலீசார் வழக்குப் பதிவு செய்து விசாரணை\n\nMettur forest half-burnt body, police probe | Salem news\n📍 மேட்டூர், சேலம் மாவட்டம் | 24 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Salem360 #Salem #Mettur #SalemNews #சேலம்",
-   "prompts": "A cordon of Tamil Nadu police in khaki stands at the edge of a dry forest and hill area near Mettur, Salem district, as the evening light fades. Dry scrub, scattered trees and a rocky slope rise behind them, with a thin trail of smoke lingering in the air. A few local villagers stand at a distance, seen from behind, watching quietly. A white police vehicle is parked on the dirt track nearby. The scene is at dusk on a Monday evening, with soft orange light across the hills. The camera is at eye level and about 35 mm, wide enough to show the forest edge, the police cordon and the isolated hill behind, with the Shevaroy hills faintly visible in the far distance. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up of the burnt ground at the forest edge near Mettur, showing charred dry leaves, ash and scorched earth where the body was found. A pair of blue forensic evidence markers or yellow tape flutters on a stick beside the blackened patch. In the soft background, a khaki-uniformed police officer in gloves stoops at a distance, slightly out of focus. Dusk light, grey smoke trailing across the ground. Camera at low eye level, 35 mm, shallow depth of field to isolate the burnt earth and evidence markers as the focus of the story. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamani.com/all-editions/edition-dharmapuri/salem/2026/Nov/23/வனப்-பகுதியில்-எரிந்த-நிலையில்-பெண்-சடலம்-போலீஸாா்-விசாரணை",
-   "published": "2026-11-23T23:03:56.687Z",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: caption misses facts of the article (put every one in 📰 முழு விவரம்): 51 ('மேட்டூா் அருகே மலைப் பகுதியில் எரிந்த நிலையில் பெண் சடலத்தை ')",
-   "note": "free-model draft anthropic/claude-haiku-5-5, 13 attempt(s), 1 validator problem(s)",
-   "post_time": "right after your reply, same day",
-   "_area": "N",
-   "_score": 999,
-   "images": [
-    "https://res.cloudinary.com/jrmwajfz/image/upload/v1795485386/salem360/ui5oamx8yzd5u9lbc1ox.jpg",
-    "https://res.cloudinary.com/jrmwajfz/image/upload/v1795485389/salem360/fbhlrauzyucubf1ysrww.jpg"
-   ]
-  },
-  {
-   "tamil_headline": "செந்தில் பப்ளிக் பள்ளியில் ஜாய்வர்ஸ் - 26 கலைவிழா",
-   "english_headline": "Joyvers - 26 art festival held at Senthil Public School, Salem",
-   "category": "Education",
-   "location": "Senthil Public School, Salem city, Salem district",
-   "importance": "Medium",
-   "scope": "local",
-   "post_to": "Salem 360",
-   "slides_spec": {
-    "v": 3,
-    "cat": "பள்ளி விழா",
-    "loc": "சேலம்",
-    "hl1": "செந்தில் பப்ளிக் பள்ளியில் கலைவிழா",
-    "hl2": "3 முதல் 5ம் வகுப்பு",
-    "slides": [
-     {
-      "title": "எந்த விழா?",
-      "lines": [
-       "'ஜாய்வர்ஸ் - 26' கலைவிழா நடைபெற்றது",
-       "3 முதல் 5ம் வகுப்பு மாணவர்களுக்கான விழா",
-       "பள்ளி வளாகத்தில் கந்தசாமி கன்வென்ஷன் ஹாலில்"
-      ]
-     },
-     {
-      "title": "யார் பங்கேற்பு?",
-      "lines": [
-       "பள்ளித் தலைவர் செந்தில் சி.கந்தசாமி",
-       "துணைத்தலைவர், செயலாளர், தாளாளர் பங்கேற்பு",
-       "சேலம் மாநகர காவல் உதவி ஆணையர் ரமாலி ராமலட்சுமி"
-      ]
-     },
-     {
-      "title": "நிகழ்ச்சிகள்",
-      "lines": [
-       "துர்கா வழிபாடு, ராசலீலை, தர்ம யுத்தம் நிகழ்ச்சிகள்",
-       "தமிழ் நாடகம், சிறப்புப் பாடல் நிகழ்ச்சிகள்",
-       "பார்வையாளர்களை வெகுவாக கவர்ந்தன"
-      ]
-     }
-    ],
-    "carousel": false
-   },
-   "reel_script": "சேலம் செந்தில் பப்ளிக் பள்ளியில் 'ஜாய்வர்ஸ் - 26' கலைவிழா நடைபெற்றது. 3 முதல் 5ம் வகுப்பு மாணவர்களுக்கான இந்த விழா, பள்ளி வளாகத்திலுள்ள கந்தசாமி கன்வென்ஷன் ஹாலில் நடந்தது. பள்ளித் தலைவர் செந்தில் சி கந்தசாமி உள்ளிட்டோர் கலந்துகொண்டனர். சேலம் மாநகர காவல் உதவி ஆணையர் ரமாலி ராமலட்சுமி சிறப்பு விருந்தினராகப் பங்கேற்றார். குழந்தைகளுக்குத் தனிப்பட்ட மொபைல் போன்கள் தேவையில்லை என்று அவர் வலியுறுத்தினார். பெற்றோர் குழந்தைகளுடன் தரமான நேரத்தைச் செலவிட வேண்டும் என்றும் அவர் கூறினார். மாணவர்கள் இந்தியப் பாரம்பரியம், கலாசாரம், ஆன்மிகம் ஆகியவற்றை நிகழ்ச்சிகள் மூலம் வெளிப்படுத்தினர். துர்கா வழிபாடு, ராசலீலை, தர்ம யுத்தம், தமிழ் நாடகம், சிறப்புப் பாடல் ஆகிய நிகழ்ச்சிகள் பார்வையாளர்களை வெகுவாக கவர்ந்தன. மேலும் செய்திகளுக்கு சேலம் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🎭 சேலம் செந்தில் பப்ளிக் பள்ளியில் ஜாய்வர்ஸ் - 26 கலைவிழா\n\n📰 முழு விவரம்:\nசேலம், செந்தில் பப்ளிக் பள்ளியில் 3 முதல் 5ம் வகுப்பு மாணவர்களுக்கான 'ஜாய்வர்ஸ் - 26' கலைவிழா நடைபெற்றது. பள்ளி வளாகத்திலுள்ள கந்தசாமி கன்வென்ஷன் ஹாலில் நடந்த இந்த விழாவில் பள்ளித் தலைவர் செந்தில் சி.கந்தசாமி, துணைத்தலைவர், செயலாளர், தாளாளர் உள்ளிட்ட நிர்வாகிகளும் ஆசிரியர்களும் கலந்துகொண்டனர். சேலம் மாநகர காவல் உதவி ஆணையர் ரமாலி ராமலட்சுமி சிறப்பு விருந்தினராகப் பங்கேற்று, குழந்தைகளுக்குத் தனிப்பட்ட மொபைல் போன்கள் தேவையில்லை என்றும், பெற்றோர் குழந்தைகளுடன் தரமான நேரம் செலவிட வேண்டும் என்றும் வலியுறுத்தினார்.\n🎶 மாணவர்கள் இந்தியப் பாரம்பரியம், கலாசாரம், ஆன்மிகம், நவீன சிந்தனை, சமூக விழிப்புணர்வு ஆகியவற்றைத் தங்கள் கலைநிகழ்ச்சிகள் மூலம் வெளிப்படுத்தினர்.\n🎭 துர்கா வழிபாடு, ராசலீலை, தர்ம யுத்தம், தமிழ் நாடகம், சிறப்புப் பாடல் ஆகிய நிகழ்ச்சிகள் பார்வையாளர்களை வெகுவாகக் கவர்ந்தன.\n\nJoyvers 26 art festival at Senthil Public School, Salem | Salem news\n📍 சேலம் | 24 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Salem360 #Salem #SalemNews #சேலம்",
-   "prompts": "Young schoolchildren of Classes 3 to 5 perform a Durga worship dance on a brightly lit stage inside the Kandasamy Convention Hall of Senthil Public School in Salem city. Several girls in colourful silk pavadai and saree costumes with jasmine flowers in their hair stand in a graceful pose, while a boy in a dhoti and a child dressed as a goddess with a crown and a trident hold the centre. Behind them a decorated backdrop with a traditional lamp and a rangoli-style design fills the stage. In the foreground, rows of seated parents and teachers are seen from behind, slightly blurred, and a few microphone stands stand at the stage edge. Warm stage lighting shines on the performers in the evening. Camera at eye level, 35 mm lens, wide enough to show the whole stage and the audience hall. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up of a small group of young students in traditional Tamil costumes waiting backstage in a convention hall of Senthil Public School, Salem. Two children in a white dhoti and a girl in a bright green silk pavadai hold a wooden bow and a decorated cloth prop, and a paper crown and a painted mask lie on a folding table beside them. A school coordinator in a saree stands at the edge, seen from behind. The background shows the curtain of the stage and a row of chairs in the dim hall. Indoor warm light from stage lamps, daytime event. Camera at slightly high angle, 35 mm, close enough to show the props and costumes clearly. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-salem/joyers-26-arts-festival-at-senthil-public-school/4384794",
-   "published": "2026-11-24T05:50:00+05:30",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: hl1 (the first headline on screen) must name the place 'சேலம்', e.g. 'சேலம்: ...' or 'சேலம்-இல் ...' - viewers share news of their own area",
-   "note": "free-model draft anthropic/claude-haiku-5-5, 13 attempt(s), 1 validator problem(s)",
-   "post_time": "right after your reply, same day",
-   "_area": "N",
-   "_score": 999,
-   "images": [
-    "https://res.cloudinary.com/jrmwajfz/image/upload/v1795485441/salem360/ygjdl2p7dc0hilm0kblb.jpg",
-    "https://res.cloudinary.com/jrmwajfz/image/upload/v1795485445/salem360/kkqfkrbzufgz2gtylobw.jpg"
-   ]
-  },
-  {
-   "tamil_headline": "சேலம் வழியாக சென்ற ரயிலில் 1 கிலோ கஞ்சா பறிமுதல்",
-   "english_headline": "1 kg ganja seized from New Delhi-Thiruvananthapuram Express near Salem",
-   "category": "Crime & Safety",
-   "location": "Salem railway station area, Salem district",
-   "importance": "Medium",
-   "scope": "local",
-   "post_to": "Salem 360",
-   "slides_spec": {
-    "v": 3,
-    "cat": "போதைப் பொருள்",
-    "loc": "சேலம்",
-    "hl1": "ரயிலில் கடத்திய 1 கிலோ கஞ்சா பறிமுதல்",
-    "hl2": "தனிப்படை போலீசார் சோதனை",
-    "slides": [
-     {
-      "title": "என்ன நடந்தது?",
-      "lines": [
-       "நியூ-டெல்லி - திருவனந்தபுரம் எக்ஸ்பிரஸ் ரயிலில் சோதனை",
-       "மொம்மிடி முதல் கருப்பூர் வரை நடத்தப்பட்டது",
-       "முன்பக்க பொதுப் பெட்டியில் கேட்பாரற்று கிடந்த பேக்கில் கஞ்சா"
-      ]
-     },
-     {
-      "title": "எவ்வளவு கஞ்சா?",
-      "lines": [
-       "<b>1 கிலோ</b> கஞ்சா கைப்பற்றப்பட்டது",
-       "தனிப்படை போலீசார் கஞ்சாவைப் பறிமுதல் செய்தனர்",
-       "சேலம் ரயில்வே போலீசாரிடம் ஒப்படைக்கப்பட்டது"
-      ]
-     },
-     {
-      "title": "அடுத்து என்ன?",
-      "lines": [
-       "ரயில்வே போலீசார் விசாரித்து வருகின்றனர்",
-       "சேலம் வழியாக செல்லும் ரயில்களில் போதைப் பொருள்"
-      ]
-     }
-    ],
-    "carousel": false
-   },
-   "reel_script": "சேலம் வழியாக சென்ற ரயிலில் 1 கிலோ கஞ்சா பறிமுதல் செய்யப்பட்டுள்ளது. நேற்று ரயில்வே போலீசாரின் தனிப்படை, நியூ-டெல்லி - திருவனந்தபுரம் எக்ஸ்பிரஸ் ரயிலில் மொம்மிடி முதல் கருப்பூர் வரை சோதனை நடத்தினர். முன்பக்கப் பொதுப் பெட்டியில் கேட்பாரற்று கிடந்த பேக்கைச் சோதனை செய்தபோது 1 கிலோ கஞ்சா இருந்தது. தனிப்படை போலீசார் கஞ்சாவைப் பறிமுதல் செய்து சேலம் ரயில்வே போலீசாரிடம் ஒப்படைத்தனர். வடமாநிலங்களில் இருந்து சேலம் வழியாக கேரளா செல்லும் ரயில்களில் போதைப் பொருள் கடத்தலைத் தடுக்க சோதனை தொடர்ந்து நடைபெறுகிறது. இது குறித்து ரயில்வே போலீசார் விசாரித்து வருகின்றனர். மேலும் செய்திகளுக்கு சேலம் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🚨 சேலம் வழியாக சென்ற ரயிலில் 1 கிலோ கஞ்சா பறிமுதல்\n\n📰 முழு விவரம்:\nவடமாநிலங்களில் இருந்து சேலம் வழியாக கேரளா செல்லும் ரயில்களில் போதைப் பொருளைத் தடுக்க ரயில்வே போலீசார் தனிப்படை அமைத்துச் சோதனை நடத்தி வருகின்றனர்.\nநேற்று தனிப்படை போலீசார் நியூ-டெல்லி - திருவனந்தபுரம் எக்ஸ்பிரஸ் ரயிலில் மொம்மிடி முதல் கருப்பூர் வரை சோதனை நடத்தினர்.\nமுன்பக்க பொதுப் பெட்டியில் கேட்பாரற்று கிடந்த பேக்கில் 1 கிலோ கஞ்சா இருந்தது.\nகஞ்சாவைப் பறிமுதல் செய்த தனிப்படை போலீசார் சேலம் ரயில்வே போலீசாரிடம் ஒப்படைத்தனர். ரயில்வே போலீசார் விசாரித்து வருகின்றனர்.\n\n📍 இடம்: சேலம் வழியாக செல்லும் ரயில், மொம்மிடி - கருப்பூர் இடையே\n🗓️ நாள்: நேற்று (நவம்பர் 23)\n👮 நடவடிக்கை: 1 கிலோ கஞ்சா பறிமுதல், சேலம் ரயில்வே போலீசாரிடம் ஒப்படைப்பு\n\nSalem train ganja seizure 1 kg | Salem news\n📍 சேலம், சேலம் மாவட்டம் | 24 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Salem360 #Salem #SalemNews #சேலம்",
-   "prompts": "Two Tamil Nadu railway police personnel in khaki uniform stand beside a seized, unattended bag on the floor of a general compartment of an express train at Salem railway station, examining it in a search operation against ganja smuggling. The narrow aisle has rows of worn seats, overhead luggage racks and metal poles, with a few passengers seen far away and from behind near the doorway. Through the open window, the platform and the railway station's tiled roof are visible under daylight, with a bit of the city and Shevaroy hills faintly in the far background. Camera at eye level, 35 mm, wide enough to show the compartment and platform. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up of a plastic-wrapped packet of seized ganja, dry greenish-brown plant material, lying on a metal table or railway police bench beside a dark cloth bag, with a khaki-uniformed police hand partly visible at the edge of the frame. Behind, slightly out of focus, a railway platform with a train's steel carriage and a blurred station pillar. Natural daylight from a side window, a few small seized items and a folded khaki cap on the table. No readable text, no faces, no labels. Camera close, shallow depth of field, 35 mm. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-salem/cannabis-smuggled-on-a-train-seized/4384767",
-   "published": "2026-11-24T05:14:00+05:30",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: hl1 (the first headline on screen) must name the place 'சேலம்', e.g. 'சேலம்: ...' or 'சேலம்-இல் ...' - viewers share news of their own area",
-   "note": "free-model draft anthropic/claude-haiku-5-5, 11 attempt(s), 1 validator problem(s)",
-   "post_time": "right after your reply, same day",
-   "_area": "N",
-   "_score": 999,
-   "images": [
-    "https://res.cloudinary.com/jrmwajfz/image/upload/v1795485451/salem360/vtpqexq9ipe6uwmafevg.jpg",
-    "https://res.cloudinary.com/jrmwajfz/image/upload/v1795485454/salem360/cioskssam1buuojwts9w.jpg"
-   ]
-  },
-  {
-   "tamil_headline": "மாணவர் பெயரில் ரூ.75 கோடி வங்கி கடன் மோசடி: இருவர் போலீஸ் காவலில்",
-   "english_headline": "Bank loan fraud in students' names, Rs 75 crore: two women taken into police custody for questioning",
-   "category": "Crime & Safety",
-   "location": "Salem city, Salem district",
-   "importance": "High",
-   "scope": "district",
-   "post_to": "Salem 360",
-   "slides_spec": {
-    "v": 3,
-    "cat": "மோசடி வழக்கு",
-    "loc": "சேலம் மாநகரம்",
-    "hl1": "மாணவர் பெயரில் வங்கி கடன் மோசடி",
-    "hl2": "ரூ.75 கோடி வரை மோசடி",
-    "slides": [
-     {
-      "title": "என்ன நடந்தது?",
-      "lines": [
-       "கன்னங்குறிச்சி கண்ணகி அறக்கட்டளை நடத்தி வந்தார்",
-       "வங்கி கடன் பெற்று தருவதாக கல்லூரி மாணவர்களை ஏமாற்றினார்",
-       "ஆதார் உள்ளிட்ட ஆவணங்களை வாங்கிக்கொண்டார்"
-      ]
-     },
-     {
-      "title": "எவ்வளவு மோசடி?",
-      "lines": [
-       "<b>7,500</b>க்கும் மேற்பட்ட மாணவர்கள் பாதிக்கப்பட்டனர்",
-       "<b>ரூ.75 கோடி</b> வரை மோசடி செய்ததாகத் தெரிகிறது",
-       "சேலம், நாமக்கல், தர்மபுரி மாவட்டங்களில் மோசடி"
-      ]
-     },
-     {
-      "title": "போலீஸ் நடவடிக்கை",
-      "lines": [
-       "மத்திய குற்றப்பிரிவு போலீசார் வழக்குப் பதிந்தனர்",
-       "<b>8 பேர்</b> கைது செய்யப்பட்டனர்",
-       "கண்ணகி, மோனிஷா இருவரும் போலீஸ் காவலில் விசாரணை"
-      ]
-     }
-    ],
-    "carousel": false
-   },
-   "reel_script": "சேலத்தில் மாணவர்கள் பெயரில் ரூ.75 கோடி வரை வங்கி கடன் மோசடி நடந்துள்ளது. சேலம் கன்னங்குறிச்சியைச் சேர்ந்த கண்ணகி பெஸ்ட் எம்பவர்மென்ட் சர்வீஸ் டிரஸ்ட் என்ற பெயரில் அறக்கட்டளை நடத்தி வந்தார். கல்லூரி மாணவர்களிடம் வங்கி கடன் பெற்றுத் தருவதாகக் கூறி ஆதார் உள்ளிட்ட ஆவணங்களை வாங்கினார். மாணவர்களின் வங்கி கணக்கில் ஒரு லட்சம் ரூபாய் வரவு வைக்கப்படும் என்று ஆசை வார்த்தை கூறினார். ஆயிரம் ரூபாய் கமிஷன் தருவதாகவும் சொன்னார். மாணவர்களின் பெயரில் ஒரு லட்சம் ரூபாய் வீதம் கடன் பெறப்பட்டு, அந்தத் தொகை வேறு வங்கி கணக்கிற்கு மாற்றப்பட்டு மோசடி நடந்தது விசாரணையில் தெரியவந்தது. சேலம், நாமக்கல், தர்மபுரி மாவட்டங்களில் 7,500க்கும் மேற்பட்ட மாணவர்கள் பாதிக்கப்பட்டதாகத் தெரிகிறது. பாதிக்கப்பட்ட மாணவர்களின் புகாரின்படி, சேலம் மாநகர மத்திய குற்றப்பிரிவு போலீசார் வழக்குப் பதிந்து விசாரணை நடத்தினர். அறக்கட்டளை உரிமையாளர் கண்ணகி உள்பட 8 பேரை போலீசார் கைது செய்தனர். முக்கிய குற்றவாளிகளான கண்ணகி, மோனிஷா ஆகிய இருவரையும் நீதிமன்றக் காவலில் எடுத்து விசாரிக்க போலீசார் மனு தாக்கல் செய்தனர். சேலம் ஜே எம் 4 நீதிமன்றம் ஒரு நாள் நீதிமன்றக் காவலில் எடுத்து விசாரிக்க உத்தரவிட்டது. பின்னர் இருவரையும் மத்திய குற்றப்பிரிவு போலீசார் போலீஸ் காவலில் எடுத்து விசாரித்து வருகின்றனர். மேலும் செய்திகளுக்கு சேலம் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🚨 மாணவர் பெயரில் ரூ.75 கோடி வங்கி கடன் மோசடி: இருவர் போலீஸ் காவலில்\n\n📰 முழு விவரம்:\nசேலம் கன்னங்குறிச்சியைச் சேர்ந்த கண்ணகி பெஸ்ட் எம்பவர்மென்ட் சர்வீஸ் டிரஸ்ட் என்ற பெயரில் அறக்கட்டளை நடத்தி வந்தார். கல்லூரி மாணவர்களிடம் வங்கி கடன் பெற்றுத் தருவதாகக் கூறி ஆதார் உள்ளிட்ட ஆவணங்களைப் பெற்றார். மாணவர்களின் பெயரில் ஒரு லட்சம் ரூபாய் வீதம் கடன் பெற்று, அந்தத் தொகையை வேறு வங்கி கணக்கிற்கு மாற்றி மோசடி செய்தது விசாரணையில் தெரியவந்தது.\nசேலம், நாமக்கல், தர்மபுரி மாவட்டங்களில் 7,500க்கும் மேற்பட்ட மாணவர்களிடம் ரூ.75 கோடி வரை மோசடி நடந்ததாகத் தெரிகிறது.\n👮 நடவடிக்கை: சேலம் மாநகர மத்திய குற்றப்பிரிவு போலீசார் வழக்குப் பதிந்து 8 பேரைக் கைது செய்தனர். கண்ணகி (45 வயது), முத்துக்குமரன் (42 வயது), மோனிஷா (28 வயது) உள்பட 8 பேர் கைது.\n⚖️ கண்ணகி, மோனிஷா ஆகிய இருவரையும் 1 நாள் நீதிமன்றக் காவலில் எடுத்து விசாரிக்க சேலம் ஜே.எம். 4 நீதிமன்றம் உத்தரவிட்டது. பின்னர் இருவரையும் போலீஸ் காவலில் எடுத்து விசாரித்து வருகின்றனர்.\n\nBank loan fraud in students' names Salem, Rs 75 crore | Salem news\n📍 சேலம் மாநகரம், சேலம் மாவட்டம் | 24 நவம்பர் 2026\n\nதேவைப்படுவோருக்கு Share செய்யுங்கள்.\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Salem360 #Salem #SalemNews #சேலம் #Salem360",
-   "prompts": "Two women accused in a bank loan fraud case are escorted by Tamil Nadu police in khaki from a police jeep into the compound of the Salem city Central Crime Branch office, seen from behind and far away. The setting is a government police office in Salem city with a plain concrete gate, a white police jeep parked near the entrance, and a few uniformed constables walking beside the women. The women wear a cotton saree and a salwar kameez, their heads slightly bowed and faces turned away from the camera, while a small group of onlookers stands at a distance by the gate. It is bright daylight with a clear sky and soft shadows on the pavement. Shot at eye level on a 35 mm lens, wide enough to show the police jeep, the gate and the compound around the scene. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up on a wooden table in a police office in Salem city, with a stack of loan application files, bank documents and a few Aadhaar card copies spread out in front of a khaki-uniformed police officer's hand resting on the papers. The table sits in a plain government room with a tube light and a grey steel almirah in the background, and the officer's sleeve in khaki is visible at the edge of the frame. The documents are shown only as stacks of paper and plastic cards with no readable text, no letters or numbers visible. Soft indoor daylight comes through a barred window, giving a calm, investigative mood. Shot at close range on a 35 mm lens, focused on the pile of documents with the officer's hand and the edge of the table in view. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-salem/two-held-for-bank-loan-fraud-in-students-name/4384768",
-   "published": "2026-11-24T05:15:00+05:30",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: hl1 (the first headline on screen) must name the place 'சேலம் மாநகரம்', e.g. 'சேலம் மாநகரம்: ...' or 'சேலம் மாநகரம்-இல் ...' - viewers share news of their own area; caption misses facts of the article (put every one in 📰 முழு விவரம்): 1,000 ('பின்னர், மாணவர்களின் வங்கி கணக்கில், பெடரல் வங்கி மூலம் 1 லட')",
-   "note": "free-model draft anthropic/claude-haiku-5-5, 13 attempt(s), 2 validator problem(s)",
-   "post_time": "right after your reply, same day",
-   "_area": "N",
-   "_score": 999,
-   "images": [
-    "https://res.cloudinary.com/jrmwajfz/image/upload/v1795485592/salem360/wtnr1tqzx4lyawiie9mu.jpg",
-    "https://res.cloudinary.com/jrmwajfz/image/upload/v1795485597/salem360/rfvnr4fhwcafgz8o2vqr.jpg"
+    "https://res.cloudinary.com/jrmwajfz/image/upload/v1795501370/salem360/lzet78xrhnrbm9ytdvsd.jpg",
+    "https://res.cloudinary.com/jrmwajfz/image/upload/v1795501374/salem360/sher1riovhznj0iutsr4.jpg"
    ]
   }
  ]
