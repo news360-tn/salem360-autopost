@@ -83,6 +83,9 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 <!-- recent-changes:start (updated automatically by .github/workflows/context.yml - do not edit by hand) -->
 | Date | Commit | Change |
 |---|---|---|
+| 2026-11-24 | `3948541` | Google News links: when Google refuses the decoder (429), the same headline on Bing (same newspaper) gives the article link - news is no longer dropped |
+| 2026-11-24 | `042b21f` | stories shared / Instagram pause |
+| 2026-11-24 | `8df6ec0` | pick: picked news saved |
 | 2026-11-24 | `75a706f` | stories shared / Instagram pause |
 | 2026-11-24 | `b6e4d37` | A death-toll update (மேலும் ஒருவர் உயிரிழப்பு / எண்ணிக்கை உயர்வு) is new news, not a duplicate of the first report |
 | 2026-11-24 | `490a831` | pick: picked news saved |
@@ -110,7 +113,4 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 | 2026-11-24 | `42999f7` | pick: picked news saved |
 | 2026-11-24 | `382a60c` | pick: list sent |
 | 2026-11-24 | `b26a5ea` | stories shared / Instagram pause |
-| 2026-11-24 | `2edcfb8` | pick: written and posted |
-| 2026-11-24 | `d61a230` | facebook RN-275 |
-| 2026-11-24 | `3aa0db5` | posted RN-275 |
 <!-- recent-changes:end -->
