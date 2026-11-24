@@ -20,3 +20,5 @@ jobs:
         run: python poster/igdirect.py salem | tee -a "$GITHUB_STEP_SUMMARY"
       - name: Latest Facebook posts (owner 22 Nov)
         run: python poster/facebook.py recent salem | tee -a "$GITHUB_STEP_SUMMARY"
+      - name: Facebook views of the latest reels (owner 24 Nov)
+        run: python poster/facebook.py views salem | tee -a "$GITHUB_STEP_SUMMARY"
