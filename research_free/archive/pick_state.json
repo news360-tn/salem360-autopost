@@ -1,20 +1,6 @@
 {
- "last_end": "2026-11-24T18:18:33.949492+05:30",
+ "last_end": "2026-11-24T20:30:35.154903+05:30",
  "pool": {
-  "C4c8b2a4": {
-   "id": "C4c8b2a4",
-   "url": "https://www.dinamalar.com/news/tamil-nadu-news/maintenance-work-at-erode-2-train-service-converted/4384262",
-   "title": "ஈரோடில் பராமரிப்பு பணி: 2 ரயில் சேவையில் மாற்றம்",
-   "summary": "சேலம்: ஈரோடு ரயில்வே ஸ்டேஷனில், பராமரிப்பு பணி மேற்கொள்வதால், அதன் வழியாக இயக்கப்படும், இரு ரயில்களின் சேவையில் மாற்றம் செய்யப்பட்டுள்ளது. அதன்படி, எர்ணாகுளம் – டாட்டா நகர் எக்ஸ்பிரஸ் ரயில், நாளை, (25) மற்றும், 28, 30...",
-   "source": "தினமலர்",
-   "published": "2026-11-23T19:05:02+05:30",
-   "category": "ரயில்",
-   "score": 6.0,
-   "power_cut": false,
-   "listed_at": "2026-11-23T20:32:32.560793+05:30",
-   "picked_at": "2026-11-23T20:35:40.476494+05:30",
-   "refused": "not filed: not Salem district news (the story's first lines name another place and no Salem place)"
-  },
   "Ce9a8fd8": {
    "id": "Ce9a8fd8",
    "url": "https://www.hindutamil.in/news/supplements/agriculture/kuppanur-bitter-gourds-are-exported-to-european-countries",
@@ -31,40 +17,6 @@
   }
  },
  "rounds": {
-  "2026-11-22_20": {
-   "window": [
-    "2026-11-22T17:10:40.977864+05:30",
-    "2026-11-22T20:18:58.835334+05:30"
-   ],
-   "ids": [
-    "C6fac304",
-    "Ce2ca73c",
-    "Ce203e84",
-    "C3c7d5c0",
-    "C422d8f8"
-   ],
-   "sent": false,
-   "deadline": "2026-11-22T21:18:58.835334+05:30",
-   "decided": {
-    "how": "automatic: top 5 of 3 by insights",
-    "ids": [
-     "C6fac304",
-     "Ce2ca73c",
-     "Ce203e84"
-    ],
-    "at": "2026-11-22T20:22:53.827410+05:30"
-   },
-   "written": [
-    "C6fac304",
-    "Ce203e84",
-    "Ce2ca73c"
-   ],
-   "refused": {
-    "Ce203e84": "not written: the day's maximum of 30 news was reached",
-    "Ce2ca73c": "not written: the day's maximum of 30 news was reached",
-    "C6fac304": "not written: the day's maximum of 30 news was reached"
-   }
-  },
   "2026-11-22_22": {
    "window": [
     "2026-11-22T20:18:58.835334+05:30",
@@ -551,6 +503,17 @@
    "ids": [],
    "sent": false,
    "deadline": "2026-11-24T19:18:33.949492+05:30",
+   "decided": null,
+   "written": []
+  },
+  "2026-11-24_20": {
+   "window": [
+    "2026-11-24T18:18:33.949492+05:30",
+    "2026-11-24T20:30:35.154903+05:30"
+   ],
+   "ids": [],
+   "sent": false,
+   "deadline": "2026-11-24T21:30:35.154903+05:30",
    "decided": null,
    "written": []
   }
