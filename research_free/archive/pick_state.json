@@ -165,7 +165,8 @@
    "score": 12.5,
    "power_cut": false,
    "listed_at": "2026-11-25T23:00:36.735497+05:30",
-   "picked_at": "2026-11-25T23:02:00.402068+05:30"
+   "picked_at": "2026-11-25T23:02:00.402068+05:30",
+   "refused": "not filed: bad draft: 'scenes'"
   },
   "Cea676bd": {
    "id": "Cea676bd",
@@ -181,7 +182,8 @@
     "https://www.dinamalar.com/news/tamil-nadu-news/one-more-killed-in-bus-truck-collision/4386375"
    ],
    "listed_at": "2026-11-25T23:00:36.735497+05:30",
-   "picked_at": "2026-11-25T23:02:00.402069+05:30"
+   "picked_at": "2026-11-25T23:02:00.402069+05:30",
+   "posted": true
   }
  },
  "rounds": {
@@ -640,7 +642,10 @@
    "written": [
     "Cdd120e5",
     "Cea676bd"
-   ]
+   ],
+   "refused": {
+    "Cdd120e5": "not filed: bad draft: 'scenes'"
+   }
   }
  },
  "retry": {}
