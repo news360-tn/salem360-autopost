@@ -83,6 +83,16 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 <!-- recent-changes:start (updated automatically by .github/workflows/context.yml - do not edit by hand) -->
 | Date | Commit | Change |
 |---|---|---|
+| 2026-11-25 | `8caa99f` | Per-post e-mail for every post, at most 60 a day for all 7 pages together (one Gmail account); later posts are in the daily summary |
+| 2026-11-25 | `ac2644b` | stories shared / Instagram pause |
+| 2026-11-25 | `65b819a` | stories shared / Instagram pause |
+| 2026-11-25 | `aa024c7` | stories shared / Instagram pause |
+| 2026-11-25 | `0c7c483` | stories shared / Instagram pause |
+| 2026-11-25 | `2a92249` | stories shared / Instagram pause |
+| 2026-11-25 | `2e6c32a` | stories shared / Instagram pause |
+| 2026-11-25 | `11dc80c` | stories shared / Instagram pause |
+| 2026-11-25 | `d58c0d9` | stories shared / Instagram pause |
+| 2026-11-25 | `078826d` | stories shared / Instagram pause |
 | 2026-11-25 | `a16155c` | R2: one folder per page (the repository name) in every job, so the 24-hour clean-up finds every file |
 | 2026-11-25 | `b73b1d5` | facebook RN-288 |
 | 2026-11-25 | `69b6e4f` | posted RN-288 |
@@ -103,14 +113,4 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 | 2026-11-25 | `f20a012` | stories shared / Instagram pause |
 | 2026-11-25 | `67e1f5a` | stories shared / Instagram pause |
 | 2026-11-25 | `af5c739` | stories shared / Instagram pause |
-| 2026-11-25 | `a89a382` | stories shared / Instagram pause |
-| 2026-11-25 | `892b9b5` | stories shared / Instagram pause |
-| 2026-11-25 | `1f24325` | stories shared / Instagram pause |
-| 2026-11-25 | `9b7b937` | R2: accept the Account ID pasted as a link or with spaces; clear message when it is another value |
-| 2026-11-25 | `9a304e9` | stories shared / Instagram pause |
-| 2026-11-25 | `6461584` | stories shared / Instagram pause |
-| 2026-11-25 | `d2a1355` | stories shared / Instagram pause |
-| 2026-11-25 | `564c057` | stories shared / Instagram pause |
-| 2026-11-25 | `81bcf03` | stories shared / Instagram pause |
-| 2026-11-25 | `7c7913a` | stories shared / Instagram pause |
 <!-- recent-changes:end -->
