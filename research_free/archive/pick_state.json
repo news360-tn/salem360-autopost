@@ -164,7 +164,8 @@
    "category": "குற்றம்",
    "score": 12.5,
    "power_cut": false,
-   "listed_at": "2026-11-25T23:00:36.735497+05:30"
+   "listed_at": "2026-11-25T23:00:36.735497+05:30",
+   "picked_at": "2026-11-25T23:02:00.402068+05:30"
   },
   "Cea676bd": {
    "id": "Cea676bd",
@@ -179,7 +180,8 @@
    "alts": [
     "https://www.dinamalar.com/news/tamil-nadu-news/one-more-killed-in-bus-truck-collision/4386375"
    ],
-   "listed_at": "2026-11-25T23:00:36.735497+05:30"
+   "listed_at": "2026-11-25T23:00:36.735497+05:30",
+   "picked_at": "2026-11-25T23:02:00.402069+05:30"
   }
  },
  "rounds": {
@@ -627,8 +629,18 @@
    ],
    "sent": false,
    "deadline": "2026-11-26T00:00:36.735497+05:30",
-   "decided": null,
-   "written": []
+   "decided": {
+    "how": "automatic: top 3 of 2 by insights",
+    "ids": [
+     "Cdd120e5",
+     "Cea676bd"
+    ],
+    "at": "2026-11-25T23:02:00.402059+05:30"
+   },
+   "written": [
+    "Cdd120e5",
+    "Cea676bd"
+   ]
   }
  },
  "retry": {}
