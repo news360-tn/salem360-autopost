@@ -83,6 +83,9 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 <!-- recent-changes:start (updated automatically by .github/workflows/context.yml - do not edit by hand) -->
 | Date | Commit | Change |
 |---|---|---|
+| 2026-11-25 | `a16155c` | R2: one folder per page (the repository name) in every job, so the 24-hour clean-up finds every file |
+| 2026-11-25 | `b73b1d5` | facebook RN-288 |
+| 2026-11-25 | `69b6e4f` | posted RN-288 |
 | 2026-11-25 | `8f45d2e` | Clean-up keeps 24 hours only: Cloudflare R2 (this page's folder), Cloudinary and the media/ fallback folder |
 | 2026-11-25 | `60d6d21` | R2 free-tier safety: at most 300 MB and 400 files per page per day, 100 MB per file; usage read from the bucket before each upload; over a limit R2 is skipped until tomorrow |
 | 2026-11-25 | `f2996c6` | stories shared / Instagram pause |
@@ -110,7 +113,4 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 | 2026-11-25 | `564c057` | stories shared / Instagram pause |
 | 2026-11-25 | `81bcf03` | stories shared / Instagram pause |
 | 2026-11-25 | `7c7913a` | stories shared / Instagram pause |
-| 2026-11-25 | `45f0b52` | stories shared / Instagram pause |
-| 2026-11-25 | `a3c29d2` | YouTube: public Shorts, 20 a day, 40-minute gap, 7am-10pm IST (same as Namakkal and Coimbatore); starts once the page's YT secrets are saved |
-| 2026-11-25 | `c482ec5` | R2 check: manual workflow that uploads a test file and reads it back |
 <!-- recent-changes:end -->
