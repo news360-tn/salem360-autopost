@@ -83,6 +83,12 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 <!-- recent-changes:start (updated automatically by .github/workflows/context.yml - do not edit by hand) -->
 | Date | Commit | Change |
 |---|---|---|
+| 2026-11-25 | `105b1c1` | Cloudflare R2 (one shared bucket news360-media) replaces Cloudinary: R2 first, then Cloudinary, then the repo; nothing changes until the R2 secrets are saved; manual-post test uses today's date |
+| 2026-11-25 | `41c8903` | stories shared / Instagram pause |
+| 2026-11-25 | `cedaef3` | stories shared / Instagram pause |
+| 2026-11-25 | `7e1f07c` | stories shared / Instagram pause |
+| 2026-11-25 | `dbf4054` | stories shared / Instagram pause |
+| 2026-11-25 | `478c557` | stories shared / Instagram pause |
 | 2026-11-25 | `71ec13b` | Rasipalan: each page keeps the day's 12 rasi texts; when every AI writer is busy, a page uses the text another 360 page wrote that day |
 | 2026-11-25 | `b1d42b3` | stories shared / Instagram pause |
 | 2026-11-25 | `2128338` | stories shared / Instagram pause |
@@ -107,10 +113,4 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 | 2026-11-25 | `6baffe5` | stories shared / Instagram pause |
 | 2026-11-25 | `f17d40c` | stories shared / Instagram pause |
 | 2026-11-25 | `5b43de5` | stories shared / Instagram pause |
-| 2026-11-25 | `fecb358` | stories shared / Instagram pause |
-| 2026-11-25 | `f3e3361` | stories shared / Instagram pause |
-| 2026-11-25 | `56d4f3e` | stories shared / Instagram pause |
-| 2026-11-25 | `94a1b6a` | stories shared / Instagram pause |
-| 2026-11-25 | `4f54467` | stories shared / Instagram pause |
-| 2026-11-25 | `5507fba` | pick: written and posted |
 <!-- recent-changes:end -->
