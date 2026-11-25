@@ -3,34 +3,27 @@
   "earlier stories still waiting for images: []",
   "instagram check: 50 recent posts read from the page",
   "pick round: only the picked links are written (research_free/pick.py)",
-  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-salem/rs8000-bribe-for-patta-transfer-vao-assistant-arrested/4385917",
-  "manual link added: https://www.dinamalar.com/news/tamil-nadu-news/2-flights-daily-112-passengers-salem-airport-closed/4386135",
-  "manual link added: https://www.dinamalar.com/news/tamil-nadu-news/the-thaipusam-festival-salem-express-will-stop-at-the-upper-pole/4386048",
-  "candidate filter: collected=3",
-  "to write: 3 Salem district candidates (max 3 stories)",
-  "round: top 3 of 3 candidates",
-  "candidates waiting: 3 Salem; time left 79 min",
-  "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-news/the-thaipusam",
-  "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-news/2-flights-dai",
+  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-salem/bihar-man-gets-double-life-for-killing-couple-stealing-10-sovereigns/4386371",
+  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-salem/one-more-killed-in-bus-truck-collision/4386375",
+  "candidate filter: collected=2",
+  "to write: 2 Salem district candidates (max 2 stories)",
+  "round: top 2 of 2 candidates",
+  "candidates waiting: 2 Salem; time left 79 min",
+  "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-sale",
   "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-sale",
   "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 2})",
   "posting job started at once",
-  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 4})",
-  "NOT filed (N) பட்டா மாற்ற ரூ.8,000 லஞ்சம்: விஏஓ,  உதவியாளர் கைது: bad draft: 'scenes'",
-  "candidate loop ended: left 0, tried={'N': 3}, done={'N': 2}, time left 78 min",
-  "filed: 2 Salem district stories (target 3), reels only",
+  "NOT filed (N) தம்பதியை கொன்று 10 சவரன் திருட்டு பீஹார் வாலிபருக்: bad draft: 'scenes'",
+  "candidate loop ended: left 0, tried={'N': 2}, done={'N': 1}, time left 79 min",
+  "filed: 1 Salem district stories (target 2), reels only",
   "queue: 0 news waiting to be written",
-  "All News sheet: {\"ok\":true,\"added\":3,\"updated\":0}"
+  "All News sheet: {\"ok\":true,\"added\":2,\"updated\":0}"
  ],
  "llm": [
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
-  "dead for this round: gemini/gemini-3.6-flash",
   "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
   "dead for this round: gemini/gemini-3.6-flash",
   "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
@@ -46,157 +39,88 @@
   "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
   "ok groq/openai/gpt-oss-120b (7s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
   "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
   "switching away from groq/openai/gpt-oss-120b for 10 min",
-  "ok groq/qwen/qwen3.8-27b (5s)",
+  "ok groq/qwen/qwen3.8-27b (6s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
   "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
   "switching away from groq/openai/gpt-oss-120b for 10 min",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
-  "ok gemini/gemini-3.5-flash (26s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
   "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
   "switching away from groq/qwen/qwen3.8-27b for 10 min",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
   "switching away from groq/qwen/qwen3.8-27b for 10 min",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b"
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash"
  ],
  "stories": [
   {
-   "tamil_headline": "மேல்மருவத்தூரில் தைப்பூச விழாவுக்காக சேலம் எக்ஸ்பிரஸ் ரயில் நின்று செல்லும்",
-   "english_headline": "Salem Express halts at Melmaruvathur for Thaipoosam festival",
-   "category": "Roads & Transport",
-   "location": "Melmaruvathur, Chengalpattu district",
-   "importance": "Low",
+   "tamil_headline": "சேலத்தில் பஸ் மோதிய விபத்தில் இரண்டாவது நபர் உயிரிழப்பு",
+   "english_headline": "Second person dies in Salem bus accident",
+   "category": "Crime & Safety",
+   "location": "Salem city, Salem district",
+   "importance": "Medium",
    "scope": "local",
    "post_to": "Salem 360",
    "slides_spec": {
     "v": 3,
-    "cat": "ரயில் தகவல்",
-    "loc": "மேல்மருவத்தூர், செங்கல்பட்டு",
-    "hl1": "மேல்மருவத்தூரில் சேலம் நின்று செல்லும்",
-    "hl2": "டிசம்பர் 5 முதல் ஜனவரி 1 வரை",
+    "cat": "விபத்து",
+    "loc": "சேலம், உத்தமசோழபுரம்",
+    "hl1": "சேலத்தில் பஸ் 2ஆவது நபர் உயிரிழப்பு",
+    "hl2": "நவம்பர் 17ம் தேதி சம்பவம்",
     "slides": [
      {
-      "title": "ரயில் நிறுத்தம்",
+      "title": "விபத்து விவரம்",
       "lines": [
-       "செங்கல்பட்டு மாவட்டம், <b>மேல்மருவத்தூர்</b> ஸ்டேஷனில்",
-       "ஆதிபராசக்தி கோவில் இருமுடி மற்றும் தைப்பூச விழாவுக்காக இது",
-       "பக்தர்கள் பயணிக்க எளிதாக இருக்கும்"
+       "உத்தமசோழபுரம் மேம்பாலத்தில் பஸ் மோதியது",
+       "அதிகாலை 1:30 மணிக்கு பஸ் மோதியது",
+       "21 வயது இளைஞர்கள் இருவரும் பயணம் செய்தனர்"
       ]
      },
      {
-      "title": "நேர விவரம்",
+      "title": "உயிரிழப்பு",
       "lines": [
-       "<b>டிசம்பர் 5</b> முதல் <b>ஜனவரி 1</b> வரை இந்த அமைப்பு நடைபெறும்",
-       "ரயில் நள்ளிரவு <b>1:13</b> மணிக்கு ஸ்டேஷனுக்கு வரும்",
-       "<b>1:15</b> மணிக்கு ரயில் புறப்படும்"
+       "சம்பவ இடத்தில் ஒருவர் உயிரிழந்தார்",
+       "மதுரை மருத்துவமனையில் மற்றவர் உயிரிழந்தார்",
+       "நேற்று இரண்டாவது நபர் உயிரிழந்தார்"
       ]
      },
      {
-      "title": "சிறப்பு ரயில்",
+      "title": "போலீஸ் நடவடிக்கை",
       "lines": [
-       "இன்று இரவு <b>10:45</b> மணிக்கு தானாப்பூரில் இருந்து",
-       "இந்த ரயில் <b>சேலம்</b> வழியாக சென்று எர்ணாகுளத்தை அடையும்",
-       "சேலம் ரயில்வே கோட்ட நிர்வாகம் இந்த தகவலை தெரிவித்தது"
+       "கொண்டலாம்பட்டி போலீசார் விசாரிக்கின்றனர்",
+       "விபத்து தொடர்பான விவரங்கள் சேகரிக்கப்படுகின்றன"
       ]
      }
     ],
     "carousel": false
    },
-   "reel_script": "மேல்மருவத்தூர் ரயில் நிலையத்தில் சேலம் எக்ஸ்பிரஸ் ரயில் நின்று செல்லும். செங்கல்பட்டு மாவட்டம், மேல்மருவத்தூர் ஆதிபராசக்தி கோவில் இருமுடி மற்றும் தைப்பூச விழாவுக்காக இது நடக்கிறது. டிசம்பர் 5 முதல் ஜனவரி 1 வரை இந்த அமைப்பு நடைபெறும். ரயில் நள்ளிரவு 1:13 மணிக்கு ஸ்டேஷனுக்கு வரும். 1:15 மணிக்கு ரயில் புறப்படும். பக்தர்கள் பயணிக்க எளிதாக இருக்கும். இன்று இரவு 10:45 மணிக்கு பீஹார் மாநிலம் தானாப்பூரில் இருந்து ஒருவழி சிறப்பு ரயில் புறப்படும். இந்த ரயில் சேலம், ஈரோடு, கோவை வழியாக சென்று எர்ணாகுளத்தை அடையும். 28ம் தேதி இரவு 7:15 மணிக்கு சேலம் ரயில் நிலையத்தை அடையும். 29ம் தேதி அதிகாலை 3:00 மணிக்கு எர்ணாகுளத்தை அடையும். சேலம் ரயில்வே கோட்ட நிர்வாகம் இந்த தகவலை தெரிவித்தது. மேலும் செய்திகளுக்கு சேலம் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🚆 மேல்மருவத்தூரில் தைப்பூச விழாவுக்காக சேலம் எக்ஸ்பிரஸ் ரயில் நின்று செல்லும்\n\n📰 முழு விவரம்:\nசெங்கல்பட்டு மாவட்டம், மேல்மருவத்தூர் ஆதிபராசக்தி கோவில் இருமுடி மற்றும் தைப்பூச விழாவுக்காக சிறப்பு அமைப்பு செய்யப்பட்டுள்ளது. டிசம்பர் 5 முதல் ஜனவரி 1 வரை சென்னை எழும்பூர் – சேலம் எக்ஸ்பிரஸ் ரயில் மேல்மருவத்தூர் ஸ்டேஷனில் 2 நிமிடங்கள் நின்று செல்லும். ரயில் நள்ளிரவு 1:13 மணிக்கு வந்து, 1:15 மணிக்கு புறப்படும். பக்தர்கள் பயணிக்க எளிதாக இருக்கும். இன்று இரவு 10:45 மணிக்கு பீஹார் மாநிலம் தானாப்பூரில் இருந்து எர்ணாகுளத்துக்கு ஒருவழி சிறப்பு ரயில் புறப்படும். இந்த ரயில் சேலம், ஈரோடு, கோவை வழியாக சென்று 29ம் தேதி அதிகாலை 3:00 மணிக்கு எர்ணாகுளத்தை அடையும். 28ம் தேதி இரவு 7:15 மணிக்கு சேலம், 8:20 மணிக்கு ஈரோடு வந்து செல்லும். சேலம் ரயில்வே கோட்ட நிர்வாகம் இந்த தகவலை தெரிவித்தது.\n\n📍 இடம்: மேல்மருவத்தூர், செங்கல்பட்டு மாவட்டம்\n🗓️ நாள்: டிசம்பர் 5 முதல் ஜனவரி 1 வரை\n🕘 நேரம்: நள்ளிரவு 1:13 மணிக்கு வந்து, 1:15 மணிக்கு புறப்படும்\nℹ️ மக்கள் கவனத்திற்கு: பக்தர்கள் பயணிக்க எளிதாக இருக்கும்\n\nMelmaruvathur train halt for Thaipoosam | Salem news\n📍 Melmaruvathur, Chengalpattu | 25 Nov 2026\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Salem360 #Salem #Melmaruvathur #SalemNews #சேலம்",
-   "prompts": "A photo-realistic wide shot of a railway station platform in Melmaruvathur, Tamil Nadu, during the night. A green Indian Railways express train is stopped at the platform. The station name board is visible but no text is readable. A few devotees in traditional Tamil attire are standing on the platform, waiting to board. The scene is lit by warm yellow station lights. The atmosphere is calm and anticipatory. The background shows the dark sky and distant hills typical of the region. No faces are clearly visible, focusing on the backs of the people and the train. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up, photo-realistic view of the front of a green Indian Railways express train stopped at a platform. The headlights are on, illuminating the tracks and the platform edge. A digital clock on the platform shows the time, but the numbers are blurred. A few passengers are seen from behind, looking at the train. The setting is a rural Indian railway station at night. The lighting is realistic, with a mix of artificial station lights and the train's headlights. The focus is on the train and the platform, conveying the specific event of a temporary halt. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamalar.com/news/tamil-nadu-news/the-thaipusam-festival-salem-express-will-stop-at-the-upper-pole/4386048",
-   "published": "2026-11-25T18:55:09+05:30",
-   "verification": "DRAFT (groq/qwen/qwen3.8-27b) - fact-check: no problems found",
-   "note": "free-model draft groq/qwen/qwen3.8-27b, 1 attempt(s), 0 validator problem(s)",
+   "reel_script": "சேலத்தில் பஸ் மோதிய விபத்தில் இரண்டாவது நபர் உயிரிழந்தார். உத்தமசோழபுரத்தை சேர்ந்த 21 வயது இளைஞர் ஒருவர், தென்காசி மாவட்டத்தை சேர்ந்த 21 வயது நண்பரை பார்க்க சேலம் வந்தார். நவம்பர் 17ம் தேதி அதிகாலை 1:30 மணிக்கு, இருவரும் புல்லட் மூலம் உத்தமசோழபுரம் கரபுரநாதர் கோவில் மேம்பாலத்தில் சென்றபோது அரசு பஸ் மோதியது. சம்பவ இடத்தில் உத்தமசோழபுரத்தை சேர்ந்த இளைஞர் உயிரிழந்தார். மோதியதில் காயமடைந்த தென்காசி இளைஞர், அருகிலுள்ள மருத்துவமனையில் சேர்க்கப்பட்டார். மேல் சிகிச்சைக்காக மதுரை அரசு மருத்துவமனையில் அனுமதிக்கப்பட்ட அவர், நேற்று உயிரிழந்தார். கொண்டலாம்பட்டி போலீசார் இந்த விபத்தை விசாரித்து வருகின்றனர். மேலும் செய்திகளுக்கு சேலம் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🚨 சேலத்தில் பஸ் மோதிய விபத்தில் இரண்டாவது நபர் உயிரிழப்பு\n\n📰 முழு விவரம்:\nஉத்தமசோழபுரத்தை சேர்ந்த 21 வயது இளைஞர் ஒருவர், தென்காசி மாவட்டம் கடையநல்லூரை சேர்ந்த 21 வயது நண்பரை பார்க்க சேலம் வந்தார். நவம்பர் 17ம் தேதி அதிகாலை 1:30 மணிக்கு, இருவரும் புல்லட் மூலம் உத்தமசோழபுரம் கரபுரநாதர் கோவில் மேம்பாலத்தில் சென்றபோது அரசு பஸ் மோதியது. சம்பவ இடத்தில் உத்தமசோழபுரத்தை சேர்ந்த இளைஞர் உயிரிழந்தார். மோதியதில் காயமடைந்த தென்காசி இளைஞர், அருகிலுள்ள மருத்துவமனையில் சேர்க்கப்பட்டு, மேல் சிகிச்சைக்காக மதுரை அரசு மருத்துவமனையில் அனுமதிக்கப்பட்டார். அங்கு அவர் நேற்று உயிரிழந்தார். கொண்டலாம்பட்டி போலீசார் விசாரித்து வருகின்றனர்.\n\n📍 இடம்: உத்தமசோழபுரம் கரபுரநாதர் கோவில் மேம்பாலம், சேலம்\n🗓️ நாள்: நவம்பர் 17ம் தேதி\n🕘 நேரம்: அதிகாலை 1:30 மணி\n👮 நடவடிக்கை: கொண்டலாம்பட்டி போலீசார் விசாரித்து வருகின்றனர்\n\nஇந்த செய்தியை தேவைப்படுவோருக்கு Share செய்யுங்கள்\n\nSalem bus accident second death | Salem news\n📍 Salem city, Salem | 25 Nov 2026\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Salem360 #Salem #SalemNews #சேலம் #SalemAccident",
+   "prompts": "A photo-realistic wide shot of a flyover in Salem, Tamil Nadu, at night. A government bus is stopped on the road, and a two-wheeler is lying on the asphalt nearby. Police vehicles with flashing lights are parked at the scene. The area is dimly lit by streetlights, with a dark sky above. The setting includes typical Tamil Nadu urban infrastructure, with buildings visible in the background. The mood is somber and serious, reflecting the aftermath of a traffic accident. No people are visible in the foreground, only the vehicles and the empty road. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA medium shot of a police officer standing near a police vehicle at the scene of an accident on a flyover in Salem. The officer is wearing a uniform and is looking towards the road. In the background, a government bus and a damaged two-wheeler are visible. The lighting is artificial, coming from streetlights and police vehicle lights. The environment is quiet, with no other people around. The focus is on the police presence and the aftermath of the incident, capturing the gravity of the situation. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-salem/one-more-killed-in-bus-truck-collision/4386375",
+   "published": "2026-11-25T22:20:36+05:30",
+   "verification": "DRAFT (groq/qwen/qwen3.8-27b) - NOT CLEAN, held from posting - problems: hl1 (the first headline on screen) must name the place 'சேலம்', e.g. 'சேலம்: ...' or 'சேலம்-இல் ...' - viewers share news of their own area",
+   "note": "free-model draft groq/qwen/qwen3.8-27b, 1 attempt(s), 1 validator problem(s)",
    "post_time": "right after your reply, same day",
    "_area": "N",
    "_score": 999,
    "images": [
-    "https://pub-ec316fa6a94f404c993596355ad19128.r2.dev/salem360/20261125/c39778d612b79455.jpg",
-    "https://pub-ec316fa6a94f404c993596355ad19128.r2.dev/salem360/20261125/8b1401daff9732d9.jpg"
-   ]
-  },
-  {
-   "tamil_headline": "சேலம் விமான நிலையம் முடங்கும் அபாயம்: டிசம்பருக்குப் பின் சென்னை விமான சேவைகளும் ரத்து?",
-   "english_headline": "Salem Airport faces closure threat as airlines plan to halt remaining Chennai flights after December due to subsidy delay and low passenger count",
-   "category": "Government & Services",
-   "location": "Salem Airport, Omalur taluk, Salem district",
-   "importance": "High",
-   "scope": "district",
-   "post_to": "Salem 360",
-   "slides_spec": {
-    "v": 3,
-    "cat": "விமான சேவை",
-    "loc": "சேலம்",
-    "hl1": "சேலம் விமான நிலையம் மூடப்படும் அபாயம்",
-    "hl2": "டிசம்பருக்கு பின் சேவை",
-    "slides": [
-     {
-      "title": "என்ன பிரச்சனை?",
-      "lines": [
-       "ஹைதராபாத், கொச்சி விமானங்கள் ஏற்கனவே நிறுத்தம்",
-       "தற்போது சென்னைக்கு மட்டும் தினமும் <b>2 விமானங்கள்</b> இயக்கம்",
-       "தினசரி <b>112 பயணிகள்</b> மட்டுமே பயன்படுத்தி வருகிறார்கள்"
-      ]
-     },
-     {
-      "title": "மானியம் நின்றது",
-      "lines": [
-       "மத்திய, மாநில அரசுகளின் உடான் ஒப்பந்த காலம் நிறைவடைந்தது",
-       "2024-25ல் <b>ரூ.106 கோடி</b>, 2025-26ல் <b>ரூ.110 கோடி</b> நிதி ஒதுக்கீடு",
-       "நடப்பாண்டுக்கான மாநில அரசின் மானிய நிதி கிடைக்கவில்லை"
-      ]
-     },
-     {
-      "title": "அடுத்த மாதம்",
-      "lines": [
-       "வருவாய் இழப்பால் சென்னை விமான சேவையும் நிறுத்த திட்டம்",
-       "அடுத்த மாதத்துடன் <b>2 சேவைகளும்</b> நிற்கும் அபாயம்",
-       "அரசு நிதி விடுவித்தால் மட்டுமே சேவையைத் தொடர முடியும்"
-      ]
-     }
-    ],
-    "carousel": false
-   },
-   "reel_script": "சேலம் விமான நிலையத்தில் விமான சேவைகள் அடுத்த மாதம் முதல் முற்றிலும் நிறுத்தப்படும் அபாயம் ஏற்பட்டுள்ளது. மத்திய அரசின் உடான் திட்டத்தின் கீழ் சேலத்தில் இருந்து ஹைதராபாத், கொச்சி, பெங்களூரு ஆகிய நகரங்களுக்கு இயக்கப்பட்ட விமானங்கள் ஏற்கனவே நிறுத்தப்பட்டுவிட்டன. தற்போது சென்னைக்கு மட்டும் தினமும் 2 விமானங்கள் இயக்கப்பட்டு வருகின்றன. இந்த விமானங்களில் தினசரி சராசரியாக 112 பயணிகள் மட்டுமே பயணம் செய்கின்றனர். உடான் திட்டத்தில் 80 சதவீத மானியத்தை மத்திய அரசும், 20 சதவீத மானியத்தை மாநில அரசும் வழங்குகின்றன. தமிழக அரசு 2024-25ஆம் ஆண்டில் 106 கோடி ரூபாயும், 2025-26ஆம் ஆண்டில் 110 கோடி ரூபாயும் நிதி ஒதுக்கியது. தற்போது 3 ஆண்டு ஒப்பந்த காலம் முடிந்த நிலையில், நடப்பாண்டுக்கான மானிய நிதியை தமிழக அரசு இன்னும் ஒதுக்கவில்லை. போதிய பயணிகள் இல்லாததாலும், மானியம் கிடைக்காததாலும் விமான நிறுவனங்களுக்குக் கடும் நஷ்டம் ஏற்பட்டுள்ளது. இதனால் சென்னைக்கான 2 விமான சேவைகளையும் டிசம்பர் மாதத்துடன் நிறுத்த விமான நிறுவனங்கள் திட்டமிட்டுள்ளன. அரசு உரிய நேரத்தில் நிதியை விடுவித்தால் மட்டுமே சேலையில் விமான சேவைகளைத் தொடர முடியும் என அதிகாரிகள் தெரிவித்தனர். மேலும் செய்திகளுக்கு சேலம் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "✈️ சேலம் விமான நிலையம் முடங்கும் அபாயம்: டிசம்பருக்குப் பின் சென்னை விமான சேவைகளும் ரத்து?\n\n📰 முழு விவரம்:\nசேலம் விமான நிலையத்தில் இருந்து இயக்கப்பட்ட ஹைதராபாத், கொச்சி, பெங்களூரு விமானங்கள் ஏற்கனவே நிறுத்தப்பட்டுவிட்டன. தற்போது சென்னைக்கு மட்டும் தினமும் 2 விமானங்கள் இயக்கப்பட்டு வரும் நிலையில், தினசரி சராசரியாக 112 பயணிகள் மட்டுமே பயணம் செய்து வருகின்றனர்.\n\nஉடான் திட்டத்தின் கீழ் வழங்கப்படும் மானியத்தில் 80% மத்திய அரசும், 20% மாநில அரசும் வழங்குகின்றன. தமிழக அரசு 2024-25ல் ரூ.106 கோடி, 2025-26ல் ரூ.110 கோடி நிதி ஒதுக்கியிருந்தது. தற்போது 3 ஆண்டு ஒப்பந்த காலம் முடிந்த நிலையில், நடப்பாண்டுக்கான மானியம் இன்னும் ஒதுக்கப்படவில்லை.\n\nபோதிய பயணிகள் இல்லாததாலும், மாநில அரசின் மானியம் கிடைக்காததாலும் ஏற்பட்டுள்ள நஷ்டம் காரணமாக, சென்னைக்கான 2 விமான சேவைகளையும் டிசம்பர் மாதத்துடன் நிறுத்த விமான நிறுவனங்கள் திட்டமிட்டுள்ளன. தமிழக அரசு உரிய நேரத்தில் நிதியை விடுவித்தால் மட்டுமே சேலையில் விமான சேவைகளைத் தக்கவைக்க முடியும்.\n\n📍 இடம்: சேலம் விமான நிலையம், ஓமலூர் வட்டம்\n🗓️ நிலைமை: டிசம்பர் 2026க்குப் பின் சேவை ரத்து செய்ய வாய்ப்பு\n\nSalem airport daily flights news | Salem news\n📍 சேலம் விமான நிலையம், சேலம் | 25 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Salem360 #Salem #Omalur #SalemAirport #சேலம்",
-   "prompts": "A scenic wide eye-level photograph of Salem Airport tarmac near Omalur on a cloudy afternoon, a small ATR regional passenger aircraft parked on the concrete ramp, low green hills of Salem district visible in the background, modern modest terminal building with glass facade, quiet airport ground, natural day light. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nAn interior wide view of the passenger departure terminal at Salem Airport with check-in desks and empty waiting chairs, light streaming through large glass windows, quiet ambiance, clean polished floor, high quality photo, no text, no logos, no faces. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamalar.com/news/tamil-nadu-news/2-flights-daily-112-passengers-salem-airport-closed/4386135",
-   "published": "2026-11-25T19:34:00+05:30",
-   "verification": "DRAFT (gemini/gemini-3.5-flash) - NOT CLEAN, held from posting - problems: sentence 1 (one-line story) has 12 words; make it 6-9 words (about 2-3 seconds), the details follow in the next sentences",
-   "note": "free-model draft gemini/gemini-3.5-flash, 1 attempt(s), 1 validator problem(s)",
-   "post_time": "right after your reply, same day",
-   "_area": "N",
-   "_score": 999,
-   "images": [
-    "https://pub-ec316fa6a94f404c993596355ad19128.r2.dev/salem360/20261125/af3e1405b61bca44.jpg",
-    "https://pub-ec316fa6a94f404c993596355ad19128.r2.dev/salem360/20261125/8e9712584868c1ee.jpg"
+    "https://pub-ec316fa6a94f404c993596355ad19128.r2.dev/salem360/20261125/9633cdea6b862c9d.jpg",
+    "https://pub-ec316fa6a94f404c993596355ad19128.r2.dev/salem360/20261125/f4d9be7ec711e976.jpg"
    ]
   }
  ]
