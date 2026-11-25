@@ -83,6 +83,9 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 <!-- recent-changes:start (updated automatically by .github/workflows/context.yml - do not edit by hand) -->
 | Date | Commit | Change |
 |---|---|---|
+| 2026-11-25 | `117c43f` | Night stop 00:00-04:00 IST (was 05:00); at most 35 news a day per page on Instagram; YouTube up to 35 a day from 04:00, following Instagram; insights test uses today's date |
+| 2026-11-25 | `8fbcd59` | pick: picked news saved |
+| 2026-11-25 | `c0a7299` | pick: list sent |
 | 2026-11-25 | `894e2c6` | One e-mail per news with its Instagram, Facebook and YouTube links (sent when all three are done or after 45 minutes; max 60 a day for all pages); YouTube follows Instagram: 5-minute gap, 05:00-24:00 IST, up to 30 a day |
 | 2026-11-25 | `12ac97e` | stories shared / Instagram pause |
 | 2026-11-25 | `8caa99f` | Per-post e-mail for every post, at most 60 a day for all 7 pages together (one Gmail account); later posts are in the daily summary |
@@ -110,7 +113,4 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 | 2026-11-25 | `da3165f` | facebook RN-285 |
 | 2026-11-25 | `cd744b7` | posted RN-285 |
 | 2026-11-25 | `efc94a3` | powercut: notices written |
-| 2026-11-25 | `6c38abe` | stories shared / Instagram pause |
-| 2026-11-25 | `a5867af` | autofix: corrected held news |
-| 2026-11-25 | `f20a012` | stories shared / Instagram pause |
 <!-- recent-changes:end -->
