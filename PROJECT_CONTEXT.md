@@ -83,6 +83,29 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 <!-- recent-changes:start (updated automatically by .github/workflows/context.yml - do not edit by hand) -->
 | Date | Commit | Change |
 |---|---|---|
+| 2026-11-25 | `af40cce` | YouTube: upload only when the login's channel is this page's (verify_channel on Erode, Karur, Salem, Tiruppur, Trichy - their Shorts went to the Namakkal channel) |
+| 2026-11-25 | `b7272e7` | stories shared / Instagram pause |
+| 2026-11-25 | `b8c6134` | stories shared / Instagram pause |
+| 2026-11-25 | `a62f501` | stories shared / Instagram pause |
+| 2026-11-25 | `ded3c34` | stories shared / Instagram pause |
+| 2026-11-25 | `f6df659` | stories shared / Instagram pause |
+| 2026-11-25 | `909dd56` | stories shared / Instagram pause |
+| 2026-11-25 | `bd89447` | stories shared / Instagram pause |
+| 2026-11-25 | `f619941` | stories shared / Instagram pause |
+| 2026-11-25 | `1836714` | stories shared / Instagram pause |
+| 2026-11-25 | `7ac43fa` | stories shared / Instagram pause |
+| 2026-11-25 | `48c8171` | pick: written and posted |
+| 2026-11-25 | `f409814` | pick: picked news saved |
+| 2026-11-25 | `72d3dc7` | pick: list sent |
+| 2026-11-25 | `1137245` | stories shared / Instagram pause |
+| 2026-11-25 | `4ec7078` | pick: written and posted |
+| 2026-11-25 | `10bb7c8` | facebook RN-289 |
+| 2026-11-25 | `0a2fab6` | posted RN-289 |
+| 2026-11-25 | `3b6030a` | stories shared / Instagram pause |
+| 2026-11-25 | `bc2ce03` | facebook retry |
+| 2026-11-25 | `00fbc5a` | stories shared / Instagram pause |
+| 2026-11-25 | `7ce8bd5` | facebook RN-290 |
+| 2026-11-25 | `27e7ac5` | posted RN-290 |
 | 2026-11-25 | `d88a0ae` | YouTube: first comment (the Instagram source comment) and topic playlists after each upload - start once the channel login has the youtube.force-ssl permission; skipped quietly until then |
 | 2026-11-25 | `ef14afe` | Platform text: Facebook news caption short (headline + 3 lines + source) with the Tamil district tag; YouTube title ~70 chars with an English search word, 3 hashtags first, Subscribe line, Tamil language |
 | 2026-11-25 | `5bd5d8b` | goldrate posted |
@@ -90,27 +113,4 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 | 2026-11-25 | `4eeddcc` | YouTube: the Instagram source comment (source + link) at the top of each Short's description |
 | 2026-11-25 | `b31dac2` | After a posting error wait 10 minutes before the next try (Instagram, Facebook, YouTube); YouTube and Facebook 20 a day; rasipalan and gold rate on YouTube too, first, outside the 20 |
 | 2026-11-25 | `010346c` | facebook RN-291 |
-| 2026-11-25 | `889991e` | posted RN-291 |
-| 2026-11-25 | `5977764` | Posting order: power cut / shutdown first, then High, then the topic this page's insights rank best, then oldest first |
-| 2026-11-25 | `316eb12` | stories shared / Instagram pause |
-| 2026-11-25 | `e7cad2b` | pick: picked news saved |
-| 2026-11-25 | `117c43f` | Night stop 00:00-04:00 IST (was 05:00); at most 35 news a day per page on Instagram; YouTube up to 35 a day from 04:00, following Instagram; insights test uses today's date |
-| 2026-11-25 | `8fbcd59` | pick: picked news saved |
-| 2026-11-25 | `c0a7299` | pick: list sent |
-| 2026-11-25 | `894e2c6` | One e-mail per news with its Instagram, Facebook and YouTube links (sent when all three are done or after 45 minutes; max 60 a day for all pages); YouTube follows Instagram: 5-minute gap, 05:00-24:00 IST, up to 30 a day |
-| 2026-11-25 | `12ac97e` | stories shared / Instagram pause |
-| 2026-11-25 | `8caa99f` | Per-post e-mail for every post, at most 60 a day for all 7 pages together (one Gmail account); later posts are in the daily summary |
-| 2026-11-25 | `ac2644b` | stories shared / Instagram pause |
-| 2026-11-25 | `65b819a` | stories shared / Instagram pause |
-| 2026-11-25 | `aa024c7` | stories shared / Instagram pause |
-| 2026-11-25 | `0c7c483` | stories shared / Instagram pause |
-| 2026-11-25 | `2a92249` | stories shared / Instagram pause |
-| 2026-11-25 | `2e6c32a` | stories shared / Instagram pause |
-| 2026-11-25 | `11dc80c` | stories shared / Instagram pause |
-| 2026-11-25 | `d58c0d9` | stories shared / Instagram pause |
-| 2026-11-25 | `078826d` | stories shared / Instagram pause |
-| 2026-11-25 | `a16155c` | R2: one folder per page (the repository name) in every job, so the 24-hour clean-up finds every file |
-| 2026-11-25 | `b73b1d5` | facebook RN-288 |
-| 2026-11-25 | `69b6e4f` | posted RN-288 |
-| 2026-11-25 | `8f45d2e` | Clean-up keeps 24 hours only: Cloudflare R2 (this page's folder), Cloudinary and the media/ fallback folder |
 <!-- recent-changes:end -->
