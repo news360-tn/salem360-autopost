@@ -1,43 +1,53 @@
-11:11:40 hold lifted: RN-2 - not grounded: location 'பகுதிகள்' is not in the article - the location IS in the article (checked again)
-11:11:49 hold lifted: RN-106 - not grounded: location 'நகரம்' is not in the article - the location IS in the article (checked again)
-11:11:50 2 held news to fix: ['RN-285', 'RN-287']
+14:11:40 hold lifted: RN-2 - not grounded: location 'பகுதிகள்' is not in the article - the location IS in the article (checked again)
+14:11:49 hold lifted: RN-106 - not grounded: location 'நகரம்' is not in the article - the location IS in the article (checked again)
+14:11:50 2 held news to fix: ['RN-285', 'RN-287']
 gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
 groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
-fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 429: {
-  "error": {
-    "code": 429,
-    "message": "You exceeded your current quota, please che
-dead for this round: gemini/gemini-3.6-flash
-ok gemini/gemini-3.5-flash (14s)
-attempt 1 gemini/gemini-3.5-flash: 1 problems
-  sentence 1 (one-line story) has 12 words; make it 6-9 words (about 2-3 seconds), the details follow in the next sentences
+ok gemini/gemini-3.6-flash (14s)
+attempt 1 gemini/gemini-3.6-flash: 2 problems
+  numbers not found in the article: 85
+  caption misses facts of the article (put every one in 📰 முழு விவரம்): 21 ('இரு நாட்களுக்கு முன்பு கடந்த, 21 அதிகாலை தார்க்காடு கிராமத்த')
 gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
 groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
-fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {
-  "error": {
-    "code": 429,
-    "message": "You exceeded your current quota, please che
-dead for this round: gemini/gemini-3.5-flash
-fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 429: {
-  "error": {
-    "code": 429,
-    "message": "You exceeded your current quota, plea
-dead for this round: gemini/gemini-3-flash-preview
-fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 400: {"error":{"message":"Failed to validate JSON. Please adjust your prompt. See 'failed_gener
-ok groq/qwen/qwen3.8-27b (11s)
-attempt 2 groq/qwen/qwen3.8-27b: 7 problems
-  stray Tamil sign 'ா' after 'ு' in «கல் துாண்க»
-  stray Tamil sign 'ா' after 'ு' in «்கல்லுார் »
-  stray Tamil sign 'ா' after 'ு' in «ொளத்துார் »
-  stray Tamil sign 'ா' after 'ு' in «்கல்லுார் »
-  stray Tamil sign 'ா' after 'ு' in «கல் துாண்க»
-  stray Tamil sign 'ா' after 'ு' in «்கல்லுார் »
-  caption misses facts of the article (put every one in 📰 முழு விவரம்): 54, ('விவசாயி மணி, 54, என்பவர் நிலத்தில், 50 வாழை, மற்றொரு மணி, 48'); 48, ('விவசாயி மணி, 54, என்பவர் நிலத்தில், 50 வாழை, மற்றொரு மணி, 48'); 37, ('விவசாயி மணி, 54, என்பவர் நிலத்தில், 50 வாழை, மற்றொரு மணி, 48'); 58, ('விவசாயி மணி, 54, என்பவர் நிலத்தில், 50 வாழை, மற்றொரு மணி, 48')
+ok gemini/gemini-3.6-flash (14s)
 gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
 groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
+ok gemini/gemini-3.6-flash (4s)
+factcheck by gemini/gemini-3.6-flash: 0 problems
+attempt 2 gemini/gemini-3.6-flash: 0 problems
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
+fail gemini/gemini-3.6-flash: Expecting ',' delimiter: line 1 column 1240 (char 1239)
+poor answer - skipped for 30 min: gemini/gemini-3.6-flash
+ok gemini/gemini-3.5-flash (13s)
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
+ok gemini/gemini-3.5-flash (3s)
+factcheck by gemini/gemini-3.5-flash: 0 problems
+proofread by gemini/gemini-3.5-flash: 0 problems
+14:12:56 RN-285 FIXED - posts with the corrected text: மேட்டூர் அருகே விவசாய நிலத்தில் புகுந்து யானை அட்டகாசம்: வாழை, கரும்பு சேதம்
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
+fail gemini/gemini-3.5-flash: Expecting ',' delimiter: line 1 column 1151 (char 1150)
+poor answer - skipped for 30 min: gemini/gemini-3.5-flash
+ok gemini/gemini-3-flash-preview (25s)
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
+fail gemini/gemini-3-flash-preview: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=60)
+poor answer - skipped for 30 min: gemini/gemini-3-flash-preview
+ok groq/openai/gpt-oss-120b (4s)
+factcheck by groq/openai/gpt-oss-120b: 3 problems
+  Incorrect title for சண்முகசுந்தரம் – article lists him as D.S.P., draft calls him காவல் துணை கண்காணிப்பாளர்
+  Caption states a specific date (24 நவம்பர் 2026) which is not mentioned in the article
+  Reel script omits the municipal revenue inspector வாசுதேவன் and health inspector பிரபாகரன் who were reported in the article as deciding to dig the blockage
+attempt 1 gemini/gemini-3-flash-preview: 3 problems
+  fact-check: Incorrect title for சண்முகசுந்தரம் – article lists him as D.S.P., draft calls him காவல் துணை கண்காணிப்பாளர்
+  fact-check: Caption states a specific date (24 நவம்பர் 2026) which is not mentioned in the article
+  fact-check: Reel script omits the municipal revenue inspector வாசுதேவன் and health inspector பிரபாகரன் who were reported in the article as deciding to dig the blockage
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
+fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {"error":{"message":"Rate limit reached for model `openai/gpt-oss-120b` in organization `o
+fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 400: {"error":{"message":"Failed to validate JSON. Please adjust your prompt. See 'failed_gener
 fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 413: {"error":{"message":"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7
-fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {"error":{"message":"Rate limit reached for model `openai/gpt-oss-120b` in organization `o
-fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {"error":{"message":"Rate limit reached for model `openai/gpt-oss-120b` in organization `o
-switching away from groq/openai/gpt-oss-120b for 10 min
-free models unavailable: no free model answered: groq openai/gpt-oss-120b 429: {"error":{"message":"Rate limit reached for model `openai/gpt-oss-
-11:12:42 RN-285 NOT fixed - the free AI writers are busy; tried again in a later run (this try is not counted): all free models failed: no free model answered: groq openai/gpt-oss-120b 429: {"error":{"message":"Rate 
+free models unavailable: no free model answered: groq qwen/qwen3.8-27b 413: {"error":{"message":"Request too large for model `qwen/qwen3.8-27b` i
+14:15:11 RN-287 NOT fixed - the free AI writers are busy; tried again in a later run (this try is not counted): all free models failed: no free model answered: groq qwen/qwen3.8-27b 413: {"error":{"message":"Request 
