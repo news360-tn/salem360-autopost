@@ -1,5 +1,5 @@
 {
- "last_end": "2026-11-25T06:29:50.419469+05:30",
+ "last_end": "2026-11-25T08:26:46.908946+05:30",
  "pool": {
   "Ce9a8fd8": {
    "id": "Ce9a8fd8",
@@ -116,20 +116,6 @@
    "picked_at": "2026-11-25T06:32:22.456210+05:30",
    "refused": "not filed: all free models failed: no usable answer from the models"
   },
-  "C3d5a0e3": {
-   "id": "C3d5a0e3",
-   "url": "https://www.dinamalar.com/news/tamil-nadu-district-news-salem/alternate-road-to-the-street-13th-ward-people-stage-a-sit-in/4385605",
-   "title": "வீதிக்கு செல்ல மாற்று சாலை: 13வது வார்டு மக்கள் மறியல்",
-   "summary": "மேட்டூர்: மேட்டூர் நகராட்சி, 13வது வார்டு வீதிக்கு செல்ல மாற்று சாலை ஏற்பாடு செய்யக்கோரி பொதுமக்கள் மறியலில் ஈடுபட்டனர். மேட்டூர் நகராட்சி, மேற்கு பிரதான சாலையோரம் மழைநீர் வடிகாலில் அடைப்பு ஏற்பட்டு கழிவுநீர் சாலையில்...",
-   "source": "தினமலர்",
-   "published": "2026-11-25T06:07:00+05:30",
-   "category": "சாலை",
-   "score": 9.5,
-   "power_cut": false,
-   "listed_at": "2026-11-25T06:29:50.419469+05:30",
-   "picked_at": "2026-11-25T06:32:22.456214+05:30",
-   "posted": true
-  },
   "Cd14e2d9": {
    "id": "Cd14e2d9",
    "url": "https://www.dinamalar.com/news/tamil-nadu-district-news-salem/commissioner-orders-demolition-of-old-buildings/4385602",
@@ -174,30 +160,6 @@
   }
  },
  "rounds": {
-  "2026-11-23_12": {
-   "window": [
-    "2026-11-23T08:30:19.181520+05:30",
-    "2026-11-23T12:33:36.846189+05:30"
-   ],
-   "ids": [
-    "Ca4ae685"
-   ],
-   "sent": false,
-   "deadline": "2026-11-23T13:33:36.846189+05:30",
-   "decided": {
-    "how": "automatic: top 6 of 1 by insights",
-    "ids": [
-     "Ca4ae685"
-    ],
-    "at": "2026-11-23T12:38:12.758998+05:30"
-   },
-   "written": [
-    "Ca4ae685"
-   ],
-   "refused": {
-    "Ca4ae685": "not filed: not Salem district news (the story's first lines name another place and no Salem place)"
-   }
-  },
   "2026-11-23_16": {
    "window": [
     "2026-11-23T12:33:36.846189+05:30",
@@ -648,7 +610,34 @@
     "Cc7f04ee": "not filed: all free models failed: no usable answer from the models",
     "C21648a8": "not filed: all free models failed: no usable answer from the models"
    }
+  },
+  "2026-11-25_08": {
+   "window": [
+    "2026-11-25T06:29:50.419469+05:30",
+    "2026-11-25T08:26:46.908946+05:30"
+   ],
+   "ids": [
+    "C609021d"
+   ],
+   "sent": false,
+   "deadline": "2026-11-25T09:26:46.908946+05:30",
+   "decided": null,
+   "written": []
   }
  },
- "retry": {}
+ "retry": {
+  "https://www.dinamani.com/all-editions/edition-dharmapuri/salem/2026/Nov/24/தம்மம்பட்டியில்-பலத்த-மழை": {
+   "it": {
+    "key": "https://www.dinamani.com/all-editions/edition-dharmapuri/salem/2026/Nov/24/தம்மம்பட்டியில்-பலத்த-மழை",
+    "url": "https://www.dinamani.com/all-editions/edition-dharmapuri/salem/2026/Nov/24/தம்மம்பட்டியில்-பலத்த-மழை",
+    "title": "",
+    "source": "தினமணி சேலம்",
+    "published": "",
+    "via": "listing",
+    "query": "https://www.dinamani.com/all-editions/edition-dharmapuri/salem",
+    "snippet": ""
+   },
+   "first": "2026-11-25T08:26:46.908946+05:30"
+  }
+ }
 }
