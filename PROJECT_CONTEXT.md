@@ -83,6 +83,7 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 <!-- recent-changes:start (updated automatically by .github/workflows/context.yml - do not edit by hand) -->
 | Date | Commit | Change |
 |---|---|---|
+| 2026-11-25 | `4eeddcc` | YouTube: the Instagram source comment (source + link) at the top of each Short's description |
 | 2026-11-25 | `b31dac2` | After a posting error wait 10 minutes before the next try (Instagram, Facebook, YouTube); YouTube and Facebook 20 a day; rasipalan and gold rate on YouTube too, first, outside the 20 |
 | 2026-11-25 | `010346c` | facebook RN-291 |
 | 2026-11-25 | `889991e` | posted RN-291 |
@@ -112,5 +113,4 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 | 2026-11-25 | `f2996c6` | stories shared / Instagram pause |
 | 2026-11-25 | `4ea9b29` | powercut: notices written |
 | 2026-11-25 | `bf36000` | stories shared / Instagram pause |
-| 2026-11-25 | `1e1c5e1` | stories shared / Instagram pause |
 <!-- recent-changes:end -->
