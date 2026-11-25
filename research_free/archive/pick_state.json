@@ -1,5 +1,5 @@
 {
- "last_end": "2026-11-25T23:00:36.735497+05:30",
+ "last_end": "2026-11-26T01:35:10.129173+05:30",
  "pool": {
   "C609021d": {
    "id": "C609021d",
@@ -168,59 +168,21 @@
    "picked_at": "2026-11-25T23:02:00.402068+05:30",
    "refused": "not filed: bad draft: 'scenes'"
   },
-  "Cea676bd": {
-   "id": "Cea676bd",
-   "url": "https://www.dinamalar.com/news/tamil-nadu-district-news-salem/one-more-killed-in-bus-truck-collision/4386375",
-   "title": "பஸ் மோதிய விபத்து மேலும் ஒருவர் பலி",
-   "summary": "சேலம்: சேலம், உத்தமசோழபுரத்தை சேர்ந்தவர் அஷ்வின், 21. இவரது நண்பர், தென்காசி மாவட்டம், கடையநல்லுார் தெற்கு தெருவை சேர்ந்தவர் சையத் முகமத், 21.",
+  "C10e5d17": {
+   "id": "C10e5d17",
+   "url": "https://www.dinamalar.com/news/tamil-nadu-district-news-kallakurichi/chennai-egmore-salem-high-speed-train-to-stop-at-upper-polar-railway-station-southern-railway-announces/4385782",
+   "title": "சென்னை எழும்பூர்-சேலம் அதிவிரைவு ரயில் மேல்மருவத்தூர் ரயில் நிலையத்தில் நிற்கும்: தெற்கு ரயில்வே அறிவிப்பு",
+   "summary": "கள்ளக்குறிச்சி: சின்னசேலம் வழியாகச் செல்லும் சென்னை எழும்பூர்-சேலம் அதிவிரைவு ரயில் (வண்டி எண்: 22153) மேல்மருவத்துார் ரயில் நிலையத்தில் தற்காலிகமாக நின்று செல்லும் என தெற்கு ரயில்வே அறிவித்துள்ளது.",
    "source": "தினமலர்",
-   "published": "2026-11-25T22:20:36+05:30",
-   "category": "விபத்து",
-   "score": 11.41,
+   "published": "2026-11-25T16:52:29+05:30",
+   "category": "ரயில்",
+   "score": 6.0,
    "power_cut": false,
-   "alts": [
-    "https://www.dinamalar.com/news/tamil-nadu-news/one-more-killed-in-bus-truck-collision/4386375"
-   ],
-   "listed_at": "2026-11-25T23:00:36.735497+05:30",
-   "picked_at": "2026-11-25T23:02:00.402069+05:30",
-   "posted": true
+   "late_listed": true,
+   "listed_at": "2026-11-26T01:35:10.129173+05:30"
   }
  },
  "rounds": {
-  "2026-11-24_07": {
-   "window": [
-    "2026-11-24T04:33:09.532615+05:30",
-    "2026-11-24T07:20:50.826844+05:30"
-   ],
-   "ids": [
-    "Ccf8bfe4",
-    "Cf1ebf6e",
-    "Ca3e0c4d",
-    "C300e734",
-    "C76631f0",
-    "C73cd8f7"
-   ],
-   "sent": false,
-   "deadline": "2026-11-24T08:20:50.826844+05:30",
-   "decided": {
-    "how": "automatic: top 7 of 5 by insights",
-    "ids": [
-     "Ccf8bfe4",
-     "Cf1ebf6e",
-     "Ca3e0c4d",
-     "C300e734",
-     "C76631f0"
-    ],
-    "at": "2026-11-24T07:23:31.463132+05:30"
-   },
-   "written": [
-    "C300e734",
-    "C76631f0",
-    "Ca3e0c4d",
-    "Ccf8bfe4",
-    "Cf1ebf6e"
-   ]
-  },
   "2026-11-24_09": {
    "window": [
     "2026-11-24T07:20:50.826844+05:30",
@@ -646,6 +608,20 @@
    "refused": {
     "Cdd120e5": "not filed: bad draft: 'scenes'"
    }
+  },
+  "2026-11-26_01": {
+   "window": [
+    "2026-11-25T23:00:36.735497+05:30",
+    "2026-11-26T01:35:10.129173+05:30"
+   ],
+   "ids": [
+    "C10e5d17",
+    "C609021d"
+   ],
+   "sent": false,
+   "deadline": "2026-11-26T02:35:10.129173+05:30",
+   "decided": null,
+   "written": []
   }
  },
  "retry": {}
