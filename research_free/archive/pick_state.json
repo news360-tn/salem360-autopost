@@ -1,5 +1,5 @@
 {
- "last_end": "2026-11-25T08:26:46.908946+05:30",
+ "last_end": "2026-11-25T10:30:05.865696+05:30",
  "pool": {
   "Ce9a8fd8": {
    "id": "Ce9a8fd8",
@@ -160,42 +160,6 @@
   }
  },
  "rounds": {
-  "2026-11-23_16": {
-   "window": [
-    "2026-11-23T12:33:36.846189+05:30",
-    "2026-11-23T16:30:55.702747+05:30"
-   ],
-   "ids": [
-    "Cc3327e7",
-    "C6fac304",
-    "Ce2ca73c",
-    "C3c2f654",
-    "Ce203e84",
-    "C6d3cdc7"
-   ],
-   "sent": false,
-   "deadline": "2026-11-23T17:30:55.702747+05:30",
-   "decided": {
-    "how": "automatic: top 6 of 6 by insights",
-    "ids": [
-     "C3c2f654",
-     "C6fac304",
-     "Ce2ca73c",
-     "Ce203e84",
-     "Cc3327e7",
-     "C6d3cdc7"
-    ],
-    "at": "2026-11-23T16:33:57.505798+05:30"
-   },
-   "written": [
-    "C3c2f654",
-    "C6d3cdc7",
-    "C6fac304",
-    "Cc3327e7",
-    "Ce203e84",
-    "Ce2ca73c"
-   ]
-  },
   "2026-11-23_20": {
    "window": [
     "2026-11-23T16:30:55.702747+05:30",
@@ -627,21 +591,20 @@
     "at": "2026-11-25T08:28:47.524552+05:30"
    },
    "written": []
+  },
+  "2026-11-25_10": {
+   "window": [
+    "2026-11-25T08:26:46.908946+05:30",
+    "2026-11-25T10:30:05.865696+05:30"
+   ],
+   "ids": [
+    "C609021d"
+   ],
+   "sent": false,
+   "deadline": "2026-11-25T11:30:05.865696+05:30",
+   "decided": null,
+   "written": []
   }
  },
- "retry": {
-  "https://www.dinamani.com/all-editions/edition-dharmapuri/salem/2026/Nov/24/தம்மம்பட்டியில்-பலத்த-மழை": {
-   "it": {
-    "key": "https://www.dinamani.com/all-editions/edition-dharmapuri/salem/2026/Nov/24/தம்மம்பட்டியில்-பலத்த-மழை",
-    "url": "https://www.dinamani.com/all-editions/edition-dharmapuri/salem/2026/Nov/24/தம்மம்பட்டியில்-பலத்த-மழை",
-    "title": "",
-    "source": "தினமணி சேலம்",
-    "published": "",
-    "via": "listing",
-    "query": "https://www.dinamani.com/all-editions/edition-dharmapuri/salem",
-    "snippet": ""
-   },
-   "first": "2026-11-25T08:26:46.908946+05:30"
-  }
- }
+ "retry": {}
 }
