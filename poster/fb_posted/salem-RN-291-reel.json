@@ -1,5 +1,5 @@
 {
- "status": "failed",
+ "status": "skipped",
  "tries": 1,
  "error": "Facebook video_reels: 400 2/1363047 Service temporarily unavailable",
  "media": [
@@ -13,5 +13,6 @@
  "page": "salem",
  "story": "RN-291",
  "kind": "reel",
- "updated": "2026-11-25T11:14:11+00:00"
+ "updated": "2026-11-25T11:14:11+00:00",
+ "why": "sent as a file (no Cloudinary copy) - not tried again"
 }
