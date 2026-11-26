@@ -3,27 +3,27 @@
   "earlier stories still waiting for images: []",
   "instagram check: 50 recent posts read from the page",
   "pick round: only the picked links are written (research_free/pick.py)",
-  "manual link added: https://www.dinamani.com/tamilnadu/2026/Nov/26/law-and-order-rising-prices-aiadmk-to-hold-a-protest-demonstration-on-dec-2-in-tamilnadu",
-  "manual link added: https://www.dinakaran.com/news/tvk-government-aiadmk-protest-edappadi-palaniswami",
+  "manual link added: https://tamil.oneindia.com/news/villupuram/unidentified-12-year-old-girl-s-body-found-in-15-foot-gorge-amid-gingee-missing-girl-probe-848409.html",
+  "manual link added: https://www.thanthitv.com/news/breaking/salem-police-minor-girls-body-recovered-at-vazhukkuparai-tragic-scene-as-dig-and-sp-rush-to-the-spot",
   "candidate filter: collected=2",
   "to write: 2 Salem district candidates (max 2 stories)",
   "round: top 2 of 2 candidates",
   "candidates waiting: 2 Salem; time left 79 min",
-  "try (N) manual=True: https://www.dinakaran.com/news/tvk-government-aiadmk-protest",
-  "try (N) manual=True: https://www.dinamani.com/tamilnadu/2026/Nov/26/law-and-order",
-  "NOT filed (N) தவெக அரசை கண்டித்து டிச.2 ஆம் தேதி அதிமுக போராட்டம: all free models failed: no usable answer from the models",
+  "try (N) manual=True: https://www.thanthitv.com/news/breaking/salem-police-minor-g",
+  "try (N) manual=True: https://tamil.oneindia.com/news/villupuram/unidentified-12-y",
   "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 2})",
   "posting job started at once",
-  "candidate loop ended: left 0, tried={'N': 2}, done={'N': 1}, time left 78 min",
-  "filed: 1 Salem district stories (target 2), reels only",
+  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 4})",
+  "candidate loop ended: left 0, tried={'N': 2}, done={'N': 2}, time left 78 min",
+  "filed: 2 Salem district stories (target 2), reels only",
   "queue: 0 news waiting to be written",
   "All News sheet: {\"ok\":true,\"added\":2,\"updated\":0}"
  ],
  "llm": [
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
   "dead for this round: gemini/gemini-3.6-flash",
   "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
@@ -32,90 +32,156 @@
   "dead for this round: gemini/gemini-3.5-flash",
   "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
   "dead for this round: gemini/gemini-3.5-flash",
+  "ok gemini/gemini-3-flash-preview (8s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok gemini/gemini-3-flash-preview (9s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok gemini/gemini-3-flash-preview (10s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, plea",
   "dead for this round: gemini/gemini-3-flash-preview",
-  "fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, plea",
-  "dead for this round: gemini/gemini-3-flash-preview",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
   "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 400: {\"error\":{\"message\":\"Failed to validate JSON. Please adjust your prompt. See 'failed_gener",
-  "ok groq/qwen/qwen3.8-27b (3s)",
+  "ok gemini/gemini-3-flash-preview (37s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 413: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
   "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
-  "switching away from groq/openai/gpt-oss-120b for 10 min",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
-  "switching away from groq/openai/gpt-oss-120b for 10 min",
+  "ok groq/qwen/qwen3.8-27b (4s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
+  "switching away from groq/openai/gpt-oss-120b for 10 min",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 413: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
   "switching away from groq/qwen/qwen3.8-27b for 10 min",
-  "ok groq/qwen/qwen3.8-27b (3s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash"
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok groq/qwen/qwen3.8-27b (3s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b"
  ],
  "stories": [
   {
-   "tamil_headline": "டிசம்பர் 2ஆம் தேதி தமிழகம் முழுவதும் அதிமுக கண்டன ஆர்ப்பாட்டம்",
-   "english_headline": "AIADMK to hold protest across Tamil Nadu on Dec 2",
-   "category": "Government & Services",
-   "location": "Tamil Nadu, Salem district",
-   "importance": "Medium",
-   "scope": "district",
+   "tamil_headline": "சேலம் வழுக்குப்பாறையில் சிறுமி சடலமாக மீட்பு: டி.ஐ.ஜி, எஸ்.பி நேரில் ஆய்வு",
+   "english_headline": "Girl's body recovered from Vazhukkupaarai in Salem; DIG and SP visit the spot",
+   "category": "Crime & Safety",
+   "location": "Vazhukkupaarai, Salem district",
+   "importance": "High",
+   "scope": "local",
    "post_to": "Salem 360",
    "slides_spec": {
     "v": 3,
-    "cat": "அதிமுக ஆர்ப்பாட்டம்",
-    "loc": "சேலம் மாவட்டம்",
-    "hl1": "டிசம்பர் 2ஆம் தேதி அதிமுக ஆர்ப்பாட்டம்",
-    "hl2": "காலை 10 மணிக்கு தொடங்கும்",
+    "cat": "சோகம்",
+    "loc": "வழுக்குப்பாறை, சேலம்",
+    "hl1": "வழுக்குப்பாறையில் சிறுமி சடலமாக மீட்பு",
+    "hl2": "டி.ஐ.ஜி, எஸ்.பி நேரில் ஆய்வு",
     "slides": [
      {
-      "title": "ஆர்ப்பாட்டம்",
+      "title": "என்ன நடந்தது?",
       "lines": [
-       "டிசம்பர் 2ஆம் தேதி புதன்கிழமை",
-       "காலை 10 மணிக்கு தொடங்கும்",
-       "தமிழகம் முழுவதும் நடைபெறும்"
+       "சேலம் <b>வழுக்குப்பாறை</b> பகுதியில் சிறுமி சடலமாக மீட்பு",
+       "சிறுமி உயிரிழந்த நிலையில் கண்டெடுக்கப்பட்டார்"
       ]
      },
      {
-      "title": "காரணம்",
+      "title": "அதிகாரிகள் ஆய்வு",
       "lines": [
-       "சட்டம் ஒழுங்கு சீர்கேடு",
-       "விலைவாசி உயர்வு",
-       "பெண்கள் பாதுகாப்பு இல்லாமை"
+       "தகவல் அறிந்து <b>டி.ஐ.ஜி</b>, <b>எஸ்.பி</b> நேரில் வருகை",
+       "சம்பவ இடத்தில் அதிகாரிகள் தீவிர விசாரணை"
       ]
      },
      {
-      "title": "தலைமை",
+      "title": "விசாரணை",
       "lines": [
-       "தலைமைக் கழகச் செயலாளர்கள் தலைமையில்",
-       "மாவட்டக் கழகச் செயலாளர்கள் முன்னிலையில்",
-       "மக்கள் அனைவரும் கலந்துகொள்ள வேண்டும்"
+       "சிறுமி எப்படி உயிரிழந்தார் என போலீசார் ஆய்வு",
+       "உடலைக் கைப்பற்றி போலீசார் நடவடிக்கை"
       ]
      }
     ],
     "carousel": false
    },
-   "reel_script": "டிசம்பர் 2ஆம் தேதி தமிழகம் முழுவதும் அதிமுக கண்டன ஆர்ப்பாட்டம் நடைபெறும். எடப்பாடி பழனிசாமி இந்த அறிவிப்பை வெளியிட்டுள்ளார். சட்டம் ஒழுங்கு சீர்கேடு மற்றும் விலைவாசி உயர்வுக்கு எதிராக இந்த ஆர்ப்பாட்டம் நடைபெறும். தமிழகத்தில் பெண்களுக்கு பாதுகாப்பு இல்லாத நிலை உள்ளது. அத்தியாவசியப் பொருட்களின் விலை உயர்ந்து மக்கள் துயரத்தில் உள்ளனர். கொலை, கொள்ளை, போதைப் பொருள் புழக்கம் அதிகரித்துள்ளது. மேலும், மேக்கேதாட்டு பிரச்னையில் அரசு மௌனம் காட்டுகிறது. 85 மாவட்டங்களின் சார்பில் இந்த ஆர்ப்பாட்டம் நடைபெறும். புதன்கிழமை காலை 10 மணிக்கு ஆர்ப்பாட்டம் தொடங்கும். தலைமைக் கழகச் செயலாளர்கள் தலைமையில், மாவட்டக் கழகச் செயலாளர்கள் முன்னிலையில் நடைபெறும். பெண்கள் உள்பட மக்கள் அனைவரும் கலந்துகொள்ள வேண்டும். மேலும் செய்திகளுக்கு சேலம் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "📢 டிசம்பர் 2ஆம் தேதி தமிழகம் முழுவதும் அதிமுக கண்டன ஆர்ப்பாட்டம் - காலை 10 மணிக்கு\n\n📰 முழு விவரம்:\nஅதிமுக பொதுச் செயலாளர் எடப்பாடி பழனிசாமி அறிவித்துள்ளார். சட்டம் ஒழுங்கு சீர்கேடு மற்றும் விலைவாசி உயர்வுக்கு எதிராக இந்த ஆர்ப்பாட்டம் நடைபெறும். தமிழகத்தில் பெண்கள் பாதுகாப்பு இல்லாத நிலை உள்ளது. அத்தியாவசியப் பொருட்களின் விலை உயர்ந்து மக்கள் துயரத்தில் உள்ளனர். கொலை, கொள்ளை, போதைப் பொருள் புழக்கம் அதிகரித்துள்ளது. மேலும், மேக்கேதாட்டு பிரச்னையில் அரசு மௌனம் காட்டுகிறது. 85 மாவட்டங்களின் சார்பில் புதன்கிழமை காலை 10 மணிக்கு ஆர்ப்பாட்டம் நடைபெறும். தலைமைக் கழகச் செயலாளர்கள் தலைமையில், மாவட்டக் கழகச் செயலாளர்கள் முன்னிலையில் நடைபெறும். பெண்கள் உள்பட மக்கள் அனைவரும் கலந்துகொள்ள வேண்டும்.\n\n📍 இடம்: தமிழகம் முழுவதும் (85 மாவட்டங்கள்)\n🗓️ நாள்: டிசம்பர் 2, 2026 (புதன்கிழமை)\n🕘 நேரம்: காலை 10 மணி\nℹ️ மக்கள் கவனத்திற்கு: பெண்கள் உள்பட மக்கள் அனைவரும் பெருமளவில் கலந்துகொள்ள வேண்டும்.\n\nAIADMK protest against law and order and rising prices in Tamil Nadu on Dec 2 | Salem news\n📍 Salem district, Tamil Nadu | 26 Nov 2026\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Salem360 #Salem #SalemNews #AIADMK #சேலம்",
-   "prompts": "A wide, photo-realistic view of a large public protest rally in a Tamil Nadu city square during the day. Hundreds of people, including men and women, are gathered, holding placards and flags. The atmosphere is serious and organized. In the background, a government building or a large open ground is visible. The lighting is bright daylight, typical of a mid-morning event. The scene captures the scale of a district-level political demonstration in Salem or a similar town in Tamil Nadu, with a mix of local architecture and modern vehicles parked nearby. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA medium shot focusing on a group of political leaders standing on a small stage or platform, addressing a crowd. They are wearing formal attire typical of Tamil Nadu politicians. One leader is speaking into a microphone, while others stand beside him. The crowd in the foreground is seen from behind, listening attentively. The setting is outdoors, with a clear sky and natural daylight. The scene conveys the authority and organization of the protest event, highlighting the leadership role in the demonstration. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamani.com/tamilnadu/2026/Nov/26/law-and-order-rising-prices-aiadmk-to-hold-a-protest-demonstration-on-dec-2-in-tamilnadu",
-   "published": "2026-11-26T05:43:14.491Z",
-   "verification": "DRAFT (groq/qwen/qwen3.8-27b + proofread groq/qwen/qwen3.8-27b) - NOT CLEAN, held from posting - problems: reel_script has 83 words; need 95-160 (the key facts once each, in at most 90 seconds; every other detail goes in the caption's 📰 முழு விவரம் block); slides_spec.loc 'சேலம் மாவட்டம்' is only the district: write the town / village / area the article names (people share news of their own area)",
-   "note": "free-model draft groq/qwen/qwen3.8-27b + proofread groq/qwen/qwen3.8-27b, 1 attempt(s), 2 validator problem(s)",
+   "reel_script": "சேலம் வழுக்குப்பாறை பகுதியில் சிறுமி ஒருவர் சடலமாக மீட்கப்பட்டார். சிறுமி உயிரிழந்த நிலையில் கண்டெடுக்கப்பட்ட தகவல் கிடைத்ததும் காவல் துறை உயர் அதிகாரிகள் சம்பவ இடத்திற்கு விரைந்து வந்தனர். காவல் துறை துணைத் தலைவர் மற்றும் மாவட்ட காவல் கண்காணிப்பாளர் ஆகியோர் நேரில் வந்து ஆய்வு நடத்தினர். சிறுமி எப்படி உயிரிழந்தார் என்பது குறித்து அதிகாரிகள் தீவிரமாக விசாரணை மேற்கொண்டு வருகின்றனர். போலீசார் சிறுமியின் உடலைக் கைப்பற்றி அடுத்தகட்ட நடவடிக்கைகளை எடுத்து வருகின்றனர். இந்தச் சம்பவம் அந்தப் பகுதியில் பெரும் சோகத்தை ஏற்படுத்தியுள்ளது. மேலும் செய்திகளுக்கு சேலம் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🚨 சேலம் வழுக்குப்பாறையில் சிறுமி சடலமாக மீட்பு: டி.ஐ.ஜி, எஸ்.பி நேரில் ஆய்வு\n\n📰 முழு விவரம்:\nசேலம் மாவட்டம் வழுக்குப்பாறை பகுதியில் சிறுமி ஒருவர் சடலமாக மீட்கப்பட்டுள்ளார். இந்தத் தகவல் அறிந்தவுடன் காவல் துறை துணைத் தலைவர் (DIG) மற்றும் மாவட்ட காவல் கண்காணிப்பாளர் (SP) ஆகியோர் சம்பவ இடத்திற்கு நேரில் வந்து ஆய்வு மேற்கொண்டனர். சிறுமி எப்படி உயிரிழந்தார் என்பது குறித்து போலீசார் தீவிர விசாரணை நடத்தி வருகின்றனர். போலீசார் சிறுமியின் உடலைக் கைப்பற்றி அடுத்தகட்ட நடவடிக்கைகளை எடுத்து வருகின்றனர்.\n\n📍 இடம்: வழுக்குப்பாறை, சேலம் மாவட்டம்\n👮 நடவடிக்கை: டி.ஐ.ஜி மற்றும் எஸ்.பி நேரில் ஆய்வு, போலீசார் விசாரணை\n\nGirl's body found in Vazhukkupaarai Salem | Salem news\n📍 வழுக்குப்பாறை, சேலம் | 26 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Salem360 #Salem #Vazhukkupaarai #SalemNews #சேலம்",
+   "prompts": "A wide shot of a rocky area known as Vazhukkupaarai in Salem district, Tamil Nadu, with a few police vehicles parked nearby, a small crowd of villagers standing at a distance, police officers in khaki uniforms standing near a rocky slope, overcast daylight, realistic rural Salem setting with dry vegetation and hills in the background, cinematic wide view. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA medium shot of a police jeep with a flashing red and blue light parked on a dirt road near the Vazhukkupaarai area, two high-ranking police officers in uniform talking to local police personnel, rocky terrain and bushes in the background, serious atmosphere, soft daylight, no faces visible, realistic Tamil Nadu police setting. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.thanthitv.com/news/breaking/salem-police-minor-girls-body-recovered-at-vazhukkuparai-tragic-scene-as-dig-and-sp-rush-to-the-spot",
+   "published": "",
+   "verification": "DRAFT (gemini/gemini-3-flash-preview) - NOT CLEAN, held from posting - problems: not grounded: only 28% of the words come from the article (e.g. பகுதியில், ஒருவர், உயிரிழந்த, நிலையில், கண்டெடுக்கப்பட்ட); use the article's own words and facts",
+   "note": "free-model draft gemini/gemini-3-flash-preview, 3 attempt(s), 1 validator problem(s)",
    "post_time": "right after your reply, same day",
    "_area": "N",
    "_score": 999,
    "images": [
-    "https://pub-ec316fa6a94f404c993596355ad19128.r2.dev/salem360/20261126/dba00bc90a4910db.jpg",
-    "https://pub-ec316fa6a94f404c993596355ad19128.r2.dev/salem360/20261126/29096f84608cca15.jpg"
+    "https://pub-ec316fa6a94f404c993596355ad19128.r2.dev/salem360/20261126/746de46a9e44a6e3.jpg",
+    "https://pub-ec316fa6a94f404c993596355ad19128.r2.dev/salem360/20261126/856f3ada55ef658a.jpg"
+   ]
+  },
+  {
+   "tamil_headline": "ஏற்காடு மலைப்பாதையில் 12 வயது சிறுமி சடலமாக மீட்பு: போலீசார் தீவிர விசாரணை",
+   "english_headline": "Body of unidentified 12-year-old girl recovered from 15-foot pit on Yercaud mountain road",
+   "category": "Crime & Safety",
+   "location": "Valukkuparai, Yercaud mountain road, Salem district",
+   "importance": "High",
+   "scope": "district",
+   "post_to": "Salem 360",
+   "slides_spec": {
+    "v": 3,
+    "cat": "குற்றச் செய்தி",
+    "loc": "ஏற்காடு மலைப்பாதை",
+    "hl1": "ஏற்காடு மலைப்பாதையில் சிறுமி சடலம்",
+    "hl2": "15 அடி பள்ளத்தில் மீட்பு",
+    "slides": [
+     {
+      "title": "எங்கு நடந்தது?",
+      "lines": [
+       "ஏற்காடு மலைப்பாதை <b>வழுக்குப்பாறை</b> பகுதி",
+       "சாலையோரம் உள்ள <b>15 அடி</b> ஆழப் பள்ளம்",
+       "சிறுமி சடலமாக கிடந்ததை மக்கள் பார்த்தனர்"
+      ]
+     },
+     {
+      "title": "யார்",
+      "lines": [
+       "சுமார் <b>12 வயது</b> இருக்கும் என கணிப்பு",
+       "அடையாளம் இன்னும் தெரியவில்லை",
+       "உடல் <b>சேலம் அரசு மருத்துவமனைக்கு</b> மாற்றம்"
+      ]
+     },
+     {
+      "title": "போலீஸ் விசாரணை",
+      "lines": [
+       "தவறி விழுந்தாரா அல்லது கொலையா என விசாரணை",
+       "சோதனைச் சாவடி <b>சிசிடிவி</b> காட்சிகள் ஆய்வு",
+       "காணாமல் போனோர் பட்டியலுடன் ஒப்பீடு"
+      ]
+     }
+    ],
+    "carousel": false
+   },
+   "reel_script": "ஏற்காடு மலைப்பாதையில் 15 அடி ஆழப் பள்ளத்தில் சுமார் 12 வயது சிறுமியின் சடலம் மீட்கப்பட்டுள்ளது. சேலம் - ஏற்காடு மலைப்பாதையில் உள்ள வழுக்குப்பாறை பகுதியில் இந்த அதிர்ச்சி சம்பவம் நடந்துள்ளது. அந்த வழியாகச் சென்றவர்கள் பள்ளத்தில் சிறுமியின் உடல் கிடப்பதைப் பார்த்து போலீசாருக்குத் தகவல் கொடுத்தனர். இதையடுத்து சம்பவ இடத்திற்கு வந்த போலீசார் சிறுமியின் சடலத்தை மீட்டு பிரேதப் பரிசோதனைக்காகச் சேலம் அரசு மருத்துவமனைக்கு அனுப்பி வைத்தனர். உயிரிழந்த சிறுமி யார், எந்த ஊரைச் சேர்ந்தவர் என்ற விவரம் இதுவரை தெரியவில்லை. சிறுமி தவறி விழுந்து உயிரிழந்தாரா அல்லது யாராவது கொலை செய்து வீசிச் சென்றார்களா என்ற கோணத்தில் போலீசார் விசாரிக்கின்றனர். மேலும், ஏற்காடு அடிவாரம் மற்றும் மலைப்பாதை சோதனைச் சாவடிகளில் உள்ள சிசிடிவி கேமரா காட்சிகள் ஆய்வு செய்யப்படுகின்றன. சேலம், தருமபுரி, நாமக்கல் உள்ளிட்ட மாவட்டங்களில் காணாமல் போன சிறுமிகளின் புகார்களுடன் போலீசார் ஒப்பீடு செய்து வருகின்றனர். செஞ்சியில் காணாமல் போன 7 வயது சிறுமிக்கும், இந்தச் சிறுமிக்கும் வயது வித்தியாசம் இருப்பதால் இது அந்தச் சிறுமியாக இருக்க வாய்ப்பில்லை என முதற்கட்டமாகத் தெரிகிறது. மேலும் செய்திகளுக்கு சேலம் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🚨 ஏற்காடு மலைப்பாதையில் 12 வயது சிறுமி சடலமாக மீட்பு - போலீசார் தீவிர விசாரணை\n\n📰 முழு விவரம்:\nசேலம் - ஏற்காடு மலைப்பாதையில் உள்ள வழுக்குப்பாறை பகுதியில், சாலையோரத்தில் உள்ள சுமார் 15 அடி ஆழப் பள்ளத்தில் அடையாளம் தெரியாத சிறுமியின் சடலம் மீட்கப்பட்டுள்ளது. அந்த வழியாகச் சென்றவர்கள் இதைப் பார்த்து போலீசாருக்குத் தகவல் அளித்தனர். உயிரிழந்த சிறுமிக்கு சுமார் 12 வயது இருக்கும் என்று போலீசார் மதிப்பிட்டுள்ளனர். சிறுமியின் உடல் பிரேதப் பரிசோதனைக்காகச் சேலம் அரசு மருத்துவமனைக்கு அனுப்பி வைக்கப்பட்டுள்ளது.\n\n👮 நடவடிக்கை:\nசிறுமி தவறி விழுந்து உயிரிழந்தாரா அல்லது கொலை செய்யப்பட்டு வீசப்பட்டாரா என்ற கோணத்தில் போலீசார் விசாரிக்கின்றனர். ஏற்காடு அடிவாரம் மற்றும் மலைப்பாதை சோதனைச் சாவடிகளில் உள்ள சிசிடிவி கேமராக்கள் ஆய்வு செய்யப்படுகின்றன. மேலும், சேலம் மற்றும் அண்டை மாவட்டங்களில் காணாமல் போன சிறுமிகளின் புகார்களுடன் போலீசார் ஒப்பீடு செய்து வருகின்றனர்.\n\nℹ️ மக்கள் கவனத்திற்கு:\nசெஞ்சியில் காணாமல் போன 7 வயது சிறுமிக்கும், இந்தச் சிறுமிக்கும் வயது வித்தியாசம் இருப்பதால், இது அந்தச் சிறுமியாக இருக்க வாய்ப்பில்லை என முதற்கட்ட விசாரணையில் தெரியவந்துள்ளது.\n\nYercaud mountain road girl body found | Salem news\n📍 வழுக்குப்பாறை, ஏற்காடு சாலை, சேலம் | 26 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Salem360 #Salem #Yercaud #CrimeNews #சேலம்",
+   "prompts": "A wide photo-realistic view of a winding Yercaud mountain road in Salem district with lush green trees and a concrete safety barrier, a white police vehicle with flashing lights parked on the roadside, two police officers in khaki uniforms looking down into a steep 15-foot forested pit, overcast afternoon light, realistic Tamil Nadu hill station atmosphere, wide eye-level shot. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA medium shot of a police checkpoint at the base of the Yercaud hills (Adivaram) in Salem, a CCTV camera mounted on a metal pole pointing towards the road, a TNSTC bus and a few two-wheelers passing through the gate, green hills in the background, clear daylight, sharp detail, no faces, no text. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://tamil.oneindia.com/news/villupuram/unidentified-12-year-old-girl-s-body-found-in-15-foot-gorge-amid-gingee-missing-girl-probe-848409.html",
+   "published": "2026-11-26T13:58:42+05:30",
+   "verification": "DRAFT (gemini/gemini-3-flash-preview + proofread groq/qwen/qwen3.8-27b) - NOT CLEAN, held from posting - problems: sentence 1 (one-line story) has 12 words; make it 6-9 words (about 2-3 seconds), the details follow in the next sentences; caption misses facts of the article (put every one in 📰 முழு விவரம்): 43 ('இருப்பினும், தமிழகம் முழுவதும் காணாமல் போன சிறுமிகளின் பட்டி'); 10 ('மேலும், சேலம், தருமபுரி, நாமக்கல், விழுப்புரம் உள்ளிட்ட அண்ட'); 13 ('மேலும், சேலம், தருமபுரி, நாமக்கல், விழுப்புரம் உள்ளிட்ட அண்ட'); 8 ('மேலும், சேலம், தருமபுரி, நாமக்கல், விழுப்புரம் உள்ளிட்ட அண்ட')",
+   "note": "free-model draft gemini/gemini-3-flash-preview + proofread groq/qwen/qwen3.8-27b, 1 attempt(s), 2 validator problem(s)",
+   "post_time": "right after your reply, same day",
+   "_area": "N",
+   "_score": 999,
+   "images": [
+    "https://pub-ec316fa6a94f404c993596355ad19128.r2.dev/salem360/20261126/814af40e0646ad7c.jpg",
+    "https://pub-ec316fa6a94f404c993596355ad19128.r2.dev/salem360/20261126/332baad51cdc6085.jpg"
    ]
   }
  ]
