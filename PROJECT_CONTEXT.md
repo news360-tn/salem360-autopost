@@ -83,6 +83,16 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 <!-- recent-changes:start (updated automatically by .github/workflows/context.yml - do not edit by hand) -->
 | Date | Commit | Change |
 |---|---|---|
+| 2026-11-26 | `c72ad9d` | Rasipuram collaboration: news about or near Rasipuram invites Rasipuram 360 as collaborator (Namakkal and Salem pages; towns in config collab_near_words) |
+| 2026-11-26 | `4710a68` | stories shared / Instagram pause |
+| 2026-11-26 | `01c5d9c` | powercut: notices written |
+| 2026-11-26 | `5f67ef8` | stories shared / Instagram pause |
+| 2026-11-26 | `56ae893` | stories shared / Instagram pause |
+| 2026-11-26 | `1b7f70b` | stories shared / Instagram pause |
+| 2026-11-26 | `6b59a77` | stories shared / Instagram pause |
+| 2026-11-26 | `204e0ea` | stories shared / Instagram pause |
+| 2026-11-26 | `043d933` | stories shared / Instagram pause |
+| 2026-11-26 | `62ffda6` | stories shared / Instagram pause |
 | 2026-11-26 | `095a16a` | stories shared / Instagram pause |
 | 2026-11-26 | `f9ea92a` | stories shared / Instagram pause |
 | 2026-11-26 | `de016e4` | stories shared / Instagram pause |
@@ -103,14 +113,4 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 | 2026-11-26 | `77792ba` | stories shared / Instagram pause |
 | 2026-11-26 | `0c186f0` | stories shared / Instagram pause |
 | 2026-11-26 | `4eae1e7` | stories shared / Instagram pause |
-| 2026-11-26 | `32ee39b` | stories shared / Instagram pause |
-| 2026-11-26 | `1010893` | goldrate posted |
-| 2026-11-26 | `c407bf0` | stories shared / Instagram pause |
-| 2026-11-26 | `5c031af` | stories shared / Instagram pause |
-| 2026-11-26 | `4c5e717` | stories shared / Instagram pause |
-| 2026-11-26 | `24fa983` | stories shared / Instagram pause |
-| 2026-11-26 | `d7e78ea` | stories shared / Instagram pause |
-| 2026-11-26 | `6559774` | stories shared / Instagram pause |
-| 2026-11-26 | `5650ae7` | facebook RN-301 |
-| 2026-11-26 | `5a5d512` | posted RN-301 |
 <!-- recent-changes:end -->
