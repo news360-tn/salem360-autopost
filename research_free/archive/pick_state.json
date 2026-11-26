@@ -393,7 +393,8 @@
    "score": 10.0,
    "power_cut": false,
    "listed_at": "2026-11-26T06:06:22.761582+05:30",
-   "picked_at": "2026-11-26T06:07:01.771743+05:30"
+   "picked_at": "2026-11-26T06:07:01.771743+05:30",
+   "refused": "not filed: all free models failed: no usable answer from the models"
   },
   "C0eac92f": {
    "id": "C0eac92f",
@@ -406,7 +407,8 @@
    "score": 8.0,
    "power_cut": false,
    "listed_at": "2026-11-26T06:06:22.761582+05:30",
-   "picked_at": "2026-11-26T06:07:01.771745+05:30"
+   "picked_at": "2026-11-26T06:07:01.771745+05:30",
+   "posted": true
   }
  },
  "rounds": {
@@ -852,7 +854,10 @@
    "written": [
     "C0eac92f",
     "C606cbbb"
-   ]
+   ],
+   "refused": {
+    "C606cbbb": "not filed: all free models failed: no usable answer from the models"
+   }
   }
  },
  "retry": {}
