@@ -1,0 +1,420 @@
+writing [N]: ஹவுஸ் ஓனரை தாக்கியவர் கைது
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
+fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 429: {
+  "error": {
+    "code": 429,
+    "message": "You exceeded your current quota, please che
+dead for this round: gemini/gemini-3.6-flash
+fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {
+  "error": {
+    "code": 429,
+    "message": "You exceeded your current quota, please che
+dead for this round: gemini/gemini-3.5-flash
+fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 429: {
+  "error": {
+    "code": 429,
+    "message": "You exceeded your current quota, plea
+dead for this round: gemini/gemini-3-flash-preview
+fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 400: {"error":{"message":"Failed to validate JSON. Please adjust your prompt. See 'failed_gener
+writing [N]: தொழிலாளி வீட்டில் நகை திருட்டு பக்கத்து வீட்டு தம்பதிக்கு கா
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
+fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {"error":{"message":"Rate limit reached for model `openai/gpt-oss-120b` in organization `o
+ok groq/qwen/qwen3.8-27b (4s)
+attempt 1 groq/qwen/qwen3.8-27b: 1 problems
+  hl1 (the first headline on screen) must name the place 'சீலநாயக்கன்பட்டி', e.g. 'சீலநாயக்கன்பட்டி: ...' or 'சீலநாயக்கன்பட்டி-இல் ...' - viewers share news of their own area
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
+fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {"error":{"message":"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m
+fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {"error":{"message":"Rate limit reached for model `openai/gpt-oss-120b` in organization `o
+switching away from groq/openai/gpt-oss-120b for 10 min
+fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {"error":{"message":"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m
+fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {"error":{"message":"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m
+switching away from groq/qwen/qwen3.8-27b for 10 min
+free models unavailable: no free model answered: groq qwen/qwen3.8-27b 429: {"error":{"message":"Rate limit reached for model `qwen/qwen3.8-27b` 
+writing [N]: தொடர்ந்து வழிப்பறி 5ம் முறை குண்டாஸ்
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
+free models unavailable: no free model answered: None
+ok anthropic/claude-haiku-5-5
+claude rewrite 1 anthropic/claude-haiku-5-5: 3 problems
+  hl1 is 50 characters (max 40) - write a SHORTER COMPLETE phrase with fewer words that still ends with its key word (what happened: e.g. 'X அருகே வீட்டில் கொள்ளை'); never stop a phrase in the middle
+  reel_script sentence 1 (heard in the first 3 seconds) must name the place 'சீலநாயக்கன்பட்டி' and the news itself, e.g. 'சீலநாயக்கன்பட்டி-இல் ... 3 பேர் கைது.' - viewers decide in 3 seconds whether the news is about their area
+  caption misses facts of the article (put every one in 📰 முழு விவரம்): 8 ('சேலம்:சேலம், சீலநாயக்கன்பட்டி, பெருமாள் கோவில் மேடு, 8வது கி')
+fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {"error":{"message":"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m
+switching away from groq/qwen/qwen3.8-27b for 10 min
+free models unavailable: no free model answered: groq qwen/qwen3.8-27b 429: {"error":{"message":"Rate limit reached for model `qwen/qwen3.8-27b` 
+ok anthropic/claude-haiku-5-5
+claude rewrite 1 anthropic/claude-haiku-5-5: 3 problems
+  hl1 is 47 characters (max 40) - write a SHORTER COMPLETE phrase with fewer words that still ends with its key word (what happened: e.g. 'X அருகே வீட்டில் கொள்ளை'); never stop a phrase in the middle
+  slide 1 line 1 longer than 60 characters
+  reel_script sentence 1 (heard in the first 3 seconds) must name the place 'கிச்சிப்பாளையம்' and the news itself, e.g. 'கிச்சிப்பாளையம்-இல் ... 3 பேர் கைது.' - viewers decide in 3 seconds whether the news is about their area
+ok anthropic/claude-haiku-5-5
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
+free fact-check unavailable, using Claude: no free model answered: None
+ok anthropic/claude-haiku-5-5
+factcheck by anthropic/claude-haiku-5-5: 5 problems
+  The reel_script and caption describe the house owner Marudhamuthu as 'வீட்டு உரிமையாளர்' while the article's headline says the attacker was arrested; this is consistent, but the slides_spec 'என்ன நடந்தது?' slide and headline say 'தாக்கியவர்' correctly — however the slides_spec 'ஏன் தகராறு?' slide omits that the dispute was with his wife Monisha only in part; no clear error here
+  The reel_script states Marudhamuthu's 89-year-old age, which the article gives as 89 — correct; but the caption says 'மருதமுத்து (89 வயது)' while the article gives only the number 89 without the unit, which is an acceptable reading
+  The slides_spec line 'சட்டப்படி நடவடிக்கை தொடர்கிறது' (legal action is continuing) is not stated in the article, which only says the accused was arrested yesterday
+  The slides_spec line 'பாலகுமாரன் நேற்று கைது செய்யப்பட்டார்' and the reel_script line are fine, but the slides_spec 'என்ன நடந்தது?' slide line 'கட்டையால் தாக்கி கொலை மிரட்டல் விடுத்தார்' merges two separate acts (assault and death threat) into one sentence, as does the caption's 'தாக்கி கொலை மிரட்டல் விடுத்தார்'
+  The tamil_headline and slides_spec headline place the incident in 'சீலநாயக்கன்பட்டி' as the arrest location; the article only says the owner lives there and the police station is Annadhanapatti, so the location of the assault is not explicitly stated as Seelanayakkanpatti in the article's wording
+claude rewrite 2 anthropic/claude-haiku-5-5: 5 problems
+  fact-check: The reel_script and caption describe the house owner Marudhamuthu as 'வீட்டு உரிமையாளர்' while the article's headline says the attacker was arrested; this is consistent, but the slides_spec 'என்ன நடந்தது?' slide and headline say 'தாக்கியவர்' correctly — however the slides_spec 'ஏன் தகராறு?' slide omits that the dispute was with his wife Monisha only in part; no clear error here
+  fact-check: The reel_script states Marudhamuthu's 89-year-old age, which the article gives as 89 — correct; but the caption says 'மருதமுத்து (89 வயது)' while the article gives only the number 89 without the unit, which is an acceptable reading
+  fact-check: The slides_spec line 'சட்டப்படி நடவடிக்கை தொடர்கிறது' (legal action is continuing) is not stated in the article, which only says the accused was arrested yesterday
+  fact-check: The slides_spec line 'பாலகுமாரன் நேற்று கைது செய்யப்பட்டார்' and the reel_script line are fine, but the slides_spec 'என்ன நடந்தது?' slide line 'கட்டையால் தாக்கி கொலை மிரட்டல் விடுத்தார்' merges two separate acts (assault and death threat) into one sentence, as does the caption's 'தாக்கி கொலை மிரட்டல் விடுத்தார்'
+  fact-check: The tamil_headline and slides_spec headline place the incident in 'சீலநாயக்கன்பட்டி' as the arrest location; the article only says the owner lives there and the police station is Annadhanapatti, so the location of the assault is not explicitly stated as Seelanayakkanpatti in the article's wording
+ok anthropic/claude-haiku-5-5
+claude rewrite 1 anthropic/claude-haiku-5-5: 1 problems
+  caption misses facts of the article (put every one in 📰 முழு விவரம்): 30 ('ஓமலூர்:ஓமலூர், ஜெயா தியேட்டர் பகுதியை சேர்ந்தவர் வெண்ணிலா, 3')
+ok anthropic/claude-haiku-5-5
+claude rewrite 2 anthropic/claude-haiku-5-5: 1 problems
+  hl1 is 43 characters (max 40) - write a SHORTER COMPLETE phrase with fewer words that still ends with its key word (what happened: e.g. 'X அருகே வீட்டில் கொள்ளை'); never stop a phrase in the middle
+ok anthropic/claude-haiku-5-5
+claude rewrite 3 anthropic/claude-haiku-5-5: 1 problems
+  hl1 (the first headline on screen) must name the place 'சீலநாயக்கன்பட்டி', e.g. 'சீலநாயக்கன்பட்டி: ...' or 'சீலநாயக்கன்பட்டி-இல் ...' - viewers share news of their own area
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
+proofread skipped: no free model answered: None
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
+ok anthropic/claude-haiku-5-5
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
+free fact-check unavailable, using Claude: no free model answered: None
+ok anthropic/claude-haiku-5-5
+claude rewrite 3 anthropic/claude-haiku-5-5: 1 problems
+  hl1 (the first headline on screen) must name the place 'கிச்சிப்பாளையம்', e.g. 'கிச்சிப்பாளையம்: ...' or 'கிச்சிப்பாளையம்-இல் ...' - viewers share news of their own area
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
+proofread skipped: no free model answered: None
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
+ok anthropic/claude-haiku-5-5
+factcheck by anthropic/claude-haiku-5-5: 4 problems
+  The reel_script says the theft happened at Omalur, Jaya Theatre area, but the article only says the victims live there; that is consistent, so not a problem. However, the reel_script says the couple returned home 'at night' after work, while the article says the theft was discovered the night of the day before yesterday (நேற்று முன்தினம்) and the caption says the same, but the reel_script omits this timing and instead presents it as the same day, which is a date/time mismatch with the article
+  The slides_spec slide 3 title 'எப்படித்' is an ungrammatical/incomplete Tamil phrase with no clear meaning
+  The caption and reel_script state that the thieves knew about the key habit 'to the couple' ('தம்பதிக்குத் தெரிந்திருந்தது'), while the article only says the neighbouring couple knew about it; the reel_script and caption attribute the knowledge to the victim's side ambiguously, and the caption asserts the couple 'deliberately' stole knowing this ('அறிந்தே தம்பதி திருடியதாக'), which is an added causal claim not stated in the article
+  The reel_script states the victims 'returned home' after work and found the jewellery missing, but the article says the husband and wife both went to work and returned; the reel_script does not mention that the jewellery was in the bureau and missing on the night of the day before yesterday, so the timing is misrepresented
+claude rewrite 2 anthropic/claude-haiku-5-5: 4 problems
+  fact-check: The reel_script says the theft happened at Omalur, Jaya Theatre area, but the article only says the victims live there; that is consistent, so not a problem. However, the reel_script says the couple returned home 'at night' after work, while the article says the theft was discovered the night of the day before yesterday (நேற்று முன்தினம்) and the caption says the same, but the reel_script omits this timing and instead presents it as the same day, which is a date/time mismatch with the article
+  fact-check: The slides_spec slide 3 title 'எப்படித்' is an ungrammatical/incomplete Tamil phrase with no clear meaning
+  fact-check: The caption and reel_script state that the thieves knew about the key habit 'to the couple' ('தம்பதிக்குத் தெரிந்திருந்தது'), while the article only says the neighbouring couple knew about it; the reel_script and caption attribute the knowledge to the victim's side ambiguously, and the caption asserts the couple 'deliberately' stole knowing this ('அறிந்தே தம்பதி திருடியதாக'), which is an added causal claim not stated in the article
+  fact-check: The reel_script states the victims 'returned home' after work and found the jewellery missing, but the article says the husband and wife both went to work and returned; the reel_script does not mention that the jewellery was in the bureau and missing on the night of the day before yesterday, so the timing is misrepresented
+ok anthropic/claude-haiku-5-5
+ok anthropic/claude-haiku-5-5
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
+ok anthropic/claude-haiku-5-5
+ok anthropic/claude-haiku-5-5
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
+free fact-check unavailable, using Claude: no free model answered: None
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+image match check unavailable: gemini-3.5-flash: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/g
+ok anthropic/claude-haiku-5-5
+factcheck by anthropic/claude-haiku-5-5: 4 problems
+  The caption adds an invented date '(நவ. 24)' for the incident, which is not in the article (the article only says 'நேற்று முன்தினம்').
+  The caption adds an invented safety advice ('வீட்டுச் சாவியை கதவு அருகே வைத்துச் செல்ல வேண்டாம்; வீட்டைப் பூட்டி, நகைகளைப் பாதுகாப்பாக வையுங்கள்') that is not stated in the article.
+  The caption states that Venilla is a 'கூலித்தொழிலாளி' and gives her husband's age but omits that the husband Karthikeyan is also a daily-wage worker; the phrasing 'அவரது கணவர் கார்த்திகேயன், 34' is incomplete and drops his occupation, which is a minor deviation rather than a factual error.
+  The reel_script omits that the arrested couple's jewellery was pawned ('அடகு வைத்து') only partly: it says they 'திருடி அடகு வைத்தனர்' which is fine, but the caption's 'அடகு வைத்தது தெரியவந்தது' is not a problem; however, the reel_script's slide 'யார் கைது?' says the couple was arrested while the article states the couple was 'கைது' by police — consistent.
+claude rewrite 3 anthropic/claude-haiku-5-5: 4 problems
+  fact-check: The caption adds an invented date '(நவ. 24)' for the incident, which is not in the article (the article only says 'நேற்று முன்தினம்').
+  fact-check: The caption adds an invented safety advice ('வீட்டுச் சாவியை கதவு அருகே வைத்துச் செல்ல வேண்டாம்; வீட்டைப் பூட்டி, நகைகளைப் பாதுகாப்பாக வையுங்கள்') that is not stated in the article.
+  fact-check: The caption states that Venilla is a 'கூலித்தொழிலாளி' and gives her husband's age but omits that the husband Karthikeyan is also a daily-wage worker; the phrasing 'அவரது கணவர் கார்த்திகேயன், 34' is incomplete and drops his occupation, which is a minor deviation rather than a factual error.
+  fact-check: The reel_script omits that the arrested couple's jewellery was pawned ('அடகு வைத்து') only partly: it says they 'திருடி அடகு வைத்தனர்' which is fine, but the caption's 'அடகு வைத்தது தெரியவந்தது' is not a problem; however, the reel_script's slide 'யார் கைது?' says the couple was arrested while the article states the couple was 'கைது' by police — consistent.
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
+proofread skipped: no free model answered: None
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
+image match check unavailable: gemini-3.5-flash: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/g
+images made: 2 for 'Tenant who attacked house owner in Salem'
+bridge: 200 {"ok":true,"added":1,"auto_queued":1,"emailed":0,"reoffered":0,"batch":"B20261126-1842","first":"RN-304"}
+ok anthropic/claude-haiku-5-5
+posting job started at once
+real photo: no picture on the source page -> AI pictures
+image match check unavailable: gemini-3.5-flash: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/g
+image match check unavailable: gemini-3.5-flash: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/g
+images made: 2 for 'Repeat robber Satish arrested under Goon'
+bridge: 200 {"ok":true,"added":1,"auto_queued":1,"emailed":0,"reoffered":0,"batch":"B20261126-1842","first":"RN-305"}
+real photo: no picture on the source page -> AI pictures
+image match check unavailable: gemini-3.5-flash: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/g
+image match check unavailable: gemini-3.5-flash: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/g
+images made: 2 for '5 sovereigns of gold stolen from a house'
+bridge: 200 {"ok":true,"added":1,"auto_queued":1,"emailed":0,"reoffered":0,"batch":"B20261126-1843","first":"RN-306"}
+writing [N]: பட்டாவில் பெயா் மாற்ற லஞ்சம்: கிராம நிா்வாக அலுவலா், உதவியாள
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
+free models unavailable: no free model answered: None
+ok anthropic/claude-haiku-5-5
+claude rewrite 1 anthropic/claude-haiku-5-5: 3 problems
+  sentence 1 (one-line story) has 13 words; make it 6-9 words (about 2-3 seconds), the details follow in the next sentences
+  hl1 (the first headline on screen) must name the place 'பாலம்பட்டி', e.g. 'பாலம்பட்டி: ...' or 'பாலம்பட்டி-இல் ...' - viewers share news of their own area
+  caption misses facts of the article (put every one in 📰 முழு விவரம்): 14 ('14 ஆயிரம் கேட்டதாக தெரிகிறது..லஞ்சம் கொடுக்க விரும்பாத தமிழ்'); 9 ('9 ஆயிரத்துக்கு ஒப்புக்கொண்ட கிராம நிா்வாக அலுவலரின் விடியோ ஆ'); 9 ('9 ஆயிரத்தை போலீஸாா் தமிழ்ச்செல்வனிடம் புதன்கிழமை காலை கொடுத்')
+ok anthropic/claude-haiku-5-5
+claude rewrite 2 anthropic/claude-haiku-5-5: 3 problems
+  hl1 is 42 characters (max 40) - write a SHORTER COMPLETE phrase with fewer words that still ends with its key word (what happened: e.g. 'X அருகே வீட்டில் கொள்ளை'); never stop a phrase in the middle
+  source/outlet name or link appears: ஆதாரம்
+  caption misses facts of the article (put every one in 📰 முழு விவரம்): 14 ('14 ஆயிரம் கேட்டதாக தெரிகிறது..லஞ்சம் கொடுக்க விரும்பாத தமிழ்'); 9 ('9 ஆயிரத்துக்கு ஒப்புக்கொண்ட கிராம நிா்வாக அலுவலரின் விடியோ ஆ'); 9 ('9 ஆயிரத்தை போலீஸாா் தமிழ்ச்செல்வனிடம் புதன்கிழமை காலை கொடுத்')
+ok anthropic/claude-haiku-5-5
+claude rewrite 3 anthropic/claude-haiku-5-5: 2 problems
+  source/outlet name or link appears: ஆதாரம்
+  hl1 (the first headline on screen) must name the place 'பாலம்பட்டி', e.g. 'பாலம்பட்டி: ...' or 'பாலம்பட்டி-இல் ...' - viewers share news of their own area
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
+proofread skipped: no free model answered: None
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
+ok anthropic/claude-haiku-5-5
+real photo skipped (photo uploaded 2026-11-14 (older than the news)): https://media.dinamani.com/dinamani/2026-11-14/3zpfxwhp/%E0%AE%95%E0%AF%88%E0%AE%A4%E0%AF%
+real photo skipped (photo uploaded 2026-11-14 (older than the news)): https://media.dinamani.com/dinamani/2026-11-14/3zpfxwhp/கைது.jfif?w=1200&h=675&auto=format
+image match check unavailable: gemini-3.5-flash: 503 Server Error: Service Unavailable for url: https://generativelanguage.googleapis.com/v1beta/models
+image match check unavailable: gemini-3.5-flash: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/g
+images made: 2 for 'Village administrative officer and assis'
+bridge: 200 {"ok":true,"added":1,"auto_queued":1,"emailed":0,"reoffered":0,"batch":"B20261126-1844","first":"RN-307"}
+earlier stories still waiting for images: []
+instagram check: 50 recent posts read from the page
+source dinamalar list: 15 items
+source google 'சேலம்': 56 items
+source bing 'சேலம்': 12 items
+source google 'ஆத்தூர்': 5 items
+source bing 'ஆத்தூர்': 12 items
+source google 'ஓமலூர்': 1 items
+source bing 'ஓமலூர்': 12 items
+source google 'மேட்டூர்': 8 items
+source bing 'மேட்டூர்': 12 items
+source google 'எடப்பாடி': 20 items
+source bing 'எடப்பாடி': 12 items
+source google 'சங்ககிரி': 3 items
+source bing 'சங்ககிரி': 12 items
+source google 'வாழப்பாடி': 4 items
+source bing 'வாழப்பாடி': 10 items
+source google 'ஏற்காடு': 10 items
+source bing 'ஏற்காடு': 12 items
+source google 'கெங்கவல்லி': 3 items
+source bing 'கெங்கவல்லி': 8 items
+source google 'தலைவாசல்': 1 items
+source bing 'தலைவாசல்': 11 items
+source google 'தம்மம்பட்டி': 6 items
+source bing 'தம்மம்பட்டி': 7 items
+source google 'நரசிங்கபுரம்': 1 items
+source bing 'நரசிங்கபுரம்': 10 items
+source google 'வீரகனூர்': 0 items
+source bing 'வீரகனூர்': 2 items
+source google 'பெத்தநாயக்கன்பாளையம்': 2 items
+source bing 'பெத்தநாயக்கன்பாளையம்': 4 items
+source google 'பேளூர்': 1 items
+source bing 'பேளூர்': 10 items
+source google 'அயோத்தியாப்பட்டணம்': 0 items
+source bing 'அயோத்தியாப்பட்டணம்': 7 items
+source google 'பனமரத்துப்பட்டி': 0 items
+source bing 'பனமரத்துப்பட்டி': 11 items
+source google 'சேலம் மாவட்டம்': 21 items
+source bing 'சேலம் மாவட்டம்': 12 items
+source google 'சேலம் மின்தடை': 10 items
+source bing 'சேலம் மின்தடை': 12 items
+source google 'ஆத்தூர் மின்தடை': 0 items
+source bing 'ஆத்தூர் மின்தடை': 7 items
+source google 'மேட்டூர் மின்தடை': 0 items
+source bing 'மேட்டூர் மின்தடை': 4 items
+source google 'ஓமலூர் மின்தடை': 0 items
+source bing 'ஓமலூர் மின்தடை': 1 items
+source google 'சேலம் ஆட்சியர் அறிவிப்பு': 3 items
+source bing 'சேலம் ஆட்சியர் அறிவிப்பு': 10 items
+source google 'சேலம் மாவட்ட நிர்வாகம்': 2 items
+source bing 'சேலம் மாவட்ட நிர்வாகம்': 11 items
+source google 'சேலம் வேலைவாய்ப்பு முகாம்': 0 items
+source bing 'சேலம் வேலைவாய்ப்பு முகாம்': 0 items
+source google 'சேலம் ஆட்சேர்ப்பு': 11 items
+source bing 'சேலம் ஆட்சேர்ப்பு': 1 items
+source google 'சேலம் சிறப்பு முகாம்': 1 items
+source bing 'சேலம் சிறப்பு முகாம்': 6 items
+source google 'சேலம் குறைதீர் கூட்டம்': 2 items
+source bing 'சேலம் குறைதீர் கூட்டம்': 4 items
+source google 'அஸ்தம்பட்டி': 0 items
+source bing 'அஸ்தம்பட்டி': 7 items
+source google 'சூரமங்கலம்': 4 items
+source bing 'சூரமங்கலம்': 5 items
+source google 'அம்மாபேட்டை': 4 items
+source bing 'அம்மாபேட்டை': 11 items
+source google 'கொண்டலாம்பட்டி': 0 items
+source bing 'கொண்டலாம்பட்டி': 7 items
+source google 'அழகாபுரம்': 0 items
+source bing 'அழகாபுரம்': 7 items
+source google 'ஃபேர்லேண்ட்ஸ்': 0 items
+source bing 'ஃபேர்லேண்ட்ஸ்': 0 items
+source google 'எடப்பாடி மின்தடை': 2 items
+source bing 'எடப்பாடி மின்தடை': 11 items
+source google 'சங்ககிரி மின்தடை': 0 items
+source bing 'சங்ககிரி மின்தடை': 2 items
+source google 'வாழப்பாடி மின்தடை': 1 items
+source bing 'வாழப்பாடி மின்தடை': 0 items
+source google 'ஏற்காடு மின்தடை': 0 items
+source bing 'ஏற்காடு மின்தடை': 1 items
+source google 'கெங்கவல்லி மின்தடை': 0 items
+source bing 'கெங்கவல்லி மின்தடை': 0 items
+source google 'தலைவாசல் மின்தடை': 0 items
+source bing 'தலைவாசல் மின்தடை': 3 items
+source google 'தம்மம்பட்டி மின்தடை': 1 items
+source bing 'தம்மம்பட்டி மின்தடை': 0 items
+source google 'நரசிங்கபுரம் மின்தடை': 3 items
+source bing 'நரசிங்கபுரம் மின்தடை': 6 items
+source google 'வீரகனூர் மின்தடை': 0 items
+source bing 'வீரகனூர் மின்தடை': 0 items
+source google 'பெத்தநாயக்கன்பாளையம் மின்தடை': 0 items
+source bing 'பெத்தநாயக்கன்பாளையம் மின்தடை': 1 items
+source google 'பேளூர் மின்தடை': 1 items
+source bing 'பேளூர் மின்தடை': 4 items
+source google 'சேலம் மின்தடை நாளை': 10 items
+source bing 'சேலம் மின்தடை நாளை': 11 items
+source google 'சேலம் மின்தடை பகுதிகள்': 10 items
+source bing 'சேலம் மின்தடை பகுதிகள்': 12 items
+source google 'சேலம் மின் நிறுத்தம்': 0 items
+source bing 'சேலம் மின் நிறுத்தம்': 6 items
+source google தினமலர் 'சேலம்': 100 items
+source bing தினமலர் 'சேலம்': 11 items
+source google தினமலர் 'ஆத்தூர்': 18 items
+source bing தினமலர் 'ஆத்தூர்': 12 items
+source google தினமணி 'சேலம்': 100 items
+source bing தினமணி 'சேலம்': 12 items
+source google தினமணி 'ஆத்தூர்': 1 items
+source bing தினமணி 'ஆத்தூர்': 3 items
+source google தினகரன் 'சேலம்': 100 items
+source bing தினகரன் 'சேலம்': 9 items
+source google தினகரன் 'ஆத்தூர்': 2 items
+source bing தினகரன் 'ஆத்தூர்': 2 items
+source google ஒன்இந்தியா 'சேலம்': 100 items
+source bing ஒன்இந்தியா 'சேலம்': 12 items
+source google ஒன்இந்தியா 'ஆத்தூர்': 1 items
+source bing ஒன்இந்தியா 'ஆத்தூர்': 9 items
+source google தினத்தந்தி 'சேலம்': 25 items
+source bing தினத்தந்தி 'சேலம்': 11 items
+source google தினத்தந்தி 'ஆத்தூர்': 3 items
+source bing தினத்தந்தி 'ஆத்தூர்': 3 items
+source google மாலைமலர் 'சேலம்': 7 items
+source bing மாலைமலர் 'சேலம்': 12 items
+source google மாலைமலர் 'ஆத்தூர்': 0 items
+source bing மாலைமலர் 'ஆத்தூர்': 2 items
+source google தந்தி டிவி 'சேலம்': 18 items
+source bing தந்தி டிவி 'சேலம்': 6 items
+source google தந்தி டிவி 'ஆத்தூர்': 1 items
+source bing தந்தி டிவி 'ஆத்தூர்': 1 items
+source google இந்து தமிழ் 'சேலம்': 7 items
+source bing இந்து தமிழ் 'சேலம்': 12 items
+source google இந்து தமிழ் 'ஆத்தூர்': 0 items
+source bing இந்து தமிழ் 'ஆத்தூர்': 0 items
+source google பாலிமர் 'சேலம்': 41 items
+source bing பாலிமர் 'சேலம்': 5 items
+source google பாலிமர் 'ஆத்தூர்': 0 items
+source bing பாலிமர் 'ஆத்தூர்': 0 items
+source google மாலை முரசு 'சேலம்': 2 items
+source bing மாலை முரசு 'சேலம்': 2 items
+source google மாலை முரசு 'ஆத்தூர்': 1 items
+source bing மாலை முரசு 'ஆத்தூர்': 0 items
+source google நியூஸ்18 தமிழ் 'சேலம்': 100 items
+source bing நியூஸ்18 தமிழ் 'சேலம்': 12 items
+source google நியூஸ்18 தமிழ் 'ஆத்தூர்': 3 items
+source bing நியூஸ்18 தமிழ் 'ஆத்தூர்': 4 items
+source google இந்தியன் எக்ஸ்பிரஸ் தமிழ் 'சேலம்': 7 items
+source bing இந்தியன் எக்ஸ்பிரஸ் தமிழ் 'சேலம்': 12 items
+source google இந்தியன் எக்ஸ்பிரஸ் தமிழ் 'ஆத்தூர்': 1 items
+source bing இந்தியன் எக்ஸ்பிரஸ் தமிழ் 'ஆத்தூர்': 2 items
+source தினமணி சேலம்: 9 items
+source ஒன்இந்தியா சேலம்: 17 items
+source இந்து தமிழ் சேலம்: 9 items
+source விகடன் சேலம்: 14 items
+source பாலிமர் சேலம்: 5 items
+Tamil outlets only: kept 1179 of 1394 items
+all sources: 1179 items -> 802 different news
+candidate filter: not written=419, not Salem district news (state-wide / ot=250, old=44, already filed=40, collected=34, not written=15
+to write: 34 Salem district candidates (max 3 stories)
+round: top 3 of 34 candidates + 3 power cut(s)
+candidates waiting: 34 Salem; time left 53 min
+try (N) manual=False: தமிழ்நாட்டின் பல்வேறு இடங்களில் நாளை(26.11.2026) மின்தடை அறி
+try (N) manual=False: நாளைய மின்தடை: கவுண்டம்பாளையம்
+try (N) manual=False: ஏற்காடு மலைப்பாதையில் 15 வயது சிறுமி உடல்! கொலையா?
+skip (N) could not open: தமிழ்நாட்டின் பல்வேறு இடங்களில் நாளை(26.11.2026) ம [https://tamil.news18.com/photogallery/tamil-nadu/power-outag] 403 Client Error: Forbidden for url: https://tamil.news18.com/photogallery/tamil
+try (N) manual=False: Ramanathapuram | சித்த மருத்துவருக்கு விபூதி அடித்த ஊழியர்கள
+skip (N) too old (2026-11-21T19:39:55.027Z): நாளைய மின்தடை: 
+கவுண்டம்பாளையம்
+try (N) manual=False: 19 வயது கர்ப்பிணியை தாய், தந்தையே கொடூரமாக கொலை செய்தது ஏன்?
+skip (N) no Salem place in article: Ramanathapuram | சித்த மருத்துவருக்கு விபூதி அடித்
+try (N) manual=False: இன்று மின் நிறுத்தம்
+skip (N) same event as RN-303: ஏற்காடு மலைப்பாதையில் 15 வயது சிறுமி உடல்! கொலையா?
+try (N) manual=False: ஹவுஸ் ஓனரை தாக்கியவர் கைது
+skip (N) no Salem place in article: 19 வயது கர்ப்பிணியை தாய், தந்தையே கொடூரமாக கொலை செ
+try (N) manual=False: தம்மம்பட்டியில் வழக்கு விசாரணைக்கு ஆஜராகாத 2 போ் கைது
+skip (N) too old (2026-11-11T22:29:55.305Z): தம்மம்பட்டியில் 
+வழக்கு விசாரணைக்கு 
+ஆஜராகாத 2 போ
+try (N) manual=False: 5.35 கிலோ கஞ்சா பறிமுதல் ரவுடி உள்பட 6 பேர் கைது
+skip (N) too old (2012-09-22T05:31:00+05:30): இன்று மின் நிறுத்தம்
+try (N) manual=False: கைது
+skip (N) too old (2026-07-04T04:24:00+05:30): 5.35 கிலோ கஞ்சா பறிமுதல் ரவுடி உள்பட 6 பேர் கைது
+try (N) manual=False: தொழிலாளி வீட்டில் நகை திருட்டு பக்கத்து வீட்டு தம்பதிக்கு 'க
+skip (N) only a headline, 11 words of text: கைது [https://www.dinamalar.com/photos/social-media-cards/370236]
+try (N) manual=False: கைது செய்க
+skip (N) only a headline, 11 words of text: கைது செய்க [https://www.dinamalar.com/photos/social-media-cards/370245]
+try (N) manual=False: பிளிங்கிட் கிடங்கில் ரூ.10 லட்சம் மதிப்பிலான பொருட்கள் திருட
+skip (N) no Salem place in article: பிளிங்கிட் கிடங்கில் ரூ.10 லட்சம் மதிப்பிலான பொருட
+try (N) manual=False: அமலாக்கத்துறை வழக்குகளில் சொத்துகளை பறிமுதல் செய்ய கட்டுப்பா
+skip (N) no Salem place in article: அமலாக்கத்துறை வழக்குகளில் சொத்துகளை பறிமுதல் செய்ய
+try (N) manual=False: சாலையை கடந்த சலூன் கடைக்காரர் மீது பேருந்து மோதி விபத்து – ப
+skip (N) only a headline, 10 words of text: சாலையை கடந்த சலூன் கடைக்காரர் மீது பேருந்து மோதி வ [https://www.thanthitv.com/amp/story/news/tamilnadu/a-salon-o]
+try (N) manual=False: பெண் ஆட்சியருக்கு ஆபாச குறுஞ்செய்தி அனுப்பிய விவகாரம்: தவெக 
+skip (N) no Salem place in article: பெண் ஆட்சியருக்கு ஆபாச குறுஞ்செய்தி அனுப்பிய விவகா
+try (N) manual=False: Salem Police| வழுக்குப்பாறையில் சிறுமி சடலமாக மீட்பு.. உச்சக
+skip (N) already filed: Salem Police| வழுக்குப்பாறையில் சிறுமி சடலமாக மீட்
+try (N) manual=False: தொடர்ந்து வழிப்பறி 5ம் முறை 'குண்டாஸ்'
+auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 2})
+posting job started at once
+try (N) manual=False: Just Now | Yercaud Issue | 15 வயது சிறுமிக்கு என்ன நடந்தது? 
+auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 4})
+auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 6})
+try (N) manual=False: கஞ்சா பறிமுதல் வாலிபர் சிக்கினார்
+try (N) manual=False: பட்டாவில் பெயா் மாற்ற லஞ்சம்: கிராம நிா்வாக அலுவலா், உதவியாள
+skip (N) could not open: Just Now | Yercaud Issue | 15 வயது சிறுமிக்கு என்ன [https://news.google.com/rss/articles/CBMiiAFBVV95cUxPUmg0bGh] 403 Client Error: Forbidden for url: https://tamil.news18.com/videos/tamil-nadu/
+try (N) manual=False: ஆத்தூர் அருகே ஆணைவாரி அருவியில் வெள்ளப்பெருக்கு! குளிக்கத் த
+skip (N) too old (2026-11-05T07:51:03.159Z): ஆத்தூர் அருகே ஆணைவாரி அருவியில் வெள்ளப்பெருக்கு! க
+try (N) manual=False: மின்சாரம் பாய்ந்து தொழிலாளி பலி
+skip (N) too old (2026-11-17T05:11:00+05:30): கஞ்சா பறிமுதல் வாலிபர் சிக்கினார்
+try (N) manual=False: அரசுப் பேருந்து மோதியதில் பெயிண்டா் உயிரிழப்பு
+skip (N) too old (2026-11-15T19:03:20.749Z): அரசுப் பேருந்து மோதியதில் பெயிண்டா் உயிரிழப்பு
+try (N) manual=False: ஊஞ்சல் ஆடும்போது பரிதாபம்: சேலை கழுத்தில் இறுக்கி 6-ம் வகுப்
+skip (N) too old (2026-09-19T03:47:00+05:30): மின்சாரம் பாய்ந்து தொழிலாளி பலி
+try (N) manual=False: விண்கல்லில் மோதிய நாசாவின் விண்கலம்..!
+skip (N) no Salem place in article: ஊஞ்சல் ஆடும்போது பரிதாபம்: சேலை கழுத்தில் இறுக்கி 
+try (N) manual=False: கார்த்திகை தீப அகல் விளக்கால் நேர்ந்த விபரீதம்.. டீசல் பட்டு
+skip (N) no Salem place in article: விண்கல்லில் மோதிய நாசாவின் விண்கலம்..!
+try (N) manual=False: சேலத்தில் கொட்டிய கனமழையால் சாலைகளில் தேங்கிய மழைநீா்
+skip (N) too old (2026-11-05T01:14:51.682Z): சேலத்தில் கொட்டிய கனமழையால் சாலைகளில் தேங்கிய மழைந
+try (N) manual=False: ரயிலில் அடிபட்டு கல்லூரி மாணவா் உயிரிழப்பு
+skip (N) too old (2026-10-29T19:24:56.071Z): ரயிலில் அடிபட்டு கல்லூரி மாணவா் உயிரிழப்பு
+try (N) manual=False: Girl Death ஏற்காடு மலை பள்ளத்தில் இருந்து சடலமாக மீட்கப்பட்ட
+skip (N) no Salem place in article: கார்த்திகை தீப அகல் விளக்கால் நேர்ந்த விபரீதம்.. ட
+try (N) manual=False: நடுவானில் பெல்ட்டால் கழுத்தை நெரித்த பயணி.. கண்ணாடியை உடைத்த
+skip (N) no Salem place in article: நடுவானில் பெல்ட்டால் கழுத்தை நெரித்த பயணி.. கண்ணாட
+try (N) manual=False: காஞ்சி வாழப்பாடியில் லஞ்ச அதிகாரிகளுக்கு காப்பு | bribe arre
+skip (N) only a headline, 9 words of text: Girl Death ஏற்காடு மலை பள்ளத்தில் இருந்து சடலமாக ம [https://www.thanthitv.com/news/breaking/girl-death-minor-gir]
+try (N) manual=False: கூரை வீடு தீப்பிடித்து சேதம்
+skip (N) only a headline, 0 words of text: காஞ்சி, வாழப்பாடியில் லஞ்ச அதிகாரிகளுக்கு காப்பு | [https://www.dinamalar.com/videos/politics-tamil-videos/bribe]
+try (N) manual=False: கஞ்சா கடத்தல்: கைதான இருவருக்கு குண்டா் தடுப்புச் சட்டத்தில்
+skip (N) too old (2026-11-16T20:35:04+05:30): கூரை வீடு தீப்பிடித்து சேதம்
+skip (N) no Salem place in article: கஞ்சா கடத்தல்: கைதான இருவருக்கு குண்டா் தடுப்புச் 
+auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 8})
+candidate loop ended: left 0, tried={'N': 34}, done={'N': 4}, time left 50 min
+filed: 4 Salem district stories (target 3), reels only
+queue: 1 news waiting to be written
+All News sheet: {"ok":true,"added":45,"updated":15}
+All News sheet: {"ok":true,"added":58,"updated":2}
+All News sheet: {"ok":true,"added":60,"updated":0}
+All News sheet: {"ok":true,"added":59,"updated":1}
+All News sheet: {"ok":true,"added":60,"updated":0}
+All News sheet: {"ok":true,"added":60,"updated":0}
+All News sheet: {"ok":true,"added":58,"updated":2}
+All News sheet: {"ok":true,"added":25,"updated":0} 
+stories: 4
