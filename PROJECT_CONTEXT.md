@@ -83,34 +83,34 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 <!-- recent-changes:start (updated automatically by .github/workflows/context.yml - do not edit by hand) -->
 | Date | Commit | Change |
 |---|---|---|
+| 2026-11-26 | `65491e3` | Website gets each story's kind of news (safe note like the source comment) |
+| 2026-11-26 | `4905c5a` | stories shared / Instagram pause |
+| 2026-11-26 | `1d17385` | facebook RN-298 |
+| 2026-11-26 | `512d8d7` | posted RN-298 |
+| 2026-11-26 | `30af435` | powercut: notices written |
+| 2026-11-26 | `8cde6e1` | stories shared / Instagram pause |
+| 2026-11-26 | `4bcbb83` | autofix: corrected held news |
+| 2026-11-26 | `3a25ac6` | stories shared / Instagram pause |
+| 2026-11-26 | `6966102` | stories shared / Instagram pause |
+| 2026-11-26 | `6c511c2` | stories shared / Instagram pause |
+| 2026-11-26 | `841162d` | stories shared / Instagram pause |
+| 2026-11-26 | `e1d2da1` | stories shared / Instagram pause |
+| 2026-11-26 | `0ac8e35` | stories shared / Instagram pause |
+| 2026-11-26 | `24da0d3` | stories shared / Instagram pause |
+| 2026-11-26 | `ff366ec` | stories shared / Instagram pause |
+| 2026-11-26 | `0a90fff` | stories shared / Instagram pause |
+| 2026-11-26 | `f2c7601` | stories shared / Instagram pause |
+| 2026-11-26 | `054fcf6` | stories shared / Instagram pause |
+| 2026-11-26 | `a2385cf` | stories shared / Instagram pause |
+| 2026-11-26 | `1415bf8` | pick: written and posted |
+| 2026-11-26 | `1f8b606` | pick: picked news saved |
+| 2026-11-26 | `b4d11fd` | pick: picked news saved |
+| 2026-11-26 | `d10721c` | pick: list sent |
+| 2026-11-26 | `5657bc4` | stories shared / Instagram pause |
+| 2026-11-26 | `c46aad7` | stories shared / Instagram pause |
+| 2026-11-26 | `b030be8` | stories shared / Instagram pause |
+| 2026-11-26 | `ce45ebc` | stories shared / Instagram pause |
+| 2026-11-26 | `f86b337` | YouTube: login redone with the comment/playlist permission - the 24-hour pause on first comments and playlists is cleared |
+| 2026-11-26 | `d3947f2` | stories shared / Instagram pause |
 | 2026-11-26 | `adbca80` | Clean-up: with Cloudflare R2 set up, Cloudinary credit/login problems are yellow warnings (backup only) and no longer turn the run red |
-| 2026-11-26 | `be4f55d` | stories shared / Instagram pause |
-| 2026-11-26 | `9de6595` | stories shared / Instagram pause |
-| 2026-11-26 | `3d4ac01` | stories shared / Instagram pause |
-| 2026-11-26 | `13208ba` | YouTube: a channel's own upload limit ('exceeded the number of videos') pauses that channel for 2 hours, not the whole day; Erode's day-block cleared |
-| 2026-11-26 | `7ca1fd4` | stories shared / Instagram pause |
-| 2026-11-26 | `a303f43` | stories shared / Instagram pause |
-| 2026-11-26 | `49f6b6b` | stories shared / Instagram pause |
-| 2026-11-26 | `b2d6ad4` | autofix: corrected held news |
-| 2026-11-26 | `1faeef0` | stories shared / Instagram pause |
-| 2026-11-26 | `17a2a17` | stories shared / Instagram pause |
-| 2026-11-26 | `c32d1ba` | stories shared / Instagram pause |
-| 2026-11-26 | `67ece69` | stories shared / Instagram pause |
-| 2026-11-26 | `09efc59` | stories shared / Instagram pause |
-| 2026-11-26 | `63a2bee` | stories shared / Instagram pause |
-| 2026-11-26 | `80cc785` | stories shared / Instagram pause |
-| 2026-11-26 | `8486145` | stories shared / Instagram pause |
-| 2026-11-26 | `20d8c63` | pick: written and posted |
-| 2026-11-26 | `293b653` | pick: picked news saved |
-| 2026-11-26 | `ed8a433` | pick: picked news saved |
-| 2026-11-26 | `e54792d` | pick: list sent |
-| 2026-11-26 | `75efb0f` | stories shared / Instagram pause |
-| 2026-11-26 | `4bd4096` | stories shared / Instagram pause |
-| 2026-11-26 | `0435700` | goldrate posted |
-| 2026-11-26 | `458df8b` | stories shared / Instagram pause |
-| 2026-11-26 | `b7f236c` | stories shared / Instagram pause |
-| 2026-11-26 | `9ae7412` | stories shared / Instagram pause |
-| 2026-11-26 | `a661ea7` | stories shared / Instagram pause |
-| 2026-11-26 | `596186d` | stories shared / Instagram pause |
-| 2026-11-26 | `81a4a4c` | stories shared / Instagram pause |
 <!-- recent-changes:end -->
