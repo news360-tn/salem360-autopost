@@ -336,7 +336,8 @@
    "category": "விலை",
    "score": 6.64,
    "power_cut": false,
-   "listed_at": "2026-11-26T12:27:07.520585+05:30"
+   "listed_at": "2026-11-26T12:27:07.520585+05:30",
+   "picked_at": "2026-11-26T12:30:03.134803+05:30"
   },
   "Cbaa9749": {
    "id": "Cbaa9749",
@@ -348,7 +349,8 @@
    "category": "பொது",
    "score": 6.64,
    "power_cut": false,
-   "listed_at": "2026-11-26T12:27:07.520585+05:30"
+   "listed_at": "2026-11-26T12:27:07.520585+05:30",
+   "picked_at": "2026-11-26T12:30:03.134806+05:30"
   }
  },
  "rounds": {
@@ -785,8 +787,18 @@
    ],
    "sent": false,
    "deadline": "2026-11-26T13:27:07.520585+05:30",
-   "decided": null,
-   "written": []
+   "decided": {
+    "how": "automatic: top 6 of 2 by insights",
+    "ids": [
+     "C9f7e0ec",
+     "Cbaa9749"
+    ],
+    "at": "2026-11-26T12:30:03.134789+05:30"
+   },
+   "written": [
+    "C9f7e0ec",
+    "Cbaa9749"
+   ]
   }
  },
  "retry": {}
