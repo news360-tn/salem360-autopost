@@ -3,21 +3,27 @@
   "earlier stories still waiting for images: []",
   "instagram check: 50 recent posts read from the page",
   "pick round: only the picked links are written (research_free/pick.py)",
-  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-salem/three-ration-shops-to-be-expanded-into-multi-purpose-retail-outlets-in-salem-district/4387289",
-  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-salem/girl-s-body-found-in-15-feet-gorge-in-yercaud/4387286",
-  "candidate filter: collected=2",
-  "to write: 2 Salem district candidates (max 2 stories)",
-  "round: top 2 of 2 candidates",
-  "candidates waiting: 2 Salem; time left 79 min",
-  "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-sale",
-  "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-sale",
+  "manual link added: https://www.dinamalar.com/news/tamil-nadu-news/private-chit-fund-offices-involved-in-financial-fraud-sealed/4387299",
+  "manual link added: https://www.dinamani.com/all-editions/edition-dharmapuri/salem/2026/Nov/26/chennaisalem-express-trainto-have-a-scheduled-stop-at-melmaruvathurinforms-salem-railway-administration",
+  "manual link added: https://www.dailythanthi.com/news/tamilnadu/4-trains-running-via-salem-cancelled",
+  "manual link added: https://www.dinamalar.com/news/tamil-nadu-news/sculpture-of-prince-of-magadha-found-in-thirukamanadeeswarar-temple-arakazhur/4387341",
+  "candidate filter: collected=4",
+  "to write: 4 Salem district candidates (max 4 stories)",
+  "round: top 4 of 4 candidates",
+  "candidates waiting: 4 Salem; time left 79 min",
+  "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-news/sculpture-of-",
+  "try (N) manual=True: https://www.dailythanthi.com/news/tamilnadu/4-trains-running",
+  "try (N) manual=True: https://www.dinamani.com/all-editions/edition-dharmapuri/sal",
   "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 2})",
   "posting job started at once",
+  "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-news/private-chit-",
   "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 4})",
-  "candidate loop ended: left 0, tried={'N': 2}, done={'N': 2}, time left 78 min",
-  "filed: 2 Salem district stories (target 2), reels only",
+  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 6})",
+  "NOT filed (N) நிதி மோசடியில் ஈடுபட்ட தனியார் சிட்பண்ட் அலுவலகங்க: not Salem district news (the story's first lines name another place and no Salem place)",
+  "candidate loop ended: left 0, tried={'N': 4}, done={'N': 3}, time left 77 min",
+  "filed: 3 Salem district stories (target 4), reels only",
   "queue: 0 news waiting to be written",
-  "All News sheet: {\"ok\":true,\"added\":2,\"updated\":0}"
+  "All News sheet: {\"ok\":true,\"added\":4,\"updated\":0}"
  ],
  "llm": [
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
@@ -37,158 +43,267 @@
   "fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, plea",
   "dead for this round: gemini/gemini-3-flash-preview",
   "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 400: {\"error\":{\"message\":\"Failed to validate JSON. Please adjust your prompt. See 'failed_gener",
-  "ok groq/qwen/qwen3.8-27b (4s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
+  "ok groq/openai/gpt-oss-120b (7s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 413: {\"error\":{\"message\":\"Request too large for model `openai/gpt-oss-120b` in organization `or",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
+  "switching away from groq/openai/gpt-oss-120b for 10 min",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
+  "ok groq/qwen/qwen3.8-27b (3s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
   "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
-  "not available on this plan: groq/openai/gpt-oss-120b",
+  "switching away from groq/openai/gpt-oss-120b for 10 min",
   "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
-  "ok groq/qwen/qwen3.8-27b (0s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
   "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
   "switching away from groq/qwen/qwen3.8-27b for 10 min",
   "ok anthropic/claude-haiku-5-5",
-  "ok groq/qwen/qwen3.8-27b (1s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
+  "switching away from groq/qwen/qwen3.8-27b for 10 min",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok anthropic/claude-haiku-5-5",
   "ok anthropic/claude-haiku-5-5",
   "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "ok anthropic/claude-haiku-5-5"
  ],
  "stories": [
   {
-   "tamil_headline": "ஏற்காடில் 15 அடி பள்ளத்தில் சிறுமி சடலம் கண்டெடுப்பு",
-   "english_headline": "Girl's body found in 15-foot pit at Yercaud",
-   "category": "Crime & Safety",
-   "location": "Yercaud, Salem district",
-   "importance": "High",
+   "tamil_headline": "ஆறகழூர் திருக்காமநாதீஸ்வரர் கோவிலில் மகதை இளவரசன் சிற்பம் கண்டெடுப்பு",
+   "english_headline": "Magadha prince sculpture found at Arakalur Thirukkamanatheeswarar temple in Salem district",
+   "category": "Temples & Events",
+   "location": "Arakalur, Attur union, Salem district",
+   "importance": "Medium",
    "scope": "local",
    "post_to": "Salem 360",
    "slides_spec": {
     "v": 3,
-    "cat": "காவல் செய்தி",
-    "loc": "கொட்டச்சேடி, ஏற்காடு",
-    "hl1": "ஏற்காடில் 15 அடி பள்ளத்தில் சிறுமி சடலம்",
-    "hl2": "கொலையா? விசாரணை நடக்கிறது",
+    "cat": "வரலாறு",
+    "loc": "ஆறகழூர், ஆத்தூர்",
+    "hl1": "ஆறகழூர் கோவிலில் மகதை இளவரசன் சிற்பம்",
+    "hl2": "வாணகோவரையர்",
     "slides": [
      {
-      "title": "சம்பவம்",
+      "title": "எங்கே கிடைத்தது?",
       "lines": [
-       "கொட்டச்சேடி மலைப்பாதையில் சடலம்",
-       "காலை 9:30 மணிக்கு சுற்றுலா பயணிகள் கண்டனர்",
-       "15 அடி ஆழமான பள்ளத்தில் புதரில் இருந்தது"
+       "ஆறகழூர் திருக்காமநாதீஸ்வரர் கோவிலில் சிற்பம்",
+       "ஆத்தூர் ஒன்றியம், சேலம் மாவட்டம்",
+       "மகதை நாட்டு இளவரசர், இளவரசியின் சிற்பங்கள்"
       ]
      },
      {
-      "title": "விவரங்கள்",
+      "title": "யார் கண்டறிந்தார்?",
       "lines": [
-       "சிறுமிக்கு 10 முதல் 13 வயது இருக்கலாம்",
-       "உடலில் வெளி காயங்கள் எதுவும் இல்லை",
-       "பிரேத சோதனைக்கு சேலம் அரசு மருத்துவமனைக்கு அனுப்பப்பட்டது"
+       "தொல்லியல் துறை முன்னாள் இயக்குனர் சிவானந்தம்",
+       "சமீபத்தில் கள ஆய்வு நடத்தி அடையாளம் கண்டார்",
+       "வடக்கு திருமாளிகை தூணில் சிற்பம்"
       ]
      },
      {
-      "title": "விசாரணை",
+      "title": "சிற்பத்தின்",
       "lines": [
-       "எஸ்.பி. குற்றப்பிரிவு தனிப்படை விசாரிக்கிறது",
-       "குப்பனூர் சுங்கச்சாவடி சி.சி.டி.வி பதிவுகள்",
-       "தவறி விழுந்தாரா அல்லது கொலை செய்யப்பட்டாரா என ஆய்வு"
+       "கைகூப்பி வணங்கும் ஆண் உருவம், 'பிள்ளையார்' என எழுத்து",
+       "பிள்ளையார் என்பது இளவரசரைக் குறிக்கும் சொல்",
+       "அருகில் கைகூப்பிய பெண் சிற்பம் இளவரசியைக் குறிக்கும்"
+      ]
+     },
+     {
+      "title": "வரலாற்றுப் பின்னணி",
+      "lines": [
+       "ஆறகழூரை தலைமையிடமாக கொண்டு வாணகோவரையர்கள் ஆட்சி",
+       "13ம் நூற்றாண்டில் சோழர் ஆட்சியின் குறுநில மன்னர்கள்",
+       "தமிழகத்தின் 'மிலாடு' நடுநாட்டு வரலாற்றுக்கு முக்கிய சான்று"
       ]
      }
     ],
     "carousel": false
    },
-   "reel_script": "ஏற்காடு மலைப்பாதையில் 15 அடி ஆழமான பள்ளத்தில் ஒரு சிறுமியின் சடலம் கண்டெடுக்கப்பட்டது. கொட்டச்சேடியில் இருந்து குப்பனூர் செல்லும் சாலையோரம், தடுப்புச்சுவர் அருகே உள்ள இடத்தில் இந்த சம்பவம் நடந்தது. இன்று நவம்பர் 26ஆம் தேதி காலை 9:30 மணிக்கு சுற்றுலா பயணிகள் அங்கு புகைப்படம் எடுத்துக்கொண்டிருந்தபோது சடலத்தை கண்டனர். போலீசார் மற்றும் வனத்துறையினர் உடலை கைப்பற்றி பிரேத சோதனைக்கு சேலம் அரசு மருத்துவமனைக்கு அனுப்பினர். போலீசார் கூறுகையில், இறந்த சிறுமிக்கு 10 முதல் 13 வயது இருக்கலாம் என்று தெரிவித்தனர். உடலில் வெளி காயங்கள் எதுவும் இல்லை என்று போலீசார் தெரிவித்தனர். காவல் கண்காணிப்பாளர் குற்றப்பிரிவு தனிப்படை குப்பனூர் மலைப்பாதையில் உள்ள சுங்கச்சாவடி மற்றும் பல்வேறு இடங்களில் உள்ள சி சி டி வி கேமரா பதிவுகளை சேகரித்து வருகிறது. சிறுமி தவறி விழுந்து இறந்தாரா அல்லது யாரும் கொலை செய்து வீசி சென்றனரா என்ற கோணங்களில் விசாரணை நடக்கிறது. மேலும் செய்திகளுக்கு சேலம் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🚨 ஏற்காடு மலைப்பாதையில் 15 அடி பள்ளத்தில் சிறுமி சடலம் கண்டெடுப்பு - கொலையா என போலீஸ் விசாரணை\n\n📰 முழு விவரம்:\nசேலம் மாவட்டம், ஏற்காடு, கொட்டச்சேடியில் இருந்து குப்பனூர் செல்லும் மலைப்பாதை சாலையோரம், தடுப்புச்சுவர் அருகே உள்ள இடத்தில் சிறுமியின் சடலம் கண்டெடுக்கப்பட்டது. இன்று நவம்பர் 26ஆம் தேதி காலை 9:30 மணிக்கு அங்கு சுற்றுலா பயணிகள் புகைப்படம் எடுத்துக்கொண்டிருந்தபோது, 15 அடி ஆழமான பள்ளத்தில் உள்ள புதரில் சடலத்தை கண்டனர். தகவலில் போலீசார் மற்றும் வனத்துறையினர் உடலை கைப்பற்றி பிரேத சோதனைக்கு சேலம் அரசு மருத்துவமனைக்கு அனுப்பினர். போலீசார் கூறுகையில், இறந்த சிறுமிக்கு 10 முதல் 13 வயது இருக்கலாம், உடலில் வெளி காயங்கள் எதுவும் இல்லை என்று தெரிவித்தனர். எஸ்.பி. குற்றப்பிரிவு தனிப்படை குப்பனூர் மலைப்பாதையில் உள்ள சுங்கச்சாவடி மற்றும் பல்வேறு இடங்களில் உள்ள சி.சி.டி.வி கேமரா பதிவுகளை சேகரித்து விசாரணை நடத்துகிறது. சிறுமி தவறி விழுந்து இறந்தாரா அல்லது யாரும் கொலை செய்து வீசி சென்றனரா என்ற கோணங்களில் விசாரணை நடக்கிறது.\n\n📍 இடம்: கொட்டச்சேடி - குப்பனூர் மலைப்பாதை, ஏற்காடு\n🗓️ நாள்: நவம்பர் 26, 2026\n🕘 நேரம்: காலை 9:30 மணி\n👮 நடவடிக்கை: உடல் கைப்பற்றப்பட்டு பிரேத சோதனைக்கு அனுப்பப்பட்டது; சி.சி.டி.வி பதிவுகள் சேகரிக்கப்படுகின்றன\n\nதேவைப்படுவோருக்கு Share செய்யுங்கள்\n\nYercaud girl body found in pit | Salem news\n📍 Yercaud, Salem | 26 Nov 2026\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Salem360 #Salem #Yercaud #SalemNews #சேலம்",
-   "prompts": "A group of police officers and forest department officials stand at the edge of a steep, 15-foot deep pit on a mountain road, looking down into the dense bushes where a body was found. The location is a narrow stretch of the Kottacheral to Kuppanur road in Yercaud, characterized by a concrete retaining wall on one side and a steep drop-off on the other, serving as a local viewpoint. Several tourists, seen from behind at a safe distance, stand near the road edge, some holding cameras, observing the scene. The pit is filled with thick green vegetation and rocks, obscuring the bottom. The road is paved but narrow, winding through the hills. It is morning, with bright natural daylight illuminating the scene. The camera is positioned at eye level, 35 mm, capturing the depth of the pit and the officials' attention directed downward, emphasizing the location of the discovery without showing any human remains. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up view of the 15-foot deep pit's edge on the mountain road, showing the thick, tangled green bushes and rocks that fill the depression. A concrete retaining wall runs along the side of the road, separating the asphalt from the steep drop. A police cordon tape is faintly visible in the blurred background, marking the restricted area. The focus is on the dense vegetation at the bottom of the pit, which is the specific spot where the girl's body was discovered. The lighting is bright daylight, casting shadows within the pit's depth. The camera is slightly high, looking down into the pit, 35 mm, highlighting the rugged terrain and the specific location of the incident on the Kottacheral-Kuppanur route. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-salem/girl-s-body-found-in-15-feet-gorge-in-yercaud/4387286",
-   "published": "2026-11-26T22:23:00+05:30",
-   "verification": "DRAFT (groq/qwen/qwen3.8-27b) - fact-check: no problems found",
-   "note": "free-model draft groq/qwen/qwen3.8-27b, 1 attempt(s), 0 validator problem(s)",
+   "reel_script": "சேலம் மாவட்டம் ஆறகழூர் திருக்காமநாதீஸ்வரர் கோவிலில் மகதை நாட்டு இளவரசர், இளவரசியின் சிற்பங்கள் கண்டெடுக்கப்பட்டுள்ளன. தமிழக தொல்லியல் துறையின் முன்னாள் இயக்குனர் சிவானந்தம் சமீபத்தில் கள ஆய்வு நடத்தி இவற்றை அடையாளம் கண்டுள்ளார். கோவிலின் முதல் சுற்றில் உள்ள வடக்கு திருமாளிகை தூணில் கைகூப்பி வணங்கும் ஆண் உருவச் சிற்பம் செதுக்கப்பட்டுள்ளது. அதன் மேல் 'பிள்ளையார்' என எழுதப்பட்டுள்ளது. பிள்ளையார் என்பது இளவரசரைக் குறிக்கும் சொல் என்பதால் இது மகதை இளவரசரின் சிற்பம் என உறுதி செய்யலாம். அருகில் கைகூப்பிய நிலையில் உள்ள பெண் சிற்பம் இளவரசியைக் குறிக்கிறது. ஆறகழூரைத் தலைமையிடமாகக் கொண்டு வாணகோவரையர்கள் மகதை நாட்டை ஆட்சி செய்தனர். சோழர் ஆட்சியில் குறுநில மன்னர்களாக இருந்த இவர்களின் சிறப்புகள் இலக்கியங்களிலும் கல்வெட்டுகளிலும் குறிப்பிடப்பட்டுள்ளன. மூன்றாம் குலோத்துங்கன் ஆண்ட 13ம் நூற்றாண்டில் ராசராசதேவன் பொன்பரப்பின வாணகோவரையர், குலோத்துங்கசோழ வாணகோவரையர் ஆகியோர் இணைந்து ஆட்சி செய்தனர். இந்தச் சிற்பம் வாணகோவரையர்களின் வரலாற்றுக்கும், தமிழகத்தின் 'மிலாடு' நடுநாட்டு வரலாற்றுக்கும் முக்கிய சான்றாக உள்ளது. மேலும் செய்திகளுக்கு சேலம் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🏛️ ஆறகழூர் கோவிலில் மகதை இளவரசன் சிற்பம் கண்டெடுப்பு\n\n📰 முழு விவரம்:\nசேலம் மாவட்டம் ஆறகழூர் திருக்காமநாதீஸ்வரர் கோவிலில் மகதை நாட்டு இளவரசர், இளவரசியின் சிற்பங்கள் கண்டெடுக்கப்பட்டுள்ளன. தமிழக தொல்லியல் துறையின் முன்னாள் இயக்குனர் சிவானந்தம் சமீபத்தில் கள ஆய்வு நடத்தி இவற்றை அடையாளம் கண்டுள்ளார். கோவிலின் முதல் சுற்றில் உள்ள வடக்கு திருமாளிகை தூணில் கைகூப்பி வணங்கும் ஆண் உருவச் சிற்பம் 'பிள்ளையார்' என எழுதப்பட்ட நிலையில் உள்ளது. பிள்ளையார் என்பது இளவரசரைக் குறிக்கும் சொல் என்பதால் இது மகதை இளவரசரின் சிற்பம் என உறுதி செய்யலாம்.\n📍 இடம்: ஆறகழூர், ஆத்தூர் ஒன்றியம், சேலம் மாவட்டம்\n🔍 கண்டறிந்தவர்: தொல்லியல் துறை முன்னாள் இயக்குனர் சிவானந்தம்\n🏛️ வரலாறு: ஆறகழூரைத் தலைமையிடமாகக் கொண்டு வாணகோவரையர்கள் மகதை நாட்டை ஆட்சி செய்தனர். சோழர் ஆட்சியில் குறுநில மன்னர்களாக இருந்த இவர்களின் சிறப்புகள் இலக்கியங்கள், கல்வெட்டுகளில் குறிப்பிடப்பட்டுள்ளன.\n\nMagadha prince sculpture found at Arakalur temple, Salem | Salem news\n📍 ஆறகழூர், ஆத்தூர், சேலம் மாவட்டம் | 26 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Salem360 #Salem #Attur #SalemNews #சேலம்",
+   "prompts": "A former archaeology official studies an old carved stone pillar inside the first prakaram of the Thirukkamanatheeswarar temple at Arakalur, Salem district. He stands beside a large granite pillar in the northern thirumaligai, bending slightly to look at a relief carving of a man with folded hands in worship. Seen from behind at a respectful distance, he wears a plain white shirt and veshti. The stone pillar has weathered, dark-grey granite with intricate sculpted figures and faint inscriptions in the grooves. The temple hall is a pillared Chola-style mandapam with sunlight falling through the open side onto the stone floor, with a tall gopuram visible in the background. Daylight, neutral warm tones, eye-level camera with a 35 mm feel, wide enough to show the pillar and the surrounding temple architecture. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up of a weathered granite temple pillar in the Thirukkamanatheeswarar temple, Arakalur. The focus is a shallow-relief carving of a standing man with hands folded in worship, and beside it, a smaller carved female figure, also with folded hands. The stone shows fine chisel marks, moss-stained grooves and soft wear from centuries of rain and touch. Faint scratched letters run along the surface, unreadable from the distance. Soft natural daylight from one side creates gentle shadows in the carvings. No people in focus, only a blurred hand of an observer at the frame edge, shot at eye level with a 35 mm feel. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamalar.com/news/tamil-nadu-news/sculpture-of-prince-of-magadha-found-in-thirukamanadeeswarar-temple-arakazhur/4387341",
+   "published": "2026-11-26T23:48:31+05:30",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: caption misses facts of the article (put every one in 📰 முழு விவரம்): 13 ('மூன்றாம் குலோத்துங்கன் ஆண்ட, 13ம் நூற்றாண்டில், ராசராசதேவன் ')",
+   "note": "free-model draft anthropic/claude-haiku-5-5, 12 attempt(s), 1 validator problem(s)",
    "post_time": "right after your reply, same day",
    "_area": "N",
    "_score": 999,
    "images": [
-    "https://pub-ec316fa6a94f404c993596355ad19128.r2.dev/salem360/20261126/cc9a19a0ff2c2fa5.jpg",
-    "https://pub-ec316fa6a94f404c993596355ad19128.r2.dev/salem360/20261126/3cb77a471025e606.jpg"
+    "https://pub-ec316fa6a94f404c993596355ad19128.r2.dev/salem360/20261126/0158a3542240b671.jpg",
+    "https://pub-ec316fa6a94f404c993596355ad19128.r2.dev/salem360/20261126/6d7f6597bb815906.jpg"
    ]
   },
   {
-   "tamil_headline": "சேலத்தில் 3 ரேஷன் கடைகள் பல்நோக்கு சில்லறை நிலையங்களாக விரிவாக்கம்",
-   "english_headline": "3 ration shops in Salem district expanded into multi-purpose retail stores",
-   "category": "Government & Services",
-   "location": "Azhagapuram, Salem city, Salem district",
-   "importance": "Medium",
+   "tamil_headline": "சேலம் வழியாக இயக்கப்படும் 4 ரெயில்கள் ரத்து: டிசம்பர் வரை மாற்றம்",
+   "english_headline": "4 trains via Salem division cancelled on select dates due to yard works at Jharsuguda station",
+   "category": "Roads & Transport",
+   "location": "Salem division route (Jharsuguda station work), Salem district",
+   "importance": "High",
+   "scope": "",
+   "post_to": "Salem 360",
+   "slides_spec": {
+    "v": 3,
+    "cat": "ரெயில் ரத்து",
+    "loc": "சேலம் கோட்டம்",
+    "hl1": "சேலம் வழியாக 4 ரெயில்கள் ரத்து",
+    "hl2": "டிசம்பர் 5, 12, 14, 16",
+    "slides": [
+     {
+      "title": "ஏன் ரத்து?",
+      "lines": [
+       "ஒடிசா ஜார்சுகுடா ரெயில் நிலைய யார்டு மேம்பாட்டுப் பணி",
+       "சேலம் கோட்டம் வழியாக இயக்கப்படும் 4 ரெயில்கள் ரத்து",
+       "சேலம் ரெயில்வே கோட்ட அலுவலக செய்திக்குறிப்பு"
+      ]
+     },
+     {
+      "title": "அமிர்த்",
+      "lines": [
+       "போத்தனூர்-தன்பாத் (16619): <b>28</b>ம் தேதி, டிசம்பர் <b>5, 12</b>",
+       "தன்பாத்-போத்தனூர் (16620): <b>30</b>ம் தேதி, டிசம்பர் <b>7, 14</b>",
+       "இரு மார்க்கங்களிலும் ரத்து"
+      ]
+     },
+     {
+      "title": "வாராந்திர ரெயில்",
+      "lines": [
+       "ஹட்டியா-எர்ணாகுளம் (22837): டிசம்பர் <b>14</b>ம் தேதி",
+       "எர்ணாகுளம்-ஹட்டியா (22838): டிசம்பர் <b>16</b>ம் தேதி",
+       "பயணத்துக்கு முன் ரெயில் நேரத்தை சரிபாருங்கள்"
+      ]
+     }
+    ],
+    "carousel": false
+   },
+   "reel_script": "சேலம் வழியாக இயக்கப்படும் 4 ரெயில் சேவைகள் ரத்து செய்யப்பட்டுள்ளன. ஒடிசா மாநிலம் ஜார்சுகுடா ரெயில் நிலையத்தில் யார்டு மறுசீரமைப்பு மற்றும் மேம்பாட்டுப் பணிகள் நடைபெற உள்ளன. இதனால் இந்த ரெயில் சேவைகளில் மாற்றம் செய்யப்பட்டுள்ளதாக சேலம் ரெயில்வே கோட்ட அலுவலகம் செய்திக்குறிப்பில் தெரிவித்துள்ளது. போத்தனூர்-தன்பாத் அமிர்த் பாரத் எக்ஸ்பிரஸ் 28ஆம் தேதி மற்றும் அடுத்த மாதம் டிசம்பர் 5, 12ஆம் தேதிகளில் ரத்து செய்யப்பட்டுள்ளது. மறு மார்க்கத்தில் தன்பாத்-போத்தனூர் அமிர்த் பாரத் எக்ஸ்பிரஸ் 30ஆம் தேதி மற்றும் டிசம்பர் 7, 14ஆம் தேதிகளில் ரத்து செய்யப்பட்டுள்ளது. ஹட்டியா-எர்ணாகுளம் வாராந்திர எக்ஸ்பிரஸ் டிசம்பர் 14ஆம் தேதி ரத்து செய்யப்பட்டுள்ளது. எர்ணாகுளம்-ஹட்டியா வாராந்திர எக்ஸ்பிரஸ் டிசம்பர் 16ஆம் தேதி ரத்து செய்யப்பட்டுள்ளது. பயணம் செய்பவர்கள் புறப்படும் முன் ரெயில் நேரத்தை சரிபார்த்துக்கொள்ளுங்கள். மேலும் செய்திகளுக்கு சேலம் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🚆 சேலம் வழியாக இயக்கப்படும் 4 ரெயில்கள் ரத்து\n\n📰 முழு விவரம்:\nஒடிசா மாநிலம் ஜார்சுகுடா ரெயில் நிலையத்தில் யார்டு மறுசீரமைப்பு மற்றும் மேம்பாட்டுப் பணிகள் நடைபெற உள்ளன. இதனால் சேலம் கோட்டம் வழியாக இயக்கப்படும் 4 ரெயில் சேவைகள் ரத்து செய்யப்பட்டுள்ளன. போத்தனூர்-தன்பாத் அமிர்த் பாரத் எக்ஸ்பிரஸ் (16619) 28ஆம் தேதி, டிசம்பர் 5, 12ஆம் தேதிகளில் ரத்து. மறு மார்க்கத்தில் தன்பாத்-போத்தனூர் அமிர்த் பாரத் எக்ஸ்பிரஸ் (16620) 30ஆம் தேதி, டிசம்பர் 7, 14ஆம் தேதிகளில் ரத்து. ஹட்டியா-எர்ணாகுளம் வாராந்திர எக்ஸ்பிரஸ் (22837) டிசம்பர் 14ஆம் தேதியும், எர்ணாகுளம்-ஹட்டியா வாராந்திர எக்ஸ்பிரஸ் (22838) டிசம்பர் 16ஆம் தேதியும் ரத்து.\n\n🚉 மாற்றத்துக்கான காரணம்: யார்டு மேம்பாட்டுப் பணிகள்\n📞 தகவல்: சேலம் ரெயில்வே கோட்ட அலுவலக செய்திக்குறிப்பு\nℹ️ மக்கள் கவனத்திற்கு: பயணத்துக்கு முன் ரெயில் நேரத்தை சரிபார்த்துக்கொள்ளுங்கள்.\n\nSalem division 4 trains cancelled | Salem news\n📍 சேலம் கோட்டம் | 27 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Salem360 #Salem #SalemNews #சேலம்\n\nதேவைப்படுவோருக்கு Share செய்யுங்கள்",
+   "prompts": "A Salem railway division staff member in uniform stands on the platform of Salem Junction railway station and looks at the departure board, which shows a cancelled train notice on the screen. Behind him a long Indian Railways passenger train with its coaches stands on the rails, and the platform is crowded with passengers carrying bags and suitcases, some waiting on benches. The station is a typical South Indian railway station with a tiled roof, concrete pillars, yellow platform edges and signal lights above the tracks. Men in shirts and trousers and women in sarees or salwar stand in small groups, seen from behind or at a distance. The time is mid-morning under bright daylight. Camera at eye level, 35 mm lens, wide enough to show the platform, the tracks and the board. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up of an electronic railway departure display board at Salem railway station, the glowing LED panel showing a list of train services with a cancelled status marked for several rows. Below it, a few passengers stand at a distance seen from behind, holding bags and water bottles, while a railway platform bench and a yellow safety line run along the edge of the frame. Behind the board, the steel roof beams and concrete pillars of the station hall are visible. Daylight comes through the high station windows. Camera slightly high, 35 mm lens, shallow focus on the board with the platform softly blurred in the background. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dailythanthi.com/news/tamilnadu/4-trains-running-via-salem-cancelled",
+   "published": "2026-11-26T17:24:24Z",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: fact-check: The reel_script and caption say the 4 trains are cancelled on dates in a way that matches the article, but the reel_script says Jharsuguda yard work will be 'நடைபெற உள்ளன' (will take place), which is fine; however the caption's 'மேம்பாட்டுப் பணிகள்' and slide dates are consistent. Main issue: the tamil_headline says 'டிசம்பர் வரை மாற்றம்' (changes until December), which is not stated in the article; the article only lists specific cancellation dates, not a period running up to December.",
+   "note": "free-model draft anthropic/claude-haiku-5-5, 11 attempt(s), 1 validator problem(s)",
+   "post_time": "right after your reply, same day",
+   "_area": "N",
+   "_score": 999,
+   "images": [
+    "https://pub-ec316fa6a94f404c993596355ad19128.r2.dev/salem360/20261126/ea5e851f99fac27f.jpg",
+    "https://pub-ec316fa6a94f404c993596355ad19128.r2.dev/salem360/20261126/ed187e62d52591ee.jpg"
+   ]
+  },
+  {
+   "tamil_headline": "சென்னை எழும்பூர்–சேலம் விரைவு ரயில் மேல்மருவத்தூரில் நின்று செல்லும்",
+   "english_headline": "Chennai Egmore–Salem Express to halt at Melmaruvathur from 5 Dec to 1 Jan for Thaipusam",
+   "category": "Roads & Transport",
+   "location": "Melmaruvathur railway station, Chengalpattu district (Salem railway division announcement)",
+   "importance": "High",
    "scope": "district",
    "post_to": "Salem 360",
    "slides_spec": {
     "v": 3,
-    "cat": "ரேஷன் கடை",
-    "loc": "அழகாபுரம், சேலம்",
-    "hl1": "சேலத்தில் 3 ரேஷன் கடைகள் விரிவாக்கம்",
-    "hl2": "ஒரே இடத்தில் பல சேவைகள்",
+    "cat": "ரயில் அறிவிப்பு",
+    "loc": "மேல்மருவத்தூர்",
+    "hl1": "மேல்மருவத்தூரில் ரயில் நின்று செல்லும்",
+    "hl2": "டிசம்பர் 5 முதல் ஜனவரி 1 வரை",
     "slides": [
      {
-      "title": "என்ன மாற்றம்?",
+      "title": "எப்போது?",
       "lines": [
-       "3 ரேஷன் கடைகள் பல்நோக்கு சில்லறை நிலையங்களாக மாற்றம்",
-       "தமிழகம் முழுவதும் <b>100 ரேஷன் கடைகள்</b> மாற்றப்படுகின்றன",
-       "திட்டச் செலவு <b>7.67 கோடி ரூபாய்</b>"
+       "<b>டிசம்பர் 5</b> முதல் <b>ஜனவரி 1</b> வரை",
+       "தைப்பூச விழாவையொட்டி நின்று செல்லும்",
+       "சென்னை எழும்பூர்–சேலம் விரைவு ரயில் (22153)"
       ]
      },
      {
-      "title": "எந்தக் கடைகள்?",
+      "title": "எந்த நிலையம்?",
       "lines": [
-       "எம்.டி.எஸ். நகர் ரேஷன் கடை",
-       "காடையாம்பட்டி – 1 ரேஷன் கடை",
-       "பாலிக்கடை ரேஷன் கடை"
+       "மேல்மருவத்தூர் ரயில் நிலையம்",
+       "அதிகாலை <b>1.13 மணிக்கு</b> நின்று",
+       "<b>1.15 மணிக்கு</b> புறப்படும்"
       ]
      },
      {
-      "title": "புதிய சேவைகள்",
+      "title": "பயணிகளுக்கு",
       "lines": [
-       "சுய சேவைப் பிரிவு, ஆவின் பாலகம், மருந்தகம்",
-       "இ-சேவை மையம், பண்ணை பசுமை நுகர்வோர் விற்பனை மையம்",
-       "5 ரேஷன் கடைகளில் டிஜிட்டல் பணப்பரிவர்த்தனை தொடக்கம்"
-      ]
-     },
-     {
-      "title": "சலுகைகள்",
-      "lines": [
-       "ஒரு மாதத்தில் <b>2,000 ரூபாய்</b> மேல் வாங்கினால் 10% தள்ளுபடி",
-       "<b>5,000 ரூபாய்</b> மேல் வாங்கினால் குலுக்கல் பரிசு",
-       "ஒரே நாளில் 2,000 ரூபாய் மேல் வாங்கிய ஒருவருக்கு 1,000"
+       "மேல்மருவத்தூர் கோயிலுக்கு அதிக பக்தர்கள் வருவார்கள்",
+       "இந்த வசதியைப் பயணிகள் பயன்படுத்திக் கொள்ளலாம்",
+       "சேலம் ரயில்வே கோட்ட நிர்வாகம் அறிவிப்பு"
       ]
      }
     ],
     "carousel": false
    },
-   "reel_script": "சேலம் மாவட்டத்தில் 3 ரேஷன் கடைகள் பல்நோக்கு சில்லறை விற்பனை நிலையங்களாக விரிவாக்கப்பட்டுள்ளன. நவம்பர் 26ஆம் தேதி சேலம், அழகாபுரத்தில் நடந்த விழாவில் கூட்டுறவுத்துறை அமைச்சர் காந்திராஜ் இதை அறிவித்தார். தமிழகம் முழுவதும் தேர்ந்தெடுக்கப்பட்ட 100 ரேஷன் கடைகள், 7.67 கோடி ரூபாய் மதிப்பில் இவ்வாறு மாற்றப்படுகின்றன. சேலம் மாவட்டத்தில் முதல்கட்டமாக எம் டி எஸ் நகர், காடையாம்பட்டி – 1, பாலிக்கடை ஆகிய 3 ரேஷன் கடைகள் மாற்றப்பட்டுள்ளன. இங்கு சுய சேவைப் பிரிவு, ஆவின் பாலகம், மருந்தகம், இ-சேவை மையம், பண்ணை பசுமை நுகர்வோர் விற்பனை மையம் ஆகிய சேவைகள் ஒரே இடத்தில் கிடைக்கும். ஒரு மாதத்தில் 2,000 ரூபாய்க்கு மேல் பொருட்கள் வாங்குபவர்களுக்கு 10 சதவீத தள்ளுபடி கிடைக்கும். 5,000 ரூபாய்க்கு மேல் வாங்குபவர்களில் குலுக்கல் முறையில் 10 பேருக்கு மிக்சி அல்லது கிரைண்டர் வழங்கப்படும். ஒரே நாளில் 2,000 ரூபாய்க்கு மேல் வாங்கும் ஒருவருக்கு 1,000 ரூபாய் மதிப்பில் பரிசுப் பொருட்கள் கிடைக்கும். மேலும், எம் டி எஸ் நகர், தேவாங்கபுரம் – 2, சீரங்கப்பாளையம், மெய்யனூர், ஸ்வர்ணபுரி ஆகிய 5 ரேஷன் கடைகளில் யு பி ஐ கியூஆர் குறியீடு மூலம் டிஜிட்டல் பணப்பரிவர்த்தனை வசதியை அமைச்சர் தொடங்கி வைத்தார். மேலும் செய்திகளுக்கு சேலம் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🛒 சேலத்தில் 3 ரேஷன் கடைகள் பல்நோக்கு சில்லறை நிலையங்களாக விரிவாக்கம்\n\n📰 முழு விவரம்:\nதமிழக அரசின் கூட்டுறவுத்துறை சார்பில் சேலம், அழகாபுரத்தில் நவ. 26 அன்று நடந்த விழாவில், ரேஷன் கடைகளின் சேவைகளை நவீனமாக்கும் திட்டம் அறிவிக்கப்பட்டது. கூட்டுறவு அமைச்சர் காந்திராஜ் இதைத் தொடங்கி வைத்தார்.\nதமிழகம் முழுவதும் 100 ரேஷன் கடைகள், 7.67 கோடி ரூபாய் மதிப்பில் பல்நோக்கு சில்லறை விற்பனை நிலையங்களாக மாற்றப்படுகின்றன.\nசேலம் மாவட்டத்தில் முதல்கட்டமாக எம்.டி.எஸ். நகர், காடையாம்பட்டி – 1, பாலிக்கடை ஆகிய 3 ரேஷன் கடைகள் மாற்றப்பட்டுள்ளன.\nஇங்கு சுய சேவைப் பிரிவு, ஆவின் பாலகம், மருந்தகம், இ-சேவை மையம், பண்ணை பசுமை நுகர்வோர் விற்பனை மையம் ஆகிய சேவைகள் கிடைக்கும்.\n🎁 சலுகைகள்:\n• ஒரு மாதத்தில் 2,000 ரூபாய்க்கு மேல் வாங்குவோருக்கு 10% தள்ளுபடி\n• 5,000 ரூபாய்க்கு மேல் வாங்குவோரில் குலுக்கல் முறையில் 10 பேருக்கு மிக்சி அல்லது கிரைண்டர்\n• ஒரே நாளில் 2,000 ரூபாய்க்கு மேல் வாங்கும் ஒருவருக்கு 1,000 ரூபாய் மதிப்பில் பரிசுப் பொருட்கள்\n💳 எம்.டி.எஸ். நகர், தேவாங்கபுரம் – 2, சீரங்கப்பாளையம், மெய்யனூர், ஸ்வர்ணபுரி ஆகிய 5 ரேஷன் கடைகளில் யு.பி.ஐ. கியூஆர் குறியீடு மூலம் பணம் செலுத்தும் வசதி தொடங்கப்பட்டது.\n\nSalem 3 ration shops become multi-purpose retail stores | Salem news\n📍 அழகாபுரம், சேலம் மாவட்டம் | 26 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Salem360 #Salem #SalemNews #சேலம்",
-   "prompts": "A row of officials and dignitaries sits on a decorated stage in a government function hall in Azhagapuram, Salem city, as a Tamil Nadu cooperative minister stands at a wooden podium to inaugurate the multi-purpose ration store scheme. The hall has white plastic chairs filled with men in shirts and veshti and women in cotton sarees seen from behind, plus a bank of ceiling fans and a flower garland draped over a table. A stack of welfare aid bags and a few framed displays sit beside the stage. Behind the dais hang plain saffron and green bunting, with no readable letters. Daylight comes through open side doors. Camera at eye level from the back of the hall, 35 mm, wide enough to show the stage and the seated crowd. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up of a ration shop counter converted into a digital payment point, with a printed UPI QR code stand placed on a wooden counter beside neatly stacked rice bags and sealed packets of groceries. A woman in a cotton saree, seen from the side and slightly blurred, holds out a mobile phone to scan the code, while a shop attendant in a plain shirt waits behind the counter. Shelves behind hold bags of sugar, dal and oil, with a glass display of milk packets nearby. Soft afternoon light falls through a shop front. Camera at slightly high eye level, 35 mm, focused on the QR stand and the hand holding the phone. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-salem/three-ration-shops-to-be-expanded-into-multi-purpose-retail-outlets-in-salem-district/4387289",
-   "published": "2026-11-26T22:23:07+05:30",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: reel_script has numbers without their meaning (1, 2); write what each number is: '15 வயது', '30 பாட்டில்கள்', 'அக்டோபர் 26ஆம் தேதி'; hl1 (the first headline on screen) must name the place 'அழகாபுரம்', e.g. 'அழகாபுரம்: ...' or 'அழகாபுரம்-இல் ...' - viewers share news of their own area",
-   "note": "free-model draft anthropic/claude-haiku-5-5, 13 attempt(s), 2 validator problem(s)",
+   "reel_script": "மேல்மருவத்தூரில் சென்னை–சேலம் விரைவு ரயில் நின்று செல்லும். டிசம்பர் 5ஆம் தேதி முதல் ஜனவரி 1ஆம் தேதி வரை இந்த வசதி இருக்கும். தைப்பூச விழாவையொட்டி இந்த அறிவிப்பை சேலம் ரயில்வே கோட்ட நிர்வாகம் வெளியிட்டுள்ளது. சென்னை எழும்பூர்–சேலம் விரைவு ரயில் (22153) மேல்மருவத்தூர் ரயில் நிலையத்தில் அதிகாலை 1 மணி 13 நிமிடத்துக்கு நின்று, 1 மணி 15 நிமிடத்துக்குப் புறப்படும். மேல்மருவத்தூர் கோயிலுக்கு அதிக அளவில் பக்தர்கள் வருவார்கள் என்பதால் விழுப்புரம்–செங்கல்பட்டு வழித்தடத்தில் இயக்கப்படும் 57 ரயில்கள் குறிப்பிட்ட நாள்களில் மேல்மருவத்தூரில் நின்று செல்லும். இந்த வசதியைப் பயணிகள் பயன்படுத்திக் கொள்ளுமாறு சேலம் ரயில்வே கோட்ட நிர்வாகம் கேட்டுக்கொண்டுள்ளது. மேலும் செய்திகளுக்கு சேலம் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🚆 மேல்மருவத்தூரில் சென்னை–சேலம் விரைவு ரயில் நின்று செல்லும்\n\n📰 முழு விவரம்:\nதைப்பூச விழாவையொட்டி, சென்னை எழும்பூர்–சேலம் விரைவு ரயில் (22153) டிசம்பர் 5 முதல் ஜனவரி 1ஆம் தேதி வரை மேல்மருவத்தூர் ரயில் நிலையத்தில் நின்று செல்லும் என சேலம் ரயில்வே கோட்ட நிர்வாகம் அறிவித்துள்ளது.\nமேல்மருவத்தூர் கோயிலுக்கு அதிக பக்தர்கள் வருவார்கள் என்பதால், விழுப்புரம்–செங்கல்பட்டு வழித்தடத்தில் இயக்கப்படும் 57 ரயில்கள் குறிப்பிட்ட நாள்களில் மேல்மருவத்தூரில் நின்று செல்லும்.\n📍 இடம்: மேல்மருவத்தூர் ரயில் நிலையம்\n🗓️ நாள்: டிசம்பர் 5 முதல் ஜனவரி 1 வரை\n🕘 நேரம்: அதிகாலை 1.13 மணிக்கு நின்று, 1.15 மணிக்குப் புறப்படும்\nℹ️ மக்கள் கவனத்திற்கு: இந்த வசதியைப் பயணிகள் பயன்படுத்திக் கொள்ளுமாறு சேலம் ரயில்வே கோட்ட நிர்வாகம் கேட்டுக்கொண்டுள்ளது.\n\nChennai Egmore-Salem Express halts at Melmaruvathur Dec 5 to Jan 1 | Salem news\n📍 மேல்மருவத்தூர், செங்கல்பட்டு மாவட்டம் | 27 நவம்பர் 2026\n\nதேவைப்படுவோருக்கு Share செய்யுங்கள்\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Salem360 #Salem #SalemNews #சேலம் #Melmaruvathur",
+   "prompts": "A long Chennai Egmore–Salem Express passenger train pulls into Melmaruvathur railway station in the middle of the night, stopping at the platform for its scheduled halt while devotees board. The station is a modest single-platform railway halt on the Villupuram–Chengalpattu line, with a raised concrete platform, a steel footbridge, tube lights on tall poles and a small waiting shed. The platform is crowded with devotees and passengers seen from behind or at a distance, many carrying cloth bundles, bags and steel water pots, some men in shirts and veshti and women in sarees and salwar, with a few in plain Tamil Nadu clothing. The coaches are a dull red and white with the engine glowing at the front, steam-free and lit from within, and the rails and sleepers run along the track edge. Dark night sky with a faint orange glow from the platform lights. Camera at eye level on the platform, 35 mm, wide enough to show the train, the platform and the crowd. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up of the steel coach door and the handrail of a passenger coach at Melmaruvathur station, its doorway lit by the interior light as a devotee's hand with a cloth bundle reaches for the rail to board. Beside it on the concrete platform sits a stack of brass and steel water pots and a rolled jute sack, with the railway track ballast and a wooden sleeper just visible below in the platform light. The night is dark behind, with the blurred shape of the waiting shed and a few people in the far background seen from behind. The steps of the coach are wet from night dew. Camera low and close, 35 mm, shallow depth of field, focusing on the door, rail and bundle with the platform light gently blurred around them. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamani.com/all-editions/edition-dharmapuri/salem/2026/Nov/26/chennaisalem-express-trainto-have-a-scheduled-stop-at-melmaruvathurinforms-salem-railway-administration",
+   "published": "2026-11-26T19:36:27.501Z",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: fact-check: The article says the Chennai Egmore–Salem Express (22153) halts at Melmaruvathur, but the reel_script and slides_spec describe the halt generically; this is consistent, however the reel_script omits that the 57 trains on the Viluppuram–Chengalpattu route also halt there, which the article presents as part of the same announcement (only partially covered).; fact-check: The caption describes the 57 trains as stopping on the 'specified days' without the article's stated Dec 5–Jan 1 period tied to them; the caption also says the train halts 'Dec 5 to Jan 1' in both Tamil and the English line, which matches the article.",
+   "note": "free-model draft anthropic/claude-haiku-5-5, 11 attempt(s), 2 validator problem(s)",
    "post_time": "right after your reply, same day",
    "_area": "N",
    "_score": 999,
    "images": [
-    "https://pub-ec316fa6a94f404c993596355ad19128.r2.dev/salem360/20261126/a78c68465a3593a4.jpg",
-    "https://pub-ec316fa6a94f404c993596355ad19128.r2.dev/salem360/20261126/5bef924dbbd635cc.jpg"
+    "https://pub-ec316fa6a94f404c993596355ad19128.r2.dev/salem360/20261126/d643f9170fc9060d.jpg",
+    "https://pub-ec316fa6a94f404c993596355ad19128.r2.dev/salem360/20261126/167d42fcc9b9d214.jpg"
    ]
   }
  ]
