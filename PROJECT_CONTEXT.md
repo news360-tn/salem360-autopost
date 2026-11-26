@@ -83,6 +83,10 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 <!-- recent-changes:start (updated automatically by .github/workflows/context.yml - do not edit by hand) -->
 | Date | Commit | Change |
 |---|---|---|
+| 2026-11-26 | `adbca80` | Clean-up: with Cloudflare R2 set up, Cloudinary credit/login problems are yellow warnings (backup only) and no longer turn the run red |
+| 2026-11-26 | `be4f55d` | stories shared / Instagram pause |
+| 2026-11-26 | `9de6595` | stories shared / Instagram pause |
+| 2026-11-26 | `3d4ac01` | stories shared / Instagram pause |
 | 2026-11-26 | `13208ba` | YouTube: a channel's own upload limit ('exceeded the number of videos') pauses that channel for 2 hours, not the whole day; Erode's day-block cleared |
 | 2026-11-26 | `7ca1fd4` | stories shared / Instagram pause |
 | 2026-11-26 | `a303f43` | stories shared / Instagram pause |
@@ -109,8 +113,4 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 | 2026-11-26 | `a661ea7` | stories shared / Instagram pause |
 | 2026-11-26 | `596186d` | stories shared / Instagram pause |
 | 2026-11-26 | `81a4a4c` | stories shared / Instagram pause |
-| 2026-11-26 | `0631e36` | stories shared / Instagram pause |
-| 2026-11-26 | `08c102b` | stories shared / Instagram pause |
-| 2026-11-26 | `3616604` | stories shared / Instagram pause |
-| 2026-11-26 | `43c4d88` | pick: written and posted |
 <!-- recent-changes:end -->
