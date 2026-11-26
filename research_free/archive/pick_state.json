@@ -337,7 +337,8 @@
    "score": 6.64,
    "power_cut": false,
    "listed_at": "2026-11-26T12:27:07.520585+05:30",
-   "picked_at": "2026-11-26T12:30:03.134803+05:30"
+   "picked_at": "2026-11-26T12:30:03.134803+05:30",
+   "posted": true
   },
   "Cbaa9749": {
    "id": "Cbaa9749",
@@ -350,7 +351,8 @@
    "score": 6.64,
    "power_cut": false,
    "listed_at": "2026-11-26T12:27:07.520585+05:30",
-   "picked_at": "2026-11-26T12:30:03.134806+05:30"
+   "picked_at": "2026-11-26T12:30:03.134806+05:30",
+   "refused": "not filed: all free models failed: no usable answer from the models"
   }
  },
  "rounds": {
@@ -798,7 +800,10 @@
    "written": [
     "C9f7e0ec",
     "Cbaa9749"
-   ]
+   ],
+   "refused": {
+    "Cbaa9749": "not filed: all free models failed: no usable answer from the models"
+   }
   }
  },
  "retry": {}
