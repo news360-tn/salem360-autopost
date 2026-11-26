@@ -83,6 +83,14 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 <!-- recent-changes:start (updated automatically by .github/workflows/context.yml - do not edit by hand) -->
 | Date | Commit | Change |
 |---|---|---|
+| 2026-11-26 | `1c66d75` | Keywords after hashtags on Instagram/Facebook/YouTube; Facebook follower count in insights |
+| 2026-11-26 | `455cbec` | stories shared / Instagram pause |
+| 2026-11-26 | `018bfab` | stories shared / Instagram pause |
+| 2026-11-26 | `eb67392` | facebook RN-304 |
+| 2026-11-26 | `5828896` | posted RN-304 |
+| 2026-11-26 | `72dab04` | stories shared / Instagram pause |
+| 2026-11-26 | `4736e51` | stories shared / Instagram pause |
+| 2026-11-26 | `b25a3dc` | autofix: corrected held news |
 | 2026-11-26 | `c72ad9d` | Rasipuram collaboration: news about or near Rasipuram invites Rasipuram 360 as collaborator (Namakkal and Salem pages; towns in config collab_near_words) |
 | 2026-11-26 | `4710a68` | stories shared / Instagram pause |
 | 2026-11-26 | `01c5d9c` | powercut: notices written |
@@ -105,12 +113,4 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 | 2026-11-26 | `ce294cb` | facebook RN-303 |
 | 2026-11-26 | `7f7d44b` | posted RN-303 |
 | 2026-11-26 | `2554fa5` | stories shared / Instagram pause |
-| 2026-11-26 | `7ef0369` | pick: picked news saved |
-| 2026-11-26 | `1286db4` | pick: picked news saved |
-| 2026-11-26 | `34a90db` | pick: list sent |
-| 2026-11-26 | `6dbb063` | stories shared / Instagram pause |
-| 2026-11-26 | `82b3365` | stories shared / Instagram pause |
-| 2026-11-26 | `77792ba` | stories shared / Instagram pause |
-| 2026-11-26 | `0c186f0` | stories shared / Instagram pause |
-| 2026-11-26 | `4eae1e7` | stories shared / Instagram pause |
 <!-- recent-changes:end -->
