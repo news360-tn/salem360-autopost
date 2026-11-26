@@ -450,13 +450,14 @@ class QualityCheck29Oct(unittest.TestCase):
 
 
 class SinglePage(unittest.TestCase):
-    """Salem 360 is one page: no Rasipuram page, no collaborator, own Sheet column"""
+    """Salem 360 is one page: no Rasipuram page of its own, own Sheet column. owner 26 Nov: the ONLY collaborator is Rasipuram 360, and only for
+    news about / near Rasipuram (config collab_near_words); everything else has no collaborator"""
 
     def test_one_page_no_collab(self):
-        row = {"post_to": "Namakkal 360 (collab: Rasipuram 360)", "story_id": "RN-1"}
+        row = {"post_to": "Namakkal 360 (collab: Rasipuram 360)", "story_id": "RN-1", "headline_ta": "சேலத்தில் மழை", "location": "Salem"}
         self.assertEqual(["salem"], post.pages_of(row))
-        self.assertEqual("", post.collab_page(row, "salem"))
-        self.assertEqual("", json.loads((ROOT / "poster" / "config.json").read_text()).get("collab_username", ""))
+        self.assertEqual("", post.collab_page(row, "salem"))      # not about / near Rasipuram: no collaborator
+        self.assertEqual("rasipuram.360", json.loads((ROOT / "poster" / "config.json").read_text()).get("collab_username", ""))
 
     def test_sheet_column_names_match_bridge(self):
         gs = (ROOT / "apps_script" / "Code.gs").read_text(encoding="utf-8")

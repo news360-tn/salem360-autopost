@@ -240,9 +240,19 @@ def pages_of(row):
     return ["salem"]
 
 
+def near_rasipuram(row):
+    """owner 26 Nov: news that is ABOUT or NEAR Rasipuram (config.json "collab_near_words": Rasipuram and the towns around it) invites
+    Rasipuram 360 as collaborator, the owner accepts it. Matched on the headline and the location only (the story's subject)."""
+    words = [str(w).lower() for w in (CONFIG.get("collab_near_words") or []) if str(w).strip()]
+    if not words:
+        return False
+    t = " ".join(str(row.get(k) or "") for k in ("headline_ta", "headline_en", "location")).lower()
+    return any(w in t for w in words)
+
+
 def collab_page(row, page):
-    """no collaborator page for Salem 360 (collab is always off)"""
-    return ""
+    """owner 26 Nov: Salem news ABOUT or NEAR Rasipuram invites Rasipuram 360 as collaborator (the owner accepts it). Everything else: no collaborator."""
+    return "rasipuram" if page == "salem" and CONFIG.get("collab_username") and near_rasipuram(row) else ""
 
 
 def page_done(row, page):
@@ -2495,7 +2505,7 @@ def run_story_page(row, page):
     global COLLAB
     COLLAB = collab_page(row, PAGE)
     collab = bool(COLLAB)      # always False for Salem 360 (no collaborator page)
-    log(f"posting on {LABEL[PAGE]} with the {PAGE} logo" + (f", {LABEL[COLLAB]} invited as collaborator" if COLLAB else ""))
+    log(f"posting on {LABEL[PAGE]} with the {PAGE} logo" + (f", {LABEL.get(COLLAB, COLLAB)} invited as collaborator" if COLLAB else ""))
     caption = final_caption(row)
     global PROMO_NOW
     PROMO_NOW = None
