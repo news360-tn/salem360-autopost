@@ -3,117 +3,192 @@
   "earlier stories still waiting for images: []",
   "instagram check: 50 recent posts read from the page",
   "pick round: only the picked links are written (research_free/pick.py)",
-  "manual link added: https://www.dinamalar.com/news/tamil-nadu-news/homes-vandalised-by-ganja-gang-in-salem/4386913",
-  "candidate filter: collected=1",
-  "to write: 1 Salem district candidates (max 1 stories)",
-  "round: top 1 of 1 candidates",
-  "candidates waiting: 1 Salem; time left 79 min",
-  "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-news/homes-vandali",
+  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-salem/three-ration-shops-to-be-expanded-into-multi-purpose-retail-outlets-in-salem-district/4387289",
+  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-salem/girl-s-body-found-in-15-feet-gorge-in-yercaud/4387286",
+  "candidate filter: collected=2",
+  "to write: 2 Salem district candidates (max 2 stories)",
+  "round: top 2 of 2 candidates",
+  "candidates waiting: 2 Salem; time left 79 min",
+  "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-sale",
+  "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-sale",
   "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 2})",
   "posting job started at once",
-  "candidate loop ended: left 0, tried={'N': 1}, done={'N': 1}, time left 77 min",
-  "filed: 1 Salem district stories (target 1), reels only",
+  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 4})",
+  "candidate loop ended: left 0, tried={'N': 2}, done={'N': 2}, time left 78 min",
+  "filed: 2 Salem district stories (target 2), reels only",
   "queue: 0 news waiting to be written",
-  "All News sheet: {\"ok\":true,\"added\":1,\"updated\":0}"
+  "All News sheet: {\"ok\":true,\"added\":2,\"updated\":0}"
  ],
  "llm": [
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
+  "dead for this round: gemini/gemini-3.6-flash",
   "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
   "dead for this round: gemini/gemini-3.6-flash",
   "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
   "dead for this round: gemini/gemini-3.5-flash",
+  "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
+  "dead for this round: gemini/gemini-3.5-flash",
   "fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, plea",
   "dead for this round: gemini/gemini-3-flash-preview",
+  "fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, plea",
+  "dead for this round: gemini/gemini-3-flash-preview",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
   "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 400: {\"error\":{\"message\":\"Failed to validate JSON. Please adjust your prompt. See 'failed_gener",
   "ok groq/qwen/qwen3.8-27b (4s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
+  "not available on this plan: groq/openai/gpt-oss-120b",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
+  "ok groq/qwen/qwen3.8-27b (0s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
-  "switching away from groq/openai/gpt-oss-120b for 10 min",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
+  "switching away from groq/qwen/qwen3.8-27b for 10 min",
   "ok anthropic/claude-haiku-5-5",
+  "ok groq/qwen/qwen3.8-27b (1s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "ok anthropic/claude-haiku-5-5",
   "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok groq/qwen/qwen3.8-27b (4s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
   "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash"
+  "ok anthropic/claude-haiku-5-5"
  ],
  "stories": [
   {
-   "tamil_headline": "சேலம் அந்தோணிபுரத்தில் கஞ்சா போதை கும்பல் வீடுகளை நொறுக்கி அட்டகாசம்",
-   "english_headline": "Ganja-drunk gang smashes houses and 10 two-wheelers in Antonipuram, Salem; police probe",
+   "tamil_headline": "ஏற்காடில் 15 அடி பள்ளத்தில் சிறுமி சடலம் கண்டெடுப்பு",
+   "english_headline": "Girl's body found in 15-foot pit at Yercaud",
    "category": "Crime & Safety",
-   "location": "Antonipuram near Salem railway station, Salem city, Salem district",
+   "location": "Yercaud, Salem district",
    "importance": "High",
-   "scope": "",
+   "scope": "local",
    "post_to": "Salem 360",
    "slides_spec": {
     "v": 3,
-    "cat": "போலீஸ் விசாரணை",
-    "loc": "அந்தோணிபுரம், சேலம்",
-    "hl1": "அந்தோணிபுரத்தில் கஞ்சா கும்பல் அட்டகாசம்",
-    "hl2": "10 இருசக்கர வாகனங்கள்",
+    "cat": "காவல் செய்தி",
+    "loc": "கொட்டச்சேடி, ஏற்காடு",
+    "hl1": "ஏற்காடில் 15 அடி பள்ளத்தில் சிறுமி சடலம்",
+    "hl2": "கொலையா? விசாரணை நடக்கிறது",
     "slides": [
      {
-      "title": "என்ன நடந்தது?",
+      "title": "சம்பவம்",
       "lines": [
-       "நேற்று இரவு கஞ்சா போதையில் சிலர் வீடுகளின் ஓடுகளை உடைத்தனர்",
-       "வீட்டிற்கு வெளியே நின்ற <b>10</b> இருசக்கர வாகனங்கள் நொறுக்கப்பட்டன",
-       "ஆயுதங்களைக் காட்டி மிரட்டியதால் பெண்கள் அலறியடித்து ஓடினர்"
+       "கொட்டச்சேடி மலைப்பாதையில் சடலம்",
+       "காலை 9:30 மணிக்கு சுற்றுலா பயணிகள் கண்டனர்",
+       "15 அடி ஆழமான பள்ளத்தில் புதரில் இருந்தது"
       ]
      },
      {
-      "title": "எங்கே?",
+      "title": "விவரங்கள்",
       "lines": [
-       "சேலம் ரயில்வே ஸ்டேஷன் அருகே அந்தோணிபுரம்",
-       "<b>100க்கும்</b> மேற்பட்ட வீடுகள் உள்ள பகுதி",
-       "அந்தப் பகுதியில் சிறுவர்களும் தப்பவில்லை"
+       "சிறுமிக்கு 10 முதல் 13 வயது இருக்கலாம்",
+       "உடலில் வெளி காயங்கள் எதுவும் இல்லை",
+       "பிரேத சோதனைக்கு சேலம் அரசு மருத்துவமனைக்கு அனுப்பப்பட்டது"
       ]
      },
      {
-      "title": "போலீஸ் நடவடிக்கை",
+      "title": "விசாரணை",
       "lines": [
-       "பெண்கள் சூரமங்கலம் போலீஸ் ஸ்டேஷனுக்கு தகவல் கொடுத்தனர்",
-       "இன்று மதியத்துக்கு பின் போலீசார் விசாரிக்கச் சென்றனர்",
-       "குற்றவாளிகள் குறித்து போலீசார் விசாரித்து வருகின்றனர்"
-      ]
-     },
-     {
-      "title": "மக்கள் கோரிக்கை",
-      "lines": [
-       "தீபாவளி முதல் இரவு நேரங்களில் கஞ்சா போதையில்",
-       "பெண்களை ஆபாசமாக திட்டுவதால் பாதுகாப்பற்ற சூழல் நிலவுவதாக",
-       "போலீசார் உரிய நடவடிக்கை வேண்டும் என மக்கள் வலியுறுத்தல்"
+       "எஸ்.பி. குற்றப்பிரிவு தனிப்படை விசாரிக்கிறது",
+       "குப்பனூர் சுங்கச்சாவடி சி.சி.டி.வி பதிவுகள்",
+       "தவறி விழுந்தாரா அல்லது கொலை செய்யப்பட்டாரா என ஆய்வு"
       ]
      }
     ],
     "carousel": false
    },
-   "reel_script": "சேலம் அந்தோணிபுரத்தில் கஞ்சா போதை கும்பல் வீடுகளையும் வாகனங்களையும் நொறுக்கி அட்டகாசம் செய்துள்ளது. நவம்பர் 25ஆம் தேதி இரவு கஞ்சா போதையில் சிலர் வீடுகளின் ஓடுகளை உடைத்து நொறுக்கினர். வீட்டிற்கு வெளியே நிறுத்தப்பட்டிருந்த 10 இருசக்கர வாகனங்களையும் நொறுக்கினர். ஆயுதங்களைக் காட்டி மிரட்டியதால் பெண்கள் அலறியடித்து ஓடினர். இந்தப் பகுதி சேலம் ரயில்வே ஸ்டேஷன் அருகே உள்ளது. இங்கு 100க்கும் மேற்பட்ட வீடுகள் உள்ளன. பெண்கள் சூரமங்கலம் போலீஸ் ஸ்டேஷனுக்கு தகவல் கொடுத்தனர். நவம்பர் 26ஆம் தேதி மதியத்துக்கு பின் போலீசார் விசாரிக்கச் சென்றனர். குற்றவாளிகள் குறித்து போலீசார் விசாரித்து வருகின்றனர். தீபாவளி முதல் இரவு நேரங்களில் கஞ்சா போதையில் கும்பல் சுற்றித்திரிவதாக மக்கள் குற்றம் சாட்டுகின்றனர். பெண்களை ஆபாசமாகத் திட்டுவதால் பாதுகாப்பற்ற சூழல் நிலவுவதாகவும் கூறுகின்றனர். சிறுவர்களும் தப்பவில்லை என்றும், போலீசார் உரிய நடவடிக்கை எடுக்க வேண்டும் என்றும் மக்கள் வலியுறுத்துகின்றனர். மேலும் செய்திகளுக்கு சேலம் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🚨 அந்தோணிபுரத்தில் கஞ்சா போதை கும்பல் அட்டகாசம்: வீடுகள், 10 வாகனங்கள் நொறுக்கல்\n\n📰 முழு விவரம்:\nசேலம் ரயில்வே ஸ்டேஷன் அருகே உள்ள அந்தோணிபுரத்தில், 100க்கும் மேற்பட்ட வீடுகள் உள்ளன. நவம்பர் 25ஆம் தேதி இரவு கஞ்சா போதையில் சிலர் வீடுகளின் ஓடுகளை உடைத்து நொறுக்கினர். வீட்டிற்கு வெளியே நிறுத்தப்பட்டிருந்த 10 இருசக்கர வாகனங்களையும் நொறுக்கினர். ஆயுதங்களைக் காட்டி மிரட்டியதால் பெண்கள் அலறியடித்து ஓடினர்.\nபெண்கள் சூரமங்கலம் போலீஸ் ஸ்டேஷனுக்கு தகவல் கொடுத்தனர். நவம்பர் 26ஆம் தேதி மதியத்துக்கு பின் போலீசார் விசாரிக்கச் சென்றனர். குற்றவாளிகள் குறித்து போலீசார் விசாரித்து வருகின்றனர்.\nதீபாவளி முதல் இரவு நேரங்களில் கஞ்சா போதையில் கும்பல் சுற்றித்திரிவதாகவும், பெண்களை ஆபாசமாகத் திட்டுவதாகவும் மக்கள் கூறுகின்றனர். சில வாரங்களாக கஞ்சா புழக்கம் அதிகரித்துள்ளதாகவும், சிறுவர்களும் தப்பவில்லை என்றும் மக்கள் தெரிவிக்கின்றனர். போலீசார் உரிய நடவடிக்கை எடுக்க வேண்டும் என மக்கள் வலியுறுத்துகின்றனர்.\n\nGanja gang smashes houses in Antonipuram, Salem | Salem news\n📍 அந்தோணிபுரம், சேலம் | 26 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Salem360 #Salem #SalemNews #சேலம்",
-   "prompts": "A row of two-wheelers parked outside houses in a residential lane in Antonipuram, Salem, lies smashed and overturned, with broken mirrors and dented seats scattered on the ground. Older concrete houses with tiled roofs line the narrow street, some roof tiles cracked and missing. Under a grey afternoon sky, two policemen in khaki uniform stand at a distance near the houses, while a few residents in a veshti and a woman in a cotton saree stand at their doorways watching quietly. Electric poles and tangled wires run overhead, and the faint outline of the Salem railway station area can be seen in the background. Shot at eye level with a 35 mm lens, wide enough to show the whole damaged lane and the people from behind or far away. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up detail of a broken roof tile and cracked edge of a house's tiled roof in a Salem residential lane, with a crushed two-wheeler's dented fuel tank and scattered shards of a shattered mirror on the dusty ground in the foreground. A pair of khaki-clad police boots stands at the edge of the frame, and a few tiles and bricks lie in a small heap near the wall. Late afternoon light falls softly on the rough concrete wall and the faded plaster of the house. Shot from a slightly high angle with a 35 mm lens, focusing on the wreckage and the police presence, with no faces visible. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamalar.com/news/tamil-nadu-news/homes-vandalised-by-ganja-gang-in-salem/4386913",
-   "published": "2026-11-26T18:46:02+05:30",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5) - fact-check: no problems found",
-   "note": "free-model draft anthropic/claude-haiku-5-5, 12 attempt(s), 0 validator problem(s)",
+   "reel_script": "ஏற்காடு மலைப்பாதையில் 15 அடி ஆழமான பள்ளத்தில் ஒரு சிறுமியின் சடலம் கண்டெடுக்கப்பட்டது. கொட்டச்சேடியில் இருந்து குப்பனூர் செல்லும் சாலையோரம், தடுப்புச்சுவர் அருகே உள்ள இடத்தில் இந்த சம்பவம் நடந்தது. இன்று நவம்பர் 26ஆம் தேதி காலை 9:30 மணிக்கு சுற்றுலா பயணிகள் அங்கு புகைப்படம் எடுத்துக்கொண்டிருந்தபோது சடலத்தை கண்டனர். போலீசார் மற்றும் வனத்துறையினர் உடலை கைப்பற்றி பிரேத சோதனைக்கு சேலம் அரசு மருத்துவமனைக்கு அனுப்பினர். போலீசார் கூறுகையில், இறந்த சிறுமிக்கு 10 முதல் 13 வயது இருக்கலாம் என்று தெரிவித்தனர். உடலில் வெளி காயங்கள் எதுவும் இல்லை என்று போலீசார் தெரிவித்தனர். காவல் கண்காணிப்பாளர் குற்றப்பிரிவு தனிப்படை குப்பனூர் மலைப்பாதையில் உள்ள சுங்கச்சாவடி மற்றும் பல்வேறு இடங்களில் உள்ள சி சி டி வி கேமரா பதிவுகளை சேகரித்து வருகிறது. சிறுமி தவறி விழுந்து இறந்தாரா அல்லது யாரும் கொலை செய்து வீசி சென்றனரா என்ற கோணங்களில் விசாரணை நடக்கிறது. மேலும் செய்திகளுக்கு சேலம் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🚨 ஏற்காடு மலைப்பாதையில் 15 அடி பள்ளத்தில் சிறுமி சடலம் கண்டெடுப்பு - கொலையா என போலீஸ் விசாரணை\n\n📰 முழு விவரம்:\nசேலம் மாவட்டம், ஏற்காடு, கொட்டச்சேடியில் இருந்து குப்பனூர் செல்லும் மலைப்பாதை சாலையோரம், தடுப்புச்சுவர் அருகே உள்ள இடத்தில் சிறுமியின் சடலம் கண்டெடுக்கப்பட்டது. இன்று நவம்பர் 26ஆம் தேதி காலை 9:30 மணிக்கு அங்கு சுற்றுலா பயணிகள் புகைப்படம் எடுத்துக்கொண்டிருந்தபோது, 15 அடி ஆழமான பள்ளத்தில் உள்ள புதரில் சடலத்தை கண்டனர். தகவலில் போலீசார் மற்றும் வனத்துறையினர் உடலை கைப்பற்றி பிரேத சோதனைக்கு சேலம் அரசு மருத்துவமனைக்கு அனுப்பினர். போலீசார் கூறுகையில், இறந்த சிறுமிக்கு 10 முதல் 13 வயது இருக்கலாம், உடலில் வெளி காயங்கள் எதுவும் இல்லை என்று தெரிவித்தனர். எஸ்.பி. குற்றப்பிரிவு தனிப்படை குப்பனூர் மலைப்பாதையில் உள்ள சுங்கச்சாவடி மற்றும் பல்வேறு இடங்களில் உள்ள சி.சி.டி.வி கேமரா பதிவுகளை சேகரித்து விசாரணை நடத்துகிறது. சிறுமி தவறி விழுந்து இறந்தாரா அல்லது யாரும் கொலை செய்து வீசி சென்றனரா என்ற கோணங்களில் விசாரணை நடக்கிறது.\n\n📍 இடம்: கொட்டச்சேடி - குப்பனூர் மலைப்பாதை, ஏற்காடு\n🗓️ நாள்: நவம்பர் 26, 2026\n🕘 நேரம்: காலை 9:30 மணி\n👮 நடவடிக்கை: உடல் கைப்பற்றப்பட்டு பிரேத சோதனைக்கு அனுப்பப்பட்டது; சி.சி.டி.வி பதிவுகள் சேகரிக்கப்படுகின்றன\n\nதேவைப்படுவோருக்கு Share செய்யுங்கள்\n\nYercaud girl body found in pit | Salem news\n📍 Yercaud, Salem | 26 Nov 2026\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Salem360 #Salem #Yercaud #SalemNews #சேலம்",
+   "prompts": "A group of police officers and forest department officials stand at the edge of a steep, 15-foot deep pit on a mountain road, looking down into the dense bushes where a body was found. The location is a narrow stretch of the Kottacheral to Kuppanur road in Yercaud, characterized by a concrete retaining wall on one side and a steep drop-off on the other, serving as a local viewpoint. Several tourists, seen from behind at a safe distance, stand near the road edge, some holding cameras, observing the scene. The pit is filled with thick green vegetation and rocks, obscuring the bottom. The road is paved but narrow, winding through the hills. It is morning, with bright natural daylight illuminating the scene. The camera is positioned at eye level, 35 mm, capturing the depth of the pit and the officials' attention directed downward, emphasizing the location of the discovery without showing any human remains. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up view of the 15-foot deep pit's edge on the mountain road, showing the thick, tangled green bushes and rocks that fill the depression. A concrete retaining wall runs along the side of the road, separating the asphalt from the steep drop. A police cordon tape is faintly visible in the blurred background, marking the restricted area. The focus is on the dense vegetation at the bottom of the pit, which is the specific spot where the girl's body was discovered. The lighting is bright daylight, casting shadows within the pit's depth. The camera is slightly high, looking down into the pit, 35 mm, highlighting the rugged terrain and the specific location of the incident on the Kottacheral-Kuppanur route. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-salem/girl-s-body-found-in-15-feet-gorge-in-yercaud/4387286",
+   "published": "2026-11-26T22:23:00+05:30",
+   "verification": "DRAFT (groq/qwen/qwen3.8-27b) - fact-check: no problems found",
+   "note": "free-model draft groq/qwen/qwen3.8-27b, 1 attempt(s), 0 validator problem(s)",
    "post_time": "right after your reply, same day",
    "_area": "N",
    "_score": 999,
    "images": [
-    "https://pub-ec316fa6a94f404c993596355ad19128.r2.dev/salem360/20261126/b760ac09a075198f.jpg",
-    "https://pub-ec316fa6a94f404c993596355ad19128.r2.dev/salem360/20261126/136b2abd49890113.jpg"
+    "https://pub-ec316fa6a94f404c993596355ad19128.r2.dev/salem360/20261126/cc9a19a0ff2c2fa5.jpg",
+    "https://pub-ec316fa6a94f404c993596355ad19128.r2.dev/salem360/20261126/3cb77a471025e606.jpg"
+   ]
+  },
+  {
+   "tamil_headline": "சேலத்தில் 3 ரேஷன் கடைகள் பல்நோக்கு சில்லறை நிலையங்களாக விரிவாக்கம்",
+   "english_headline": "3 ration shops in Salem district expanded into multi-purpose retail stores",
+   "category": "Government & Services",
+   "location": "Azhagapuram, Salem city, Salem district",
+   "importance": "Medium",
+   "scope": "district",
+   "post_to": "Salem 360",
+   "slides_spec": {
+    "v": 3,
+    "cat": "ரேஷன் கடை",
+    "loc": "அழகாபுரம், சேலம்",
+    "hl1": "சேலத்தில் 3 ரேஷன் கடைகள் விரிவாக்கம்",
+    "hl2": "ஒரே இடத்தில் பல சேவைகள்",
+    "slides": [
+     {
+      "title": "என்ன மாற்றம்?",
+      "lines": [
+       "3 ரேஷன் கடைகள் பல்நோக்கு சில்லறை நிலையங்களாக மாற்றம்",
+       "தமிழகம் முழுவதும் <b>100 ரேஷன் கடைகள்</b> மாற்றப்படுகின்றன",
+       "திட்டச் செலவு <b>7.67 கோடி ரூபாய்</b>"
+      ]
+     },
+     {
+      "title": "எந்தக் கடைகள்?",
+      "lines": [
+       "எம்.டி.எஸ். நகர் ரேஷன் கடை",
+       "காடையாம்பட்டி – 1 ரேஷன் கடை",
+       "பாலிக்கடை ரேஷன் கடை"
+      ]
+     },
+     {
+      "title": "புதிய சேவைகள்",
+      "lines": [
+       "சுய சேவைப் பிரிவு, ஆவின் பாலகம், மருந்தகம்",
+       "இ-சேவை மையம், பண்ணை பசுமை நுகர்வோர் விற்பனை மையம்",
+       "5 ரேஷன் கடைகளில் டிஜிட்டல் பணப்பரிவர்த்தனை தொடக்கம்"
+      ]
+     },
+     {
+      "title": "சலுகைகள்",
+      "lines": [
+       "ஒரு மாதத்தில் <b>2,000 ரூபாய்</b> மேல் வாங்கினால் 10% தள்ளுபடி",
+       "<b>5,000 ரூபாய்</b> மேல் வாங்கினால் குலுக்கல் பரிசு",
+       "ஒரே நாளில் 2,000 ரூபாய் மேல் வாங்கிய ஒருவருக்கு 1,000"
+      ]
+     }
+    ],
+    "carousel": false
+   },
+   "reel_script": "சேலம் மாவட்டத்தில் 3 ரேஷன் கடைகள் பல்நோக்கு சில்லறை விற்பனை நிலையங்களாக விரிவாக்கப்பட்டுள்ளன. நவம்பர் 26ஆம் தேதி சேலம், அழகாபுரத்தில் நடந்த விழாவில் கூட்டுறவுத்துறை அமைச்சர் காந்திராஜ் இதை அறிவித்தார். தமிழகம் முழுவதும் தேர்ந்தெடுக்கப்பட்ட 100 ரேஷன் கடைகள், 7.67 கோடி ரூபாய் மதிப்பில் இவ்வாறு மாற்றப்படுகின்றன. சேலம் மாவட்டத்தில் முதல்கட்டமாக எம் டி எஸ் நகர், காடையாம்பட்டி – 1, பாலிக்கடை ஆகிய 3 ரேஷன் கடைகள் மாற்றப்பட்டுள்ளன. இங்கு சுய சேவைப் பிரிவு, ஆவின் பாலகம், மருந்தகம், இ-சேவை மையம், பண்ணை பசுமை நுகர்வோர் விற்பனை மையம் ஆகிய சேவைகள் ஒரே இடத்தில் கிடைக்கும். ஒரு மாதத்தில் 2,000 ரூபாய்க்கு மேல் பொருட்கள் வாங்குபவர்களுக்கு 10 சதவீத தள்ளுபடி கிடைக்கும். 5,000 ரூபாய்க்கு மேல் வாங்குபவர்களில் குலுக்கல் முறையில் 10 பேருக்கு மிக்சி அல்லது கிரைண்டர் வழங்கப்படும். ஒரே நாளில் 2,000 ரூபாய்க்கு மேல் வாங்கும் ஒருவருக்கு 1,000 ரூபாய் மதிப்பில் பரிசுப் பொருட்கள் கிடைக்கும். மேலும், எம் டி எஸ் நகர், தேவாங்கபுரம் – 2, சீரங்கப்பாளையம், மெய்யனூர், ஸ்வர்ணபுரி ஆகிய 5 ரேஷன் கடைகளில் யு பி ஐ கியூஆர் குறியீடு மூலம் டிஜிட்டல் பணப்பரிவர்த்தனை வசதியை அமைச்சர் தொடங்கி வைத்தார். மேலும் செய்திகளுக்கு சேலம் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🛒 சேலத்தில் 3 ரேஷன் கடைகள் பல்நோக்கு சில்லறை நிலையங்களாக விரிவாக்கம்\n\n📰 முழு விவரம்:\nதமிழக அரசின் கூட்டுறவுத்துறை சார்பில் சேலம், அழகாபுரத்தில் நவ. 26 அன்று நடந்த விழாவில், ரேஷன் கடைகளின் சேவைகளை நவீனமாக்கும் திட்டம் அறிவிக்கப்பட்டது. கூட்டுறவு அமைச்சர் காந்திராஜ் இதைத் தொடங்கி வைத்தார்.\nதமிழகம் முழுவதும் 100 ரேஷன் கடைகள், 7.67 கோடி ரூபாய் மதிப்பில் பல்நோக்கு சில்லறை விற்பனை நிலையங்களாக மாற்றப்படுகின்றன.\nசேலம் மாவட்டத்தில் முதல்கட்டமாக எம்.டி.எஸ். நகர், காடையாம்பட்டி – 1, பாலிக்கடை ஆகிய 3 ரேஷன் கடைகள் மாற்றப்பட்டுள்ளன.\nஇங்கு சுய சேவைப் பிரிவு, ஆவின் பாலகம், மருந்தகம், இ-சேவை மையம், பண்ணை பசுமை நுகர்வோர் விற்பனை மையம் ஆகிய சேவைகள் கிடைக்கும்.\n🎁 சலுகைகள்:\n• ஒரு மாதத்தில் 2,000 ரூபாய்க்கு மேல் வாங்குவோருக்கு 10% தள்ளுபடி\n• 5,000 ரூபாய்க்கு மேல் வாங்குவோரில் குலுக்கல் முறையில் 10 பேருக்கு மிக்சி அல்லது கிரைண்டர்\n• ஒரே நாளில் 2,000 ரூபாய்க்கு மேல் வாங்கும் ஒருவருக்கு 1,000 ரூபாய் மதிப்பில் பரிசுப் பொருட்கள்\n💳 எம்.டி.எஸ். நகர், தேவாங்கபுரம் – 2, சீரங்கப்பாளையம், மெய்யனூர், ஸ்வர்ணபுரி ஆகிய 5 ரேஷன் கடைகளில் யு.பி.ஐ. கியூஆர் குறியீடு மூலம் பணம் செலுத்தும் வசதி தொடங்கப்பட்டது.\n\nSalem 3 ration shops become multi-purpose retail stores | Salem news\n📍 அழகாபுரம், சேலம் மாவட்டம் | 26 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Salem360 #Salem #SalemNews #சேலம்",
+   "prompts": "A row of officials and dignitaries sits on a decorated stage in a government function hall in Azhagapuram, Salem city, as a Tamil Nadu cooperative minister stands at a wooden podium to inaugurate the multi-purpose ration store scheme. The hall has white plastic chairs filled with men in shirts and veshti and women in cotton sarees seen from behind, plus a bank of ceiling fans and a flower garland draped over a table. A stack of welfare aid bags and a few framed displays sit beside the stage. Behind the dais hang plain saffron and green bunting, with no readable letters. Daylight comes through open side doors. Camera at eye level from the back of the hall, 35 mm, wide enough to show the stage and the seated crowd. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up of a ration shop counter converted into a digital payment point, with a printed UPI QR code stand placed on a wooden counter beside neatly stacked rice bags and sealed packets of groceries. A woman in a cotton saree, seen from the side and slightly blurred, holds out a mobile phone to scan the code, while a shop attendant in a plain shirt waits behind the counter. Shelves behind hold bags of sugar, dal and oil, with a glass display of milk packets nearby. Soft afternoon light falls through a shop front. Camera at slightly high eye level, 35 mm, focused on the QR stand and the hand holding the phone. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-salem/three-ration-shops-to-be-expanded-into-multi-purpose-retail-outlets-in-salem-district/4387289",
+   "published": "2026-11-26T22:23:07+05:30",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: reel_script has numbers without their meaning (1, 2); write what each number is: '15 வயது', '30 பாட்டில்கள்', 'அக்டோபர் 26ஆம் தேதி'; hl1 (the first headline on screen) must name the place 'அழகாபுரம்', e.g. 'அழகாபுரம்: ...' or 'அழகாபுரம்-இல் ...' - viewers share news of their own area",
+   "note": "free-model draft anthropic/claude-haiku-5-5, 13 attempt(s), 2 validator problem(s)",
+   "post_time": "right after your reply, same day",
+   "_area": "N",
+   "_score": 999,
+   "images": [
+    "https://pub-ec316fa6a94f404c993596355ad19128.r2.dev/salem360/20261126/a78c68465a3593a4.jpg",
+    "https://pub-ec316fa6a94f404c993596355ad19128.r2.dev/salem360/20261126/5bef924dbbd635cc.jpg"
    ]
   }
  ]
