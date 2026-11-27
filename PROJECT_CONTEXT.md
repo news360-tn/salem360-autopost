@@ -84,6 +84,20 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 <!-- recent-changes:start (updated automatically by .github/workflows/context.yml - do not edit by hand) -->
 | Date | Commit | Change |
 |---|---|---|
+| 2026-11-27 | `8802d58` | Posting rules 27 Nov: 30 news a day per platform by views, 06:00-22:00 (urgent any time), retry 10 min x5 then 1 h, block wait as stated else 2 h, collect every 2 h |
+| 2026-11-27 | `95bb111` | facebook RN-340 |
+| 2026-11-27 | `0d4a513` | posted RN-340 |
+| 2026-11-27 | `ffed800` | stories shared / Instagram pause |
+| 2026-11-27 | `4a12397` | facebook RN-337 |
+| 2026-11-27 | `67c33e2` | posted RN-337 |
+| 2026-11-27 | `4e5765f` | pick: picked news saved |
+| 2026-11-27 | `21fd195` | stories shared / Instagram pause |
+| 2026-11-27 | `985f961` | pick: picked news saved |
+| 2026-11-27 | `efaee07` | pick: list sent |
+| 2026-11-27 | `060dcab` | stories shared / Instagram pause |
+| 2026-11-27 | `d9be952` | stories shared / Instagram pause |
+| 2026-11-27 | `109c880` | stories shared / Instagram pause |
+| 2026-11-27 | `3d1c26b` | stories shared / Instagram pause |
 | 2026-11-27 | `4f77672` | No manual work: stop the manual-post and Facebook-share e-mails (config.json owner_emails false); only automatic posting |
 | 2026-11-27 | `583fede` | stories shared / Instagram pause |
 | 2026-11-27 | `0726583` | stories shared / Instagram pause |
@@ -100,18 +114,4 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 | 2026-11-27 | `246cfc6` | stories shared / Instagram pause |
 | 2026-11-27 | `327fd7f` | stories shared / Instagram pause |
 | 2026-11-27 | `4ec1275` | stories shared / Instagram pause |
-| 2026-11-27 | `4c44a60` | stories shared / Instagram pause |
-| 2026-11-27 | `bcf3ea9` | stories shared / Instagram pause |
-| 2026-11-27 | `f082790` | stories shared / Instagram pause |
-| 2026-11-27 | `c762c91` | stories shared / Instagram pause |
-| 2026-11-27 | `5e8d645` | stories shared / Instagram pause |
-| 2026-11-27 | `8885650` | stories shared / Instagram pause |
-| 2026-11-27 | `db7ca88` | pick: written and posted |
-| 2026-11-27 | `2db61f0` | facebook RN-336 |
-| 2026-11-27 | `e606bfc` | posted RN-336 |
-| 2026-11-27 | `4fe70b9` | stories shared / Instagram pause |
-| 2026-11-27 | `15e732e` | manual post e-mail RN-336 |
-| 2026-11-27 | `c4f8c79` | stories shared / Instagram pause |
-| 2026-11-27 | `a9c8257` | stories shared / Instagram pause |
-| 2026-11-27 | `ecaad2f` | stories shared / Instagram pause |
 <!-- recent-changes:end -->
