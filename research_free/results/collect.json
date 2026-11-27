@@ -3,185 +3,109 @@
   "earlier stories still waiting for images: []",
   "instagram check: 50 recent posts read from the page",
   "pick round: only the picked links are written (research_free/pick.py)",
-  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-salem/rock-cutter-in-the-garden-arrested/4387371",
-  "manual link added: https://www.dinakaran.com/district/salem_271126_2/amp",
-  "candidate filter: collected=2",
-  "to write: 2 Salem district candidates (max 2 stories)",
-  "round: top 2 of 2 candidates",
-  "candidates waiting: 2 Salem; time left 79 min",
-  "try (N) manual=True: https://www.dinakaran.com/district/salem_271126_2/amp",
-  "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-sale",
+  "manual link added: https://www.dinamani.com/all-editions/edition-dharmapuri/salem/2026/Nov/27/elderly-woman-robbed-of-money-after-suspects-use-incense-smoke-2-arrested",
+  "candidate filter: collected=1",
+  "to write: 1 Salem district candidates (max 1 stories)",
+  "round: top 1 of 1 candidates",
+  "candidates waiting: 1 Salem; time left 79 min",
+  "try (N) manual=True: https://www.dinamani.com/all-editions/edition-dharmapuri/sal",
   "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 2})",
   "posting job started at once",
-  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 4})",
-  "candidate loop ended: left 0, tried={'N': 2}, done={'N': 2}, time left 78 min",
-  "filed: 2 Salem district stories (target 2), reels only",
+  "candidate loop ended: left 0, tried={'N': 1}, done={'N': 1}, time left 76 min",
+  "filed: 1 Salem district stories (target 1), reels only",
   "queue: 0 news waiting to be written",
-  "All News sheet: {\"ok\":true,\"added\":2,\"updated\":0}"
+  "All News sheet: {\"ok\":true,\"added\":1,\"updated\":0}"
  ],
  "llm": [
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
-  "dead for this round: gemini/gemini-3.6-flash",
+  "fail gemini/gemini-3.6-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=60)",
+  "poor answer - skipped for 30 min: gemini/gemini-3.6-flash",
   "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
   "dead for this round: gemini/gemini-3.5-flash",
+  "ok gemini/gemini-3-flash-preview (10s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok gemini/gemini-3-flash-preview (14s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, plea",
   "dead for this round: gemini/gemini-3-flash-preview",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 400: {\"error\":{\"message\":\"Failed to validate JSON. Please adjust your prompt. See 'failed_gener",
+  "ok groq/qwen/qwen3.8-27b (5s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 413: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
   "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
   "dead for this round: groq/openai/gpt-oss-120b",
-  "ok groq/qwen/qwen3.8-27b (3s)",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
-  "ok groq/openai/gpt-oss-120b (7s)",
+  "ok groq/qwen/qwen3.8-27b (5s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
   "ok anthropic/claude-haiku-5-5",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
-  "switching away from groq/qwen/qwen3.8-27b for 10 min",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok anthropic/claude-haiku-5-5"
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash"
  ],
  "stories": [
   {
-   "tamil_headline": "காரிப்பட்டி அருகே வேகத்தடையில் தவறி விழுந்து வாலிபர் பலி",
-   "english_headline": "Youth dies after falling near a speed breaker in Karippatti, Salem",
+   "tamil_headline": "மகுடஞ்சாவடி அருகே சாம்பிராணி புகை போட்டு மூதாட்டியிடம் ரூ.8,000 கொள்ளை: 2 பேர் கைது",
+   "english_headline": "Two arrested for robbing Rs 8,000 from elderly woman by fumigating her house near Magudanchavadi",
    "category": "Crime & Safety",
-   "location": "Karippatti, Salem district",
-   "importance": "Medium",
-   "scope": "local",
+   "location": "Pattanampatti, Magudanchavadi, Salem district",
+   "importance": "High",
+   "scope": "",
    "post_to": "Salem 360",
    "slides_spec": {
     "v": 3,
-    "cat": "விபத்து",
-    "loc": "காரிப்பட்டி",
-    "hl1": "காரிப்பட்டியில் வேகத்தடையில் விபத்து",
-    "hl2": "வாலிபர் சிகிச்சையில்",
+    "cat": "கொள்ளை",
+    "loc": "பட்டணாம்பட்டி, மகுடஞ்சாவடி",
+    "hl1": "பட்டணாம்பட்டி: மூதாட்டியிடம் பணம் கொள்ளை",
+    "hl2": "ரூ.8,000 கொள்ளை - 2 பேர்",
     "slides": [
      {
       "title": "என்ன நடந்தது?",
       "lines": [
-       "காரிப்பட்டி அருகே வேகத்தடையில் தவறி விழுந்தார்",
-       "டூவீலரில் சென்றபோது விபத்து நடந்தது",
-       "கடந்த <b>22ஆம் தேதி</b> இரவு நடந்தது"
+       "சாம்பிராணி புகை போடுவதாகக் கூறி வீட்டுக்கு வந்த 2 பேர்",
+       "மூதாட்டி செல்லம்மாளிடம் <b>ரூ.8,000</b> கொள்ளை",
+       "வியாழக்கிழமை இந்தச் சம்பவம் நடந்தது"
       ]
      },
      {
-      "title": "யார்?",
+      "title": "எங்கே நடந்தது?",
       "lines": [
-       "காரிப்பட்டி காட்டுவளவைச் சேர்ந்த <b>37 வயது</b> தினேஷ்குமார்",
-       "டிபன் வாங்க வீட்டிலிருந்து கருமாபுரம் சென்றார்",
-       "காயமடைந்த அவர் தனியார் மருத்துவமனையில் சேர்ந்தார்"
+       "மகுடஞ்சாவடி அருகே அ.புதூர், பட்டணாம்பட்டி பகுதி",
+       "பொதுமக்கள் கொள்ளையர்களைத் தேடிப் பிடித்தனர்",
+       "பொன்னம்பலம் சுவாமி கோயில் அருகே பிடித்தனர்"
       ]
      },
      {
-      "title": "பின்னணி",
+      "title": "கைது விவரம்",
       "lines": [
-       "மேல் சிகிச்சைக்காக சேலம் அரசு மருத்துவமனையில் சேர்ந்தார்",
-       "சிகிச்சை பலனின்றி <b>நவம்பர் 25ஆம் தேதி</b> உயிரிழந்தார்",
-       "புகாரின்பேரில் காரிப்பட்டி போலீசார் விசாரணை நடத்துகின்றனர்"
+       "கைதானவர்கள்: சத்யராஜ் (26 வயது), அசோக்குமார் (30 வயது)",
+       "இருவரும் வாலாஜாபேட்டை, ராணிப்பேட்டை பகுதியினர்",
+       "போலீசார் இருசக்கர வாகனத்தைப் பறிமுதல் செய்தனர்"
       ]
      }
     ],
     "carousel": false
    },
-   "reel_script": "காரிப்பட்டி அருகே வேகத்தடையில் தவறி விழுந்ததில் 37 வயது வாலிபர் உயிரிழந்தார். காரிப்பட்டி காட்டுவளவைச் சேர்ந்த தினேஷ்குமார் கடந்த 22ஆம் தேதி இரவு டூவீலரில் சென்றுகொண்டிருந்தார். டிபன் வாங்குவதற்காக வீட்டிலிருந்து கருமாபுரம் நோக்கிச் சென்றபோது இந்த விபத்து நடந்தது. வேகத்தடையில் தவறி விழுந்ததில் அவருக்குக் காயம் ஏற்பட்டது. உடனடியாக அவரை மீட்டு தனியார் மருத்துவமனையில் சேர்த்தனர். மேல் சிகிச்சைக்காக சேலம் அரசு மருத்துவமனைக்கு மாற்றினர். அங்கு சிகிச்சை பலனின்றி நவம்பர் 25ஆம் தேதி அவர் உயிரிழந்தார். இதுகுறித்த புகாரின்பேரில் காரிப்பட்டி போலீசார் விசாரணை நடத்தி வருகின்றனர். மேலும் செய்திகளுக்கு சேலம் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🚨 காரிப்பட்டி அருகே வேகத்தடையில் தவறி விழுந்து வாலிபர் பலி\n\n📰 முழு விவரம்:\nகாரிப்பட்டி காட்டுவளவைச் சேர்ந்த 37 வயது தினேஷ்குமார் கடந்த 22ஆம் தேதி இரவு டிபன் வாங்குவதற்காக டூவீலரில் கருமாபுரம் நோக்கி சென்றார். அங்கிருந்த வேகத்தடையில் தவறி விழுந்ததில் காயமடைந்தார். தனியார் மருத்துவமனையில் சேர்த்த பின் மேல் சிகிச்சைக்காக சேலம் அரசு மருத்துவமனைக்கு மாற்றப்பட்டார். சிகிச்சை பலனின்றி நவம்பர் 25ஆம் தேதி உயிரிழந்தார். இதுகுறித்த புகாரின்பேரில் காரிப்பட்டி போலீசார் விசாரணை நடத்தி வருகின்றனர்.\n\n📍 இடம்: காரிப்பட்டி அருகே கருமாபுரம் செல்லும் வழி\n🗓️ நாள்: நவம்பர் 22 இரவு (காயம்), நவம்பர் 25 (உயிரிழப்பு)\n👮 நடவடிக்கை: காரிப்பட்டி போலீசார் விசாரணை\n\nKarippatti speed breaker accident, youth dies | Salem news\n📍 காரிப்பட்டி, சேலம் மாவட்டம் | 27 நவம்பர் 2026\n\nதேவைப்படுவோருக்கு Share செய்யுங்கள்.\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Salem360 #Salem #Karippatti #SalemNews #சேலம்",
-   "prompts": "A two-wheeler lies tipped on its side beside a raised concrete speed breaker on a dimly lit village road in Karippatti, Salem district, at night. The road is narrow, tarred and cracked, with a low compound wall and a few mango trees at its edge. The scooter's headlight is off and its handle is bent, and a helmet lies on the tar a short distance away. Two Tamil Nadu police constables in khaki stand at a distance, seen from behind, looking at the spot with torches. A few villagers in shirts and veshti watch from the far side of the road. A single street light on a concrete pole casts a yellow glow over the scene, and the night air is still. Shot at eye level, 35 mm lens, wide enough to show the road, the breaker and the surrounding houses, with no injured person visible. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up of a concrete speed breaker on a village road at night, its painted white stripes faded and chipped, lit by the yellow beam of a police torch held by a khaki-clad constable seen from behind. A two-wheeler's front wheel and fallen handle lie at the edge of the frame, with scattered gravel and dried leaves on the tar. Behind the breaker, a low compound wall and a dark mango tree fade into the night, and a distant street light glows faintly. The tar shows a fresh scrape mark where the vehicle slid. No people's faces are visible, only the lower legs and boots of the police. Shot close at around 1 metre, 35 mm lens, shallow depth of field, cool night tones with a warm torch highlight. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinakaran.com/district/salem_271126_2/amp",
-   "published": "2026-11-27T04:45:42+05:30",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: numbers not found in the article: 25",
-   "note": "free-model draft anthropic/claude-haiku-5-5, 12 attempt(s), 1 validator problem(s)",
-   "post_time": "right after your reply, same day",
-   "_area": "N",
-   "_score": 999,
-   "images": [
-    "https://res.cloudinary.com/jrmwajfz/image/upload/v1795806509/salem360/u1grizrne1wkturwnwe5.jpg",
-    "https://res.cloudinary.com/jrmwajfz/image/upload/v1795806513/salem360/asojipfrwshuqthvfhmt.jpg"
-   ]
-  },
-  {
-   "tamil_headline": "ஓமலூர் அருகே பாறை வெட்டியவர் கைது",
-   "english_headline": "Man arrested for illegally cutting rocks in Omalur farm",
-   "category": "Crime & Safety",
-   "location": "Chellapillaikuttai, Omalur, Salem district",
-   "importance": "Medium",
-   "scope": "local",
-   "post_to": "Salem 360",
-   "slides_spec": {
-    "v": 3,
-    "cat": "கைது",
-    "loc": "ஓமலூர்",
-    "hl1": "ஓமலூரில் பாறை வெட்டியவர் கைது",
-    "hl2": "டிராக்டர் பறிமுதல்",
-    "slides": [
-     {
-      "title": "என்ன நடந்தது?",
-      "lines": [
-       "ஓமலூர் அருகே செல்லப்பிள்ளைகுட்டையில் பாறை வெட்டும் முயற்சி",
-       "விவசாயி வரதராஜுக்குச் சொந்தமான தோட்டத்தில் நடந்தது",
-       "வெட்டியவர் திருப்பதி (47 வயது), பொட்டியபுரம்"
-      ]
-     },
-     {
-      "title": "எப்படித்",
-      "lines": [
-       "வி.ஏ.ஓ. செல்வத்துக்குத் தகவல் கிடைத்தது",
-       "அங்கு சென்றபோது திருப்பதி பாறை வெட்ட முயன்றது தெரிந்தது",
-       "பிடிக்க முயன்றபோது திருப்பதி தப்பிவிட்டார்"
-      ]
-     },
-     {
-      "title": "அடுத்து என்ன?",
-      "lines": [
-       "டிராக்டர் பறிமுதல் செய்யப்பட்டது",
-       "ஓமலூர் போலீசில் வி.ஏ.ஓ. புகார் அளித்தார்",
-       "திருப்பதியை போலீசார் நேற்று கைது செய்தனர்"
-      ]
-     }
-    ],
-    "carousel": false
-   },
-   "reel_script": "ஓமலூர் அருகே அனுமதியின்றி பாறை வெட்ட முயன்ற ஒருவர் போலீசாரால் கைது செய்யப்பட்டார். பொட்டியபுரத்தைச் சேர்ந்த 47 வயது திருப்பதி என்பவர் இந்தச் செயலில் ஈடுபட்டார். செல்லப்பிள்ளைகுட்டையில் உள்ள விவசாயி வரதராஜுக்குச் சொந்தமான தோட்டத்தில் பாறைகளை வெட்டி எடுக்கும் பணி நடைபெற்றது. இதுகுறித்து செல்லப்பிள்ளைகுட்டை கிராம நிர்வாக அலுவலர் செல்வத்துக்கு தகவல் கிடைத்தது. அவர் அங்கு சென்றபோது திருப்பதி பாறை வெட்ட முயன்றது தெரியவந்தது. அதிகாரிகள் அவரைப் பிடிக்க முயன்றபோது அவர் தப்பிவிட்டார். அங்கிருந்த டிராக்டரை கிராம நிர்வாக அலுவலர் பறிமுதல் செய்தார். பின்னர் ஓமலூர் போலீசில் புகார் அளித்தார். போலீசார் விசாரணை நடத்தி நேற்று திருப்பதியை கைது செய்தனர். மேலும் செய்திகளுக்கு சேலம் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🚨 ஓமலூர் அருகே பாறை வெட்டியவர் கைது\n\n📰 முழு விவரம்:\nஓமலூர் அருகே செல்லப்பிள்ளைகுட்டையில் விவசாயி வரதராஜுக்குச் சொந்தமான தோட்டத்தில் பாறைகளை வெட்ட முயன்றதாக பொட்டியபுரத்தைச் சேர்ந்த திருப்பதி (47 வயது), கைது செய்யப்பட்டார். வி.ஏ.ஓ. செல்வத்துக்குத் தகவல் கிடைத்து அங்கு சென்றபோது திருப்பதி பாறை வெட்ட முயன்றது தெரியவந்தது. அவரைப் பிடிக்க முயன்றபோது தப்பிவிட்டார். அங்கிருந்த டிராக்டரை வி.ஏ.ஓ. பறிமுதல் செய்து ஓமலூர் போலீசில் புகார் அளித்தார். போலீசார் விசாரித்து நேற்று திருப்பதியை கைது செய்தனர்.\n📍 இடம்: செல்லப்பிள்ளைகுட்டை, ஓமலூர் அருகே\n👮 நடவடிக்கை: டிராக்டர் பறிமுதல், போலீசார் கைது\n\nOmalur rock cutting man arrested | Salem news\n📍 ஓமலூர், சேலம் மாவட்டம் | 27 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Salem360 #Salem #Omalur #SalemNews #சேலம்",
-   "prompts": "Police in khaki stand beside a seized tractor parked on a dry farm plot at Chellapillaikuttai near Omalur, Salem district, where large granite boulders have been cut open for quarrying. A village administrative officer and a police sub-inspector inspect the site after an illegal rock-cutting operation was stopped and the tractor seized. The farm lies on the edge of Omalur town, with bare brown soil, scattered rock slabs, a few thorny shrubs and palm trees in the background, and the low Shevaroy hills faintly visible far away. Two officials in shirts and trousers stand near the tractor, while a farmer in a shirt and veshti is seen from behind at a distance, watching. The tractor is a red-and-grey farm tractor with a trailer. It is mid-morning daylight with clear sky and soft sunlight. Camera at eye level, 35 mm, wide enough to show the rocks, the tractor and the officials together. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up of a freshly cut granite boulder on a dry farm in Chellapillaikuttai, Omalur, showing clean chisel and drill marks where rock slabs were illegally extracted. Beside it lies a heap of cut stone pieces and a tractor tyre track in the dry red soil, with a seized tractor's trailer edge visible at the frame's edge. A police constable in khaki stands at a distance, seen from behind, with his hand near a notebook. Thorny bushes and a few dry palm leaves frame the scene. The light is bright daytime sunlight casting sharp shadows across the rock surface. Camera at a low angle close to the rock, 35 mm, shallow depth of field so the stone is sharp and the officials are softly blurred in the background. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-salem/rock-cutter-in-the-garden-arrested/4387371",
-   "published": "2026-11-27T04:54:00+05:30",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: caption misses facts of the article (put every one in 📰 முழு விவரம்): 55 ('ஓமலூர்; சேலம், ஜங்ஷனை சேர்ந்த, விவசாயி வரதராஜ், 55.')",
+   "reel_script": "மகுடஞ்சாவடி அருகே சாம்பிராணி புகை போட்டு மூதாட்டியிடம் ரூ.8,000 கொள்ளையடிக்கப்பட்டது. அ புதூர், பட்டணாம்பட்டி பகுதியைச் சேர்ந்தவர் மூதாட்டி செல்லம்மாள். வியாழக்கிழமை அவர் வீட்டுக்கு 2 பேர் வந்தனர். சாம்பிராணி புகை போடுவதாகக் கூறி புகை போட்டனர். அதன் பின்னர் வீட்டில் இருந்த ரூ.8,000 பணத்தைக் கொள்ளையடித்துச் சென்றனர். பொதுமக்கள் அவர்களைத் தேடி வந்தனர். வெள்ளிக்கிழமை பட்டணாம்பட்டி, பொன்னம்பலம் சுவாமி கோயில் அருகே அவர்களைப் பிடித்தனர். பின்னர் அவர்களை மகுடஞ்சாவடி காவல் நிலையத்தில் ஒப்படைத்தனர். விசாரணையில் அவர்கள் வாலாஜாபேட்டை, ராணிப்பேட்டை பகுதியைச் சேர்ந்த சத்யராஜ் (26 வயது), அசோக்குமார் (30 வயது) என்று தெரியவந்தது. போலீசார் இருவரையும் கைது செய்தனர். அவர்களிடம் இருந்த இருசக்கர வாகனத்தையும் பறிமுதல் செய்தனர். மேலும் செய்திகளுக்கு சேலம் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🚨 பட்டணாம்பட்டி அருகே சாம்பிராணி புகை போட்டு மூதாட்டியிடம் ரூ.8,000 கொள்ளை: 2 பேர் கைது\n\n📰 முழு விவரம்:\nமகுடஞ்சாவடி அருகே அ.புதூர், பட்டணாம்பட்டி பகுதியைச் சேர்ந்த மூதாட்டி செல்லம்மாள் வீட்டுக்கு வியாழக்கிழமை 2 பேர் வந்தனர். சாம்பிராணி புகை போடுவதாகக் கூறி புகை போட்டனர். பின்னர் வீட்டில் இருந்த ரூ.8,000 பணத்தைக் கொள்ளையடித்துச் சென்றனர்.\nபொதுமக்கள் அவர்களைத் தேடி வந்தனர். வெள்ளிக்கிழமை பட்டணாம்பட்டி, பொன்னம்பலம் சுவாமி கோயில் அருகே அவர்களைப் பிடித்து மகுடஞ்சாவடி காவல் நிலையத்தில் ஒப்படைத்தனர்.\nவிசாரணையில் அவர்கள் வாலாஜாபேட்டை, ராணிப்பேட்டை பகுதியைச் சேர்ந்த சத்யராஜ் (26 வயது), அசோக்குமார் (30 வயது) என தெரியவந்தது. போலீசார் இருவரையும் கைது செய்து, இருசக்கர வாகனத்தைப் பறிமுதல் செய்தனர்.\n\nPattanampatti robbery, two arrested | Salem news\n📍 பட்டணாம்பட்டி, மகுடஞ்சாவடி, சேலம் மாவட்டம் | 27 நவம்பர் 2026\n\nதேவைப்படுவோருக்கு Share செய்யுங்கள்.\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Salem360 #Salem #Pattanampatti #SalemNews #சேலம்",
+   "prompts": "Two police constables in khaki uniform lead two young men with their hands held behind them out of a police station gate in Magudanchavadi, Salem, while a crowd of local villagers stands at a distance; a seized two-wheeler is parked at the side of the gate, with a faint wisp of incense smoke drifting in the warm daylight. The view is of a small town police station compound with a tiled roof and a concrete wall, seen from the road at eye level. The two arrested men are shown from behind, wearing plain shirts and trousers, their heads bowed. A few villagers in shirts, veshti and sarees watch quietly from the roadside, and a Tamil Nadu police jeep is parked nearby. Shot at eye level, 35 mm lens, wide enough to show the police station gate, the crowd, and the seized vehicle. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up of a seized black two-wheeler scooter parked in front of a police station wall, with a folded veshti and a small brass incense holder placed on a wooden table beside it. Thin grey wisps of sambrani smoke curl upward from the incense holder in soft daylight. In the background, slightly blurred, a khaki-uniformed constable stands near the gate of a village house with a tiled roof and concrete pillars. The scene is shot at a low angle with a 35 mm lens, focusing sharply on the scooter and incense holder, with the police station and village house softly out of focus behind them. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamani.com/all-editions/edition-dharmapuri/salem/2026/Nov/27/elderly-woman-robbed-of-money-after-suspects-use-incense-smoke-2-arrested",
+   "published": "2026-11-27T19:56:41.105Z",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: caption misses facts of the article (put every one in 📰 முழு விவரம்): 8 ('8 ஆயிரத்தை கொள்ளையடித்துச் சென்றனா்..பொதுமக்கள் அவா்களை தேடி')",
    "note": "free-model draft anthropic/claude-haiku-5-5, 13 attempt(s), 1 validator problem(s)",
    "post_time": "right after your reply, same day",
    "_area": "N",
    "_score": 999,
    "images": [
-    "https://res.cloudinary.com/jrmwajfz/image/upload/v1795806522/salem360/yqjvy84obpskenxgqd2l.jpg",
-    "https://res.cloudinary.com/jrmwajfz/image/upload/v1795806526/salem360/gyknzvtqnuztoupffhfv.jpg"
+    "https://res.cloudinary.com/jrmwajfz/image/upload/v1795813450/salem360/znj7xcocpx4wj3ixm6xa.jpg",
+    "https://res.cloudinary.com/jrmwajfz/image/upload/v1795813483/salem360/fubkxjoplzyy1qacqntx.jpg"
    ]
   }
  ]
