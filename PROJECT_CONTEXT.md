@@ -83,6 +83,7 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 <!-- recent-changes:start (updated automatically by .github/workflows/context.yml - do not edit by hand) -->
 | Date | Commit | Change |
 |---|---|---|
+| 2026-11-27 | `06e3638` | Instagram handles: the real usernames of every page |
 | 2026-11-27 | `0f81361` | Rasipuram 360 username is rasipuram360.official |
 | 2026-11-27 | `b4fd8ff` | stories shared / Instagram pause |
 | 2026-11-27 | `d8dbeba` | stories shared / Instagram pause |
@@ -112,5 +113,4 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 | 2026-11-27 | `f5f17be` | pick: list sent |
 | 2026-11-27 | `71b9689` | stories shared / Instagram pause |
 | 2026-11-27 | `67e2568` | Sources: Dailythanthi and Maalaimalar Tamil Nadu / district lists (this district's links only) |
-| 2026-11-27 | `ed28428` | stories shared / Instagram pause |
 <!-- recent-changes:end -->
