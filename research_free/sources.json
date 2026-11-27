@@ -28,5 +28,23 @@
   "url": "https://www.polimernews.com/tags/salem",
   "link_regex": "href=\"((?:https://www\\.polimernews\\.com)?/districtnews/[^\"#?]+)\"",
   "limit": 30
+ },
+ {
+  "name": "தினத்தந்தி சேலம்",
+  "url": "https://www.dailythanthi.com/news/tamilnadu",
+  "link_regex": "href=\"((?:https://www\\.dailythanthi\\.com)?/news/tamilnadu/(?:[a-z0-9]+-)*(?:salem|mettur|attur|omalur|sankagiri|vazhapadi|yercaud|thalaivasal|gangavalli|pethanaickenpalayam)(?:-[a-z0-9]+)*)\"",
+  "limit": 15
+ },
+ {
+  "name": "மாலைமலர் சேலம்",
+  "url": "https://www.maalaimalar.com/news/district",
+  "link_regex": "href=\"((?:https://www\\.maalaimalar\\.com)?/news/(?:district|tamilnadu)/(?:[a-z0-9]+-)*(?:salem|mettur|attur|omalur|sankagiri|vazhapadi|yercaud|thalaivasal|gangavalli|pethanaickenpalayam)(?:-[a-z0-9]+)*)\"",
+  "limit": 15
+ },
+ {
+  "name": "மாலைமலர் சேலம் (TN)",
+  "url": "https://www.maalaimalar.com/news/tamilnadu",
+  "link_regex": "href=\"((?:https://www\\.maalaimalar\\.com)?/news/tamilnadu/(?:[a-z0-9]+-)*(?:salem|mettur|attur|omalur|sankagiri|vazhapadi|yercaud|thalaivasal|gangavalli|pethanaickenpalayam)(?:-[a-z0-9]+)*)\"",
+  "limit": 15
  }
 ]
