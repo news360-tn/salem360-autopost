@@ -83,6 +83,8 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 <!-- recent-changes:start (updated automatically by .github/workflows/context.yml - do not edit by hand) -->
 | Date | Commit | Change |
 |---|---|---|
+| 2026-11-27 | `489ed82` | Page names as the owner writes them: Tiruppur 360 |
+| 2026-11-27 | `601674a` | stories shared / Instagram pause |
 | 2026-11-27 | `06e3638` | Instagram handles: the real usernames of every page |
 | 2026-11-27 | `0f81361` | Rasipuram 360 username is rasipuram360.official |
 | 2026-11-27 | `b4fd8ff` | stories shared / Instagram pause |
@@ -111,6 +113,4 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 | 2026-11-27 | `4191695` | stories shared / Instagram pause |
 | 2026-11-27 | `0392572` | pick: picked news saved |
 | 2026-11-27 | `f5f17be` | pick: list sent |
-| 2026-11-27 | `71b9689` | stories shared / Instagram pause |
-| 2026-11-27 | `67e2568` | Sources: Dailythanthi and Maalaimalar Tamil Nadu / district lists (this district's links only) |
 <!-- recent-changes:end -->
