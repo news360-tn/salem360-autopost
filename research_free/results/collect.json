@@ -3,37 +3,34 @@
   "earlier stories still waiting for images: []",
   "instagram check: 50 recent posts read from the page",
   "pick round: only the picked links are written (research_free/pick.py)",
-  "manual link added: https://www.dailythanthi.com/news/tamilnadu/kallakurichi-mla-arrest-a-victory-for-aiadmks-continuous-struggle-edappadi-palaniswami",
-  "manual link added: https://www.dinamani.com/tamilnadu/2026/Nov/27/we-made-the-arrest-happen-edappadi-palaniswami",
-  "manual link added: https://www.dinamani.com/tamilnadu/2026/Nov/27/vck-to-protest-against-constituency-delimitation-tomorrow-thirumavalavan",
-  "manual link added: https://www.dailythanthi.com/news/tamilnadu/a-government-that-hits-at-the-livelihoods-of-handloom-and-powerloom-workers-edappadi-palaniswami-condemns",
-  "manual link added: https://tamil.oneindia.com/news/salem/luxury-car-fire-on-salem-chennai-nh-near-vazhapadi-848771.html",
-  "candidate filter: collected=5",
-  "to write: 5 Salem district candidates (max 5 stories)",
-  "round: top 5 of 5 candidates",
-  "candidates waiting: 5 Salem; time left 79 min",
-  "try (N) manual=True: https://tamil.oneindia.com/news/salem/luxury-car-fire-on-sal",
-  "try (N) manual=True: https://www.dailythanthi.com/news/tamilnadu/a-government-tha",
-  "try (N) manual=True: https://www.dinamani.com/tamilnadu/2026/Nov/27/vck-to-protes",
-  "auto images: 1 of 1 stories ({'pollinations': 2})",
+  "manual link added: https://tamil.oneindia.com/news/chennai/edappadi-palaniswami-takes-credit-for-arul-vignesh-s-arrest-says-aiadmk-forced-police-action-848825.html",
+  "manual link added: https://www.dinakaran.com/district/salem_271126_1/amp",
+  "manual link added: https://www.thanthitv.com/amp/story/news/tamilnadu/car-accident-fire-sudden-fire-in-a-moving-cara-tragedy-that-happened-in-the-blink-of-an-eye",
+  "manual link added: https://tamil.samayam.com/tamil-nadu/news/arakkonam-salem-nreserved-memu-train-schedule-daily-service-demand/articleshow/136226609.cms",
+  "candidate filter: collected=4",
+  "to write: 4 Salem district candidates (max 4 stories)",
+  "round: top 4 of 4 candidates",
+  "candidates waiting: 4 Salem; time left 79 min",
+  "try (N) manual=True: https://tamil.samayam.com/tamil-nadu/news/arakkonam-salem-nr",
+  "try (N) manual=True: https://www.thanthitv.com/amp/story/news/tamilnadu/car-accid",
+  "try (N) manual=True: https://www.dinakaran.com/district/salem_271126_1/amp",
+  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 2})",
   "posting job started at once",
-  "try (N) manual=True: https://www.dinamani.com/tamilnadu/2026/Nov/27/we-made-the-a",
-  "auto images: 1 of 1 stories ({'pollinations': 4})",
-  "auto images: 1 of 1 stories ({'pollinations': 6})",
-  "try (N) manual=True: https://www.dailythanthi.com/news/tamilnadu/kallakurichi-mla",
-  "NOT filed (N) அதிமுக-வுக்கு கிடைத்த வெற்றி! கள்ளக்குறிச்சி எம்எல: not Salem district news (the story's first lines name another place and no Salem place)",
-  "NOT filed (N) கள்ளக்குறிச்சி எம்.எல்.ஏ. கைது: அ.தி.மு.க.-வின் தொ: not Salem district news (the story's first lines name another place and no Salem place)",
-  "candidate loop ended: left 0, tried={'N': 5}, done={'N': 3}, time left 74 min",
-  "filed: 3 Salem district stories (target 5), reels only",
+  "try (N) manual=True: https://tamil.oneindia.com/news/chennai/edappadi-palaniswami",
+  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 4})",
+  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 6})",
+  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 8})",
+  "candidate loop ended: left 0, tried={'N': 4}, done={'N': 4}, time left 77 min",
+  "filed: 4 Salem district stories (target 4), reels only",
   "queue: 0 news waiting to be written",
-  "All News sheet: {\"ok\":true,\"added\":5,\"updated\":0}"
+  "All News sheet: {\"ok\":true,\"added\":4,\"updated\":0}"
  ],
  "llm": [
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
   "dead for this round: gemini/gemini-3.6-flash",
@@ -47,295 +44,325 @@
   "dead for this round: gemini/gemini-3.5-flash",
   "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
   "dead for this round: gemini/gemini-3.5-flash",
-  "ok gemini/gemini-3-flash-preview (10s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok gemini/gemini-3-flash-preview (10s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok gemini/gemini-3-flash-preview (11s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok gemini/gemini-3-flash-preview (9s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, plea",
-  "ok gemini/gemini-3-flash-preview (11s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, plea",
-  "ok gemini/gemini-3-flash-preview (15s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, plea",
-  "switching away from gemini/gemini-3-flash-preview for 10 min",
-  "fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, plea",
-  "switching away from gemini/gemini-3-flash-preview for 10 min",
-  "ok gemini/gemini-3-flash-preview (12s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
-  "ok groq/openai/gpt-oss-120b (3s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
-  "switching away from groq/openai/gpt-oss-120b for 10 min",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 413: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
-  "switching away from groq/openai/gpt-oss-120b for 10 min",
+  "dead for this round: gemini/gemini-3-flash-preview",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 400: {\"error\":{\"message\":\"Failed to validate JSON. Please adjust your prompt. See 'failed_gener",
   "ok groq/qwen/qwen3.8-27b (3s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 400: {\"error\":{\"message\":\"Failed to validate JSON. Please adjust your prompt. See 'failed_gener",
+  "ok gemini/gemini-3-flash-preview (12s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
+  "switching away from groq/openai/gpt-oss-120b for 10 min",
+  "ok gemini/gemini-3-flash-preview (27s)",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 413: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
   "ok anthropic/claude-haiku-5-5",
   "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 400: {\"error\":{\"message\":\"Failed to validate JSON. Please adjust your prompt. See 'failed_gener",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "ok groq/qwen/qwen3.8-27b (1s)",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
-  "switching away from groq/qwen/qwen3.8-27b for 10 min",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok groq/qwen/qwen3.8-27b (1s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
+  "ok anthropic/claude-haiku-5-5",
   "ok anthropic/claude-haiku-5-5",
   "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
   "ok anthropic/claude-haiku-5-5",
   "ok anthropic/claude-haiku-5-5",
   "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok anthropic/claude-haiku-5-5",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok anthropic/claude-haiku-5-5",
+  "ok groq/qwen/qwen3.8-27b (0s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
   "ok anthropic/claude-haiku-5-5"
  ],
  "stories": [
   {
-   "tamil_headline": "எடப்பாடியில் நெசவாளர்கள் வாழ்வாதாரம் பாதிப்பு: அரசுக்கு எடப்பாடி பழனிசாமி கடும் கண்டனம்",
-   "english_headline": "EPS condemns TVK government for delaying Pongal dhoti-saree orders and affecting 5 lakh weavers",
-   "category": "Government & Services",
-   "location": "Edappadi, Salem district",
-   "importance": "High",
-   "scope": "district",
-   "post_to": "Salem 360",
-   "slides_spec": {
-    "v": 3,
-    "cat": "நெசவாளர் நலன்",
-    "loc": "எடப்பாடி, சேலம்",
-    "hl1": "நெசவாளர்கள் வாழ்வாதாரம் பாதிப்பு",
-    "hl2": "எடப்பாடி பழனிசாமி கண்டனம்",
-    "slides": [
-     {
-      "title": "என்ன பிரச்சனை?",
-      "lines": [
-       "<b>5 லட்சம்</b> நெசவாளர்கள் வாழ்வாதாரம் பாதிப்பு",
-       "பொங்கல் வேட்டி, சேலை திட்டத்தில் குளறுபடி",
-       "எடப்பாடி பழனிசாமி அரசுக்கு கடும் கண்டனம்"
-      ]
-     },
-     {
-      "title": "தாமதமான ஆணை",
-      "lines": [
-       "வழக்கமாக ஜூன், ஜூலையில் தரப்படும் உற்பத்தி ஆணை",
-       "இந்த ஆண்டு <b>4 மாதங்கள்</b> தாமதமாக வழங்கப்பட்டுள்ளது",
-       "இதனால் நெசவாளர்களுக்கு வேலை இழப்பு"
-      ]
-     },
-     {
-      "title": "ஆட்டோ லூம் சர்ச்சை",
-      "lines": [
-       "காலதாமதத்தால் 'ஆட்டோ லூம்' நிறுவனங்களுக்கு ஆணை",
-       "விசைத்தறி நெசவாளர்கள் புறக்கணிக்கப்படுவதாக புகார்",
-       "உரிய நேரத்தில் வேட்டி, சேலை வழங்க வலியுறுத்தல்"
-      ]
-     }
-    ],
-    "carousel": false
-   },
-   "reel_script": "எடப்பாடி பகுதியில் 5 லட்சம் நெசவாளர்களின் வாழ்வாதாரம் பாதிக்கப்படுவதாக எடப்பாடி பழனிசாமி கண்டனம் தெரிவித்துள்ளார். 1983ஆம் ஆண்டு எம் ஜி ஆர் தொடங்கிய இலவச வேட்டி, சேலை வழங்கும் திட்டத்தில் குளறுபடி ஏற்பட்டுள்ளதாக அவர் கூறியுள்ளார். வழக்கமாக ஜூன் அல்லது ஜூலை மாதங்களில் வழங்கப்படும் உற்பத்தி ஆணைகள், இந்த ஆண்டு 4 மாதங்கள் தாமதமாக வழங்கப்பட்டுள்ளன. பொங்கலுக்கு இன்னும் 2 மாதங்களே உள்ள நிலையில், தற்போதுதான் ஆணை வழங்க முடிவு செய்யப்பட்டுள்ளது. இதனால் விசைத்தறி நெசவாளர்களைப் புறக்கணித்துவிட்டு, ஆட்டோ லூம் எனப்படும் தானியங்கி தறிகளுக்கு உற்பத்தி ஆணை வழங்கப்பட்டுள்ளதாக அவர் சுட்டிக்காட்டியுள்ளார். இதனால் 5 லட்சம் கைத்தறி மற்றும் விசைத்தறித் தொழிலாளர்கள் வேலை இழக்கும் நிலை ஏற்பட்டுள்ளது. வேட்டி, சேலை டிசைன் மாற்றங்களால் இந்தத் தாமதம் ஏற்பட்டுள்ளதாகத் தெரிகிறது. நெசவாளர்களின் வாழ்வாதாரத்தைக் காக்க அரசு உரிய நடவடிக்கை எடுக்க வேண்டும் என அவர் வலியுறுத்தியுள்ளார். மேலும் செய்திகளுக்கு சேலம் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🚨 நெசவாளர்கள் வாழ்வாதாரம் பாதிப்பு: அரசுக்கு எடப்பாடி பழனிசாமி கண்டனம்!\n\n📰 முழு விவரம்:\nஎடப்பாடி பகுதியில் சுமார் 5 லட்சம் கைத்தறி மற்றும் விசைத்தறி நெசவாளர்களின் வாழ்வாதாரம் பாதிக்கப்படுவதாக அதிமுக பொதுச்செயலாளர் எடப்பாடி பழனிசாமி கண்டனம் தெரிவித்துள்ளார். 1983-ல் தொடங்கப்பட்ட இலவச வேட்டி, சேலை வழங்கும் திட்டத்திற்கான உற்பத்தி ஆணைகள் வழக்கமாக ஜூன், ஜூலை மாதங்களில் வழங்கப்படும். ஆனால் இந்த ஆண்டு 4 மாதங்கள் தாமதமாக தற்போதுதான் ஆணை வழங்கப்பட்டுள்ளது. பொங்கலுக்கு இன்னும் 2 மாதங்களே உள்ளதால், விசைத்தறி நெசவாளர்களைப் புறக்கணித்துவிட்டு 'ஆட்டோ லூம்' உற்பத்தியாளர்களுக்கு ஆணை வழங்கப்பட்டுள்ளதாக அவர் குற்றம் சாட்டியுள்ளார். டிசைன் மாற்றங்களால் ஏற்பட்ட இந்தத் தாமதத்தால் தொழிலாளர்கள் வேலை இழக்கும் அபாயம் ஏற்பட்டுள்ளது.\n\n📍 இடம்: எடப்பாடி, சேலம் மாவட்டம்\n👥 பாதிப்பு: 5 லட்சம் நெசவாளர்கள்\n🗓️ காலம்: 2027 பொங்கல் பண்டிகைக்கான உற்பத்தி\n👮 கோரிக்கை: நெசவாளர்களுக்கு உரிய வேலை வழங்கி, பொங்கலுக்குள் வேட்டி, சேலைகளை வழங்க வேண்டும்.\n\nதேவைப்படுவோருக்கு Share செய்யுங்கள்\n\nEPS condemns TVK government over weavers issue | Salem news\n📍 Edappadi, Salem | 27 November 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Salem360 #Salem #Edappadi #நெசவாளர்கள் #SalemNews",
-   "prompts": "A row of powerloom sheds in Edappadi, Salem district, with weavers working at clattering looms as bundles of freshly woven dhotis and sarees are stacked near the doorway. Seen from behind, several workers in shirts and lungis and women in cotton sarees tend the machines under tube lights, bundles of white dhotis with coloured borders and folded sarees piled on wooden benches. The shed is a plain tin-roofed hall with an open front onto a narrow lane, a few bicycles and a two-wheeler parked outside. It is daytime, with soft natural light from the open front and warm lamps inside. Camera at eye level, 35 mm, wide enough to show the full loom row and the stacked cloth. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up of the handloom and powerloom: a wooden shuttle and taut warp threads on a loom, with a half-woven dhoti border in cream and red stretched across the beam, and a stack of folded white dhotis beside it. Fine cotton fibres and a few loose threads catch the light from a window. A weaver's hand, seen only partly and blurred at the edge of the frame, rests on the machine. Shallow depth of field with the background of the loom shed softly out of focus. Daylight, no visible text or labels. Camera slightly high, 50 mm macro feel. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dailythanthi.com/news/tamilnadu/a-government-that-hits-at-the-livelihoods-of-handloom-and-powerloom-workers-edappadi-palaniswami-condemns",
-   "published": "2026-11-27T12:05:51Z",
-   "verification": "DRAFT (gemini/gemini-3-flash-preview) - NOT CLEAN, held from posting - problems: caption misses facts of the article (put every one in 📰 முழு விவரம்): 6 ('இதன் காரணமாக, கோடிக்கணக்கான ஏழை, எளிய, நடுத்தர மக்கள் ஆண்டுத'); 8 ('அதற்கான நிதியும் ஒதுக்கப்பட்ட நிலையில், 8 முழ வேட்டியை 4 முழ'); 6 ('இதற்கு யார் பொறுப்பு?.நெசவாளர்கள் வாழ்வாதாரம் பாதிப்புகடந்த ')",
-   "note": "free-model draft gemini/gemini-3-flash-preview, 1 attempt(s), 1 validator problem(s)",
-   "post_time": "right after your reply, same day",
-   "_area": "N",
-   "_score": 999,
-   "images": [
-    "https://res.cloudinary.com/jrmwajfz/image/upload/v1795791791/salem360/hiwgtgg5kyujfl3igwkj.jpg",
-    "https://res.cloudinary.com/jrmwajfz/image/upload/v1795791802/salem360/xpiczbpgfdtsesq7xw60.jpg"
-   ]
-  },
-  {
-   "tamil_headline": "வாழப்பாடி அருகே ஓடும் சொகுசு காரில் திடீர் தீ: 5 பேர் உயிர் தப்பினர்",
-   "english_headline": "Luxury car catches fire near Vazhapadi on Salem-Chennai highway; all 5 passengers escape unhurt",
-   "category": "Crime & Safety",
-   "location": "Vazhapadi, Salem district",
+   "tamil_headline": "சேலம் – அரக்கோணம் MEMU ரயில்: வாரத்தில் 5 நாட்கள் முன்பதிவில்லா பயணம்",
+   "english_headline": "Salem–Arakkonam MEMU: unreserved express runs 5 days a week; full timetable",
+   "category": "Roads & Transport",
+   "location": "Salem junction – Arakkonam route, Salem district",
    "importance": "High",
    "scope": "",
    "post_to": "Salem 360",
    "slides_spec": {
     "v": 3,
-    "cat": "கார் தீ விபத்து",
-    "loc": "வாழப்பாடி",
-    "hl1": "வாழப்பாடி அருகே கார் தீப்பற்றி எரிந்தது",
-    "hl2": "5 பேர் உயிர் தப்பினர்",
+    "cat": "ரயில் சேவை",
+    "loc": "சேலம் சந்திப்பு",
+    "hl1": "சேலம்–அரக்கோணம் MEMU ரயில் வாரம் 5 நாள்",
+    "hl2": "திங்கள் முதல் வெள்ளி வரை",
+    "slides": [
+     {
+      "title": "ரயில் விவரம்",
+      "lines": [
+       "வண்டி எண் <b>16087 / 16088</b>, முன்பதிவில்லா MEMU விரைவு ரயில்",
+       "அரக்கோணம் – சேலம் – அரக்கோணம் வழித்தடம்",
+       "திங்கள் முதல் வெள்ளி வரை இயங்கும்"
+      ]
+     },
+     {
+      "title": "இயங்காத நாட்கள்",
+      "lines": [
+       "சனி, ஞாயிறு ரயில் இயங்காது",
+       "பகல் நேரப் பயணத்துக்கு ஏற்றது",
+       "முன்பதிவு இன்றி எளிதாகப் பயணம் செய்யலாம்"
+      ]
+     },
+     {
+      "title": "சேலத்திலிருந்து",
+      "lines": [
+       "<b>03:30 PM</b> சேலத்திலிருந்து புறப்படும்",
+       "<b>08:50 PM</b> அரக்கோணம் வந்தடையும்",
+       "வழியில் சிறிய ஊர்களிலும் நிற்கும்"
+      ]
+     },
+     {
+      "title": "அரக்கோணத்திலிருந்த",
+      "lines": [
+       "<b>05:15 AM</b> அரக்கோணத்திலிருந்து புறப்படும்",
+       "<b>10:50 AM</b> சேலம் வந்தடையும்",
+       "பொம்மிடி, மொரப்பூர் வழித்தடத்தில் நிற்கும்"
+      ]
+     }
+    ],
+    "carousel": false
+   },
+   "reel_script": "சேலம் – அரக்கோணம் இடையே வாரத்தில் ஐந்து நாட்கள் முன்பதிவில்லா எம் இ எம் யு ரயில் இயங்குகிறது. இந்த ரயில் திங்கள் முதல் வெள்ளி வரை இயங்கும். சனி, ஞாயிறு அன்று ரயில் இயங்காது. வண்டி எண்கள் 16087 மற்றும் 16088 ஆகும். அரக்கோணத்திலிருந்து காலை 5 மணி 15 நிமிடத்துக்குப் புறப்பட்டு, காலை 10 மணி 50 நிமிடத்துக்கு சேலம் சந்திப்பை அடையும். சேலத்திலிருந்து மதியம் 3 மணி 30 நிமிடத்துக்குப் புறப்பட்டு, இரவு 8 மணி 50 நிமிடத்துக்கு அரக்கோணம் சென்றடையும். வழியில் சோளிங்கர், ஆம்பூர், வாணியம்பாடி, திருப்பத்தூர், மொரப்பூர், பொம்மிடி உள்ளிட்ட சிறிய ஊர்களிலும் ரயில் நிற்கும். பகல் நேரப் பயணத்துக்கு ஏற்ற இந்த ரயிலில் முன்பதிவு தேவையில்லை. வடக்கு, மேற்கு மாவட்ட மக்களிடம் இதற்கு நல்ல வரவேற்பு உள்ளது. இந்த ரயிலை வாரம் ஏழு நாட்களும் இயக்க வேண்டும் என பொம்மிடி, மொரப்பூர் பகுதி மக்கள் நீண்ட காலமாகக் கோரி வருகின்றனர். மேலும் செய்திகளுக்கு சேலம் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🚆 சேலம்–அரக்கோணம் MEMU ரயில்: வாரத்தில் 5 நாட்கள் முன்பதிவில்லா பயணம்\n\n📰 முழு விவரம்:\nஅரக்கோணம் – சேலம் வழித்தடத்தில் வாரத்தில் ஐந்து நாட்கள் முன்பதிவில்லா MEMU விரைவு ரயில் இயக்கப்படுகிறது. பெரும்பாலான விரைவு ரயில்கள் நிற்காத சிறிய ஊர்களிலும் இந்த ரயில் நிற்பதால், அன்றாடப் பயணிகள், வியாபாரிகள், பொதுமக்கள் பயனடைகின்றனர். இந்த ரயிலை வாரம் ஏழு நாட்களும் இயக்க வேண்டும் என பொம்மிடி, மொரப்பூர் உள்ளிட்ட பகுதி மக்கள் நீண்ட காலமாகக் கோரி வருகின்றனர்.\n🚆 வண்டி எண்: 16087 / 16088 (முன்பதிவில்லா MEMU விரைவு ரயில்)\n🗓️ இயங்கும் நாட்கள்: திங்கள் முதல் வெள்ளி வரை (வாரத்தில் 5 நாட்கள்)\n❌ இயங்காத நாட்கள்: சனி, ஞாயிறு\n🕔 அரக்கோணம் → சேலம்: காலை 5:15 புறப்பாடு, காலை 10:50 சேலம் வருகை\n🕒 சேலம் → அரக்கோணம்: மதியம் 3:30 புறப்பாடு, இரவு 8:50 அரக்கோணம் வருகை\n📍 வழியில்: சோளிங்கர், வாலாஜா ரோடு, காட்பாடி, குடியாத்தம், ஆம்பூர், வாணியம்பாடி, ஜோலார்பேட்டை, திருப்பத்தூர், மொரப்பூர், பொம்மிடி, தின்னப்பட்டி, கருப்பூர் உள்ளிட்ட நிலையங்களில் நிற்கும்.\n\nSalem Arakkonam MEMU train 5 days a week | Salem news\n📍 சேலம் சந்திப்பு, சேலம் மாவட்டம் | 27 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Salem360 #Salem #SalemNews #சேலம்",
+   "prompts": "A 12-coach unreserved MEMU express train moves along the tracks at Salem Junction railway station. The scene is set at the main railway platform in Salem city, with the station building and platform shelters visible in the background. Groups of daily commuters and traders stand on the platform, seen from behind or at a distance, waiting to board or having just alighted. They are dressed in casual shirts, trousers, and sarees. The train consists of multiple coaches, clearly identifiable as a MEMU unit, moving smoothly on the rails. The lighting is bright daylight, indicating the morning or afternoon service hours mentioned in the article. The camera is positioned at eye level, using a 35 mm lens to capture the full length of the train and the platform activity. The atmosphere is busy but orderly, reflecting the high demand for this direct connection between small towns and Salem. No readable text or logos are visible on the train or platform. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up view of the side of a MEMU train coach stopped at the platform of Salem Junction. The focus is on the open doors of the unreserved coach, where passengers are seen entering or exiting. The metal exterior of the coach is visible, along with the yellow safety line on the platform edge. In the background, slightly blurred, are the legs of standing passengers and the concrete pillars of the platform shelter. The lighting is natural daylight, casting soft shadows on the platform. The camera is slightly high, looking down at the door area to emphasize the ease of boarding without reservation. The scene highlights the practical aspect of the service, showing the direct access for commuters from small towns. The composition avoids any readable signage or brand names, focusing purely on the interaction between the passenger and the train vehicle. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://tamil.samayam.com/tamil-nadu/news/arakkonam-salem-nreserved-memu-train-schedule-daily-service-demand/articleshow/136226609.cms",
+   "published": "2026-11-27T20:46:07+05:30",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: sentence 1 (one-line story) has 14 words; make it 6-9 words (about 2-3 seconds), the details follow in the next sentences; caption misses facts of the article (put every one in 📰 முழு விவரம்): 05 ('அந்தக் குறையைப் போக்கும் வகையில், இந்த முன்பதிவில்லா விரைவு '); 35 ('அந்தக் குறையைப் போக்கும் வகையில், இந்த முன்பதிவில்லா விரைவு '); 06 ('அந்தக் குறையைப் போக்கும் வகையில், இந்த முன்பதிவில்லா விரைவு '); 03 ('அந்தக் குறையைப் போக்கும் வகையில், இந்த முன்பதிவில்லா விரைவு '); 20 ('அந்தக் குறையைப் போக்கும் வகையில், இந்த முன்பதிவில்லா விரைவு '); 40 ('அந்தக் குறையைப் போக்கும் வகையில், இந்த முன்பதிவில்லா விரைவு ')",
+   "note": "free-model draft anthropic/claude-haiku-5-5, 13 attempt(s), 2 validator problem(s)",
+   "post_time": "right after your reply, same day",
+   "_area": "N",
+   "_score": 999,
+   "images": [
+    "https://res.cloudinary.com/jrmwajfz/image/upload/v1795798729/salem360/ptfhqkaec7lv4yoyf0u4.jpg",
+    "https://res.cloudinary.com/jrmwajfz/image/upload/v1795798732/salem360/wkbxcdxr0zadajhoue7n.jpg"
+   ]
+  },
+  {
+   "tamil_headline": "செவ்வாய்பேட்டையில் போதை மாத்திரை விற்க முயன்ற 2 பேர் கைது",
+   "english_headline": "Two men arrested in Sevvaipettai for trying to sell 133 drug tablets",
+   "category": "Crime & Safety",
+   "location": "Sevvaipettai, Salem city, Salem district",
+   "importance": "Medium",
+   "scope": "local",
+   "post_to": "Salem 360",
+   "slides_spec": {
+    "v": 3,
+    "cat": "போலீஸ் நடவடிக்கை",
+    "loc": "செவ்வாய்பேட்டை",
+    "hl1": "செவ்வாய்பேட்டையில் போதை மாத்திரை",
+    "hl2": "2 பேர் கைது",
     "slides": [
      {
       "title": "என்ன நடந்தது?",
       "lines": [
-       "சேலம்-சென்னை தேசிய நெடுஞ்சாலையில் சொகுசு கார் தீப்பற்றியது",
-       "காரில் சென்ற <b>5 பேர்</b> உயிர் தப்பினர்",
-       "அப்பகுதியில் சிறிது நேரம் பரபரப்பு ஏற்பட்டது"
+       "மரப்பாலம் அருகே போலீசார் ரோந்து சுற்றினர",
+       "சந்தேகப்பட்ட 2 பேரை மடக்கி சோதனை செய்தனர",
+       "அவர்களிடம் <b>133 போதை மாத்திரைகள்</b> இருந்தன"
       ]
      },
      {
-      "title": "எங்கே நடந்தது?",
+      "title": "யார் இவர்கள்?",
       "lines": [
-       "வாழப்பாடி அருகே மேட்டுப்பட்டி சுங்கச்சாவடி அருகில்",
-       "குழந்தையை சேலம் அரசு மருத்துவமனைக்கு அழைத்துச் சென்றபோது"
+       "செவ்வாய்பேட்டை பெரியார் நகரைச் சேர்ந்த அர்ஜூன், <b>27 வயது</b>",
+       "அம்மாபேட்டை சாஸ்திரி நகரைச் சேர்ந்த நாகராஜ், <b>26 வயது</b>",
+       "விற்பனைக்காக மாத்திரைகளை வைத்திருந்தனர்"
       ]
      },
      {
-      "title": "பின்னர் என்ன?",
+      "title": "அடுத்து என்ன?",
       "lines": [
-       "காரை சாலையோரம் நிறுத்தி குழந்தை, உறவினர்கள் 4 பேரை",
-       "வாழப்பாடி தீயணைப்புத் துறையினர் தீயை உடனடியாக அணைத்தனர்",
-       "பெரிய விபரீதம் தவிர்க்கப்பட்டது; போலீசார் விசாரணை"
+       "இருவரையும் போலீசார் கைது செய்தனர்",
+       "தொடர்ந்து விசாரணை நடைபெற்று வருகிறது",
+       "சேலம் மாநகரில் போதைப்பொருள் விற்பனை கண்காணிப்பு"
       ]
      }
     ],
     "carousel": false
    },
-   "reel_script": "வாழப்பாடி அருகே சொகுசு கார் தீப்பற்றி எரிந்ததில் காரில் சென்ற 5 பேரும் உயிர் தப்பினர். சேலம்-சென்னை தேசிய நெடுஞ்சாலையில் இந்த சம்பவம் நடந்தது. கெங்கவல்லி கிழக்குக்காடு பகுதியைச் சேர்ந்த பிரகாஷ் தனது காரில் உறவினரின் குழந்தையை சேலம் அரசு மருத்துவமனைக்கு அழைத்துச் சென்றார். வழியில் மேட்டுப்பட்டி சுங்கச்சாவடி அருகே சென்றபோது சொகுசு கார் திடீரென தீப்பற்றியது. இதை அறிந்த பிரகாஷ் காரை சாலையோரம் நிறுத்தி, குழந்தை மற்றும் உறவினர்கள் நான்கு பேரையும் கீழே இறக்கிவிட்டார். பிரகாஷின் தகவலின் பேரில் வாழப்பாடி தீயணைப்புத் துறையினர் சம்பவ இடத்துக்கு வந்து தீயை உடனடியாக அணைத்தனர். இதனால் பெரிய விபரீதம் தவிர்க்கப்பட்டது. அப்பகுதியில் சிறிது நேரம் பரபரப்பு ஏற்பட்டது. வாழப்பாடி போலீசார் இது குறித்து விசாரணை மேற்கொண்டு வருகின்றனர். மேலும் செய்திகளுக்கு சேலம் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🔥 வாழப்பாடி அருகே சொகுசு கார் தீப்பற்றி எரிந்தது: 5 பேர் உயிர் தப்பினர்\n\n📰 முழு விவரம்:\nசேலம்-சென்னை தேசிய நெடுஞ்சாலையில் வாழப்பாடி அருகே சொகுசு கார் தீப்பற்றி எரிந்ததால் அப்பகுதியில் பரபரப்பு ஏற்பட்டது. காரில் சென்ற 5 பேருக்கும் எந்த அசம்பாவிதமும் நடக்கவில்லை.\nகெங்கவல்லி கிழக்குக்காடு பகுதியைச் சேர்ந்த பிரகாஷ், உறவினரின் உடல்நிலை சரியில்லாத குழந்தையை தனது காரில் சேலம் அரசு மருத்துவமனைக்கு அழைத்துச் சென்றார்.\nவழியில் மேட்டுப்பட்டி சுங்கச்சாவடி அருகே சென்றபோது கார் திடீரென தீப்பற்றியது. பிரகாஷ் காரை சாலையோரம் நிறுத்தி, குழந்தை மற்றும் உறவினர்கள் நான்கு பேரை கீழே இறக்கிவிட்டார்.\n🚒 பிரகாஷின் தகவலின்பேரில் வாழப்பாடி தீயணைப்புத் துறையினர் வந்து தீயை உடனடியாக அணைத்ததால் பெரிய விபரீதம் தவிர்க்கப்பட்டது.\n👮 வாழப்பாடி போலீசார் விசாரணை மேற்கொண்டு வருகின்றனர்.\n\nVazhapadi car catches fire on Salem-Chennai highway | Salem news\n📍 வாழப்பாடி, சேலம் மாவட்டம் | 27 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Salem360 #Salem #Vazhapadi #SalemNews #சேலம்",
-   "prompts": "A burnt-out luxury car stands on the shoulder of the Salem-Chennai national highway near Vazhapadi while Vazhapadi fire service personnel in uniform spray water from a fire tender hose at its smouldering bonnet. Traffic of private buses, lorries and two-wheelers slows past on the four-lane highway, and a few onlookers stand at a safe distance on the roadside. The wide tarmac road stretches into the distance with mango groves and low hills in the background, a concrete toll plaza structure visible further off. Daylight with a thin wisp of grey smoke rising from the car. A small group of people in shirts and sarees waits on the verge, seen from behind. Camera at eye level, 35 mm, wide enough to show the highway and the fire tender. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up of the front section of a luxury car with its bonnet raised and charred, blackened paint peeling, and grey smoke curling upward, while a fire service hose jet hits the engine area. Behind it, the edge of the highway tarmac and a roadside concrete divider are visible, and a khaki-uniformed fireman's boots and hose are in the frame. Daylight, slightly high angle, 35 mm, showing the burnt car as the main subject. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://tamil.oneindia.com/news/salem/luxury-car-fire-on-salem-chennai-nh-near-vazhapadi-848771.html",
-   "published": "2026-11-27T18:03:12+05:30",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: sentence 1 (one-line story) has 12 words; make it 6-9 words (about 2-3 seconds), the details follow in the next sentences",
-   "note": "free-model draft anthropic/claude-haiku-5-5, 12 attempt(s), 1 validator problem(s)",
+   "reel_script": "செவ்வாய்பேட்டையில் போதை மாத்திரை விற்க முயன்ற இரண்டு பேர் கைது செய்யப்பட்டனர். செவ்வாய்பேட்டை போலீஸ் இன்ஸ்பெக்டர் சின்னதங்கம் தலைமையிலான போலீசார் ரோந்து சுற்றினர். மரப்பாலம் அருகே சந்தேகத்திற்கிடமாக வந்த இருவரை போலீசார் மடக்கி விசாரித்தனர். அவர்கள் முன்னுக்கு பின் முரணாகப் பேசியதால் சோதனை செய்யப்பட்டது. அவர்களிடம் 133 போதை மாத்திரைகள் இருந்தன. விசாரணையில், செவ்வாய்பேட்டை பெரியார் நகரைச் சேர்ந்த 27 வயது அர்ஜூன், அம்மாபேட்டை சாஸ்திரி நகரைச் சேர்ந்த 26 வயது நாகராஜ் என்பது தெரியவந்தது. விற்பனைக்காக மாத்திரைகளை வைத்திருந்ததும் உறுதியானது. இருவரையும் போலீசார் கைது செய்து விசாரணை நடத்தி வருகின்றனர். மேலும் செய்திகளுக்கு சேலம் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🚨 செவ்வாய்பேட்டையில் 133 போதை மாத்திரைகளுடன் 2 பேர் கைது\n\n📰 முழு விவரம்:\nசேலம் செவ்வாய்பேட்டை போலீஸ் இன்ஸ்பெக்டர் சின்னதங்கம் உள்ளிட்ட போலீசார் ரோந்து சுற்றினர். மரப்பாலம் அருகே சந்தேகத்திற்கிடமாக வந்த 2 பேரை மடக்கி விசாரித்தனர். முன்னுக்குப் பின் முரணாகப் பேசியதால் சோதனை செய்தபோது, அவர்களிடம் 133 போதை மாத்திரைகள் இருந்தன. விசாரணையில் அவர்கள் விற்பனைக்காக மாத்திரைகளை வைத்திருந்தது தெரியவந்தது. இருவரையும் போலீசார் கைது செய்து விசாரணை நடத்தி வருகின்றனர்.\n📍 இடம்: மரப்பாலம் அருகே, செவ்வாய்பேட்டை\n🗓️ நாள்: நவம்பர் 27\n👮 நடவடிக்கை: 2 பேர் கைது; விசாரணை நடைபெற்று வருகிறது\n\nSevvaipettai drug tablets 2 arrested | Salem news\n📍 செவ்வாய்பேட்டை, சேலம் | 27 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Salem360 #Salem #SalemNews #சேலம்",
+   "prompts": "Two men in plain clothes are being detained by Tamil Nadu police officers in khaki uniforms on a narrow street near a wooden bridge in Sevvaipettai, Salem. The police officers, seen from behind and at a distance, are standing over the two suspects who are facing away from the camera. The setting is a local residential area with small shops and narrow lanes typical of Salem city. The police are conducting a search of the men. The scene is lit by daylight, suggesting a daytime patrol. The camera is at eye level, 35 mm, capturing the interaction between the law enforcement and the suspects without showing their faces clearly. The wooden bridge structure is visible in the background, anchoring the location to the specific spot mentioned in the news. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up shot of a small pile of 133 white and colored drug tablets laid out on a plain surface, likely a table or the hood of a police vehicle. The tablets are the central focus, clearly visible as the seized contraband. In the blurred background, the khaki-clad legs of a police officer are visible, indicating the presence of law enforcement. The lighting is bright daylight, highlighting the details of the pills. The camera is slightly high, looking down at the objects, using a 35 mm lens to keep the focus sharp on the tablets while the background remains out of focus. This detail shot confirms the nature of the crime without showing any faces or sensitive information. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinakaran.com/district/salem_271126_1/amp",
+   "published": "2026-11-27T04:45:25+05:30",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: caption misses facts of the article (put every one in 📰 முழு விவரம்): 26 ('விசாரணையில் அவர்கள் செவ்வாய்பேட்டை பெரியார் நகரை சேர்ந்த அர்'); அம்மாபேட்டை ('விசாரணையில் அவர்கள் செவ்வாய்பேட்டை பெரியார் நகரை சேர்ந்த அர்')",
+   "note": "free-model draft anthropic/claude-haiku-5-5, 11 attempt(s), 1 validator problem(s)",
    "post_time": "right after your reply, same day",
    "_area": "N",
    "_score": 999,
    "images": [
-    "https://res.cloudinary.com/jrmwajfz/image/upload/v1795791816/salem360/qiyxxdsbqawwur6f6cbp.jpg",
-    "https://res.cloudinary.com/jrmwajfz/image/upload/v1795791825/salem360/zzlwupa89n5bjmvzkt1r.jpg"
+    "https://res.cloudinary.com/jrmwajfz/image/upload/v1795798750/salem360/n8zz9wh3hdofqdy3bw61.jpg",
+    "https://res.cloudinary.com/jrmwajfz/image/upload/v1795798754/salem360/honyfr9dnzdqqfp4nofl.jpg"
    ]
   },
   {
-   "tamil_headline": "தொகுதி மறுவரையறைக்கு எதிராக நாளை விசிக போராட்டம்: சேலத்தில் ஆர்ப்பாட்டம்",
-   "english_headline": "VCK to protest against constituency delimitation tomorrow in all assembly segments",
-   "category": "Government & Services",
-   "location": "Salem city, Salem district",
+   "tamil_headline": "வாழப்பாடி அருகே ஓடும் காரில் திடீர் தீ: கண்ணிமைக்கும் நேரத்தில் விபரீதம்",
+   "english_headline": "Car catches fire suddenly while running near Vazhapadi in Salem district",
+   "category": "Crime & Safety",
+   "location": "Vazhapadi, Salem district",
    "importance": "Medium",
-   "scope": "district",
+   "scope": "local",
    "post_to": "Salem 360",
    "slides_spec": {
     "v": 3,
-    "cat": "விசிக போராட்டம்",
-    "loc": "சேலம்",
-    "hl1": "சேலம்: சேலத்தில் நாளை விசிக ஆர்ப்பாட்டம்",
-    "hl2": "தொகுதி மறுவரையறைக்கு",
+    "cat": "விபத்து",
+    "loc": "வாழப்பாடி",
+    "hl1": "வாழப்பாடி அருகே ஓடும் காரில் தீ",
+    "hl2": "கண்ணிமைக்கும் நேரத்தில்",
     "slides": [
      {
-      "title": "எப்போது? எங்கே?",
+      "title": "என்ன நடந்தது?",
       "lines": [
-       "நாளை <b>நவம்பர் 28</b>ஆம் தேதி",
-       "அனைத்து சட்டப்பேரவை தொகுதிகளிலும்",
-       "விடுதலைச் சிறுத்தைகள் கட்சி போராட்டம்"
+       "வாழப்பாடி அருகே ஓடும் காரில் திடீர் தீ",
+       "கண்ணிமைக்கும் நேரத்தில் தீ பரவியது",
+       "காரில் தீ விபத்து ஏற்பட்டது"
       ]
      },
      {
-      "title": "என்ன கோரிக்கை?",
+      "title": "எங்கே?",
       "lines": [
-       "தொகுதி மறுவரையறை செய்யக் கூடாது",
-       "<b>543</b> தொகுதிகளும் 25 ஆண்டுகளுக்கு",
-       "நிலையாகத் தொடர வேண்டும் என வலியுறுத்தல்"
-      ]
-     },
-     {
-      "title": "திருமாவளவன் தகவல்",
-      "lines": [
-       "பாஜக மசோதாவை நிறைவேற்ற முயல்கிறது",
-       "விசிக இதனை ஒருபோதும் ஏற்காது",
-       "தலைவர் திருமாவளவன் கோவையில் பேட்டி"
+       "இடம்: வாழப்பாடி அருகே",
+       "சேலம் மாவட்டம்"
       ]
      }
     ],
     "carousel": false
    },
-   "reel_script": "தொகுதி மறுவரையறைக்கு எதிராக நாளை சேலத்தில் வி சி க போராட்டம் நடத்துகிறது. விடுதலைச் சிறுத்தைகள் கட்சியின் சார்பில் அனைத்து சட்டப்பேரவை தொகுதிகளிலும் இந்த கண்டன ஆர்ப்பாட்டம் நடைபெற உள்ளது. தொகுதி மறுவரையறை செய்யக் கூடாது என்றும், தற்போதுள்ள 543 தொகுதிகளும் அடுத்த 25 ஆண்டுகளுக்கு நிலையாகத் தொடர வேண்டும் என்றும் அக்கட்சி வலியுறுத்துகிறது. இது குறித்து அக்கட்சியின் தலைவர் தொல் திருமாவளவன் கோவையில் செய்தியாளர்களிடம் பேசினார். மாவீரர் நாளையொட்டி தருமபுரியில் நடைபெறும் வீரவணக்கம் செலுத்தும் நிகழ்வில் பங்கேற்கச் செல்வதாக அவர் தெரிவித்தார். மத்திய அரசு நாடாளுமன்றத்தில் தொகுதி மறுவரையறை மசோதாவைக் கொண்டு வர முயற்சிப்பதாக அவர் குற்றம் சாட்டினார். இதனை வி சி க ஒருபோதும் ஏற்றுக் கொள்ளாது என்றும் அவர் கூறினார். நாளை நவம்பர் 28ஆம் தேதி செங்கல்பட்டில் நடைபெறும் ஆர்ப்பாட்டத்தில் அவர் பங்கேற்க உள்ளார். சேலம் மாவட்டத்தின் அனைத்து தொகுதிகளிலும் வி சி க வினர் இந்த போராட்டத்தில் ஈடுபட உள்ளனர். மேலும் செய்திகளுக்கு சேலம் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "📢 தொகுதி மறுவரையறைக்கு எதிராக நாளை விசிக போராட்டம் - சேலம் மாவட்டத்திலும் ஆர்ப்பாட்டம்\n\n📰 முழு விவரம்:\nதொகுதி மறுவரையறை நடவடிக்கைக்கு எதிர்ப்பு தெரிவித்து நாளை (நவம்பர் 28) அனைத்து சட்டப்பேரவை தொகுதிகளிலும் விடுதலைச் சிறுத்தைகள் கட்சி சார்பில் கண்டன ஆர்ப்பாட்டம் நடைபெறுகிறது. இது குறித்து கோவையில் பேசிய விசிக தலைவர் தொல் திருமாவளவன், நாடாளுமன்றத் தொகுதிகளின் எண்ணிக்கையை மாற்றும் மத்திய அரசின் முயற்சியை விசிக ஏற்காது என்றார். தற்போதுள்ள 543 தொகுதிகளும் அடுத்த 25 ஆண்டுகளுக்கு நிலையாகத் தொடர வேண்டும் என்று அவர் வலியுறுத்தினார். மாவீரர் நாளையொட்டி தருமபுரி செல்லும் வழியில் அவர் இதனைத் தெரிவித்தார். நாளை செங்கல்பட்டில் நடைபெறும் போராட்டத்தில் அவர் பங்கேற்கிறார். சேலம் மாவட்டத்தின் அனைத்து தொகுதிகளிலும் விசிக நிர்வாகிகள் இந்த ஆர்ப்பாட்டத்தை நடத்த உள்ளனர்.\n\n📍 இடம்: அனைத்து சட்டப்பேரவை தொகுதிகள்\n🗓️ நாள்: 28 நவம்பர் 2026\n👮 நடவடிக்கை: விசிக சார்பில் கண்டன ஆர்ப்பாட்டம்\n\nVCK protest against delimitation tomorrow | Salem news\n📍 சேலம், சேலம் மாவட்டம் | 27 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Salem360 #Salem #SalemNews #VCK #சேலம்",
-   "prompts": "A crowd of VCK party cadres gathers on a road in Salem city ahead of a protest against constituency delimitation, holding the party's blue and red flags and placards raised above their heads. The setting is a busy urban road with two-wheelers, an autorickshaw and a private bus passing behind them, shops and concrete buildings lining the street, and a few overhead electric poles and cables. Most of the men wear white shirts and veshti or trousers, a few women in sarees stand near the back, and Tamil Nadu police in khaki stand at a distance by the roadside. Everyone is seen from behind or far away, with no readable signboards. The scene is in bright daylight with clear skies and the Shevaroy hills faintly visible in the background. Shot at eye level with a 35 mm lens, wide enough to show the whole road and the crowd. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up of a bundle of VCK party flags and a hand-lettered placard rolled up on a wooden bench at a roadside protest spot in Salem city, with a row of plastic water bottles and a folded cloth banner beside them. Behind the objects, out of focus, are the legs of party cadres in veshti and trousers standing on a tarmac road with two-wheelers parked nearby. Bright midday daylight falls on the flags, their colours clearly visible. The placard surface is blank with no readable text. Shot at slightly high eye level with a 35 mm lens, shallow depth of field so the objects are sharp and the people behind are soft and blurred. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamani.com/tamilnadu/2026/Nov/27/vck-to-protest-against-constituency-delimitation-tomorrow-thirumavalavan",
-   "published": "2026-11-27T11:12:24.108Z",
-   "verification": "DRAFT (gemini/gemini-3-flash-preview) - NOT CLEAN, held from posting - problems: reel_script sentence 1 (heard in the first 3 seconds) must name the place 'சேலம்' and the news itself, e.g. 'சேலம்-இல் ... 3 பேர் கைது.' - viewers decide in 3 seconds whether the news is about their area",
-   "note": "free-model draft gemini/gemini-3-flash-preview, 2 attempt(s), 1 validator problem(s)",
+   "reel_script": "வாழப்பாடி அருகே ஓடிக்கொண்டிருந்த காரில் திடீரென தீ பிடித்தது. கண்ணிமைக்கும் நேரத்தில் தீ வேகமாகப் பரவியது. வாழப்பாடி அருகே நடந்த இந்தத் தீ விபத்தால் அந்தப் பகுதியில் பரபரப்பு ஏற்பட்டது. மேலும் செய்திகளுக்கு சேலம் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🚗 வாழப்பாடி அருகே ஓடும் காரில் திடீர் தீ: கண்ணிமைக்கும் நேரத்தில் விபரீதம்\n\n📰 முழு விவரம்:\nவாழப்பாடி அருகே ஓடிக்கொண்டிருந்த காரில் திடீரெனத் தீ பிடித்தது. கண்ணிமைக்கும் நேரத்தில் தீ வேகமாகப் பரவியது.\n📍 இடம்: வாழப்பாடி அருகே, சேலம் மாவட்டம்\n\nCar catches fire while running near Vazhapadi, Salem | Salem news\n📍 வாழப்பாடி, சேலம் மாவட்டம் | 27 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Salem360 #Salem #Vazhapadi #SalemNews #சேலம்",
+   "prompts": "A passenger car on a rural two-lane road near Vazhapadi, Salem district, suddenly catches fire while moving, with flames and thick black smoke billowing from the front engine bay and bonnet. The car has come to a halt at the roadside, its doors open. Behind and beside it, a few two-wheelers and a private bus have slowed down, and a small group of onlookers stands at a safe distance on the shoulder, seen from behind. The road is lined with mango groves and dry scrubland, with the faint outline of the Shevaroy hills far in the background. Tamil Nadu police in khaki are visible in the distance. The scene is in bright daylight with a hazy sky. Shot at eye level with a 35 mm lens, wide enough to show the burning car, the road and the surrounding grove. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up of the front of a car with flames and smoke rising from the open engine bay, the bonnet partly lifted and the blackened metal and melted plastic around the engine visible. Water bottles and a red fire extinguisher lie on the tarmac nearby, along with a few scattered dry leaves. The asphalt of the Vazhapadi road is cracked at the edge, and a roadside mango tree stands behind. In the blurred background, a figure in a shirt and veshti watches from a distance, seen from behind. Bright daylight, warm tones from the flames contrasting with the grey tarmac. Shot at a slightly high angle with a 35 mm lens, focused on the burning engine and the roadside. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.thanthitv.com/amp/story/news/tamilnadu/car-accident-fire-sudden-fire-in-a-moving-cara-tragedy-that-happened-in-the-blink-of-an-eye",
+   "published": "",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: slides must have 3 or 4 items; reel_script has 29 words; need 60-160 (the key facts once each, in at most 90 seconds; every other detail goes in the caption's 📰 முழு விவரம் block)",
+   "note": "free-model draft anthropic/claude-haiku-5-5, 12 attempt(s), 2 validator problem(s)",
    "post_time": "right after your reply, same day",
    "_area": "N",
    "_score": 999,
    "images": [
-    "https://res.cloudinary.com/jrmwajfz/image/upload/v1795791838/salem360/gtz1olbxvhtku8pogu7h.jpg",
-    "https://res.cloudinary.com/jrmwajfz/image/upload/v1795791848/salem360/vtdmohfu2v4xvnhpyb2g.jpg"
+    "https://res.cloudinary.com/jrmwajfz/image/upload/v1795798762/salem360/zjphpjdxlbycesw8937j.jpg",
+    "https://res.cloudinary.com/jrmwajfz/image/upload/v1795798766/salem360/foozbjq3un2lgvkyuv1s.jpg"
+   ]
+  },
+  {
+   "tamil_headline": "தவெக எம்.எல்.ஏ அருள் விக்னேஷ் கைது: எடப்பாடி பழனிசாமி கருத்து",
+   "english_headline": "TVK MLA Arul Vignesh arrested in case of obscene message to woman collector; Edappadi Palaniswami reacts",
+   "category": "Government & Services",
+   "location": "Kallakurichi constituency, Kallakurichi district",
+   "importance": "High",
+   "scope": "",
+   "post_to": "Salem 360",
+   "slides_spec": {
+    "v": 3,
+    "cat": "கைது செய்தி",
+    "loc": "கள்ளக்குறிச்சி",
+    "hl1": "தவெக MLA அருள் விக்னேஷ் கைது",
+    "hl2": "பெண் கலெக்டருக்கு",
+    "slides": [
+     {
+      "title": "என்ன நடந்தது?",
+      "lines": [
+       "கள்ளக்குறிச்சி தவெக MLA அருள் விக்னேஷ் கைது",
+       "பெண் கலெக்டருக்கு ஆபாச குறுஞ்செய்தி அனுப்பிய வழக்கில் கைது",
+       "வீட்டிலிருந்த MLA-வை போலீசார் கைது செய்தனர்"
+      ]
+     },
+     {
+      "title": "வழக்கின் பின்னணி",
+      "lines": [
+       "கடந்த <b>ஜூலை</b> மாதம் குறுஞ்செய்தி அனுப்பியதாகக் கூறப்பட்டது",
+       "உயர் நீதிமன்றத்தின் தலையீட்டுக்குப் பின் வழக்குப்பதிவு",
+       "<b>5 பிரிவுகளின்</b> கீழ் போலீசார் வழக்குப்பதிவு செய்தனர்"
+      ]
+     },
+     {
+      "title": "விசாரணை",
+      "lines": [
+       "விசாரணை அதிகாரி எஸ்.பி சிருஷ்டி சிங் தலைமையில் விசாரணை",
+       "புகார் அளித்தவர் பெண் கலெக்டர்"
+      ]
+     },
+     {
+      "title": "எடப்பாடி கருத்து",
+      "lines": [
+       "அதிமுக பொதுச் செயலாளர் எடப்பாடி பழனிசாமி கருத்து",
+       "\"நீங்க கைது பண்ணல... நாங்க கைது பண்ண வெச்சோம்\" என்றார்",
+       "பொய் சொன்னவர்கள் மீதும் நடவடிக்கை உறுதி என்றார்"
+      ]
+     }
+    ],
+    "carousel": false
+   },
+   "reel_script": "கள்ளக்குறிச்சி த வெ க சட்டமன்ற உறுப்பினர்அருள் விக்னேஷ் கைது செய்யப்பட்டுள்ளார். பெண் கலெக்டருக்கு ஆபாச குறுஞ்செய்தி அனுப்பிய வழக்கில் போலீசார் அவரைக் கைது செய்தனர். கடந்த ஜூலை மாதம் இந்தக் குறுஞ்செய்தி அனுப்பப்பட்டதாகக் கூறப்படுகிறது. நீண்ட நாட்களாக நடவடிக்கை எடுக்கப்படாத நிலையில், எதிர்க்கட்சிகள் கடும் அழுத்தம் கொடுத்து வந்தன. உயர் நீதிமன்றத்தின் தலையீட்டைத் தொடர்ந்து, பெண் கலெக்டர் அளித்த புகாரின் பேரில் போலீசார் 5 பிரிவுகளின் கீழ் வழக்குப்பதிவு செய்தனர். விசாரணை அதிகாரி காவல் கண்காணிப்பாளர்சிருஷ்டி சிங் தலைமையிலான போலீசார் வீட்டிலிருந்த சட்டமன்ற உறுப்பினர்-வைக் கைது செய்தனர். அ தி மு க பொதுச் செயலாளர் எடப்பாடி பழனிசாமி இந்தக் கைதுக்குக் கருத்து தெரிவித்துள்ளார். \"நீங்க கைது பண்ணல... நாங்க கைது பண்ண வெச்சோம்\" என அவர் கூறியுள்ளார். இந்த வழக்கில் பொய் சொன்னவர்கள் மீதும் நடவடிக்கை எடுக்கப்படும் என்று அவர் உறுதி அளித்துள்ளார். பாதிக்கப்பட்ட பெண் அதிகாரிக்கு நீதி பெற்றுத் தரப்படும் என்றும் அவர் தெரிவித்துள்ளார். மேலும் செய்திகளுக்கு சேலம் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🚨 கள்ளக்குறிச்சி தவெக MLA அருள் விக்னேஷ் கைது\n\n📰 முழு விவரம்:\nபெண் கலெக்டருக்கு ஆபாச குறுஞ்செய்தி அனுப்பியதாகக் கூறப்பட்ட வழக்கில், கள்ளக்குறிச்சி தவெக MLA அருள் விக்னேஷ் கைது செய்யப்பட்டார். கடந்த ஜூலை மாதம் குறுஞ்செய்தி அனுப்பியதாகக் கூறப்பட்டது. நடவடிக்கை எடுக்கப்படாத நிலையில் எதிர்க்கட்சிகள் கடும் அழுத்தம் கொடுத்தன. உயர் நீதிமன்றத்தின் தலையீட்டுக்குப் பின் பெண் கலெக்டர் அளித்த புகாரின் பேரில் 5 பிரிவுகளின் கீழ் போலீசார் வழக்குப்பதிவு செய்தனர். விசாரணை அதிகாரி எஸ்.பி சிருஷ்டி சிங் தலைமையிலான போலீசார் வீட்டிலிருந்த MLA-வைக் கைது செய்தனர்.\n📍 இடம்: கள்ளக்குறிச்சி தொகுதி\n👮 நடவடிக்கை: 5 பிரிவுகளின் கீழ் வழக்கு; MLA கைது\n🗣️ எடப்பாடி பழனிசாமி: \"நீங்க கைது பண்ணல... நாங்க கைது பண்ண வெச்சோம்\" - பொய் சொன்னவர்கள் மீதும் நடவடிக்கை, பெண் அதிகாரிக்கு நீதி உறுதி\nதேவைப்படுவோருக்கு Share செய்யுங்கள்.\n\nKallakurichi TVK MLA Arul Vignesh arrested | Salem news\n📍 கள்ளக்குறிச்சி, சேலம் மாவட்டம் அல்ல - கள்ளக்குறிச்சி மாவட்டம் | 27 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Salem360 #Salem #SalemNews #சேலம் #Kallakurichi",
+   "prompts": "COVER SCENE: A group of Tamil Nadu police officers in khaki uniforms stands outside the gate of a residential house in Kallakurichi. The main action is the police presence at the residence where the MLA was arrested. The place is a typical suburban house in Kallakurichi district, with a concrete compound wall and a metal gate. The people are police officers standing guard and interacting with the household, seen from a distance to avoid showing faces. No vehicles are visible in the immediate foreground. The time is daylight with clear weather. The camera is at eye level, 35 mm, wide enough to show the house facade and the police line-up. This scene captures the moment of the arrest at the home. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nDETAIL SCENE: A close-up view of the police jeep parked near the entrance of the residential area in Kallakurichi. The vehicle is a standard police utility vehicle, white with blue markings, though no readable text is visible. The focus is on the vehicle as a symbol of the law enforcement action. The background shows the blurred outline of the house and the street. The time is daylight. The camera is slightly high, 35 mm, focusing on the vehicle's position relative to the house gate. This detail emphasizes the official police operation at the specific location mentioned in the news. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://tamil.oneindia.com/news/chennai/edappadi-palaniswami-takes-credit-for-arul-vignesh-s-arrest-says-aiadmk-forced-police-action-848825.html",
+   "published": "2026-11-27T20:40:54+05:30",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: hl1 (the first headline on screen) must name the place 'கள்ளக்குறிச்சி', e.g. 'கள்ளக்குறிச்சி: ...' or 'கள்ளக்குறிச்சி-இல் ...' - viewers share news of their own area",
+   "note": "free-model draft anthropic/claude-haiku-5-5, 13 attempt(s), 1 validator problem(s)",
+   "post_time": "right after your reply, same day",
+   "_area": "N",
+   "_score": 999,
+   "images": [
+    "https://res.cloudinary.com/jrmwajfz/image/upload/v1795798795/salem360/jf2d5sso80ykylave1nx.jpg",
+    "https://res.cloudinary.com/jrmwajfz/image/upload/v1795798800/salem360/q8mxjo9lqcv6zeef1mq6.jpg"
    ]
   }
  ]
