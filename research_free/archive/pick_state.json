@@ -52,7 +52,8 @@
    "score": 12.5,
    "power_cut": false,
    "listed_at": "2026-11-27T20:26:59.883836+05:30",
-   "picked_at": "2026-11-27T20:29:38.864135+05:30"
+   "picked_at": "2026-11-27T20:29:38.864135+05:30",
+   "refused": "not filed: not Salem district news (the story's first lines name another place and no Salem place)"
   },
   "C1c0f8ca": {
    "id": "C1c0f8ca",
@@ -65,7 +66,8 @@
    "score": 10.63,
    "power_cut": false,
    "listed_at": "2026-11-27T20:26:59.883836+05:30",
-   "picked_at": "2026-11-27T20:29:38.864143+05:30"
+   "picked_at": "2026-11-27T20:29:38.864143+05:30",
+   "refused": "not filed: not Salem district news (the story's first lines name another place and no Salem place)"
   },
   "Cfc2d1e8": {
    "id": "Cfc2d1e8",
@@ -78,7 +80,8 @@
    "score": 9.0,
    "power_cut": false,
    "listed_at": "2026-11-27T20:26:59.883836+05:30",
-   "picked_at": "2026-11-27T20:29:38.864144+05:30"
+   "picked_at": "2026-11-27T20:29:38.864144+05:30",
+   "posted": true
   },
   "C97fe0a2": {
    "id": "C97fe0a2",
@@ -91,7 +94,8 @@
    "score": 5.97,
    "power_cut": false,
    "listed_at": "2026-11-27T20:26:59.883836+05:30",
-   "picked_at": "2026-11-27T20:29:38.864146+05:30"
+   "picked_at": "2026-11-27T20:29:38.864146+05:30",
+   "posted": true
   },
   "C7b5c8a5": {
    "id": "C7b5c8a5",
@@ -104,7 +108,8 @@
    "score": 5.0,
    "power_cut": false,
    "listed_at": "2026-11-27T20:26:59.883836+05:30",
-   "picked_at": "2026-11-27T20:29:38.864147+05:30"
+   "picked_at": "2026-11-27T20:29:38.864147+05:30",
+   "posted": true
   }
  },
  "rounds": {
@@ -604,7 +609,11 @@
     "C7b5c8a5",
     "C97fe0a2",
     "Cfc2d1e8"
-   ]
+   ],
+   "refused": {
+    "C1c0f8ca": "not filed: not Salem district news (the story's first lines name another place and no Salem place)",
+    "C540d5ea": "not filed: not Salem district news (the story's first lines name another place and no Salem place)"
+   }
   }
  },
  "retry": {
