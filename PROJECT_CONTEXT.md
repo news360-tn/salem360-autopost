@@ -83,6 +83,11 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 <!-- recent-changes:start (updated automatically by .github/workflows/context.yml - do not edit by hand) -->
 | Date | Commit | Change |
 |---|---|---|
+| 2026-11-27 | `f5b94a2` | Gold rate and rasipalan reels: each page its own colour theme |
+| 2026-11-27 | `b3f1e8e` | stories shared / Instagram pause |
+| 2026-11-27 | `c184c5f` | facebook RN-332 |
+| 2026-11-27 | `c521032` | posted RN-332 |
+| 2026-11-27 | `f827712` | pick: written and posted |
 | 2026-11-27 | `2c1ee88` | Power cuts are never missed: held notices are rewritten at once |
 | 2026-11-27 | `326228d` | stories shared / Instagram pause |
 | 2026-11-27 | `b98c9c5` | stories shared / Instagram pause |
@@ -108,9 +113,4 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 | 2026-11-27 | `54603f7` | goldrate posted |
 | 2026-11-27 | `31df6bc` | stories shared / Instagram pause |
 | 2026-11-27 | `ddea9e1` | stories shared / Instagram pause |
-| 2026-11-27 | `2c2b3e2` | stories shared / Instagram pause |
-| 2026-11-27 | `728a847` | stories shared / Instagram pause |
-| 2026-11-27 | `f079272` | stories shared / Instagram pause |
-| 2026-11-27 | `d8e7666` | stories shared / Instagram pause |
-| 2026-11-27 | `f412cbc` | stories shared / Instagram pause |
 <!-- recent-changes:end -->
