@@ -457,7 +457,7 @@ class SinglePage(unittest.TestCase):
         row = {"post_to": "Namakkal 360 (collab: Rasipuram 360)", "story_id": "RN-1", "headline_ta": "சேலத்தில் மழை", "location": "Salem"}
         self.assertEqual(["salem"], post.pages_of(row))
         self.assertEqual("", post.collab_page(row, "salem"))      # not about / near Rasipuram: no collaborator
-        self.assertEqual("rasipuram.360", json.loads((ROOT / "poster" / "config.json").read_text()).get("collab_username", ""))
+        self.assertEqual("rasipuram360.official", json.loads((ROOT / "poster" / "config.json").read_text()).get("collab_username", ""))
 
     def test_sheet_column_names_match_bridge(self):
         gs = (ROOT / "apps_script" / "Code.gs").read_text(encoding="utf-8")
