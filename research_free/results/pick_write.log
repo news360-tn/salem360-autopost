@@ -1,37 +1,11 @@
-writing [N]: Car | Accident | Fire | ஓடும் காரில் திடீர் தீ..கண்ணிமைக்கும
-writing [N]: செவ்வாய்பேட்டையில் போதை மாத்திரை விற்க முயன்ற 2 பேர் கைது
-writing [N]: சேலம் -அரக்கோணம் MEMU சேவை: வாரத்தில் 5 நாட்கள் இயங்கும் முன
-gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+writing [N]: காரிப்பட்டி அருகே வேகத்தடையில் தவறி விழுந்து வாலிபர் பலி
 gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
 groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
 fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 429: {
   "error": {
     "code": 429,
     "message": "You exceeded your current quota, please che
 dead for this round: gemini/gemini-3.6-flash
-fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 429: {
-  "error": {
-    "code": 429,
-    "message": "You exceeded your current quota, please che
-dead for this round: gemini/gemini-3.6-flash
-fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 429: {
-  "error": {
-    "code": 429,
-    "message": "You exceeded your current quota, please che
-dead for this round: gemini/gemini-3.6-flash
-fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {
-  "error": {
-    "code": 429,
-    "message": "You exceeded your current quota, please che
-dead for this round: gemini/gemini-3.5-flash
-fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {
-  "error": {
-    "code": 429,
-    "message": "You exceeded your current quota, please che
-dead for this round: gemini/gemini-3.5-flash
 fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {
   "error": {
     "code": 429,
@@ -42,214 +16,128 @@ fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 429: {
     "code": 429,
     "message": "You exceeded your current quota, plea
 dead for this round: gemini/gemini-3-flash-preview
-fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 400: {"error":{"message":"Failed to validate JSON. Please adjust your prompt. See 'failed_gener
+writing [N]: தோட்டத்தில் பாறையை வெட்டியவர் கைது
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
+fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {"error":{"message":"Rate limit reached for model `openai/gpt-oss-120b` in organization `o
+dead for this round: groq/openai/gpt-oss-120b
 ok groq/qwen/qwen3.8-27b (3s)
-attempt 1 groq/qwen/qwen3.8-27b: 2 problems
-  reel_script has 52 words; need 60-160 (the key facts once each, in at most 90 seconds; every other detail goes in the caption's 📰 முழு விவரம் block)
-  not grounded: only 32% of the words come from the article (e.g. பிடித்தது, கார், ஓடுகையில், இந்த, பரவியது); use the article's own words and facts
-gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
-fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {"error":{"message":"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m
-ok gemini/gemini-3-flash-preview (12s)
-attempt 1 gemini/gemini-3-flash-preview: 2 problems
-  sentence 1 (one-line story) has 12 words; make it 6-9 words (about 2-3 seconds), the details follow in the next sentences
-  caption misses facts of the article (put every one in 📰 முழு விவரம்): 05 ('அந்தக் குறையைப் போக்கும் வகையில், இந்த முன்பதிவில்லா விரைவு '); 35 ('அந்தக் குறையைப் போக்கும் வகையில், இந்த முன்பதிவில்லா விரைவு '); 06 ('அந்தக் குறையைப் போக்கும் வகையில், இந்த முன்பதிவில்லா விரைவு '); 03 ('அந்தக் குறையைப் போக்கும் வகையில், இந்த முன்பதிவில்லா விரைவு '); 20 ('அந்தக் குறையைப் போக்கும் வகையில், இந்த முன்பதிவில்லா விரைவு '); 40 ('அந்தக் குறையைப் போக்கும் வகையில், இந்த முன்பதிவில்லா விரைவு ')
-gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
-fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {"error":{"message":"Rate limit reached for model `openai/gpt-oss-120b` in organization `o
-fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {"error":{"message":"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m
-fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {"error":{"message":"Rate limit reached for model `openai/gpt-oss-120b` in organization `o
-fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {"error":{"message":"Rate limit reached for model `openai/gpt-oss-120b` in organization `o
-switching away from groq/openai/gpt-oss-120b for 10 min
-ok gemini/gemini-3-flash-preview (27s)
-attempt 1 gemini/gemini-3-flash-preview: 1 problems
-  hl1 is 48 characters (max 40) - write a SHORTER COMPLETE phrase with fewer words that still ends with its key word (what happened: e.g. 'X அருகே வீட்டில் கொள்ளை'); never stop a phrase in the middle
-fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 413: {"error":{"message":"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7
-free models unavailable: no free model answered: groq qwen/qwen3.8-27b 413: {"error":{"message":"Request too large for model `qwen/qwen3.8-27b` i
 gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
 groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
 fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {"error":{"message":"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m
-ok anthropic/claude-haiku-5-5
-claude rewrite 1 anthropic/claude-haiku-5-5: 3 problems
-  reel_script has 95 words; need 100-160 (the key facts once each, in at most 90 seconds; every other detail goes in the caption's 📰 முழு விவரம் block)
-  sentence 1 (one-line story) has 13 words; make it 6-9 words (about 2-3 seconds), the details follow in the next sentences
-  caption misses facts of the article (put every one in 📰 முழு விவரம்): 05 ('அந்தக் குறையைப் போக்கும் வகையில், இந்த முன்பதிவில்லா விரைவு '); 35 ('அந்தக் குறையைப் போக்கும் வகையில், இந்த முன்பதிவில்லா விரைவு '); 06 ('அந்தக் குறையைப் போக்கும் வகையில், இந்த முன்பதிவில்லா விரைவு '); 03 ('அந்தக் குறையைப் போக்கும் வகையில், இந்த முன்பதிவில்லா விரைவு '); 20 ('அந்தக் குறையைப் போக்கும் வகையில், இந்த முன்பதிவில்லா விரைவு '); 40 ('அந்தக் குறையைப் போக்கும் வகையில், இந்த முன்பதிவில்லா விரைவு ')
+ok groq/openai/gpt-oss-120b (7s)
+attempt 1 groq/openai/gpt-oss-120b: 3 problems
+  missing key: reel_script
+  missing key: caption
+  missing key: scenes
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
 fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {"error":{"message":"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7
 free models unavailable: no free model answered: groq qwen/qwen3.8-27b 429: {"error":{"message":"Request too large for model `qwen/qwen3.8-27b` i
-fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 400: {"error":{"message":"Failed to validate JSON. Please adjust your prompt. See 'failed_gener
-free models unavailable: no free model answered: groq openai/gpt-oss-120b 400: {"error":{"message":"Failed to validate JSON. Please adjust your p
-ok anthropic/claude-haiku-5-5
-claude rewrite 2 anthropic/claude-haiku-5-5: 2 problems
-  sentence 1 (one-line story) has 15 words; make it 6-9 words (about 2-3 seconds), the details follow in the next sentences
-  caption misses facts of the article (put every one in 📰 முழு விவரம்): 05 ('அந்தக் குறையைப் போக்கும் வகையில், இந்த முன்பதிவில்லா விரைவு '); 35 ('அந்தக் குறையைப் போக்கும் வகையில், இந்த முன்பதிவில்லா விரைவு '); 06 ('அந்தக் குறையைப் போக்கும் வகையில், இந்த முன்பதிவில்லா விரைவு '); 03 ('அந்தக் குறையைப் போக்கும் வகையில், இந்த முன்பதிவில்லா விரைவு '); 20 ('அந்தக் குறையைப் போக்கும் வகையில், இந்த முன்பதிவில்லா விரைவு '); 40 ('அந்தக் குறையைப் போக்கும் வகையில், இந்த முன்பதிவில்லா விரைவு ')
-ok anthropic/claude-haiku-5-5
-claude rewrite 1 anthropic/claude-haiku-5-5: 1 problems
-  caption misses facts of the article (put every one in 📰 முழு விவரம்): 26 ('விசாரணையில் அவர்கள் செவ்வாய்பேட்டை பெரியார் நகரை சேர்ந்த அர்'); அம்மாபேட்டை ('விசாரணையில் அவர்கள் செவ்வாய்பேட்டை பெரியார் நகரை சேர்ந்த அர்')
 ok anthropic/claude-haiku-5-5
 claude rewrite 1 anthropic/claude-haiku-5-5: 2 problems
-  reel_script has 43 words; need 60-160 (the key facts once each, in at most 90 seconds; every other detail goes in the caption's 📰 முழு விவரம் block)
-  known issue meta_article: cards talks about the article instead of the news ('விவரங்கள் வெளியிடப்படவில்லை') - rewrite so it does not happen again
+  slide 3 must have 2-3 lines
+  numbers not found in the article: 25
+fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {"error":{"message":"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m
+switching away from groq/qwen/qwen3.8-27b for 10 min
+free fact-check unavailable, using Claude: no free model answered: groq qwen/qwen3.8-27b 429: {"error":{"message":"Rate limit reached for model
 ok anthropic/claude-haiku-5-5
-claude rewrite 2 anthropic/claude-haiku-5-5: 2 problems
-  slides must have 3 or 4 items
-  reel_script has 29 words; need 60-160 (the key facts once each, in at most 90 seconds; every other detail goes in the caption's 📰 முழு விவரம் block)
+claude rewrite 2 anthropic/claude-haiku-5-5: 1 problems
+  numbers not found in the article: 25
 ok anthropic/claude-haiku-5-5
-claude rewrite 3 anthropic/claude-haiku-5-5: 2 problems
-  sentence 1 (one-line story) has 14 words; make it 6-9 words (about 2-3 seconds), the details follow in the next sentences
-  caption misses facts of the article (put every one in 📰 முழு விவரம்): 05 ('அந்தக் குறையைப் போக்கும் வகையில், இந்த முன்பதிவில்லா விரைவு '); 35 ('அந்தக் குறையைப் போக்கும் வகையில், இந்த முன்பதிவில்லா விரைவு '); 06 ('அந்தக் குறையைப் போக்கும் வகையில், இந்த முன்பதிவில்லா விரைவு '); 03 ('அந்தக் குறையைப் போக்கும் வகையில், இந்த முன்பதிவில்லா விரைவு '); 20 ('அந்தக் குறையைப் போக்கும் வகையில், இந்த முன்பதிவில்லா விரைவு '); 40 ('அந்தக் குறையைப் போக்கும் வகையில், இந்த முன்பதிவில்லா விரைவு ')
+factcheck by anthropic/claude-haiku-5-5: 9 problems
+  The draft calls the VAO (விஏஓ) a 'கிராம நிர்வாக அலுவலர்' (village administrative officer) — this is a consistent translation of VAO, not an invented role, so not a problem.
+  Reel_script and caption describe the rock-cutting as happening on 'நேற்று முன்தினம்' and the arrest 'நேற்று' — matches the article.
+  The reel_script and caption say 'பாறை வெட்டிய 47 வயது நபரை போலீசார் கைது செய்தனர்' and the headline says the arrested person is 47 — consistent with the article (திருப்பதி, 47).
+  The reel_script states 'செல்லப்பிள்ளைகுட்டை கிராம நிர்வாக அலுவலர் செல்வத்துக்கு தகவல் சென்றது' — the article says the information went to the VAO, which matches.
+  The reel_script says 'அங்குள்ள பாறைகளை வெட்டி எடுப்பதாக' attributed to the rock cutting — matches the article.
+  The reel_script states the farm owner 'வைத்திருக்கிறார்' (owns/holds) the farm — the article says the farm is his, so this is consistent.
+  The slides_spec 'loc' field and hl1 say 'ஓமலூர் அருகே பாறை வெட்டுதல்' with the place 'செல்லப்பிள்ளைகுட்டை, ஓமலூர' — consistent with the article.
+  The slides_spec slide 2 says 'திருப்பதி அங்கிருந்து தப்பி சென்றார்' — matches the article.
+  The reel_script omits the detail that the tractor was seized in the same sentence structure but it is present ('டிராக்டரை பறிமுதல் செய்த'), so no missing fact.
+attempt 1 groq/qwen/qwen3.8-27b: 9 problems
+  fact-check: The draft calls the VAO (விஏஓ) a 'கிராம நிர்வாக அலுவலர்' (village administrative officer) — this is a consistent translation of VAO, not an invented role, so not a problem.
+  fact-check: Reel_script and caption describe the rock-cutting as happening on 'நேற்று முன்தினம்' and the arrest 'நேற்று' — matches the article.
+  fact-check: The reel_script and caption say 'பாறை வெட்டிய 47 வயது நபரை போலீசார் கைது செய்தனர்' and the headline says the arrested person is 47 — consistent with the article (திருப்பதி, 47).
+  fact-check: The reel_script states 'செல்லப்பிள்ளைகுட்டை கிராம நிர்வாக அலுவலர் செல்வத்துக்கு தகவல் சென்றது' — the article says the information went to the VAO, which matches.
+  fact-check: The reel_script says 'அங்குள்ள பாறைகளை வெட்டி எடுப்பதாக' attributed to the rock cutting — matches the article.
+  fact-check: The reel_script states the farm owner 'வைத்திருக்கிறார்' (owns/holds) the farm — the article says the farm is his, so this is consistent.
+  fact-check: The slides_spec 'loc' field and hl1 say 'ஓமலூர் அருகே பாறை வெட்டுதல்' with the place 'செல்லப்பிள்ளைகுட்டை, ஓமலூர' — consistent with the article.
+  fact-check: The slides_spec slide 2 says 'திருப்பதி அங்கிருந்து தப்பி சென்றார்' — matches the article.
+  fact-check: The reel_script omits the detail that the tractor was seized in the same sentence structure but it is present ('டிராக்டரை பறிமுதல் செய்த'), so no missing fact.
 gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
 groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
-fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {"error":{"message":"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7
-proofread skipped: no free model answered: groq qwen/qwen3.8-27b 429: {"error":{"message":"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7a2xrr0edj82ech8tq0xtz4` service tier `on_demand` on output tokens per minute (OTPM): Limit 1000, Requested 1033. The request's expected output tokens exceed the enforced limit; reduce max_tokens (or the request's expected output) and try again. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing","type":"tokens","code":"rate_limit_exceeded"}}
-
-gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
+free models unavailable: no free model answered: None
+ok anthropic/claude-haiku-5-5
+claude rewrite 1 anthropic/claude-haiku-5-5: 1 problems
+  caption misses facts of the article (put every one in 📰 முழு விவரம்): 55 ('ஓமலூர்; சேலம், ஜங்ஷனை சேர்ந்த, விவசாயி வரதராஜ், 55.')
 ok anthropic/claude-haiku-5-5
 gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-ok groq/qwen/qwen3.8-27b (1s)
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
+free fact-check unavailable, using Claude: no free model answered: None
+ok anthropic/claude-haiku-5-5
+factcheck by anthropic/claude-haiku-5-5: 3 problems
+  The reel_script and caption say the youth 'fell' at the speed breaker and 'was injured' there, which is roughly consistent, but the slides_spec says 'சிகிச்சையில்' (under treatment) in hl2 which conflicts with the article stating he died; the headline phrase 'வாலிபர் சிகிச்சையில்' contradicts the death report.
+  The reel_script states relatives ('உறவினர்கள்') rescued him, but the article does not say who rescued him; it only says 'அவரை மீட்டு' without naming the rescuers.
+  The article says he was taken to hospital after the fall, but the article does not mention that he was riding a two-wheeler 'at night' in the caption's wording 'டூவீலரில் கருமாபுரம் நோக்கிச் சென்றார்' is fine, however the reel_script adds 'இரவு' to the 22nd date which matches the article; no issue here.
+claude rewrite 3 anthropic/claude-haiku-5-5: 3 problems
+  fact-check: The reel_script and caption say the youth 'fell' at the speed breaker and 'was injured' there, which is roughly consistent, but the slides_spec says 'சிகிச்சையில்' (under treatment) in hl2 which conflicts with the article stating he died; the headline phrase 'வாலிபர் சிகிச்சையில்' contradicts the death report.
+  fact-check: The reel_script states relatives ('உறவினர்கள்') rescued him, but the article does not say who rescued him; it only says 'அவரை மீட்டு' without naming the rescuers.
+  fact-check: The article says he was taken to hospital after the fall, but the article does not mention that he was riding a two-wheeler 'at night' in the caption's wording 'டூவீலரில் கருமாபுரம் நோக்கிச் சென்றார்' is fine, however the reel_script adds 'இரவு' to the 22nd date which matches the article; no issue here.
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
 groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
-fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {"error":{"message":"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7
-free fact-check unavailable, using Claude: no free model answered: groq qwen/qwen3.8-27b 429: {"error":{"message":"Request too large for model 
+proofread skipped: no free model answered: None
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
+ok anthropic/claude-haiku-5-5
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
+ok anthropic/claude-haiku-5-5
+claude rewrite 2 anthropic/claude-haiku-5-5: 1 problems
+  slide 3 line 1 longer than 60 characters
+ok anthropic/claude-haiku-5-5
 gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
 real photo: vision check unavailable: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-3.6-flash:ge
 real photo: vision check out of free quota
 image match check unavailable: gemini-3.5-flash: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/g
 Cloudflare R2 refused (R2 daily safety limit reached for salem360 (299 MB, 56 files today) - R2 is skipped until tomorrow (free tier protected)) - trying Cloudinary
 ok anthropic/claude-haiku-5-5
-factcheck by anthropic/claude-haiku-5-5: 5 problems
-  The draft's caption says the arrested people were 'வாய்ப்பு' ... actually the caption summary says 'இருவரும் கைது செய்யப்பட்டு' which is fine, but the caption's 'நாள்: 27 நவம்பர் 2026' date line is a posting-date footer, so it is not a problem.
-  The article does not mention a 'Sevvaipettai drug tablets seized' English line; this is an extra English headline line in the caption, which is not a Tamil claim but adds an unverified English summary of the same facts (acceptable as a restatement).
-  Reel_script says the officers were led by Inspector Chinnathangam ('தலைமையிலான'), while the article only says the police inspector Chinnathangam 'உள்ளிட்ட போலீசாருக்கு' a tip was received and that police patrolled; the article does not state he led the patrol, so this is an embellished role claim.
-  slides_spec 'என்ன' slide says 'இன்ஸ்பெக்டர் சின்னதங்கம் தலைமையிலான போலீசார் நடவடிக்கை', repeating the same unsupported 'தலைமையிலான' (led-by) claim.
-  Reel_script and slides say the two men were 'பிடிபட்டனர்' / 'மடக்கிப் பிடித்தனர' and that they were caught because of a tip, but the article says police received information and then 'மடக்கி விசாரித்தனர்' (stopped and questioned); the article does not explicitly say they were arrested at the time of the stop, and the reel_script's 'மரப்பாலம் அருகே போலீசார் ரோந்து சுற்றியபோது சிக்கினர்' is a slight rewording that is acceptable.
-claude rewrite 2 anthropic/claude-haiku-5-5: 5 problems
-  fact-check: The draft's caption says the arrested people were 'வாய்ப்பு' ... actually the caption summary says 'இருவரும் கைது செய்யப்பட்டு' which is fine, but the caption's 'நாள்: 27 நவம்பர் 2026' date line is a posting-date footer, so it is not a problem.
-  fact-check: The article does not mention a 'Sevvaipettai drug tablets seized' English line; this is an extra English headline line in the caption, which is not a Tamil claim but adds an unverified English summary of the same facts (acceptable as a restatement).
-  fact-check: Reel_script says the officers were led by Inspector Chinnathangam ('தலைமையிலான'), while the article only says the police inspector Chinnathangam 'உள்ளிட்ட போலீசாருக்கு' a tip was received and that police patrolled; the article does not state he led the patrol, so this is an embellished role claim.
-  fact-check: slides_spec 'என்ன' slide says 'இன்ஸ்பெக்டர் சின்னதங்கம் தலைமையிலான போலீசார் நடவடிக்கை', repeating the same unsupported 'தலைமையிலான' (led-by) claim.
-  fact-check: Reel_script and slides say the two men were 'பிடிபட்டனர்' / 'மடக்கிப் பிடித்தனர' and that they were caught because of a tip, but the article says police received information and then 'மடக்கி விசாரித்தனர்' (stopped and questioned); the article does not explicitly say they were arrested at the time of the stop, and the reel_script's 'மரப்பாலம் அருகே போலீசார் ரோந்து சுற்றியபோது சிக்கினர்' is a slight rewording that is acceptable.
-ok anthropic/claude-haiku-5-5
-claude rewrite 3 anthropic/claude-haiku-5-5: 3 problems
-  slides must have 3 or 4 items
-  reel_script has 46 words; need 60-160 (the key facts once each, in at most 90 seconds; every other detail goes in the caption's 📰 முழு விவரம் block)
-  not grounded: only 46% of the words come from the article (e.g. பிடித்தது, பரவி, ஏற்பட்டது, சம்பவம், சேலம்); use the article's own words and facts
-gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
-fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {"error":{"message":"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m
-image match check unavailable: gemini-3.5-flash: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/g
-Cloudflare R2 refused (R2 daily safety limit reached for salem360 (299 MB, 56 files today) - R2 is skipped until tomorrow (free tier protected)) - trying Cloudinary
-images made: 2 for 'Salem–Arakkonam MEMU: unreserved express'
-bridge: 200 {"ok":true,"added":1,"auto_queued":1,"emailed":0,"reoffered":0,"batch":"B20261127-2228","first":"RN-337"}
-ok anthropic/claude-haiku-5-5
-posting job started at once
-gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
-writing [N]: "நீங்க கைது பண்ணல.. நாங்க பண்ண வெச்சோம்.." - TVK MLA அருள் வ
-fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {"error":{"message":"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7
-free fact-check unavailable, using Claude: no free model answered: groq qwen/qwen3.8-27b 429: {"error":{"message":"Request too large for model 
-gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
-fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {"error":{"message":"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7
-free models unavailable: no free model answered: groq qwen/qwen3.8-27b 429: {"error":{"message":"Request too large for model `qwen/qwen3.8-27b` i
-ok anthropic/claude-haiku-5-5
-factcheck by anthropic/claude-haiku-5-5: 4 problems
-  The caption's '🗓️ நாள்: நவம்பர் 27, 2026' line is part of the caption footer and is excluded, so it is not counted.
-  The caption's English line 'Drug tablets seized in Sevvaipettai, 2 arrested | Salem news' is an extra English sentence not present in the article; it is a caption addition rather than a claim from the article, so it is not counted as a problem.
-  The reel_script states the two men were 'போலீசாரால் கைது' — this is supported; no problem there.
-  The reel_script and slides say 'மரப்பாலம் அருகே சந்தேகத்திற்குரிய வகையில் வந்த 2 பேரை போலீசார் மடக்கி விசாரித்தனர்' — supported by the article; no problem there.
-claude rewrite 3 anthropic/claude-haiku-5-5: 4 problems
-  fact-check: The caption's '🗓️ நாள்: நவம்பர் 27, 2026' line is part of the caption footer and is excluded, so it is not counted.
-  fact-check: The caption's English line 'Drug tablets seized in Sevvaipettai, 2 arrested | Salem news' is an extra English sentence not present in the article; it is a caption addition rather than a claim from the article, so it is not counted as a problem.
-  fact-check: The reel_script states the two men were 'போலீசாரால் கைது' — this is supported; no problem there.
-  fact-check: The reel_script and slides say 'மரப்பாலம் அருகே சந்தேகத்திற்குரிய வகையில் வந்த 2 பேரை போலீசார் மடக்கி விசாரித்தனர்' — supported by the article; no problem there.
-gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
-fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {"error":{"message":"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7
-proofread skipped: no free model answered: groq qwen/qwen3.8-27b 429: {"error":{"message":"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7a2xrr0edj82ech8tq0xtz4` service tier `on_demand` on output tokens per minute (OTPM): Limit 1000, Requested 1228. The request's expected output tokens exceed the enforced limit; reduce max_tokens (or the request's expected output) and try again. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing","type":"tokens","code":"rate_limit_exceeded"}}
-
-gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
-ok groq/qwen/qwen3.8-27b (1s)
-gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
-fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {"error":{"message":"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7
-fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {"error":{"message":"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7
-proofread skipped: no free model answered: groq qwen/qwen3.8-27b 429: {"error":{"message":"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7a2xrr0edj82ech8tq0xtz4` service tier `on_demand` on output tokens per minute (OTPM): Limit 1000, Requested 1033. The request's expected output tokens exceed the enforced limit; reduce max_tokens (or the request's expected output) and try again. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing","type":"tokens","code":"rate_limit_exceeded"}}
-
-gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
-fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {"error":{"message":"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7
-ok anthropic/claude-haiku-5-5
-real photo: vision check resting (free quota busy)
-ok anthropic/claude-haiku-5-5
-claude rewrite 1 anthropic/claude-haiku-5-5: 1 problems
-  hl1 (the first headline on screen) must name the place 'கள்ளக்குறிச்சி', e.g. 'கள்ளக்குறிச்சி: ...' or 'கள்ளக்குறிச்சி-இல் ...' - viewers share news of their own area
-ok anthropic/claude-haiku-5-5
-gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
-fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {"error":{"message":"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7
-image match check unavailable: gemini-3.5-flash: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/g
-Cloudflare R2 refused (R2 daily safety limit reached for salem360 (299 MB, 56 files today) - R2 is skipped until tomorrow (free tier protected)) - trying Cloudinary
-ok anthropic/claude-haiku-5-5
-image match check unavailable: gemini-3.5-flash: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/g
-Cloudflare R2 refused (R2 daily safety limit reached for salem360 (299 MB, 56 files today) - R2 is skipped until tomorrow (free tier protected)) - trying Cloudinary
-images made: 2 for 'Two men arrested in Sevvaipettai for try'
-bridge: 200 {"ok":true,"added":1,"auto_queued":1,"emailed":0,"reoffered":0,"batch":"B20261127-2229","first":"RN-338"}
-real photo: no picture on the source page -> AI pictures
-ok anthropic/claude-haiku-5-5
-claude rewrite 2 anthropic/claude-haiku-5-5: 1 problems
-  sentence 1 (one-line story) has 12 words; make it 6-9 words (about 2-3 seconds), the details follow in the next sentences
-image match check unavailable: gemini-3.5-flash: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/g
-Cloudflare R2 refused (R2 daily safety limit reached for salem360 (299 MB, 56 files today) - R2 is skipped until tomorrow (free tier protected)) - trying Cloudinary
-image match check unavailable: gemini-3.5-flash: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/g
-Cloudflare R2 refused (R2 daily safety limit reached for salem360 (299 MB, 56 files today) - R2 is skipped until tomorrow (free tier protected)) - trying Cloudinary
-images made: 2 for 'Car catches fire suddenly while running '
-bridge: 200 {"ok":true,"added":1,"auto_queued":1,"emailed":0,"reoffered":0,"batch":"B20261127-2229","first":"RN-339"}
-ok anthropic/claude-haiku-5-5
 claude rewrite 3 anthropic/claude-haiku-5-5: 1 problems
-  hl1 (the first headline on screen) must name the place 'கள்ளக்குறிச்சி', e.g. 'கள்ளக்குறிச்சி: ...' or 'கள்ளக்குறிச்சி-இல் ...' - viewers share news of their own area
+  caption misses facts of the article (put every one in 📰 முழு விவரம்): 55 ('ஓமலூர்; சேலம், ஜங்ஷனை சேர்ந்த, விவசாயி வரதராஜ், 55.')
 gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
 groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
-fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {"error":{"message":"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7
-proofread skipped: no free model answered: groq qwen/qwen3.8-27b 429: {"error":{"message":"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7a2xrr0edj82ech8tq0xtz4` service tier `on_demand` on output tokens per minute (OTPM): Limit 1000, Requested 1228. The request's expected output tokens exceed the enforced limit; reduce max_tokens (or the request's expected output) and try again. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing","type":"tokens","code":"rate_limit_exceeded"}}
-
+proofread skipped: no free model answered: None
 gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
 groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
-ok groq/qwen/qwen3.8-27b (0s)
-gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
-fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {"error":{"message":"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m
-fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {"error":{"message":"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7
+image match check unavailable: gemini-3.5-flash: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/g
+Cloudflare R2 refused (R2 daily safety limit reached for salem360 (299 MB, 56 files today) - R2 is skipped until tomorrow (free tier protected)) - trying Cloudinary
+images made: 2 for 'Youth dies after falling near a speed br'
 ok anthropic/claude-haiku-5-5
-real photo: vision check resting (free quota busy)
+bridge: 200 {"ok":true,"added":1,"auto_queued":1,"emailed":0,"reoffered":0,"batch":"B20261128-0038","first":"RN-341"}
+posting job started at once
+real photo: no picture on the source page -> AI pictures
 image match check unavailable: gemini-3.5-flash: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/g
 Cloudflare R2 refused (R2 daily safety limit reached for salem360 (299 MB, 56 files today) - R2 is skipped until tomorrow (free tier protected)) - trying Cloudinary
 image match check unavailable: gemini-3.5-flash: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/g
 Cloudflare R2 refused (R2 daily safety limit reached for salem360 (299 MB, 56 files today) - R2 is skipped until tomorrow (free tier protected)) - trying Cloudinary
-images made: 2 for 'TVK MLA Arul Vignesh arrested in case of'
-bridge: 200 {"ok":true,"added":1,"auto_queued":1,"emailed":0,"reoffered":0,"batch":"B20261127-2230","first":"RN-340"}
+images made: 2 for 'Man arrested for illegally cutting rocks'
+bridge: 200 {"ok":true,"added":1,"auto_queued":1,"emailed":0,"reoffered":0,"batch":"B20261128-0038","first":"RN-342"}
 earlier stories still waiting for images: []
 instagram check: 50 recent posts read from the page
 pick round: only the picked links are written (research_free/pick.py)
-manual link added: https://tamil.oneindia.com/news/chennai/edappadi-palaniswami-takes-credit-for-arul-vignesh-s-arrest-says-aiadmk-forced-police-action-848825.html
-manual link added: https://www.dinakaran.com/district/salem_271126_1/amp
-manual link added: https://www.thanthitv.com/amp/story/news/tamilnadu/car-accident-fire-sudden-fire-in-a-moving-cara-tragedy-that-happened-in-the-blink-of-an-eye
-manual link added: https://tamil.samayam.com/tamil-nadu/news/arakkonam-salem-nreserved-memu-train-schedule-daily-service-demand/articleshow/136226609.cms
-candidate filter: collected=4
-to write: 4 Salem district candidates (max 4 stories)
-round: top 4 of 4 candidates
-candidates waiting: 4 Salem; time left 79 min
-try (N) manual=True: https://tamil.samayam.com/tamil-nadu/news/arakkonam-salem-nr
-try (N) manual=True: https://www.thanthitv.com/amp/story/news/tamilnadu/car-accid
-try (N) manual=True: https://www.dinakaran.com/district/salem_271126_1/amp
+manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-salem/rock-cutter-in-the-garden-arrested/4387371
+manual link added: https://www.dinakaran.com/district/salem_271126_2/amp
+candidate filter: collected=2
+to write: 2 Salem district candidates (max 2 stories)
+round: top 2 of 2 candidates
+candidates waiting: 2 Salem; time left 79 min
+try (N) manual=True: https://www.dinakaran.com/district/salem_271126_2/amp
+try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-sale
 auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 2})
 posting job started at once
-try (N) manual=True: https://tamil.oneindia.com/news/chennai/edappadi-palaniswami
 auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 4})
-auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 6})
-auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 8})
-candidate loop ended: left 0, tried={'N': 4}, done={'N': 4}, time left 77 min
-filed: 4 Salem district stories (target 4), reels only
+candidate loop ended: left 0, tried={'N': 2}, done={'N': 2}, time left 78 min
+filed: 2 Salem district stories (target 2), reels only
 queue: 0 news waiting to be written
-All News sheet: {"ok":true,"added":4,"updated":0} 
-stories: 4
+All News sheet: {"ok":true,"added":2,"updated":0} 
+stories: 2
