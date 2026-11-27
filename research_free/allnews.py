@@ -114,6 +114,11 @@ OTHER_EN = ["coimbatore", "kovai", "pollachi", "mettupalayam", "tiruppur", "tiru
             "ooty", "palakkad", "kochi", "mysuru", "perambalur", "pudukkottai"]
 
 
+def page_url(url):
+    """owner 27 Nov: the newspaper itself filed the article under this page's district (its district list / edition / section)"""
+    return url_district(url) in DISTRICT_SLUGS
+
+
 def url_district(url):
     """the district a newspaper filed the article under, read from its link ('' when the link does not say)"""
     u = (url or "").lower()
