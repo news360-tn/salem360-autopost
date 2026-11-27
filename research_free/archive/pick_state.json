@@ -80,7 +80,8 @@
    "score": 11.5,
    "power_cut": false,
    "late_listed": true,
-   "listed_at": "2026-11-28T00:28:02.123465+05:30"
+   "listed_at": "2026-11-28T00:28:02.123465+05:30",
+   "picked_at": "2026-11-28T00:37:32.131799+05:30"
   },
   "Cf37fdba": {
    "id": "Cf37fdba",
@@ -93,7 +94,8 @@
    "score": 9.64,
    "power_cut": false,
    "late_listed": true,
-   "listed_at": "2026-11-28T00:28:02.123465+05:30"
+   "listed_at": "2026-11-28T00:28:02.123465+05:30",
+   "picked_at": "2026-11-28T00:37:32.131801+05:30"
   },
   "Ceba878c": {
    "id": "Ceba878c",
@@ -647,8 +649,18 @@
    ],
    "sent": false,
    "deadline": "2026-11-28T01:28:02.123465+05:30",
-   "decided": null,
-   "written": []
+   "decided": {
+    "how": "automatic: top 1 of 6 by insights + 1 more well-watched",
+    "ids": [
+     "C423be23",
+     "Cf37fdba"
+    ],
+    "at": "2026-11-28T00:37:32.131788+05:30"
+   },
+   "written": [
+    "C423be23",
+    "Cf37fdba"
+   ]
   }
  },
  "retry": {
