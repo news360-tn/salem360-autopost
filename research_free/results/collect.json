@@ -3,109 +3,263 @@
   "earlier stories still waiting for images: []",
   "instagram check: 50 recent posts read from the page",
   "pick round: only the picked links are written (research_free/pick.py)",
-  "manual link added: https://www.dinamani.com/all-editions/edition-dharmapuri/salem/2026/Nov/27/elderly-woman-robbed-of-money-after-suspects-use-incense-smoke-2-arrested",
-  "candidate filter: collected=1",
-  "to write: 1 Salem district candidates (max 1 stories)",
-  "round: top 1 of 1 candidates",
-  "candidates waiting: 1 Salem; time left 79 min",
+  "manual link added: https://www.dinamani.com/all-editions/edition-coimbatore/coimbatore/2026/Nov/27/36-kg-of-gold-jewellery-seized-from-a-jewellery-shop-operating-without-proper-authorisation-in-salem",
+  "manual link added: https://www.vikatan.com/government-and-politics/mister-kazhugu-politics-and-current-affairs-02-december-2026",
+  "manual link added: https://www.dinamani.com/all-editions/edition-dharmapuri/salem/2026/Nov/27/risk-of-accidents-due-to-rainwater-stagnation-on-the-thammampattitrichy-highway",
+  "candidate filter: collected=3",
+  "to write: 3 Salem district candidates (max 3 stories)",
+  "round: top 3 of 3 candidates",
+  "candidates waiting: 3 Salem; time left 79 min",
   "try (N) manual=True: https://www.dinamani.com/all-editions/edition-dharmapuri/sal",
+  "try (N) manual=True: https://www.vikatan.com/government-and-politics/mister-kazhu",
+  "try (N) manual=True: https://www.dinamani.com/all-editions/edition-coimbatore/coi",
   "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 2})",
   "posting job started at once",
-  "candidate loop ended: left 0, tried={'N': 1}, done={'N': 1}, time left 76 min",
-  "filed: 1 Salem district stories (target 1), reels only",
+  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 4})",
+  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 7})",
+  "candidate loop ended: left 0, tried={'N': 3}, done={'N': 3}, time left 77 min",
+  "filed: 3 Salem district stories (target 3), reels only",
   "queue: 0 news waiting to be written",
-  "All News sheet: {\"ok\":true,\"added\":1,\"updated\":0}"
+  "All News sheet: {\"ok\":true,\"added\":3,\"updated\":0}"
  ],
  "llm": [
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "fail gemini/gemini-3.6-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=60)",
-  "poor answer - skipped for 30 min: gemini/gemini-3.6-flash",
-  "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
-  "dead for this round: gemini/gemini-3.5-flash",
-  "ok gemini/gemini-3-flash-preview (10s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok gemini/gemini-3-flash-preview (14s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, plea",
-  "dead for this round: gemini/gemini-3-flash-preview",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 400: {\"error\":{\"message\":\"Failed to validate JSON. Please adjust your prompt. See 'failed_gener",
-  "ok groq/qwen/qwen3.8-27b (5s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 413: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
-  "dead for this round: groq/openai/gpt-oss-120b",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok groq/qwen/qwen3.8-27b (5s)",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
+  "dead for this round: gemini/gemini-3.6-flash",
+  "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
+  "dead for this round: gemini/gemini-3.6-flash",
+  "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
+  "dead for this round: gemini/gemini-3.5-flash",
+  "ok gemini/gemini-3.6-flash (12s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok gemini/gemini-3.5-flash (14s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok gemini/gemini-3-flash-preview (4s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, plea",
+  "dead for this round: gemini/gemini-3-flash-preview",
+  "ok gemini/gemini-3-flash-preview (20s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 413: {\"error\":{\"message\":\"Request too large for model `openai/gpt-oss-120b` in organization `or",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 413: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
+  "ok groq/openai/gpt-oss-120b (5s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
+  "ok gemini/gemini-3-flash-preview (10s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
+  "ok groq/openai/gpt-oss-120b (3s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash"
+  "ok groq/openai/gpt-oss-120b (3s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "ok anthropic/claude-haiku-5-5",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
+  "dead for this round: groq/openai/gpt-oss-120b",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 413: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok anthropic/claude-haiku-5-5",
+  "ok groq/qwen/qwen3.8-27b (4s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
+  "ok anthropic/claude-haiku-5-5",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
+  "switching away from groq/qwen/qwen3.8-27b for 10 min",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "ok anthropic/claude-haiku-5-5",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5"
  ],
  "stories": [
   {
-   "tamil_headline": "மகுடஞ்சாவடி அருகே சாம்பிராணி புகை போட்டு மூதாட்டியிடம் ரூ.8,000 கொள்ளை: 2 பேர் கைது",
-   "english_headline": "Two arrested for robbing Rs 8,000 from elderly woman by fumigating her house near Magudanchavadi",
-   "category": "Crime & Safety",
-   "location": "Pattanampatti, Magudanchavadi, Salem district",
-   "importance": "High",
-   "scope": "",
+   "tamil_headline": "தம்மம்பட்டி - துறையூர் நெடுஞ்சாலையில் தேங்கும் மழைநீர்: விபத்து அபாயத்தால் வாகன ஓட்டிகள் அச்சம்",
+   "english_headline": "Rainwater stagnation on Tammampatti-Thuraiyur highway creates accident risk; motorists demand action",
+   "category": "Roads & Transport",
+   "location": "Tammampatti, Salem district",
+   "importance": "Medium",
+   "scope": "local",
    "post_to": "Salem 360",
    "slides_spec": {
     "v": 3,
-    "cat": "கொள்ளை",
-    "loc": "பட்டணாம்பட்டி, மகுடஞ்சாவடி",
-    "hl1": "பட்டணாம்பட்டி: மூதாட்டியிடம் பணம் கொள்ளை",
-    "hl2": "ரூ.8,000 கொள்ளை - 2 பேர்",
+    "cat": "சாலை விபத்து அபாயம்",
+    "loc": "தம்மம்பட்டி",
+    "hl1": "தம்மம்பட்டி சாலையில் மழைநீர் தேக்கம்",
+    "hl2": "விபத்து அபாயத்தில் வாகனங்கள்",
     "slides": [
      {
-      "title": "என்ன நடந்தது?",
+      "title": "எங்கு பிரச்சினை?",
       "lines": [
-       "சாம்பிராணி புகை போடுவதாகக் கூறி வீட்டுக்கு வந்த 2 பேர்",
-       "மூதாட்டி செல்லம்மாளிடம் <b>ரூ.8,000</b> கொள்ளை",
-       "வியாழக்கிழமை இந்தச் சம்பவம் நடந்தது"
+       "<b>தம்மம்பட்டி - துறையூர்</b> நெடுஞ்சாலை",
+       "எட்டடியான் கோவில் அருகே மழைநீர் தேக்கம்",
+       "சாலையின் குறுக்கே குளம்போல நிற்கும் தண்ணீர்"
       ]
      },
      {
-      "title": "எங்கே நடந்தது?",
+      "title": "என்ன காரணம்?",
       "lines": [
-       "மகுடஞ்சாவடி அருகே அ.புதூர், பட்டணாம்பட்டி பகுதி",
-       "பொதுமக்கள் கொள்ளையர்களைத் தேடிப் பிடித்தனர்",
-       "பொன்னம்பலம் சுவாமி கோயில் அருகே பிடித்தனர்"
+       "கருங்காடு பகுதியில் இருந்து வரும் மழைநீர்",
+       "வடிகால் வாய்க்கால் <b>ஆக்கிரமிப்பு</b> செய்யப்பட்டுள்ளது",
+       "ஓடையில் கலக்க முடியாமல் சாலையில் தேங்குகிறது"
       ]
      },
      {
-      "title": "கைது விவரம்",
+      "title": "மக்களின் கோரிக்கை",
       "lines": [
-       "கைதானவர்கள்: சத்யராஜ் (26 வயது), அசோக்குமார் (30 வயது)",
-       "இருவரும் வாலாஜாபேட்டை, ராணிப்பேட்டை பகுதியினர்",
-       "போலீசார் இருசக்கர வாகனத்தைப் பறிமுதல் செய்தனர்"
+       "இரவு நேரத்தில் <b>விபத்து ஏற்படும்</b> அபாயம்",
+       "வாகன ஓட்டிகள் பெரும் அச்சம் தெரிவித்துள்ளனர்",
+       "அதிகாரிகள் உடனடியாக நடவடிக்கை எடுக்க வலியுறுத்தல்"
       ]
      }
     ],
     "carousel": false
    },
-   "reel_script": "மகுடஞ்சாவடி அருகே சாம்பிராணி புகை போட்டு மூதாட்டியிடம் ரூ.8,000 கொள்ளையடிக்கப்பட்டது. அ புதூர், பட்டணாம்பட்டி பகுதியைச் சேர்ந்தவர் மூதாட்டி செல்லம்மாள். வியாழக்கிழமை அவர் வீட்டுக்கு 2 பேர் வந்தனர். சாம்பிராணி புகை போடுவதாகக் கூறி புகை போட்டனர். அதன் பின்னர் வீட்டில் இருந்த ரூ.8,000 பணத்தைக் கொள்ளையடித்துச் சென்றனர். பொதுமக்கள் அவர்களைத் தேடி வந்தனர். வெள்ளிக்கிழமை பட்டணாம்பட்டி, பொன்னம்பலம் சுவாமி கோயில் அருகே அவர்களைப் பிடித்தனர். பின்னர் அவர்களை மகுடஞ்சாவடி காவல் நிலையத்தில் ஒப்படைத்தனர். விசாரணையில் அவர்கள் வாலாஜாபேட்டை, ராணிப்பேட்டை பகுதியைச் சேர்ந்த சத்யராஜ் (26 வயது), அசோக்குமார் (30 வயது) என்று தெரியவந்தது. போலீசார் இருவரையும் கைது செய்தனர். அவர்களிடம் இருந்த இருசக்கர வாகனத்தையும் பறிமுதல் செய்தனர். மேலும் செய்திகளுக்கு சேலம் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🚨 பட்டணாம்பட்டி அருகே சாம்பிராணி புகை போட்டு மூதாட்டியிடம் ரூ.8,000 கொள்ளை: 2 பேர் கைது\n\n📰 முழு விவரம்:\nமகுடஞ்சாவடி அருகே அ.புதூர், பட்டணாம்பட்டி பகுதியைச் சேர்ந்த மூதாட்டி செல்லம்மாள் வீட்டுக்கு வியாழக்கிழமை 2 பேர் வந்தனர். சாம்பிராணி புகை போடுவதாகக் கூறி புகை போட்டனர். பின்னர் வீட்டில் இருந்த ரூ.8,000 பணத்தைக் கொள்ளையடித்துச் சென்றனர்.\nபொதுமக்கள் அவர்களைத் தேடி வந்தனர். வெள்ளிக்கிழமை பட்டணாம்பட்டி, பொன்னம்பலம் சுவாமி கோயில் அருகே அவர்களைப் பிடித்து மகுடஞ்சாவடி காவல் நிலையத்தில் ஒப்படைத்தனர்.\nவிசாரணையில் அவர்கள் வாலாஜாபேட்டை, ராணிப்பேட்டை பகுதியைச் சேர்ந்த சத்யராஜ் (26 வயது), அசோக்குமார் (30 வயது) என தெரியவந்தது. போலீசார் இருவரையும் கைது செய்து, இருசக்கர வாகனத்தைப் பறிமுதல் செய்தனர்.\n\nPattanampatti robbery, two arrested | Salem news\n📍 பட்டணாம்பட்டி, மகுடஞ்சாவடி, சேலம் மாவட்டம் | 27 நவம்பர் 2026\n\nதேவைப்படுவோருக்கு Share செய்யுங்கள்.\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Salem360 #Salem #Pattanampatti #SalemNews #சேலம்",
-   "prompts": "Two police constables in khaki uniform lead two young men with their hands held behind them out of a police station gate in Magudanchavadi, Salem, while a crowd of local villagers stands at a distance; a seized two-wheeler is parked at the side of the gate, with a faint wisp of incense smoke drifting in the warm daylight. The view is of a small town police station compound with a tiled roof and a concrete wall, seen from the road at eye level. The two arrested men are shown from behind, wearing plain shirts and trousers, their heads bowed. A few villagers in shirts, veshti and sarees watch quietly from the roadside, and a Tamil Nadu police jeep is parked nearby. Shot at eye level, 35 mm lens, wide enough to show the police station gate, the crowd, and the seized vehicle. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up of a seized black two-wheeler scooter parked in front of a police station wall, with a folded veshti and a small brass incense holder placed on a wooden table beside it. Thin grey wisps of sambrani smoke curl upward from the incense holder in soft daylight. In the background, slightly blurred, a khaki-uniformed constable stands near the gate of a village house with a tiled roof and concrete pillars. The scene is shot at a low angle with a 35 mm lens, focusing sharply on the scooter and incense holder, with the police station and village house softly out of focus behind them. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamani.com/all-editions/edition-dharmapuri/salem/2026/Nov/27/elderly-woman-robbed-of-money-after-suspects-use-incense-smoke-2-arrested",
-   "published": "2026-11-27T19:56:41.105Z",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: caption misses facts of the article (put every one in 📰 முழு விவரம்): 8 ('8 ஆயிரத்தை கொள்ளையடித்துச் சென்றனா்..பொதுமக்கள் அவா்களை தேடி')",
-   "note": "free-model draft anthropic/claude-haiku-5-5, 13 attempt(s), 1 validator problem(s)",
+   "reel_script": "தம்மம்பட்டி அருகே நெடுஞ்சாலையில் மழைநீர் தேங்குவதால் விபத்து ஏற்படும் அபாயம் உருவாகியுள்ளது. தம்மம்பட்டி முதல் துறையூர் செல்லும் நெடுஞ்சாலையில் எட்டடியான் கோவில் அருகே சாலையின் குறுக்கே வடிகால் வாய்க்கால் உள்ளது. மழைக்காலங்களில் கருங்காடு பகுதியில் இருந்து வெளியேறும் மழைநீர் இந்த வாய்க்கால் வழியாக அருகில் உள்ள ஓடையில் கலப்பது வழக்கம். தற்போது வடிகால் வாய்க்கால் பகுதி ஆக்கிரமிப்பு செய்யப்பட்டுள்ளது. இதனால் மழை பெய்யும் நேரங்களில் தண்ணீர் வெளியேற வழியின்றி சாலையின் குறுக்கே குளம்போல தேங்கி நிற்கிறது. இரவு நேரத்தில் இந்தச் சாலையைக் கடக்கும் வாகனங்கள் விபத்தில் சிக்கும் அபாயம் உள்ளதாக வாகன ஓட்டிகள் அச்சம் தெரிவித்துள்ளனர். இதுகுறித்து சம்பந்தப்பட்ட அதிகாரிகள் உடனடியாக நடவடிக்கை எடுக்க வேண்டும் என்று வாகன ஓட்டிகள் வலியுறுத்தியுள்ளனர். மேலும் செய்திகளுக்கு சேலம் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "⚠️ தம்மம்பட்டி - துறையூர் நெடுஞ்சாலையில் தேங்கும் மழைநீர்: விபத்து அபாயத்தால் வாகன ஓட்டிகள் அச்சம்!\n\n📰 முழு விவரம்:\nதம்மம்பட்டி - துறையூர் நெடுஞ்சாலையில் எட்டடியான் கோவில் அருகே சாலையின் குறுக்கே வடிகால் வாய்க்கால் அமைந்துள்ளது. மழைக்காலங்களில் கருங்காடு பகுதியில் இருந்து வெளியேறும் மழைநீர் இந்த வாய்க்கால் வழியாக அருகில் உள்ள ஓடையில் கலப்பது வழக்கம்.\nஇந்நிலையில் வடிகால் வாய்க்கால் பகுதி ஆக்கிரமிக்கப்பட்டுள்ளதால், மழை பெய்யும் நேரங்களில் மழைநீர் வெளியேற வழியின்றி சாலையின் குறுக்கே குளம்போல தேங்கி நிற்கிறது.\nஇதனால் இரவு நேரத்தில் இந்தச் சாலையைக் கடக்கும் வாகனங்கள் விபத்தில் சிக்கும் அபாயம் ஏற்பட்டுள்ளது. இதுகுறித்து சம்பந்தப்பட்ட அதிகாரிகள் உடனடியாக நடவடிக்கை எடுக்க வேண்டும் என வாகன ஓட்டிகள் வலியுறுத்தியுள்ளனர்.\n\n📍 இடம்: தம்மம்பட்டி - துறையூர் நெடுஞ்சாலை, எட்டடியான் கோவில் அருகே\n⚠️ பிரச்சனை: வடிகால் ஆக்கிரமிப்பால் சாலையில் மழைநீர் தேக்கம்\n👮 கோரிக்கை: துறை அதிகாரிகள் விரைந்து நடவடிக்கை எடுக்க வேண்டும்\n\nசாலையைப் பயன்படுத்தும் வாகன ஓட்டிகளுக்கு Share செய்யுங்கள்.\n\nTammampatti Thuraiyur road rainwater logging accident risk | Salem news\n📍 தம்மம்பட்டி, சேலம் மாவட்டம் | 28 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Salem360 #Salem #Tammampatti #மழைநீர் #SalemNews",
+   "prompts": "Motorists in khaki‑tone shirts pause their vehicles as a wide sheet of stagnant rainwater stretches across the Tammampatti‑Thuraiyur highway near the Ettadiyan temple, the water forming a shallow lake at a blocked drainage opening. PLACE: The scene is on the two‑lane highway just outside the temple compound, the road bordered by low grass and a small concrete drain that is clogged, with the temple’s modest tower visible in the background. PEOPLE: Several drivers are seen from behind, some standing beside their cars, hands raised in alarm, others looking down the road; all are positioned far enough to keep faces indistinct. VEHICLES/OBJECTS: A few cars and two‑wheelers sit idle near the water’s edge, while the dark, murky water fills the road’s centre, the concrete drainage opening visible as a narrow gap blocked by debris. TIME+LIGHT+WEATHER: Nighttime, dim street‑lamp glow reflected on the water, with a recent rain‑soaked atmosphere evident from the wet road surface. CAMERA: Eye‑level, 35 mm lens, wide enough to capture the highway stretch, the water pool and the temple silhouette in one frame.” Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nMotorists’ concern is highlighted by a close‑up of the blocked drainage opening where rainwater has accumulated on the highway. SUBJECT+ACTION: Stagnant rainwater pools at the clogged drain, the water level rising against the road surface. PLACE: The shot focuses on the concrete drainage slot cut across the Tammampatti‑Thuraiyur highway, just opposite the Ettadiyan temple wall, with the road’s black asphalt and the faint outline of the temple’s roof in the far background. PEOPLE: A lone driver, seen from behind, leans on his motorcycle’s handlebar, gesturing toward the water, while another motorist stands a few metres away, hands on hips, both blurred to keep identities hidden. VEHICLES/OBJECTS: The drainage opening is partially obstructed by mud and debris, water spilling over its edges, forming a shallow pond that covers the lane; a small puddle reflects the dim night light. TIME+LIGHT+WEATHER: Night, low artificial lighting creates soft reflections on the water; recent rain leaves the surface glossy. CAMERA: Slightly high angle, 35 mm lens, tight framing on the drain and water, emphasizing the blockage and the hazard. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamani.com/all-editions/edition-dharmapuri/salem/2026/Nov/27/risk-of-accidents-due-to-rainwater-stagnation-on-the-thammampattitrichy-highway",
+   "published": "2026-11-27T19:54:23.546Z",
+   "verification": "DRAFT (gemini/gemini-3.6-flash) - fact-check: no problems found",
+   "note": "free-model draft gemini/gemini-3.6-flash, 1 attempt(s), 0 validator problem(s)",
    "post_time": "right after your reply, same day",
    "_area": "N",
    "_score": 999,
    "images": [
-    "https://res.cloudinary.com/jrmwajfz/image/upload/v1795813450/salem360/znj7xcocpx4wj3ixm6xa.jpg",
-    "https://res.cloudinary.com/jrmwajfz/image/upload/v1795813483/salem360/fubkxjoplzyy1qacqntx.jpg"
+    "https://res.cloudinary.com/jrmwajfz/image/upload/v1795820328/salem360/g6z4sftlnxyecfxnlyfc.jpg",
+    "https://res.cloudinary.com/jrmwajfz/image/upload/v1795820331/salem360/hqyl1kl2mzj1nxnk1oef.jpg"
+   ]
+  },
+  {
+   "tamil_headline": "சேலத்தில் அனுமதியின்றி செயல்பட்ட நகைக் கடையில் 3.6 கிலோ தங்க நகைகள் பறிமுதல்",
+   "english_headline": "3.6 kg gold jewellery seized from a Salem jewellery shop operating without registration certificate",
+   "category": "Crime & Safety",
+   "location": "Salem city, Salem district",
+   "importance": "High",
+   "scope": "local",
+   "post_to": "Salem 360",
+   "slides_spec": {
+    "v": 3,
+    "cat": "நகைக் கடை சோதனை",
+    "loc": "சேலம்",
+    "hl1": "சேலம்: அனுமதியின்றி நகைக் கடை",
+    "hl2": "3.6 கிலோ தங்கம் பறிமுதல்",
+    "slides": [
+     {
+      "title": "என்ன நடந்தது?",
+      "lines": [
+       "சேலத்தில் <b>3.6 கிலோ</b> தங்க நகைகள் பறிமுதல்",
+       "பதிவுச் சான்றிதழ் இல்லாமல் விற்பனை செய்யப்பட்டது",
+       "பிஐஎஸ் அதிகாரிகள் வெள்ளிக்கிழமை சோதனை நடத்தினர்"
+      ]
+     },
+     {
+      "title": "ஏன் பறிமுதல்?",
+      "lines": [
+       "ஹால்மார்க் முத்திரை இல்லாத நகைகள்",
+       "இந்திய தர நிர்ணய சட்டம் 2016, பிரிவு 28 மீறல்",
+       "கடை பதிவுச் சான்றிதழ் பெறாமல் இயங்கியது"
+      ]
+     },
+     {
+      "title": "மக்களுக்கு அறிவுரை",
+      "lines": [
+       "ஹால்மார்க் முத்திரை இல்லாத தங்கம் வாங்காதீர்கள்",
+       "தவறு கண்டால் 'பி.ஐ.எஸ். கேர்' செயலியில் தெரிவிக்கலாம்",
+       "தகவல் கொடுப்போர் விவரம் ரகசியமாக வைக்கப்படும்"
+      ]
+     }
+    ],
+    "carousel": false
+   },
+   "reel_script": "சேலத்தில் ஒரு நகைக் கடையில் 3.6 கிலோ தங்க நகைகள் பறிமுதல் செய்யப்பட்டன. உரிய பதிவுச் சான்றிதழ் இல்லாமல் அந்தக் கடை இயங்கி வந்தது. வெள்ளிக்கிழமை பிஐஎஸ் அதிகாரிகள் அங்கு சோதனை நடத்தினர். இந்திய தர நிர்ணய அமைவனம் கோவை கிளை அலுவலகத்தின் இயக்குநர் கே ரமேஷ் இதனைத் தெரிவித்தார். இந்திய தர நிர்ணய சட்டம் 2016, பிரிவு 28-இன் கீழ் பதிவுச் சான்றிதழ் கட்டாயம். சோதனையின்போது கடையில் விற்பனைக்கு வைக்கப்பட்டிருந்த ஹால்மார்க் முத்திரை இல்லாத சுமார் 3 கிலோ 600 கிராம் தங்க நகைகள் பறிமுதல் செய்யப்பட்டன. ஹால்மார்க் முத்திரை இல்லாத தங்க நகைகளை விற்கத் தடை உள்ளது. பதிவுச் சான்றிதழ் பெற்ற விற்பனையாளர்கள் மட்டுமே ஹால்மார்க் நகைகளை விற்க வேண்டும். ஹால்மார்க் முத்திரை தவறாகப் பயன்படுத்தப்படுவதை மக்கள் கண்டால், பி ஐ எஸ் கேர் செயலி அல்லது மின்னஞ்சல் மூலம் கோவை ரேஸ்கோர்ஸ் அலுவலகத்துக்குத் தெரிவிக்கலாம். தகவல் கொடுப்போர் விவரம் ரகசியமாக பாதுகாக்கப்படும். மேலும் செய்திகளுக்கு சேலம் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "💍 சேலத்தில் அனுமதியின்றி செயல்பட்ட நகைக் கடையில் 3.6 கிலோ தங்கம் பறிமுதல்\n\n📰 முழு விவரம்:\nசேலத்தில் உரிய பதிவுச் சான்றிதழ் இல்லாமல் விற்பனைக்கு வைக்கப்பட்டிருந்த 3.6 கிலோ தங்க நகைகளை இந்திய தர நிர்ணய அமைவன (பிஐஎஸ்) அதிகாரிகள் வெள்ளிக்கிழமை பறிமுதல் செய்தனர்.\nசேலத்தில் உள்ள ஒரு நகைக் கடை இந்திய தர நிர்ணய சட்டம் 2016, பிரிவு 28-இன் கீழ் கட்டாயமான பதிவுச் சான்றிதழ் பெறாமல் இயங்குவதாகத் தகவல் கிடைத்தது. அதன்பேரில் சோதனை நடத்தப்பட்டது.\nஹால்மார்க் முத்திரை இல்லாத சுமார் 3 கிலோ 600 கிராம் தங்க நகைகள் பறிமுதல் செய்யப்பட்டன.\n📍 இடம்: சேலம்\n🗓️ நாள்: வெள்ளிக்கிழமை\n👮 நடவடிக்கை: நகைகள் பறிமுதல்; கடை பதிவுச் சான்றிதழ் பெறாமல் இயங்கியது கண்டறியப்பட்டது\n📞 தொடர்புக்கு: இந்திய தர நிர்ணய அமைவனம், கோவை கிளை அலுவலகம், ரேஸ்கோர்ஸ், பி.எஸ்.என்.எல். டி-டாக்ஸ் கட்டடம், 3-ஆவது தளம்\nℹ️ மக்கள் கவனத்திற்கு: ஹால்மார்க் முத்திரை (HUID எண்) இல்லாத தங்கத்தை வாங்காதீர்கள். தவறு கண்டால் 'பி.ஐ.எஸ். கேர்' செயலி அல்லது மின்னஞ்சல் மூலம் தெரிவிக்கலாம்.\nதேவைப்படுவோருக்கு Share செய்யுங்கள்.\n\nSalem 3.6 kg gold seized from jewellery shop | Salem news\n📍 சேலம் மாவட்டம் | 28 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Salem360 #Salem #SalemNews #சேலம்",
+   "prompts": "A team of BIS officials in plain shirts and trousers, seen from behind, stands at the counter of a Salem city jewellery shop during a Friday inspection, while a pile of seized gold jewellery in plastic trays and packets lies on the glass display case. The shop front is a typical Salem city commercial street with two-wheelers and an autorickshaw parked outside, and a few shoppers walk past at a distance. Daylight through the shop entrance, the glass cases glinting. Some shop staff stand to one side, slightly blurred. No readable names or signboards. Camera at eye level, 35 mm, wide enough to show the shop and street. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up of gold necklaces, bangles and chains heaped on a white tray on an official table, with a BIS officer's hand in a sleeve gently sorting them, next to a blank inventory register and a stack of loose papers. Gold catches the daylight from a window. The background is softly blurred, with a hint of the shop's glass display case. No readable text or labels, no faces. Camera slightly high, 35 mm, tight framing on the seized gold. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamani.com/all-editions/edition-coimbatore/coimbatore/2026/Nov/27/36-kg-of-gold-jewellery-seized-from-a-jewellery-shop-operating-without-proper-authorisation-in-salem",
+   "published": "2026-11-27T19:40:43.928Z",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: reel_script sentence 1 (heard in the first 3 seconds) must name the place 'சேலம்' and the news itself, e.g. 'சேலம்-இல் ... 3 பேர் கைது.' - viewers decide in 3 seconds whether the news is about their area",
+   "note": "free-model draft anthropic/claude-haiku-5-5, 12 attempt(s), 1 validator problem(s)",
+   "post_time": "right after your reply, same day",
+   "_area": "N",
+   "_score": 999,
+   "images": [
+    "https://res.cloudinary.com/jrmwajfz/image/upload/v1795820374/salem360/lhllpfnz827p7kvfimna.jpg",
+    "https://res.cloudinary.com/jrmwajfz/image/upload/v1795820377/salem360/a592inmcor7wd4gkwrgc.jpg"
+   ]
+  },
+  {
+   "tamil_headline": "எடப்பாடி எம்.எல்.ஏ மீது நடவடிக்கை தாமதம்: பின்னணி என்ன?",
+   "english_headline": "Edappadi MLA case: why action is delayed, behind the scenes",
+   "category": "Government & Services",
+   "location": "Edappadi, Salem district",
+   "importance": "High",
+   "scope": "",
+   "post_to": "Salem 360",
+   "slides_spec": {
+    "v": 3,
+    "cat": "அரசியல் பின்னணி",
+    "loc": "எடப்பாடி",
+    "hl1": "எடப்பாடி MLA மீது நடவடிக்கை தாமதம்",
+    "hl2": "ராஜினாமா, கைது குழப்பம்",
+    "slides": [
+     {
+      "title": "என்ன நடந்தது?",
+      "lines": [
+       "பெண் ஆட்சியருக்கு ஆபாசக் குறுஞ்செய்தி அனுப்பிய விவகாரம்",
+       "சம்பந்தப்பட்ட எம்.எல்.ஏ மீது உடனடி நடவடிக்கை இல்லை",
+       "கைது செய்வதில் குழப்பம் நீடிக்கிறது"
+      ]
+     },
+     {
+      "title": "ஏன் தாமதம்?",
+      "lines": [
+       "முதலில் ராஜினாமா செய்ய வைக்கும் யோசனை",
+       "சட்டமன்றப் பதிவைத் தவிர்க்கும் நோக்கம்",
+       "பின்னர் கட்சியிலிருந்து நீக்கி கைது என்ற திட்டம்"
+      ]
+     },
+     {
+      "title": "அதிகாரிகளின் கோபம்",
+      "lines": [
+       "பெண் ஐ.ஏ.எஸ் அதிகாரிகள் நெருக்கடி கொடுத்தனர்",
+       "உறுதியளித்தபடி நடவடிக்கை எடுக்கவில்லை",
+       "உயர் நீதிமன்ற நீதிபதிகளிடமும் கோபம்"
+      ]
+     }
+    ],
+    "carousel": false
+   },
+   "reel_script": "எடப்பாடி சட்டமன்ற உறுப்பினர்மீது நடவடிக்கை தாமதம் ஆகிறது. பெண் ஆட்சியருக்கு ஆபாசக் குறுஞ்செய்தி அனுப்பிய விவகாரத்தில் இதுவரை உடனடி நடவடிக்கை இல்லை. சம்பந்தப்பட்ட சட்டமன்ற உறுப்பினர்-வை ராஜினாமா செய்ய வைக்கலாம் என்ற யோசனை இருப்பதாகத் தகவல் உள்ளது. சட்டமன்றப் பதிவுகளில் குறை வராமல் இருக்கவே கைது நடவடிக்கை தள்ளிப் போவதாகக் கூறப்படுகிறது. பெண் ஐ ஏ எஸ் அதிகாரிகள் தலைமைச் செயலாளருக்கு நெருக்கடி கொடுத்ததாகத் தெரிவிக்கப்பட்டுள்ளது. ஆட்சி மேலிடம் உறுதியளித்தும் நடவடிக்கை எடுக்கப்படவில்லை என அதிகாரிகள் கோபமடைந்துள்ளனர். மேலும் செய்திகளுக்கு சேலம் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🚨 எடப்பாடி எம்.எல்.ஏ மீது நடவடிக்கை தாமதம்: பின்னணி என்ன?\n\n📰 முழு விவரம்:\nபெண் ஆட்சியருக்கு ஆபாசக் குறுஞ்செய்தி அனுப்பிய விவகாரத்தில் சம்பந்தப்பட்ட எம்.எல்.ஏ மீது உடனடி நடவடிக்கை எடுக்கப்படவில்லை.\nராஜினாமா செய்ய வைத்த பின் கைது செய்வதா என்ற குழப்பம் நிலவுவதாகக் கூறப்படுகிறது.\nபெண் ஐ.ஏ.எஸ் அதிகாரிகள் நெருக்கடி கொடுத்தும், உறுதியளித்தபடி நடவடிக்கை இல்லாததால் அதிருப்தி நிலவுகிறது.\n\nEdappadi MLA action delayed, behind the story | Salem news\n📍 எடப்பாடி, சேலம் மாவட்டம் | 28 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Salem360 #Salem #Edappadi #SalemNews #சேலம்",
+   "prompts": "Inside a government office hall in Edappadi, Salem district, a group of women officers in cotton sarees and salwar kameez sit around a long wooden table with files, papers and a few steel tumblers of water, their backs partly turned to the camera as they listen to someone speaking at the head of the table. A ceiling fan turns above, and a framed notice board and a row of tall wooden cupboards line the far wall. Behind them, a few men in shirts and trousers stand near the doorway with folded papers in hand. Daylight comes through tall windows with iron grills, warm and even. The mood is tense and serious, with no faces visible. Shot at eye level on a 35 mm lens, wide enough to show the whole room and the table with its files. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up on a government file folder lying open on a wooden table in a Tamil Nadu office, its pages stacked with typed papers and a steel tumbler of water beside it. A pen rests across the top sheet, and a hand in a plain cotton sari sleeve is just entering the edge of the frame, pausing over the documents. Soft daylight from a nearby window falls across the paper, showing the texture of the pages and the folded corner of a letter. The background is blurred cupboards and a wall calendar edge. No readable text is shown. Shot slightly high on a 35 mm lens to keep the file and table in focus. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.vikatan.com/government-and-politics/mister-kazhugu-politics-and-current-affairs-02-december-2026",
+   "published": "2026-11-27T22:29:59Z",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: reel_script has 62 words; need 100-160 (the key facts once each, in at most 90 seconds; every other detail goes in the caption's 📰 முழு விவரம் block)",
+   "note": "free-model draft anthropic/claude-haiku-5-5, 11 attempt(s), 1 validator problem(s)",
+   "post_time": "right after your reply, same day",
+   "_area": "N",
+   "_score": 999,
+   "images": [
+    "https://res.cloudinary.com/jrmwajfz/image/upload/v1795820443/salem360/fe9behqgweldscdfif75.jpg",
+    "https://res.cloudinary.com/jrmwajfz/image/upload/v1795820447/salem360/y23s0shsdigueroexhkb.jpg"
    ]
   }
  ]
