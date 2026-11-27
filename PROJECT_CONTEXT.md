@@ -83,34 +83,34 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 <!-- recent-changes:start (updated automatically by .github/workflows/context.yml - do not edit by hand) -->
 | Date | Commit | Change |
 |---|---|---|
-| 2026-11-27 | `b8e39f8` | Power cuts: never post a cut that is over; post cancellations and reschedules |
-| 2026-11-27 | `d9d15d0` | stories shared / Instagram pause |
-| 2026-11-27 | `6175e06` | stories shared / Instagram pause |
-| 2026-11-27 | `489ed82` | Page names as the owner writes them: Tiruppur 360 |
-| 2026-11-27 | `601674a` | stories shared / Instagram pause |
-| 2026-11-27 | `06e3638` | Instagram handles: the real usernames of every page |
-| 2026-11-27 | `0f81361` | Rasipuram 360 username is rasipuram360.official |
-| 2026-11-27 | `b4fd8ff` | stories shared / Instagram pause |
-| 2026-11-27 | `d8dbeba` | stories shared / Instagram pause |
-| 2026-11-27 | `117d126` | Rasipalan theme: Coimbatore page named in full (கோயம்புத்தூர்) gets its colour too |
-| 2026-11-27 | `4eceb34` | stories shared / Instagram pause |
-| 2026-11-27 | `f5b94a2` | Gold rate and rasipalan reels: each page its own colour theme |
-| 2026-11-27 | `b3f1e8e` | stories shared / Instagram pause |
-| 2026-11-27 | `c184c5f` | facebook RN-332 |
-| 2026-11-27 | `c521032` | posted RN-332 |
-| 2026-11-27 | `f827712` | pick: written and posted |
-| 2026-11-27 | `2c1ee88` | Power cuts are never missed: held notices are rewritten at once |
-| 2026-11-27 | `326228d` | stories shared / Instagram pause |
-| 2026-11-27 | `b98c9c5` | stories shared / Instagram pause |
-| 2026-11-27 | `9dd3699` | facebook RN-331 |
-| 2026-11-27 | `5eef2cb` | posted RN-331 |
-| 2026-11-27 | `880ca0c` | stories shared / Instagram pause |
-| 2026-11-27 | `c4cc002` | pick: picked news saved |
-| 2026-11-27 | `ed440ca` | pick: picked news saved |
-| 2026-11-27 | `01108fa` | pick: list sent |
-| 2026-11-27 | `659078c` | stories shared / Instagram pause |
-| 2026-11-27 | `521b356` | Blocked Google News links: also look for the same headline at another trusted outlet |
-| 2026-11-27 | `cdc2245` | pick: written and posted |
-| 2026-11-27 | `43753ac` | pick: picked news saved |
-| 2026-11-27 | `cd303ae` | News supply (from Trichy, 27 Nov): writer failures retried, 24 h search window, taluk towns searched |
+| 2026-11-27 | `4f77672` | No manual work: stop the manual-post and Facebook-share e-mails (config.json owner_emails false); only automatic posting |
+| 2026-11-27 | `583fede` | stories shared / Instagram pause |
+| 2026-11-27 | `0726583` | stories shared / Instagram pause |
+| 2026-11-27 | `82eeaee` | stories shared / Instagram pause |
+| 2026-11-27 | `6283e1d` | stories shared / Instagram pause |
+| 2026-11-27 | `137e2d1` | stories shared / Instagram pause |
+| 2026-11-27 | `c2c287a` | stories shared / Instagram pause |
+| 2026-11-27 | `8c0d8ca` | stories shared / Instagram pause |
+| 2026-11-27 | `13ec36e` | stories shared / Instagram pause |
+| 2026-11-27 | `1e4bca7` | stories shared / Instagram pause |
+| 2026-11-27 | `6e1af94` | stories shared / Instagram pause |
+| 2026-11-27 | `d584651` | stories shared / Instagram pause |
+| 2026-11-27 | `98acbb9` | stories shared / Instagram pause |
+| 2026-11-27 | `246cfc6` | stories shared / Instagram pause |
+| 2026-11-27 | `327fd7f` | stories shared / Instagram pause |
+| 2026-11-27 | `4ec1275` | stories shared / Instagram pause |
+| 2026-11-27 | `4c44a60` | stories shared / Instagram pause |
+| 2026-11-27 | `bcf3ea9` | stories shared / Instagram pause |
+| 2026-11-27 | `f082790` | stories shared / Instagram pause |
+| 2026-11-27 | `c762c91` | stories shared / Instagram pause |
+| 2026-11-27 | `5e8d645` | stories shared / Instagram pause |
+| 2026-11-27 | `8885650` | stories shared / Instagram pause |
+| 2026-11-27 | `db7ca88` | pick: written and posted |
+| 2026-11-27 | `2db61f0` | facebook RN-336 |
+| 2026-11-27 | `e606bfc` | posted RN-336 |
+| 2026-11-27 | `4fe70b9` | stories shared / Instagram pause |
+| 2026-11-27 | `15e732e` | manual post e-mail RN-336 |
+| 2026-11-27 | `c4f8c79` | stories shared / Instagram pause |
+| 2026-11-27 | `a9c8257` | stories shared / Instagram pause |
+| 2026-11-27 | `ecaad2f` | stories shared / Instagram pause |
 <!-- recent-changes:end -->
