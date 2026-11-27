@@ -83,6 +83,9 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 <!-- recent-changes:start (updated automatically by .github/workflows/context.yml - do not edit by hand) -->
 | Date | Commit | Change |
 |---|---|---|
+| 2026-11-27 | `0f81361` | Rasipuram 360 username is rasipuram360.official |
+| 2026-11-27 | `b4fd8ff` | stories shared / Instagram pause |
+| 2026-11-27 | `d8dbeba` | stories shared / Instagram pause |
 | 2026-11-27 | `117d126` | Rasipalan theme: Coimbatore page named in full (கோயம்புத்தூர்) gets its colour too |
 | 2026-11-27 | `4eceb34` | stories shared / Instagram pause |
 | 2026-11-27 | `f5b94a2` | Gold rate and rasipalan reels: each page its own colour theme |
@@ -110,7 +113,4 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 | 2026-11-27 | `71b9689` | stories shared / Instagram pause |
 | 2026-11-27 | `67e2568` | Sources: Dailythanthi and Maalaimalar Tamil Nadu / district lists (this district's links only) |
 | 2026-11-27 | `ed28428` | stories shared / Instagram pause |
-| 2026-11-27 | `684392b` | stories shared / Instagram pause |
-| 2026-11-27 | `c697f54` | stories shared / Instagram pause |
-| 2026-11-27 | `54603f7` | goldrate posted |
 <!-- recent-changes:end -->
