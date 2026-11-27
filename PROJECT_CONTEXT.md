@@ -83,6 +83,16 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 <!-- recent-changes:start (updated automatically by .github/workflows/context.yml - do not edit by hand) -->
 | Date | Commit | Change |
 |---|---|---|
+| 2026-11-27 | `2c1ee88` | Power cuts are never missed: held notices are rewritten at once |
+| 2026-11-27 | `326228d` | stories shared / Instagram pause |
+| 2026-11-27 | `b98c9c5` | stories shared / Instagram pause |
+| 2026-11-27 | `9dd3699` | facebook RN-331 |
+| 2026-11-27 | `5eef2cb` | posted RN-331 |
+| 2026-11-27 | `880ca0c` | stories shared / Instagram pause |
+| 2026-11-27 | `c4cc002` | pick: picked news saved |
+| 2026-11-27 | `ed440ca` | pick: picked news saved |
+| 2026-11-27 | `01108fa` | pick: list sent |
+| 2026-11-27 | `659078c` | stories shared / Instagram pause |
 | 2026-11-27 | `521b356` | Blocked Google News links: also look for the same headline at another trusted outlet |
 | 2026-11-27 | `cdc2245` | pick: written and posted |
 | 2026-11-27 | `43753ac` | pick: picked news saved |
@@ -103,14 +113,4 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 | 2026-11-27 | `f079272` | stories shared / Instagram pause |
 | 2026-11-27 | `d8e7666` | stories shared / Instagram pause |
 | 2026-11-27 | `f412cbc` | stories shared / Instagram pause |
-| 2026-11-27 | `fbb9538` | stories shared / Instagram pause |
-| 2026-11-27 | `8f0a20b` | stories shared / Instagram pause |
-| 2026-11-27 | `e20661f` | stories shared / Instagram pause |
-| 2026-11-27 | `1ef1c3b` | powercut: notices written |
-| 2026-11-27 | `d78e48b` | stories shared / Instagram pause |
-| 2026-11-27 | `d421be4` | stories shared / Instagram pause |
-| 2026-11-27 | `9b4caff` | stories shared / Instagram pause |
-| 2026-11-27 | `8238192` | powercut: notices written |
-| 2026-11-27 | `c1888cb` | stories shared / Instagram pause |
-| 2026-11-27 | `accd70c` | autofix: corrected held news |
 <!-- recent-changes:end -->
