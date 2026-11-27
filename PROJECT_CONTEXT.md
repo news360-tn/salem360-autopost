@@ -83,34 +83,34 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 <!-- recent-changes:start (updated automatically by .github/workflows/context.yml - do not edit by hand) -->
 | Date | Commit | Change |
 |---|---|---|
-| 2026-11-26 | `1c66d75` | Keywords after hashtags on Instagram/Facebook/YouTube; Facebook follower count in insights |
-| 2026-11-26 | `455cbec` | stories shared / Instagram pause |
-| 2026-11-26 | `018bfab` | stories shared / Instagram pause |
-| 2026-11-26 | `eb67392` | facebook RN-304 |
-| 2026-11-26 | `5828896` | posted RN-304 |
-| 2026-11-26 | `72dab04` | stories shared / Instagram pause |
-| 2026-11-26 | `4736e51` | stories shared / Instagram pause |
-| 2026-11-26 | `b25a3dc` | autofix: corrected held news |
-| 2026-11-26 | `c72ad9d` | Rasipuram collaboration: news about or near Rasipuram invites Rasipuram 360 as collaborator (Namakkal and Salem pages; towns in config collab_near_words) |
-| 2026-11-26 | `4710a68` | stories shared / Instagram pause |
-| 2026-11-26 | `01c5d9c` | powercut: notices written |
-| 2026-11-26 | `5f67ef8` | stories shared / Instagram pause |
-| 2026-11-26 | `56ae893` | stories shared / Instagram pause |
-| 2026-11-26 | `1b7f70b` | stories shared / Instagram pause |
-| 2026-11-26 | `6b59a77` | stories shared / Instagram pause |
-| 2026-11-26 | `204e0ea` | stories shared / Instagram pause |
-| 2026-11-26 | `043d933` | stories shared / Instagram pause |
-| 2026-11-26 | `62ffda6` | stories shared / Instagram pause |
-| 2026-11-26 | `095a16a` | stories shared / Instagram pause |
-| 2026-11-26 | `f9ea92a` | stories shared / Instagram pause |
-| 2026-11-26 | `de016e4` | stories shared / Instagram pause |
-| 2026-11-26 | `8b4cedf` | stories shared / Instagram pause |
-| 2026-11-26 | `bb8bb3b` | stories shared / Instagram pause |
-| 2026-11-26 | `1b3d2c9` | pick: written and posted |
-| 2026-11-26 | `2a15afa` | pick: list sent |
-| 2026-11-26 | `8b09e6e` | stories shared / Instagram pause |
-| 2026-11-26 | `ef313ad` | pick: written and posted |
-| 2026-11-26 | `ce294cb` | facebook RN-303 |
-| 2026-11-26 | `7f7d44b` | posted RN-303 |
-| 2026-11-26 | `2554fa5` | stories shared / Instagram pause |
+| 2026-11-27 | `43753ac` | pick: picked news saved |
+| 2026-11-27 | `cd303ae` | News supply (from Trichy, 27 Nov): writer failures retried, 24 h search window, taluk towns searched |
+| 2026-11-27 | `4191695` | stories shared / Instagram pause |
+| 2026-11-27 | `0392572` | pick: picked news saved |
+| 2026-11-27 | `f5f17be` | pick: list sent |
+| 2026-11-27 | `71b9689` | stories shared / Instagram pause |
+| 2026-11-27 | `67e2568` | Sources: Dailythanthi and Maalaimalar Tamil Nadu / district lists (this district's links only) |
+| 2026-11-27 | `ed28428` | stories shared / Instagram pause |
+| 2026-11-27 | `684392b` | stories shared / Instagram pause |
+| 2026-11-27 | `c697f54` | stories shared / Instagram pause |
+| 2026-11-27 | `54603f7` | goldrate posted |
+| 2026-11-27 | `31df6bc` | stories shared / Instagram pause |
+| 2026-11-27 | `ddea9e1` | stories shared / Instagram pause |
+| 2026-11-27 | `2c2b3e2` | stories shared / Instagram pause |
+| 2026-11-27 | `728a847` | stories shared / Instagram pause |
+| 2026-11-27 | `f079272` | stories shared / Instagram pause |
+| 2026-11-27 | `d8e7666` | stories shared / Instagram pause |
+| 2026-11-27 | `f412cbc` | stories shared / Instagram pause |
+| 2026-11-27 | `fbb9538` | stories shared / Instagram pause |
+| 2026-11-27 | `8f0a20b` | stories shared / Instagram pause |
+| 2026-11-27 | `e20661f` | stories shared / Instagram pause |
+| 2026-11-27 | `1ef1c3b` | powercut: notices written |
+| 2026-11-27 | `d78e48b` | stories shared / Instagram pause |
+| 2026-11-27 | `d421be4` | stories shared / Instagram pause |
+| 2026-11-27 | `9b4caff` | stories shared / Instagram pause |
+| 2026-11-27 | `8238192` | powercut: notices written |
+| 2026-11-27 | `c1888cb` | stories shared / Instagram pause |
+| 2026-11-27 | `accd70c` | autofix: corrected held news |
+| 2026-11-27 | `343f229` | stories shared / Instagram pause |
+| 2026-11-27 | `49110a6` | stories shared / Instagram pause |
 <!-- recent-changes:end -->
