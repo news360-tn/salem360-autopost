@@ -85,6 +85,18 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 <!-- recent-changes:start (updated automatically by .github/workflows/context.yml - do not edit by hand) -->
 | Date | Commit | Change |
 |---|---|---|
+| 2026-11-28 | `d86717c` | reel: the NEWS360-TN news reader in a round window on every news reel (owner 28 Nov) - the owner's own 9 drawings, the mouth chosen from the reel's voice (closed in every pause, open while the news is read); the place card sits beside it. Top 5 reel: headline clear of the buttons, the time chip above the caption area, the 5-4-3-2-1 row down the left side - one video for Instagram, Facebook and YouTube Shorts |
+| 2026-11-28 | `ca3a98d` | stories shared / Instagram pause |
+| 2026-11-28 | `46e9db2` | stories shared / Instagram pause |
+| 2026-11-28 | `9202a26` | pick: picked news saved |
+| 2026-11-28 | `0cbcabf` | pick: list sent |
+| 2026-11-28 | `4864bfa` | stories shared / Instagram pause |
+| 2026-11-28 | `fd5c539` | stories shared / Instagram pause |
+| 2026-11-28 | `098456c` | stories shared / Instagram pause |
+| 2026-11-28 | `b0295c8` | stories shared / Instagram pause |
+| 2026-11-28 | `ac00375` | stories shared / Instagram pause |
+| 2026-11-28 | `c3c6f8d` | stories shared / Instagram pause |
+| 2026-11-28 | `b988b97` | stories shared / Instagram pause |
 | 2026-11-28 | `582bc18` | yt_hashtags: a page's tag lists are also found by the channel name (Tiruppur 360: page tirupur, tag #Tiruppur360) - no change for this page |
 | 2026-11-28 | `2c2679b` | stories shared / Instagram pause |
 | 2026-11-28 | `0c6e59a` | stories shared / Instagram pause |
@@ -103,16 +115,4 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 | 2026-11-28 | `6fb2d70` | stories shared / Instagram pause |
 | 2026-11-28 | `504af7d` | reel: design A + improvements on every page (owner 28 Nov, the sample the owner chose) - with 2+ pictures they take turns every second cut, a BREAKING tag only on serious news, a place card with the district map and the town pin after the headline; no clock-hand line across the picture (soft dissolve). One layer over the finished page (reel/live360.py), inside the area that is free on Instagram, Facebook and YouTube Shorts; it never fails the reel |
 | 2026-11-28 | `f3f8eda` | powercut: notices written |
-| 2026-11-28 | `096df72` | stories shared / Instagram pause |
-| 2026-11-28 | `94faf3d` | stories shared / Instagram pause |
-| 2026-11-28 | `884845e` | autofix: corrected held news |
-| 2026-11-28 | `688970a` | YouTube: 40 hashtags on every Short (owner 28 Nov) - 25 for the video, 5 page, 5 district, 5 area (poster/yt_hashtags.py); title, first line, hidden tags, Instagram and Facebook unchanged |
-| 2026-11-28 | `469efd7` | stories shared / Instagram pause |
-| 2026-11-28 | `485fee9` | stories shared / Instagram pause |
-| 2026-11-28 | `0f0c61f` | stories shared / Instagram pause |
-| 2026-11-28 | `58b04c9` | stories shared / Instagram pause |
-| 2026-11-28 | `3e318dd` | stories shared / Instagram pause |
-| 2026-11-28 | `36e3418` | stories shared / Instagram pause |
-| 2026-11-28 | `260d159` | stories shared / Instagram pause |
-| 2026-11-28 | `4c18327` | stories shared / Instagram pause |
 <!-- recent-changes:end -->
