@@ -84,7 +84,8 @@
     "https://www.dinamani.com/all-editions/edition-dharmapuri/salem/2026/Nov/27/%E0%AE%AE%E0%AE%BE%E0%AE%A8%E0%AE%95%E0%AE%B0%E0%AE%BE%E0%AE%9F%E0%AF%8D%E0%AE%9A%E0%AE%BF%E0%AE%AF%E0%AE%BF%E0%AE%B2%E0%AF%8D-%E0%AE%AE%E0%AF%87%E0%AE%AF%E0%AE%BE%E0%AF%8D-%E0%AE%85%E0%AE%A4%E0%AE%BF%E0%AE%95%E0%AE%BE%E0%AE%B0%E0%AE%AE%E0%AF%8D-%E0%AE%AA%E0%AE%B1%E0%AE%BF%E0%AE%95%E0%AF%8D%E0%AE%95%E0%AE%AA%E0%AF%8D%E0%AE%AA%E0%AE%9F%E0%AF%81%E0%AE%95%E0%AE%BF%E0%AE%B1%E0%AE%A4%E0%AF%81"
    ],
    "listed_at": "2026-11-28T02:28:17.871748+05:30",
-   "picked_at": "2026-11-28T06:27:51.864326+05:30"
+   "picked_at": "2026-11-28T06:27:51.864326+05:30",
+   "posted": true
   },
   "Cd4722cc": {
    "id": "Cd4722cc",
@@ -146,7 +147,8 @@
    "power_cut": false,
    "late_listed": true,
    "listed_at": "2026-11-28T06:26:18.242345+05:30",
-   "picked_at": "2026-11-28T06:27:51.864324+05:30"
+   "picked_at": "2026-11-28T06:27:51.864324+05:30",
+   "posted": true
   },
   "C019ca85": {
    "id": "C019ca85",
@@ -159,7 +161,8 @@
    "score": 8.0,
    "power_cut": false,
    "listed_at": "2026-11-28T06:26:18.242345+05:30",
-   "picked_at": "2026-11-28T06:27:51.864328+05:30"
+   "picked_at": "2026-11-28T06:27:51.864328+05:30",
+   "refused": "not filed: duplicate after write"
   }
  },
  "rounds": {
@@ -692,7 +695,10 @@
     "C019ca85",
     "C30a7115",
     "C3725223"
-   ]
+   ],
+   "refused": {
+    "C019ca85": "not filed: duplicate after write"
+   }
   }
  },
  "retry": {
