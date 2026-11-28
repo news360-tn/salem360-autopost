@@ -84,6 +84,18 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 <!-- recent-changes:start (updated automatically by .github/workflows/context.yml - do not edit by hand) -->
 | Date | Commit | Change |
 |---|---|---|
+| 2026-11-28 | `0c837fc` | Top 5: headline at most 3 lines (never over the 5-4-3-2-1 row), the row a little lower, 'nettru' for yesterday's news |
+| 2026-11-28 | `837c451` | stories shared / Instagram pause |
+| 2026-11-28 | `b8fb2ec` | stories shared / Instagram pause |
+| 2026-11-28 | `35d9b1d` | stories shared / Instagram pause |
+| 2026-11-28 | `cb17542` | stories shared / Instagram pause |
+| 2026-11-28 | `0b59867` | stories shared / Instagram pause |
+| 2026-11-28 | `c085608` | stories shared / Instagram pause |
+| 2026-11-28 | `1c147b6` | stories shared / Instagram pause |
+| 2026-11-28 | `602cc17` | stories shared / Instagram pause |
+| 2026-11-28 | `489755d` | stories shared / Instagram pause |
+| 2026-11-28 | `74ec152` | stories shared / Instagram pause |
+| 2026-11-28 | `0cb034f` | stories shared / Instagram pause |
 | 2026-11-28 | `eea8175` | Rasipalan and top 5: the page's real Instagram username as the fallback (never a made-up Tamil name on the follow card) |
 | 2026-11-28 | `cf47251` | stories shared / Instagram pause |
 | 2026-11-28 | `b240732` | pick: written and posted |
@@ -102,16 +114,4 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 | 2026-11-28 | `3adb522` | pick: picked news saved |
 | 2026-11-28 | `8113405` | stories shared / Instagram pause |
 | 2026-11-28 | `6d3aaf4` | autofix: corrected held news |
-| 2026-11-28 | `b43d2a8` | pick: picked news saved |
-| 2026-11-28 | `0f2f881` | pick: list sent |
-| 2026-11-28 | `eb54468` | stories shared / Instagram pause |
-| 2026-11-28 | `be92cfd` | stories shared / Instagram pause |
-| 2026-11-28 | `6d2a7bd` | stories shared / Instagram pause |
-| 2026-11-28 | `e3c29e6` | stories shared / Instagram pause |
-| 2026-11-28 | `87dc03f` | stories shared / Instagram pause |
-| 2026-11-28 | `a423aa0` | stories shared / Instagram pause |
-| 2026-11-28 | `e1ed95d` | stories shared / Instagram pause |
-| 2026-11-28 | `74e3f2d` | stories shared / Instagram pause |
-| 2026-11-28 | `5892857` | stories shared / Instagram pause |
-| 2026-11-28 | `4dbc1bc` | stories shared / Instagram pause |
 <!-- recent-changes:end -->
