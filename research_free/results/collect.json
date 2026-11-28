@@ -3,252 +3,272 @@
   "earlier stories still waiting for images: []",
   "instagram check: 50 recent posts read from the page",
   "pick round: only the picked links are written (research_free/pick.py)",
-  "manual link added: https://www.dinamani.com/all-editions/edition-dharmapuri/salem/2026/Nov/27/camp-for-addition-deletion-and-correction-of-names-in-the-electoral-roll-tomorrow",
-  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-salem/dmk-celebrates-udhayanidhis-birthday/4388261",
-  "manual link added: https://www.dinamani.com/all-editions/edition-dharmapuri/salem/2026/Nov/27/consecration-ceremony-kudamuzhuku-at-the-then-sendur-subramaniar-temple-in-oorkkamalai-tomorrow",
+  "manual link added: https://www.dinamani.com/all-editions/edition-chennai/chennai/2026/Nov/27/weavers-affected-as-permission-for-production-of-dhotis-and-sarees-is-not-granted-edappadi-k-palaniswami-condemns-the-move",
+  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-salem/car-catches-fire-on-highway/4388248",
+  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-salem/kumbhabhishekam-at-subramanya-temple-tomorrow/4388257",
   "candidate filter: collected=3",
   "to write: 3 Salem district candidates (max 3 stories)",
   "round: top 3 of 3 candidates",
   "candidates waiting: 3 Salem; time left 79 min",
-  "try (N) manual=True: https://www.dinamani.com/all-editions/edition-dharmapuri/sal",
   "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-sale",
-  "try (N) manual=True: https://www.dinamani.com/all-editions/edition-dharmapuri/sal",
-  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 3})",
+  "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-sale",
+  "try (N) manual=True: https://www.dinamani.com/all-editions/edition-chennai/chenna",
+  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 2})",
   "posting job started at once",
-  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 5})",
-  "NOT filed (N) நாளை வாக்காளா் பட்டியலில் \nபெயா் சோ்த்தல், நீக்கம: duplicate after write",
-  "candidate loop ended: left 0, tried={'N': 3}, done={'N': 2}, time left 76 min",
-  "filed: 2 Salem district stories (target 3), reels only",
+  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 4})",
+  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 6})",
+  "candidate loop ended: left 0, tried={'N': 3}, done={'N': 3}, time left 78 min",
+  "filed: 3 Salem district stories (target 3), reels only",
   "queue: 0 news waiting to be written",
   "All News sheet: {\"ok\":true,\"added\":3,\"updated\":0}"
  ],
  "llm": [
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok gemini/gemini-3.6-flash (17s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
   "dead for this round: gemini/gemini-3.6-flash",
-  "ok gemini/gemini-3.6-flash (20s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
   "dead for this round: gemini/gemini-3.5-flash",
-  "ok gemini/gemini-3.6-flash (23s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok gemini/gemini-3-flash-preview (10s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok gemini/gemini-3.5-flash (17s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
+  "dead for this round: gemini/gemini-3.5-flash",
   "ok gemini/gemini-3-flash-preview (9s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok gemini/gemini-3-flash-preview (11s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok gemini/gemini-3.5-flash (18s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok gemini/gemini-3-flash-preview (8s)",
+  "ok gemini/gemini-3-flash-preview (11s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok gemini/gemini-3-flash-preview (10s)",
+  "fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, plea",
+  "dead for this round: gemini/gemini-3-flash-preview",
+  "ok gemini/gemini-3-flash-preview (12s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok gemini/gemini-3-flash-preview (10s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "fail gemini/gemini-3-flash-preview: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=60)",
-  "poor answer - skipped for 30 min: gemini/gemini-3-flash-preview",
-  "ok groq/openai/gpt-oss-120b (6s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
-  "fail gemini/gemini-3-flash-preview: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=60)",
-  "poor answer - skipped for 30 min: gemini/gemini-3-flash-preview",
-  "ok gemini/gemini-3-flash-preview (24s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 413: {\"error\":{\"message\":\"Request too large for model `openai/gpt-oss-120b` in organization `or",
   "ok groq/openai/gpt-oss-120b (4s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok groq/qwen/qwen3.8-27b (3s)",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
+  "ok groq/openai/gpt-oss-120b (5s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
   "dead for this round: groq/openai/gpt-oss-120b",
+  "ok gemini/gemini-3-flash-preview (15s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 413: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
+  "ok groq/qwen/qwen3.8-27b (4s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
   "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
   "dead for this round: groq/openai/gpt-oss-120b",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
+  "ok anthropic/claude-haiku-5-5",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "ok anthropic/claude-haiku-5-5",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok groq/qwen/qwen3.8-27b (1s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
   "switching away from groq/qwen/qwen3.8-27b for 10 min",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
-  "switching away from groq/qwen/qwen3.8-27b for 10 min",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
-  "switching away from groq/qwen/qwen3.8-27b for 10 min",
   "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
   "ok anthropic/claude-haiku-5-5",
   "ok anthropic/claude-haiku-5-5",
   "ok anthropic/claude-haiku-5-5",
   "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "ok anthropic/claude-haiku-5-5"
  ],
  "stories": [
   {
-   "tamil_headline": "தாரமங்கலத்தில் உதயநிதி பிறந்தநாள் தி.மு.க. கொண்டாட்டம்",
-   "english_headline": "DMK celebrates Udhayanidhi's birthday in Tharamangalam with sweets and school gifts",
-   "category": "Government & Services",
-   "location": "Tharamangalam town, Salem district",
-   "importance": "Low",
-   "scope": "local",
-   "post_to": "Salem 360",
-   "slides_spec": {
-    "v": 3,
-    "cat": "அரசியல் நிகழ்வு",
-    "loc": "தாரமங்கலம்",
-    "hl1": "தாரமங்கலத்தில் உதயநிதி பிறந்தநாள் விழா",
-    "hl2": "தி.மு.க. சார்பில்",
-    "slides": [
-     {
-      "title": "எங்கே, எப்போது?",
-      "lines": [
-       "தாரமங்கலம் நகர தி.மு.க. சார்பில் நேற்று கொண்டாட்டம்",
-       "தமிழக எதிர்க்கட்சித் தலைவர் உதயநிதி பிறந்தநாள்",
-       "நகர செயலர் குணசேகரன் தலைமை வகித்தார்"
-      ]
-     },
-     {
-      "title": "ஊர்வலம், மரியாதை",
-      "lines": [
-       "தேர் நிலையம் அருகில் இருந்து ஊர்வலம் தொடங்கியது",
-       "அண்ணாதுரை சிலை, கருணாநிதி சிலைக்கு மாலை அணிவிப்பு",
-       "சிலைகளுக்கு அருகில் இனிப்பு வழங்கப்பட்டது"
-      ]
-     },
-     {
-      "title": "மாணவர்களுக்கு உதவி",
-      "lines": [
-       "இளைஞரணி சார்பில் அரசு துவக்கப்பள்ளி மாணவர்களுக்கு நோட்டு",
-       "இனிப்பும் வழங்கப்பட்டது",
-       "நகர துணைச் செயலர் செல்வணி பங்கேற்றார்"
-      ]
-     },
-     {
-      "title": "அயோத்தியாப்பட்டணம்",
-      "lines": [
-       "அயோத்தியாப்பட்டணம் டவுன் பஞ்சாயத்து தலைவர் பாபு தலைமையில்",
-       "பேரூர் தி.மு.க. சார்பில் கொண்டாட்டம்",
-       "மக்களுக்கு இனிப்பும் அறுசுவை உணவும் வழங்கப்பட்டது"
-      ]
-     }
-    ],
-    "carousel": false
-   },
-   "reel_script": "தாரமங்கலத்தில் நேற்று உதயநிதி பிறந்தநாள் விழா தி மு க சார்பில் கொண்டாடப்பட்டது. தமிழக எதிர்க்கட்சித் தலைவர் உதயநிதியின் பிறந்தநாளை முன்னிட்டு தாரமங்கலம் நகர தி மு க ஏற்பாடு செய்திருந்தது. நகர செயலர் குணசேகரன் தலைமை வகித்தார். தேர் நிலையம் அருகில் இருந்து ஊர்வலம் தொடங்கியது. ஊர்வலம் அண்ணாதுரை சிலைக்குச் சென்றது. அங்கு மாலை அணிவித்து இனிப்பு வழங்கப்பட்டது. அங்குள்ள கருணாநிதி சிலைக்கும் மாலை அணிவிக்கப்பட்டது. இளைஞரணி சார்பில் அரசு துவக்கப்பள்ளி மாணவர்களுக்கு இனிப்பு, நோட்டு, பேனா வழங்கப்பட்டன. நகர துணைச் செயலர் செல்வணி, பொருளாளர் சேகரன், இளைஞரணி அமைப்பாளர்கள், நகராட்சி கவுன்சிலர்கள் பங்கேற்றனர். அயோத்தியாப்பட்டணம் டவுன் பஞ்சாயத்து தலைவர் பாபு தலைமையில் பேரூர் தி மு க சார்பில் பிறந்தநாள் கொண்டாடப்பட்டது. மக்களுக்கு இனிப்பும் அறுசுவை உணவும் வழங்கப்பட்டது. மேலும் செய்திகளுக்கு சேலம் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🎉 தாரமங்கலத்தில் உதயநிதி பிறந்தநாள் தி.மு.க. கொண்டாட்டம்\n\n📰 முழு விவரம்:\nதமிழக எதிர்க்கட்சித் தலைவர் உதயநிதியின் பிறந்தநாளை முன்னிட்டு தாரமங்கலம் நகர தி.மு.க. சார்பில் நேற்று கொண்டாட்டம் நடைபெற்றது. நகர செயலர் குணசேகரன் தலைமை வகித்தார். தேர் நிலையம் அருகில் இருந்து ஊர்வலமாக அண்ணாதுரை சிலைக்குச் சென்று மாலை அணிவித்து இனிப்பு வழங்கினர். கருணாநிதி சிலைக்கும் மாலை அணிவித்தனர்.\nஇளைஞரணி சார்பில் அரசு துவக்கப்பள்ளி மாணவர்களுக்கு இனிப்பு, நோட்டு, பேனா வழங்கப்பட்டன. நகர துணைச் செயலர் செல்வணி, பொருளாளர் சேகரன், இளைஞரணி அமைப்பாளர்கள், நகராட்சி கவுன்சிலர்கள் பங்கேற்றனர்.\nஅயோத்தியாப்பட்டணம் டவுன் பஞ்சாயத்து தலைவர் பாபு தலைமையில் பேரூர் தி.மு.க. சார்பில் பிறந்தநாள் கொண்டாடப்பட்டது. மக்களுக்கு இனிப்பும் அறுசுவை உணவும் வழங்கப்பட்டது.\n\nDMK celebrates Udhayanidhi's birthday in Tharamangalam | Salem news\n📍 தாரமங்கலம், சேலம் மாவட்டம் | 28 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Salem360 #Salem #Tharamangalam #SalemNews #சேலம்",
-   "prompts": "A garland-clad statue of Annadurai stands at a roadside junction in Tharamangalam town, Salem district, as a group of DMK party members in white shirts and veshti gathers around it during a birthday procession. A few men in front hold up boxes of sweets and red-and-black party flags flutter above the crowd. Behind them rise the tiered gopuram of the temple near the chariot stand and a row of old shops and two-wheelers parked along the narrow town street. Some of the men place fresh garlands around the statue's neck while others clap. The scene is in bright daylight with a clear sky. Shot from slightly high, eye level, 35 mm lens, wide enough to show the statue, the crowd and the street. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up of a cardboard box of sweets held by a party worker's hands in front of a government primary school gate in Tharamangalam, Salem district. Inside the box are neat rows of colourful sweets, and beside it stacks of school notebooks and a few pens are placed on a small table. Behind, out of focus, a line of schoolchildren in Tamil Nadu school uniform, seen from behind, waits to receive them. The background shows a plain school wall and a concrete pole. Bright daylight, soft shadows. Shot at eye level, 35 mm lens, shallow depth of field to keep focus on the sweets and notebooks. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-salem/dmk-celebrates-udhayanidhis-birthday/4388261",
-   "published": "2026-11-28T07:09:00+05:30",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5) - fact-check: no problems found",
-   "note": "free-model draft anthropic/claude-haiku-5-5, 12 attempt(s), 0 validator problem(s)",
-   "post_time": "right after your reply, same day",
-   "_area": "N",
-   "_score": 999,
-   "images": [
-    "https://pub-ec316fa6a94f404c993596355ad19128.r2.dev/salem360/20261128/1d56e2132616c68d.jpg",
-    "https://pub-ec316fa6a94f404c993596355ad19128.r2.dev/salem360/20261128/0447aa1b93e64de8.jpg"
-   ]
-  },
-  {
-   "tamil_headline": "சங்ககிரி அருகே ஒருக்காமலை தென்செந்தூர் சுப்பிரமணியர் கோயில் குடமுழுக்கு: நாளை காலை 7 மணிக்கு விழா",
-   "english_headline": "Consecration of newly built Thenchendur Subramaniyar temple at Orukkamalai near Sankari on Sunday, Nov 29",
-   "category": "Temples & Events",
-   "location": "Orukkamalai, Sankari taluk, Salem district",
+   "tamil_headline": "மேட்டுப்பட்டி அருகே கார் தீப்பற்றி எரிந்தது",
+   "english_headline": "Car caught fire near Mettupatti toll booth",
+   "category": "Crime & Safety",
+   "location": "Mettupatti, Salem district",
    "importance": "Medium",
    "scope": "local",
    "post_to": "Salem 360",
    "slides_spec": {
     "v": 3,
-    "cat": "குடமுழுக்கு",
-    "loc": "ஒருக்காமலை, சங்ககிரி",
-    "hl1": "சங்ககிரியில் நாளை கோயில் குடமுழுக்கு",
-    "hl2": "தென்செந்தூர் சுப்பிரமணியர்",
+    "cat": "தீ விபத்து",
+    "loc": "மேட்டுப்பட்டி, சேலம்",
+    "hl1": "மேட்டுப்பட்டி அருகே கார் தீ விபத்து",
+    "hl2": "முழுதும் எரிந்து கருகியது",
     "slides": [
      {
-      "title": "எப்போது?",
+      "title": "விபத்து விவரம்",
       "lines": [
-       "நாளை <b>29 நவம்பர்</b> (ஞாயிற்றுக்கிழமை)",
-       "காலை <b>7 மணி</b> முதல் <b>8 மணி</b> வரை குடமுழுக்கு",
-       "சங்ககிரி அருகே ஒருக்காமலை அடிவாரம்"
+       "நேற்று காலை 11:27 மணிக்கு",
+       "மேட்டுப்பட்டி சுங்கச்சாவடி அருகே",
+       "காரின் முன்பகுதியில் புகை வந்தது"
       ]
      },
      {
-      "title": "புனிதநீர் ஊர்வலம்",
+      "title": "தீயணைப்பு பணி",
       "lines": [
-       "பூலாம்பட்டி காவிரி கரையில் இருந்து புனிதநீர்",
-       "சங்ககிரி முக்கிய வீதிகள் வழியாக கொண்டுவரப்பட்டது",
-       "வெள்ளியன்று விநாயகர், வாஸ்து பூஜைகள் நிறைவு"
+       "வாழப்பாடி தீயணைப்பு வீரர்கள் வந்தனர்",
+       "காலை 11:35 மணிக்கு தீ அணைத்தனர்",
+       "கார் முழுதும் எரிந்து கருகியது"
       ]
      },
      {
-      "title": "பூஜை நேரங்கள்",
+      "title": "காரணம்",
       "lines": [
-       "நாளை காலை <b>6 மணிக்கு</b> 3ஆம்கால வேள்வி பூஜை",
-       "காலை <b>7 – 8 மணிக்குள்</b> குடமுழுக்கு விழா",
-       "தமிழ் முறைப்படி கோபுர கலசங்களுக்கு குடமுழுக்கு"
+       "இஞ்ஜினில் ஆயில் கசிவு காரணம்",
+       "வாழப்பாடி போலீசார் விசாரிக்கின்றனர்",
+       "உறவினருடன் பயணம் செய்தார்"
       ]
      }
     ],
     "carousel": false
    },
-   "reel_script": "சங்ககிரி அருகே ஒருக்காமலையில் புதிதாக கட்டப்பட்டுள்ள தென்செந்தூர் சுப்பிரமணியர் கோயில் குடமுழுக்கு நாளை நடைபெறுகிறது. நவம்பர் 29ஆம் தேதி ஞாயிற்றுக்கிழமை காலை 7 மணி முதல் 8 மணிக்குள் குடமுழுக்கு விழா நடைபெற உள்ளது. முன்னதாக வெள்ளிக்கிழமை விநாயகர், நவக்கிரக மற்றும் வாஸ்து பூஜைகள் நடைபெற்றன. முருக பக்தர்கள் பூலாம்பட்டி காவிரி ஆற்றங்கரையிலிருந்து புனிதநீரை குடங்களில் எடுத்தனர். சங்ககிரி நகரின் முக்கிய வீதிகள் வழியாக புனிதநீர் கோயிலுக்கு எடுத்து வரப்பட்டது. சனிக்கிழமை முதல்கால யாகசாலை பூஜைகளும் மாலை இரண்டாம் கால வேள்வி பூஜைகளும் நடைபெற்றன. நாளை காலை 6 மணிக்கு மூன்றாம்கால வேள்வி பூஜைகள் நடைபெறுகின்றன. காலை 7 மணி முதல் 8 மணிக்குள் தமிழ் முறைப்படி கோபுர கலசங்களுக்கு குடமுழுக்கு நடைபெறுகிறது. மேலும் செய்திகளுக்கு சேலம் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🛕 சங்ககிரியில் நாளை தென்செந்தூர் சுப்பிரமணியர் கோயில் குடமுழுக்கு - காலை 7 முதல் 8 மணி வரை\n\n📰 முழு விவரம்:\nசங்ககிரியை அடுத்த ஒருக்காமலை அடிவாரத்தில் புதிதாக கட்டப்பட்டுள்ள தென்செந்தூர் சுப்பிரமணியர் கோயில் குடமுழுக்கு நாளை (நவ. 29, ஞாயிற்றுக்கிழமை) நடைபெற உள்ளது. குடமுழுக்கையொட்டி வெள்ளிக்கிழமை விநாயகர், நவக்கிரக மற்றும் வாஸ்து பூஜைகள் நடைபெற்றன. பக்தர்கள் பூலாம்பட்டி காவிரி ஆற்றங்கரையிலிருந்து புனிதநீரை குடங்களில் சங்ககிரி நகரின் முக்கிய வீதிகள் வழியாக கோயிலுக்கு எடுத்து வந்தனர். சனிக்கிழமை முதல்கால யாகசாலை பூஜைகளும் மாலை 2ஆம் கால வேள்வி பூஜைகளும் நடைபெற்றன. நாளை காலை 6 மணிக்கு 3ஆம் கால வேள்வி பூஜையும், காலை 7 மணி முதல் 8 மணிக்குள் தமிழ் முறைப்படி கோபுர கலசங்களுக்கு குடமுழுக்கு விழாவும் நடைபெற உள்ளது.\n\n🗓️ நாள்: 29 நவம்பர் 2026 (ஞாயிற்றுக்கிழமை)\n📍 இடம்: ஒருக்காமலை அடிவாரம், சங்ககிரி அருகே\n🕘 நேரம்: காலை 7 மணி முதல் 8 மணி வரை\n\nSankari Orukkamalai Thenchendur Murugan temple kudamuzhukku | Salem news\n📍 ஒருக்காமலை, சங்ககிரி, சேலம் மாவட்டம் | 28 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Salem360 #Salem #Sankari #குடமுழுக்கு #SalemNews",
-   "prompts": "A group of devotees in white veshti and shirts carry brass and copper water pots on their heads toward a newly built south Indian temple at the foot of a rocky hill, as a priest in a white dhoti walks ahead. The setting is the outer compound of a new temple at Orukkamalai near Sankari, Salem district, with a tall tapering gopuram newly painted in yellow and red, bamboo and banana-leaf decorations along the entrance, and the bare rocky Orukkamalai hill rising in the background. Several people from behind and far away wear white and carry pots, some women in cotton sarees hold brass kudams. Early Sunday morning, soft golden sunlight, clear sky. Camera at eye level, 35 mm, wide enough to show the gopuram, the crowd and the hill. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up of several copper and brass water pots (kudams) filled with holy water and decorated with mango leaves and a coconut on top, placed on a stone platform at the base of a newly built gopuram. Behind them, a few devotees in white veshti stand slightly blurred, and a tall yellow-and-red tower with kalasams rises at the top of the frame. Early morning daylight, warm natural light on the metal pots, shallow depth of field, camera slightly high at about 35 mm to show the kalasams and the pots together. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamani.com/all-editions/edition-dharmapuri/salem/2026/Nov/27/consecration-ceremony-kudamuzhuku-at-the-then-sendur-subramaniar-temple-in-oorkkamalai-tomorrow",
-   "published": "2026-11-27T19:57:08.124Z",
-   "verification": "DRAFT (gemini/gemini-3.6-flash) - NOT CLEAN, held from posting - problems: fact-check: Caption includes the year 2026 in the date (29 நவம்பர் 2026) which is not stated in the article",
-   "note": "free-model draft gemini/gemini-3.6-flash, 1 attempt(s), 1 validator problem(s)",
+   "reel_script": "மேட்டுப்பட்டி அருகே கார் தீப்பற்றி முழுதும் எரிந்து கருகியது. கெங்கவல்லியை சேர்ந்த 40 வயது பிரகாசம் என்பவர் உறவினருடன் பயணம் செய்தார். நேற்று காலை 11:27 மணிக்கு சேலம் அரசு மருத்துவமனை நோக்கி வந்தார். மேட்டுப்பட்டி சுங்கச்சாவடி அருகே வந்தபோது காரின் முன்பகுதியில் புகை வந்தது. பிரகாசம் காரை ஓரங்கட்டி உறவினருடன் இறங்கினார். உடனே கார் தீப்பற்றி எரிந்தது. பிரகாசம் வாழப்பாடி தீயணைப்பு துறையினருக்கு தகவல் கொடுத்தார். காலை 11:35 மணிக்கு தீயணைப்பு வீரர்கள் அங்கு வந்தனர். அவர்கள் தண்ணீரை பீய்ச்சி அடித்து தீயை அணைத்தனர். இருப்பினும் கார் முழுதும் எரிந்து கருகியது. வாழப்பாடி போலீசார் விசாரணை நடத்தி வருகின்றனர். இஞ்ஜினில் ஆயில் கசிவால் தீ விபத்து ஏற்பட்டதாக போலீசார் கூறினர். மேலும் செய்திகளுக்கு சேலம் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🔥 மேட்டுப்பட்டி அருகே கார் தீ விபத்து: முழுதும் எரிந்து கருகியது\n\n📰 முழு விவரம்:\nகெங்கவல்லியை சேர்ந்த 40 வயது பிரகாசம் என்பவர் உறவினருடன் பயணம் செய்தார். நேற்று காலை 11:27 மணிக்கு சேலம் அரசு மருத்துவமனை நோக்கி வந்தார். மேட்டுப்பட்டி சுங்கச்சாவடி அருகே வந்தபோது காரின் முன்பகுதியில் புகை வந்தது. பிரகாசம் காரை ஓரங்கட்டி உறவினருடன் இறங்கினார். உடனே கார் தீப்பற்றி எரிந்தது. வாழப்பாடி தீயணைப்பு துறையினருக்கு தகவல் கொடுத்தார். காலை 11:35 மணிக்கு தீயணைப்பு வீரர்கள் தீயை அணைத்தனர். கார் முழுதும் எரிந்து கருகியது. இஞ்ஜினில் ஆயில் கசிவு காரணமாக விபத்து நடந்ததாக போலீசார் கூறினர். வாழப்பாடி போலீசார் விசாரணை நடத்தி வருகின்றனர்.\n\n📍 இடம்: மேட்டுப்பட்டி சுங்கச்சாவடி அருகே, சேலம்\n🗓️ நாள்: நேற்று (27 நவம்பர்)\n🕘 நேரம்: காலை 11:27 மணி\n👮 நடவடிக்கை: போலீசார் விசாரணை நடத்தி வருகின்றனர்\nℹ️ காரணம்: இஞ்ஜினில் ஆயில் கசிவு\n\nதேவைப்படுவோருக்கு Share செய்யுங்கள்\n\nCar fire near Mettupatti toll booth | Salem news\n📍 Mettupatti, Salem | 28 Nov 2026\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Salem360 #Salem #Mettupatti #SalemNews #சேலம்",
+   "prompts": "A charred Nissan Terrano car sits on the shoulder of a road near a toll booth, its body completely blackened and burnt. The vehicle is positioned on the side of the road, with the front end heavily damaged and melted. In the background, the structure of the Mettupatti toll booth is visible, along with the open road stretching into the distance. Two men, the driver and his relative, stand a safe distance away from the burning wreckage, looking towards the vehicle. They are dressed in casual shirts and trousers. A fire truck is parked nearby, with a hose extending towards the car. Firefighters in khaki uniforms are seen in the background, having just finished extinguishing the flames. The scene is set during the daytime, with bright sunlight illuminating the charred remains of the car and the surrounding area. The camera is at eye level, capturing the full extent of the damage and the presence of emergency services. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up view of the front engine compartment of the burnt Nissan Terrano car, showing the melted and charred remains of the engine and surrounding parts. The metal is twisted and blackened, with visible signs of intense heat damage. The oil leak that caused the fire is evident from the dark, burnt residue around the engine area. The car's hood is open, revealing the destroyed internal components. The background is blurred, focusing attention on the detailed damage to the engine. The lighting is natural daylight, highlighting the textures and colors of the burnt metal. The camera is slightly high, providing a clear view of the engine's condition and the extent of the fire damage. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-salem/car-catches-fire-on-highway/4388248",
+   "published": "2026-11-28T06:47:00+05:30",
+   "verification": "DRAFT (groq/qwen/qwen3.8-27b) - fact-check: no problems found",
+   "note": "free-model draft groq/qwen/qwen3.8-27b, 3 attempt(s), 0 validator problem(s)",
    "post_time": "right after your reply, same day",
    "_area": "N",
    "_score": 999,
    "images": [
-    "https://pub-ec316fa6a94f404c993596355ad19128.r2.dev/salem360/20261128/eda840b4f69b8993.jpg",
-    "https://pub-ec316fa6a94f404c993596355ad19128.r2.dev/salem360/20261128/8713e08fa5953247.jpg"
+    "https://pub-ec316fa6a94f404c993596355ad19128.r2.dev/salem360/20261128/08d48a731247aeb5.jpg",
+    "https://pub-ec316fa6a94f404c993596355ad19128.r2.dev/salem360/20261128/cbaee559f1c1d9d3.jpg"
+   ]
+  },
+  {
+   "tamil_headline": "வேட்டி, சேலை உற்பத்திக்கு அனுமதி வழங்காததால் நெசவாளர்கள் பாதிப்பு",
+   "english_headline": "Weavers hit as government delays Pongal dhoti-saree production permission; EPS condemns",
+   "category": "Government & Services",
+   "location": "Tamil Nadu (state-level)",
+   "importance": "High",
+   "scope": "district",
+   "post_to": "Salem 360",
+   "slides_spec": {
+    "v": 3,
+    "cat": "அரசு அறிவிப்பு",
+    "loc": "தமிழ்நாடு",
+    "hl1": "தமிழ்நாடு: நெசவாளர்கள் பாதிப்பு",
+    "hl2": "வேட்டி, சேலை அனுமதி தாமதம்",
+    "slides": [
+     {
+      "title": "என்ன பிரச்சனை?",
+      "lines": [
+       "பொங்கல் விலையில்லா வேட்டி, சேலை உற்பத்தி அனுமதி",
+       "<b>5 லட்சம்</b> நெசவாளர்கள் பாதிப்பு",
+       "அதிமுக பொதுச் செயலாளர் எடப்பாடி கே.பழனிசாமி கண்டனம்"
+      ]
+     },
+     {
+      "title": "ஏன் தாமதம்?",
+      "lines": [
+       "அனுமதி கடந்த ஜூன், ஜூலையில் வழங்கியிருக்க வேண்டும்",
+       "தற்போது காலம் குறைவு எனக் காரணம் கூறப்படுகிறது",
+       "குறிப்பிட்ட ஒரு நிறுவனத்துக்கு அனுமதி வழங்கப்பட்டுள்ளது"
+      ]
+     },
+     {
+      "title": "நெசவாளர்கள் நிலை",
+      "lines": [
+       "கடந்த 6 மாதங்களாக விலைவாசி உயர்வால் பாதிப்பு",
+       "விலையில்லா வேட்டி, சேலை வாய்ப்பை இழந்துள்ளனர்",
+       "அனுமதி வழங்க அரசுக்கு வேண்டுகோள்"
+      ]
+     }
+    ],
+    "carousel": false
+   },
+   "reel_script": "தமிழ்நாட்டில் பொங்கல் விலையில்லா வேட்டி, சேலை உற்பத்திக்கு அனுமதி வழங்கப்படாததால் 5 லட்சம் நெசவாளர்கள் பாதிக்கப்பட்டுள்ளனர். அ தி மு க பொதுச் செயலாளர் எடப்பாடி கே பழனிசாமி இதற்குக் கண்டனம் தெரிவித்துள்ளார். 1983ஆம் ஆண்டு முதல்வர் எம்ஜிஆர் இந்தத் திட்டத்தைச் செயல்படுத்தினார் என்று அவர் நினைவூட்டினார். நடப்பு ஆண்டில் தரமான வேட்டி, சேலை வழங்கப்போவதாக த வெ க அரசு அறிவித்தது. உற்பத்தி அனுமதியை கடந்த ஜூன், ஜூலை மாதங்களிலேயே வழங்கியிருக்க வேண்டும் என்று அவர் கூறினார். தற்போது காலம் குறைவு என்று காரணம் காட்டி, குறிப்பிட்ட ஒரு நிறுவனத்துக்கு அனுமதி வழங்கப்பட்டுள்ளதாக தமிழ்நாடு விசைத்தறி சங்கங்களின் கூட்டமைப்பினர் தெரிவித்தனர். கடந்த 6 மாதங்களாக விலைவாசி உயர்வாலும் நெசவாளர்கள் பாதிக்கப்பட்டுள்ளனர். எனவே, வேட்டி, சேலை உற்பத்தி அனுமதியை அரசு உடனடியாக வழங்க வேண்டும் என்று அவர் வலியுறுத்தினார். மேலும் செய்திகளுக்கு சேலம் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🧵 தமிழ்நாடு: பொங்கல் வேட்டி, சேலை உற்பத்தி அனுமதி தாமதத்தால் 5 லட்சம் நெசவாளர்கள் பாதிப்பு\n\n📰 முழு விவரம்:\nபொங்கல் பண்டிகையையொட்டி தமிழக அரசு வழங்கும் விலையில்லா வேட்டி, சேலை திட்டத்துக்கான பணியை மேற்கொள்ள அனுமதி வழங்கப்படவில்லை என அதிமுக பொதுச் செயலாளர் எடப்பாடி கே.பழனிசாமி கண்டனம் தெரிவித்துள்ளார்.\nவிலையில்லா வேட்டி, சேலை திட்டம் 1983ஆம் ஆண்டு அப்போதைய முதல்வர் எம்ஜிஆரால் செயல்படுத்தப்பட்டது.\nநடப்பு ஆண்டில் தரமான வேட்டி, சேலை வழங்கப்போவதாக தவெக அரசு அறிவித்தது.\nஉற்பத்தி அனுமதியை கடந்த ஜூன், ஜூலை மாதங்களில் நெசவாளர்களுக்கு வழங்கியிருக்க வேண்டும்.\nகாலம் குறைவாக இருப்பதைக் காரணம் காட்டி, குறிப்பிட்ட ஒரு நிறுவனத்துக்கு அனுமதி வழங்கப்பட்டுள்ளதாக தமிழ்நாடு விசைத்தறி சங்கங்களின் கூட்டமைப்பினர் தெரிவித்தனர்.\nகடந்த 6 மாதங்களாக விலைவாசி உயர்வாலும் நெசவாளர்கள் பாதிக்கப்பட்டுள்ளனர்.\nஅரசின் அனுமதி இல்லாததால் நெசவாளர்களின் வாழ்வாதாரம் பெரிதும் பாதிக்கப்பட்டுள்ளது. அனுமதியை அரசு வழங்க வேண்டும் என எடப்பாடி கே.பழனிசாமி வலியுறுத்தியுள்ளார்.\n\nWeavers hit as Pongal dhoti-saree permission delayed | Tamil Nadu news\n📍 தமிழ்நாடு | 27 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Salem360 #Salem #SalemNews #சேலம் #TamilNadu",
+   "prompts": "Rows of powerloom sheds in a small weaving town of Salem district stand idle in the afternoon light, with a few women weavers in cotton sarees and men in shirts and veshti sitting in front of silent wooden and metal looms. Stacks of unfinished white dhoti cloth and coloured saree rolls lie on the floor and along the walls, with loose yarn spools and cardboard bobbins scattered between the machines. Behind them the shed opens onto a dusty lane with a single two-wheeler and a few distant concrete electric poles; the far background shows the faint blue outline of the Shevaroy hills. Shot at eye level with a 35 mm lens, wide enough to show the whole shed, the seated workers seen from behind or far away and softly blurred, daylight streaming through the open shutters. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up of a wooden handloom in a Tamil Nadu weaving shed, its warp threads stretched taut across the frame and a half-woven saree of plain cream cloth with a thin coloured border still wound on the beam. A weaver's hand rests idle on the shuttle, slightly blurred, and beside it lie a few cardboard bobbins of yarn and a folded stack of finished white dhoti cloth. Dust particles drift in a shaft of daylight from a high window, with the blurred edge of a khaki-sleeved shoulder and a teacup on the floor at the frame's edge. Shot at close range with a 35 mm lens and shallow depth of field, eye level, daylight and no visible text or labels. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamani.com/all-editions/edition-chennai/chennai/2026/Nov/27/weavers-affected-as-permission-for-production-of-dhotis-and-sarees-is-not-granted-edappadi-k-palaniswami-condemns-the-move",
+   "published": "2026-11-27T22:29:35.844Z",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: sentence 1 (one-line story) has 12 words; make it 6-9 words (about 2-3 seconds), the details follow in the next sentences",
+   "note": "free-model draft anthropic/claude-haiku-5-5, 12 attempt(s), 1 validator problem(s)",
+   "post_time": "right after your reply, same day",
+   "_area": "N",
+   "_score": 999,
+   "images": [
+    "https://pub-ec316fa6a94f404c993596355ad19128.r2.dev/salem360/20261128/8f9baf46f245de69.jpg",
+    "https://pub-ec316fa6a94f404c993596355ad19128.r2.dev/salem360/20261128/ee16f67ecc13e076.jpg"
+   ]
+  },
+  {
+   "tamil_headline": "சங்ககிரியில் நாளை சுப்ரமணியர் கோவில் கும்பாபிஷேகம்",
+   "english_headline": "Kumbabhishekam of Thensenthur Subramaniar temple at Sankagiri foothill tomorrow",
+   "category": "Temples & Events",
+   "location": "Sankagiri, Salem district",
+   "importance": "Medium",
+   "scope": "local",
+   "post_to": "Salem 360",
+   "slides_spec": {
+    "v": 3,
+    "cat": "கோவில் நிகழ்வு",
+    "loc": "சங்ககிரி",
+    "hl1": "சங்ககிரியில் நாளை கும்பாபிஷேகம்",
+    "hl2": "தென்செந்தூர் சுப்ரமணியர்",
+    "slides": [
+     {
+      "title": "எங்கே, எப்போது?",
+      "lines": [
+       "சங்ககிரி ஒருக்காமலை அடிவாரத்தில் உள்ள கோவில்",
+       "கும்பாபிஷேகம் <b>நாளை</b> நடைபெறுகிறது",
+       "புதிதாகக் கட்டப்பட்ட தென்செந்தூர் சுப்ரமணியர் கோவில்"
+      ]
+     },
+     {
+      "title": "முன்னேற்பாடுகள்",
+      "lines": [
+       "நேற்று விநாயகர், நவக்கிரக, வாஸ்து பூஜை நடைபெற்றது",
+       "பூலாம்பட்டி காவிரி ஆற்றங்கரையில் இருந்து புனிதநீர்",
+       "<b>50க்கும் மேற்பட்ட</b> பக்தர்கள் புனிதநீர் கொண்டு வந்தனர்"
+      ]
+     },
+     {
+      "title": "பக்தர்கள் வழிபாடு",
+      "lines": [
+       "புனிதநீர் நகரின் முக்கிய வீதிகள் வழியாக கோவிலுக்கு வந்தது",
+       "ஏராளமான பக்தர்கள் கோவிலில் வழிபட்டனர்"
+      ]
+     }
+    ],
+    "carousel": false
+   },
+   "reel_script": "சங்ககிரி ஒருக்காமலை அடிவாரத்தில் புதிதாகக் கட்டப்பட்ட தென்செந்தூர் சுப்ரமணியர் கோவிலின் கும்பாபிஷேகம் நாளை நடைபெறுகிறது. இதை முன்னிட்டு நேற்று விநாயகர், நவக்கிரக, வாஸ்து பூஜைகள் நடைபெற்றன. தொடர்ந்து பூலாம்பட்டி காவிரி ஆற்றங்கரையில் இருந்து 50க்கும் மேற்பட்ட பக்தர்கள் புனிதநீர் எடுத்தனர். அந்தப் புனிதநீர் நகரின் முக்கிய வீதிகள் வழியாக கோவிலுக்கு கொண்டு வரப்பட்டது. கோவிலுக்கு வந்த ஏராளமான பக்தர்கள் வழிபட்டனர். மேலும் செய்திகளுக்கு சேலம் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🛕 சங்ககிரியில் நாளை சுப்ரமணியர் கோவில் கும்பாபிஷேகம்\n\n📰 முழு விவரம்:\nசங்ககிரி ஒருக்காமலை அடிவாரத்தில் புதிதாகக் கட்டப்பட்ட தென்செந்தூர் சுப்ரமணியர் கோவிலின் கும்பாபிஷேகம் நாளை நடைபெற உள்ளது.\nஇதை முன்னிட்டு நேற்று விநாயகர், நவக்கிரக, வாஸ்து பூஜைகள் நடைபெற்றன.\nபூலாம்பட்டி காவிரி ஆற்றங்கரையில் இருந்து 50க்கும் மேற்பட்ட பக்தர்கள் புனிதநீர் எடுத்தனர். அது நகரின் முக்கிய வீதிகள் வழியாக கோவிலுக்கு வந்தது.\nகோவிலுக்கு ஏராளமான பக்தர்கள் வந்து வழிபட்டனர்.\n\n📍 இடம்: சங்ககிரி ஒருக்காமலை அடிவாரம்\n🗓️ நாள்: நாளை (நவம்பர் 29)\n\nSankagiri Subramaniar temple kumbabhishekam tomorrow | Salem news\n📍 சங்ககிரி, சேலம் மாவட்டம் | 28 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\nதேவைப்படுவோருக்கு Share செய்யுங்கள்\n\n#Salem360 #Salem #Sankagiri #SalemNews #சேலம்",
+   "prompts": "A line of more than 50 devotees carries brass kalasam pots of holy water through a main street of Sankagiri town toward a newly built temple at the foot of Sankagiri hill. The devotees, men in white veshti and shirts and women in bright sarees, walk in a procession, some with the pots balanced on their heads. The street has small shops, two-wheelers parked along the roadside and a few autorickshaws waiting at the edge. Behind the procession rises the temple's gopuram tower and the rocky green slope of Sankagiri hill in the background. The procession is seen from behind and from a distance, faces not visible. Daylight, clear sky, warm sunlight on the street. Camera at eye level, 35 mm lens, wide enough to show the street, the gopuram and the hill together. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up of a row of brass kalasam pots filled with holy water, placed on a stone platform at the foot of a temple, with mango-leaf and coconut decorations tied around their necks. Behind them, a blurred figure of a devotee in white clothes stands with folded hands. Stone steps and the base of a gopuram tower sit in soft focus in the background, with the rocky foothill of Sankagiri behind. Daylight, soft natural light catching the polished brass. Camera slightly high, shallow depth of field, 85 mm feel, showing the pots and the temple steps clearly. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-salem/kumbhabhishekam-at-subramanya-temple-tomorrow/4388257",
+   "published": "2026-11-28T06:51:00+05:30",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: reel_script has 50 words; need 60-160 (the key facts once each, in at most 90 seconds; every other detail goes in the caption's 📰 முழு விவரம் block)",
+   "note": "free-model draft anthropic/claude-haiku-5-5, 13 attempt(s), 1 validator problem(s)",
+   "post_time": "right after your reply, same day",
+   "_area": "N",
+   "_score": 999,
+   "images": [
+    "https://pub-ec316fa6a94f404c993596355ad19128.r2.dev/salem360/20261128/b1c1ce9c305ac4da.jpg",
+    "https://pub-ec316fa6a94f404c993596355ad19128.r2.dev/salem360/20261128/42e2e2db032ecd08.jpg"
    ]
   }
  ]
