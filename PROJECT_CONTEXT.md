@@ -84,34 +84,34 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 <!-- recent-changes:start (updated automatically by .github/workflows/context.yml - do not edit by hand) -->
 | Date | Commit | Change |
 |---|---|---|
-| 2026-11-28 | `0b99ea9` | Writer hook (first 3 s): place first + strong event word + one hard detail; நாளை/இன்று first; schemes open with the amount / last date; caption first line 7-12 words (data: 2,686 reels) |
-| 2026-11-28 | `e78509f` | stories shared / Instagram pause |
-| 2026-11-28 | `f6fe6ae` | pick: written and posted |
-| 2026-11-28 | `6f57a96` | facebook RN-353 |
-| 2026-11-28 | `3fec50e` | posted RN-353 |
-| 2026-11-28 | `47ce9da` | stories shared / Instagram pause |
-| 2026-11-28 | `4583c9e` | stories shared / Instagram pause |
-| 2026-11-28 | `af24bbf` | facebook RN-352 |
-| 2026-11-28 | `85313ed` | posted RN-352 |
-| 2026-11-28 | `745c0eb` | stories shared / Instagram pause |
-| 2026-11-28 | `e990dc0` | facebook RN-351 |
-| 2026-11-28 | `9ec8900` | posted RN-351 |
-| 2026-11-28 | `0be0e28` | pick: picked news saved |
-| 2026-11-28 | `09341c9` | stories shared / Instagram pause |
-| 2026-11-28 | `0123b29` | pick: picked news saved |
-| 2026-11-28 | `b73aba4` | pick: list sent |
-| 2026-11-28 | `1e02505` | stories shared / Instagram pause |
-| 2026-11-28 | `5801979` | stories shared / Instagram pause |
-| 2026-11-28 | `db927d8` | stories shared / Instagram pause |
-| 2026-11-28 | `81cb8fd` | stories shared / Instagram pause |
-| 2026-11-28 | `f2c745d` | stories shared / Instagram pause |
-| 2026-11-28 | `117aeea` | stories shared / Instagram pause |
-| 2026-11-28 | `0156857` | stories shared / Instagram pause |
-| 2026-11-28 | `bd00797` | stories shared / Instagram pause |
-| 2026-11-28 | `754faa0` | stories shared / Instagram pause |
-| 2026-11-28 | `7e639b1` | stories shared / Instagram pause |
-| 2026-11-28 | `9d95995` | stories shared / Instagram pause |
-| 2026-11-28 | `2051ef6` | stories shared / Instagram pause |
-| 2026-11-28 | `181ad5d` | stories shared / Instagram pause |
-| 2026-11-28 | `697b9aa` | pick: written and posted |
+| 2026-11-28 | `edaf345` | New reels: parrot rasipalan (kili josiyam) with panchangam, rasi times and first comment; evening top 5 |
+| 2026-11-28 | `0924df7` | stories shared / Instagram pause |
+| 2026-11-28 | `52fe48e` | stories shared / Instagram pause |
+| 2026-11-28 | `ec4857d` | facebook RN-356 |
+| 2026-11-28 | `1e44f41` | posted RN-356 |
+| 2026-11-28 | `4fb0f2d` | stories shared / Instagram pause |
+| 2026-11-28 | `03c2fa5` | stories shared / Instagram pause |
+| 2026-11-28 | `80978e1` | facebook RN-354 |
+| 2026-11-28 | `07ca91e` | posted RN-354 |
+| 2026-11-28 | `3adb522` | pick: picked news saved |
+| 2026-11-28 | `8113405` | stories shared / Instagram pause |
+| 2026-11-28 | `6d3aaf4` | autofix: corrected held news |
+| 2026-11-28 | `b43d2a8` | pick: picked news saved |
+| 2026-11-28 | `0f2f881` | pick: list sent |
+| 2026-11-28 | `eb54468` | stories shared / Instagram pause |
+| 2026-11-28 | `be92cfd` | stories shared / Instagram pause |
+| 2026-11-28 | `6d2a7bd` | stories shared / Instagram pause |
+| 2026-11-28 | `e3c29e6` | stories shared / Instagram pause |
+| 2026-11-28 | `87dc03f` | stories shared / Instagram pause |
+| 2026-11-28 | `a423aa0` | stories shared / Instagram pause |
+| 2026-11-28 | `e1ed95d` | stories shared / Instagram pause |
+| 2026-11-28 | `74e3f2d` | stories shared / Instagram pause |
+| 2026-11-28 | `5892857` | stories shared / Instagram pause |
+| 2026-11-28 | `4dbc1bc` | stories shared / Instagram pause |
+| 2026-11-28 | `886ac9b` | stories shared / Instagram pause |
+| 2026-11-28 | `bf5cefe` | stories shared / Instagram pause |
+| 2026-11-28 | `bb7280e` | stories shared / Instagram pause |
+| 2026-11-28 | `0e7744f` | stories shared / Instagram pause |
+| 2026-11-28 | `ac4cddb` | stories shared / Instagram pause |
+| 2026-11-28 | `72f1ae7` | stories shared / Instagram pause |
 <!-- recent-changes:end -->
