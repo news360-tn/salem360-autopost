@@ -84,34 +84,34 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 <!-- recent-changes:start (updated automatically by .github/workflows/context.yml - do not edit by hand) -->
 | Date | Commit | Change |
 |---|---|---|
-| 2026-11-27 | `a4b088c` | Tests: Facebook retry plan is 10 min x5 then 1 h once (7 tries) |
-| 2026-11-27 | `fa82b54` | stories shared / Instagram pause |
-| 2026-11-27 | `8802d58` | Posting rules 27 Nov: 30 news a day per platform by views, 06:00-22:00 (urgent any time), retry 10 min x5 then 1 h, block wait as stated else 2 h, collect every 2 h |
-| 2026-11-27 | `95bb111` | facebook RN-340 |
-| 2026-11-27 | `0d4a513` | posted RN-340 |
-| 2026-11-27 | `ffed800` | stories shared / Instagram pause |
-| 2026-11-27 | `4a12397` | facebook RN-337 |
-| 2026-11-27 | `67c33e2` | posted RN-337 |
-| 2026-11-27 | `4e5765f` | pick: picked news saved |
-| 2026-11-27 | `21fd195` | stories shared / Instagram pause |
-| 2026-11-27 | `985f961` | pick: picked news saved |
-| 2026-11-27 | `efaee07` | pick: list sent |
-| 2026-11-27 | `060dcab` | stories shared / Instagram pause |
-| 2026-11-27 | `d9be952` | stories shared / Instagram pause |
-| 2026-11-27 | `109c880` | stories shared / Instagram pause |
-| 2026-11-27 | `3d1c26b` | stories shared / Instagram pause |
-| 2026-11-27 | `4f77672` | No manual work: stop the manual-post and Facebook-share e-mails (config.json owner_emails false); only automatic posting |
-| 2026-11-27 | `583fede` | stories shared / Instagram pause |
-| 2026-11-27 | `0726583` | stories shared / Instagram pause |
-| 2026-11-27 | `82eeaee` | stories shared / Instagram pause |
-| 2026-11-27 | `6283e1d` | stories shared / Instagram pause |
-| 2026-11-27 | `137e2d1` | stories shared / Instagram pause |
-| 2026-11-27 | `c2c287a` | stories shared / Instagram pause |
-| 2026-11-27 | `8c0d8ca` | stories shared / Instagram pause |
-| 2026-11-27 | `13ec36e` | stories shared / Instagram pause |
-| 2026-11-27 | `1e4bca7` | stories shared / Instagram pause |
-| 2026-11-27 | `6e1af94` | stories shared / Instagram pause |
-| 2026-11-27 | `d584651` | stories shared / Instagram pause |
-| 2026-11-27 | `98acbb9` | stories shared / Instagram pause |
-| 2026-11-27 | `246cfc6` | stories shared / Instagram pause |
+| 2026-11-28 | `0b99ea9` | Writer hook (first 3 s): place first + strong event word + one hard detail; நாளை/இன்று first; schemes open with the amount / last date; caption first line 7-12 words (data: 2,686 reels) |
+| 2026-11-28 | `e78509f` | stories shared / Instagram pause |
+| 2026-11-28 | `f6fe6ae` | pick: written and posted |
+| 2026-11-28 | `6f57a96` | facebook RN-353 |
+| 2026-11-28 | `3fec50e` | posted RN-353 |
+| 2026-11-28 | `47ce9da` | stories shared / Instagram pause |
+| 2026-11-28 | `4583c9e` | stories shared / Instagram pause |
+| 2026-11-28 | `af24bbf` | facebook RN-352 |
+| 2026-11-28 | `85313ed` | posted RN-352 |
+| 2026-11-28 | `745c0eb` | stories shared / Instagram pause |
+| 2026-11-28 | `e990dc0` | facebook RN-351 |
+| 2026-11-28 | `9ec8900` | posted RN-351 |
+| 2026-11-28 | `0be0e28` | pick: picked news saved |
+| 2026-11-28 | `09341c9` | stories shared / Instagram pause |
+| 2026-11-28 | `0123b29` | pick: picked news saved |
+| 2026-11-28 | `b73aba4` | pick: list sent |
+| 2026-11-28 | `1e02505` | stories shared / Instagram pause |
+| 2026-11-28 | `5801979` | stories shared / Instagram pause |
+| 2026-11-28 | `db927d8` | stories shared / Instagram pause |
+| 2026-11-28 | `81cb8fd` | stories shared / Instagram pause |
+| 2026-11-28 | `f2c745d` | stories shared / Instagram pause |
+| 2026-11-28 | `117aeea` | stories shared / Instagram pause |
+| 2026-11-28 | `0156857` | stories shared / Instagram pause |
+| 2026-11-28 | `bd00797` | stories shared / Instagram pause |
+| 2026-11-28 | `754faa0` | stories shared / Instagram pause |
+| 2026-11-28 | `7e639b1` | stories shared / Instagram pause |
+| 2026-11-28 | `9d95995` | stories shared / Instagram pause |
+| 2026-11-28 | `2051ef6` | stories shared / Instagram pause |
+| 2026-11-28 | `181ad5d` | stories shared / Instagram pause |
+| 2026-11-28 | `697b9aa` | pick: written and posted |
 <!-- recent-changes:end -->
