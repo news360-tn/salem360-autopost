@@ -1,95 +1,48 @@
-12:26:38 round 2026-11-28_12: news published 28 Nov 10:28 -> 28 Nov 12:26 (ஒன்இந்தியா, தினமலர், தினமணி, தினகரன், தினத்தந்தி, மாலைமலர், இந்து தமிழ், பாலிமர், விகடன், ஏபிபி நாடு, நியூஸ்18 தமிழ், இந்தியன் எக்ஸ்பிரஸ் தமிழ், புதிய தலைமுறை, தந்தி டிவி, சமயம் தமிழ் - Salem)
-12:26:38    + news published since 27 Nov 12:26 that no earlier round found (listed / indexed late) - never one already listed or posted
-12:26:38 insights 2026-11-28T12:26+05:30 (337 reels): topic weights {'crime': 1.5, 'poultry_agri': -0.26, 'education': -0.44, 'accident': 0.73, 'temple': -0.06, 'civic': -0.5, 'weather': -0.5, 'sports_culture': -0.4, 'politics': -0.37, 'power_cut': 0.6}; best openings ['🏫 அழகப்பம்பாளையம் புதூரில் மாணவிகளிடம் அநாகரிகம்: ஆசிரியர் பணியிடை நீக்கம்', '🚨 மேட்டூர் அருகே ரூ.77 லட்சம் நகை கடன் மோசடி: கிளை மேலாளர் கைது']
-12:27:35 open search 'சேலம்' (from_google): 28 links from our outlets
-12:27:35 town searches (மேட்டூர், ஆத்தூர், ஓமலூர், எடப்பாடி, சங்ககிரி (+Google), வாழப்பாடி (+Google), ஏற்காடு, கெங்கவல்லி): 18 links from our outlets
-12:27:35 search links: 20 Google links decoded, 0 not decoded, 125 known from an earlier round, 0 left for the next round, 16 of another district by their headline (not opened)
-12:27:35 101 links on the two papers' Salem pages
-12:27:55 skipped: published before this window=33, not Salem district=20, already posted=14, checked in an earlier round=7, same event already posted=5, could not open (403 Client Error: Forbidden for url: https://tamil)=3, only a headline=2, state-wide / other district=1
-12:27:55    drop [already posted] வெடிகுண்டு செயலிழப்பு ஒத்திகை | dinamalar.com/news/tamil-nad...news-salem/bomb-disposal-drill/4388260
-12:27:55    drop [same event already posted] ஏற்காடு: ஸ்டிக்கர் பிரிக்காத புத்தாடை, புதருக்குள் சிறுமியின | vikatan.com/crime/15-year-ol...-child-dead-body-found-case-in-yercurd
-12:27:55    drop [not Salem district] தனியார் நிறுவன பெண்கள் ஒப்பனையறையில் கேமரா.. நிறுவனத்தின் மே | polimernews.com/districtnews...police-arrest-company-manager-12848300
-12:27:55    drop [not Salem district] சேமிப்பு வங்கி கணக்கில் பணம் வைத்திருப்பவர் இறந்துவிட்டால்?  | tamil.oneindia.com/news/chen...ey-details-for-legal-heirs-848939.html
-12:27:55    drop [not Salem district] தமிழ்நாட்டிற்கு பெருமை சேர்த்த 'பேட்மிண்டன் வாரியர்ஸ்'! வீரர | tamil.oneindia.com/news/duba...adminton-premier-league-ti-848937.html
-12:27:55    drop [not Salem district] தொகுதி மறுவரையறை மசோதா.. திமுக ஆதரவு நிலைப்பாடு எடுத்தது ஏன் | tamil.oneindia.com/news/chen...o-seek-amendments-on-areas-848935.html
-12:27:55    drop [not Salem district] நாடாளுமன்றத்தில் கொண்டு வரப்படவுள்ள தொகுதி மறுவரையறை மசோதாவு | dinakaran.com/news/parliamen...tituency-delimitation-bill-dmk-support
-12:27:55    drop [not Salem district] வாங்க..வாங்க! சிஆர்பிஎப் வீரர்களை பூத்தூவி வரவேற்பு கொடுத்த  | tamil.oneindia.com/news/madu...htens-at-thiruparankundram-848927.html
-12:27:55    drop [not Salem district] மக்கள் எல்லோருமே ஹேப்பி அண்ணாச்சி! வெற்றிவேல் முருகனுக்கு அர | tamil.oneindia.com/news/tuti...am-issue-and-law-and-order-848919.html
-12:27:55    drop [not Salem district] மக்கள் உயிரோடு விளையாடாதீங்க.. பழைய டயர்களால் பாழாய்ப் போன அ | tamil.oneindia.com/news/chen...roads-due-to-tyre-shortage-848915.html
-12:27:55    drop [not Salem district] உரிக்காமலேயே கண்ணீர் வருது.. டபுள் செஞ்சுரி போட்ட வெங்காயம்! | tamil.oneindia.com/news/dind...-kg-as-garlic-soars-to-800-848911.html
-12:27:55    drop [not Salem district] சேறும் சகதியுமா இருந்த இடத்தில் நிலைகுலைந்த ரமேஷ் கண்ணா.. வீ | tamil.oneindia.com/news/chen...eaction-from-balaji-prabhu-848909.html
-12:27:55    drop [not Salem district] Gold Price Today: தங்கம் விலை இன்று தாறுமாறாக சரிந்தது.. நகை | tamil.oneindia.com/gold-rate...urprise-for-jewelry-lovers-848903.html
-12:27:55    drop [not Salem district] 1 முதல் 12ம் வகுப்பு வரை அரையாண்டு தேர்வு அட்டவணை வெளியீடு - | dinakaran.com/news/halfyearl...-schedule-released-for-classes-1-to-12
-12:27:55    drop [not Salem district] இரவு வேளை மழையால் குற்றால அருவிகளில் நீர்வரத்து அதிகரிப்பு | dinakaran.com/district/nellai_281126_1/amp
-12:27:55    drop [not Salem district] வணிகர் சங்கங்கள் பேரமைப்பு மாநாடு ஆலோசனை கூட்டம் | dinakaran.com/district/trichy_281126_3/amp
-12:27:55    drop [not Salem district] ஆற்றூரில் டாஸ்மாக் ஊழியரை பாட்டிலால் குத்திய இருவா் மீது வழக | dinamani.com/all-editions/ed...tasmac-employee-with-a-bottle-in-attur
-12:27:55    drop [not Salem district] கனகம்மாசத்திரம் அரசு பள்ளியில் மாணவர்களுக்கு போதை பொருள் தடு | dinakaran.com/district/tiruvallur-281126-2/amp
-12:27:55    drop [already posted] மாநகராட்சியில் மேயா் அதிகாரம் பறிக்கப்படுகிறது | dinamani.com/all-editions/ed...95%E0%AE%BF%E0%AE%B1%E0%AE%A4%E0%AF%81
-12:27:55    drop [not Salem district] மேட்டூா் கிழக்குக் கரைக் கால்வாயில் கழிவுநீா் கலப்பதை தடுக்க | dinamani.com/all-editions/ed...om-entering-the-mettur-east-bank-canal
-12:27:55    drop [not Salem district] நிதியின்றி தவிக்கும் போக்குவரத்துக் கழகம்! டயர்கள் இல்லாததால | dinamani.com/tamilnadu/2026/...-buses-grounded-lack-of-tires-anbumani
-12:27:56 list: 0 new + 20 earlier news not posted yet
-12:27:56    1. [பொது] முதல்வர் நாற்காலியில் இருந்து அகற்றப்படுவார்: வேல்முருகன் பேட்டி (தினமலர்) (earlier)
-12:27:56    2. [பொது] கூட்டுறவு தொடக்க வேளாண்மை வங்கி, செல்போன் கடையில் கொள்ளை முயற்சி (மாலைமலர்) (earlier)
-12:27:56    3. [பொது] மேட்டூர் கிழக்கு கரை வாய்க்காலில் கழிவுநீர் கலப்பதை தடுக்க கோரிக்கை (தினமலர்) (earlier)
-12:27:56    4. [சாலை] ஊரக வேலை திட்டத்தில் குளறுபடி நாவலூர் மக்கள் சாலை மறியல் (தினமலர்) (earlier)
-12:27:56    5. [பொது] புத்தக திருவிழா கண்காட்சி தொடக்கம் தினமும் 7,000 மாணவர் பார்க்க ஏற்பாட (தினமலர்) (earlier)
-12:27:56    6. [பொது] நாளை வாக்காளா் பட்டியலில் பெயா் சோ்த்தல், நீக்கம், திருத்தம் முகாம் (தினமணி) (earlier)
-12:27:56    7. [பொது] வாக்காளர் திருத்த பட்டியல் நாளை 3வது சிறப்பு முகாம் (தினமலர்) (earlier)
-12:27:56    8. [பொது] கொள்முதல் டெண்டர் ரத்தால் அரசு பஸ்களுக்கு டயர் இல்லை; பல இடங்களில் இயக (தினகரன்) (earlier)
-12:27:56    9. [பொது] உதயநிதி பிறந்தநாள் தி.மு.க., கொண்டாட்டம் (தினமலர்) (earlier)
-12:27:56   10. [பொது] தவெக அரசை கண்டித்து 2ம் தேதி அதிமுக ஆர்ப்பாட்டம்; தலைமையேற்போர் பட்டிய (தினகரன்) (earlier)
-12:27:56   11. [விபத்து] சேலம் - சென்னை தேசிய நெடுஞ்சாலையில் சென்ற காா் தீப்பிடித்து சேதம் (தினமணி) (earlier)
-12:27:56   12. [விபத்து] நெடுஞ்சாலையில் தீப்பற்றி எரிந்த கார் (தினமலர்) (earlier)
-12:27:56   13. [ஆன்மிகம்] நாளை ஒருக்காமலை தென்செந்தூா் சுப்பிரமணியா் கோயில் குடமுழுக்கு (தினமணி) (earlier)
-12:27:56   14. [பொது] வேட்டி, சேலை உற்பத்திக்கு அனுமதி வழங்காததால் நெசவாளா்கள் பாதிப்பு: எடப (தினமணி) (earlier)
-12:27:56   15. [பொது] சுப்ரமணியர் கோவிலில் நாளை கும்பாபிஷேகம் (தினமலர்) (earlier)
-12:27:56   16. [பொது] “இப்படியொரு அசிங்கம் தமிழகத்துக்கு தேவையா?”.. விஜய் அரசை வெளுத்து வாங் (ஒன்இந்தியா + சமயம் தமிழ்) (earlier)
-12:27:56   17. [பொது] அரசு வக்கீல் பணிக்கு 100 பேரிடம் நேர்காணல் (தினமலர்) (earlier)
-12:27:56   18. [பொது] காகங்கள் நடமாட்டம் ஆய்வு (தினமலர்) (earlier)
-12:27:56   19. [பொது] மலைப்பாம்பு பிடிப்பு (தினமலர்) (earlier)
-12:27:56   20. [பொது] தொழிற்கூடங்களாக மாறும் விளைநிலம் குறைதீர் கூட்டத்தில் விவசாயி வேதனை (தினமலர்) (earlier)
-12:27:56 automatic pick (owner 2 Nov): no e-mail - the top 4 are written at once
-ROUND=2026-11-28_12
-12:27:57    not picked automatically (ceremony / award / awareness event (low views)): கொள்முதல் டெண்டர் ரத்தால் அரசு பஸ்களுக்கு டயர் இல்லை; பல இடங்களில் இயக
-12:27:57 round 2026-11-28_12 (at least 3, up to 3 more of well-watched topics): 19 news to choose from (19 from earlier rounds), ranked by this page's insights
-12:27:57   PICK   1.   8.5 [other +0.00 pattern] (earlier) மேட்டூர் கிழக்கு கரை வாய்க்காலில் கழிவுநீர் கலப்பதை தடுக்க க
-12:27:57   PICK   2.   8.0 [politics -0.37 page] (earlier) முதல்வர் நாற்காலியில் இருந்து அகற்றப்படுவார்: வேல்முருகன் பே
-12:27:57   PICK   3.   7.3 [temple -0.06 page] (earlier) புத்தக திருவிழா கண்காட்சி தொடக்கம் தினமும் 7,000 மாணவர் பார்
-12:27:57          4.   6.5 [other +0.00 pattern] (earlier) கூட்டுறவு தொடக்க வேளாண்மை வங்கி, செல்போன் கடையில் கொள்ளை மு
-12:27:57          5.   6.5 [civic -0.50 page] (earlier) ஊரக வேலை திட்டத்தில் குளறுபடி நாவலூர் மக்கள் சாலை மறியல்
-12:27:57          6.   6.5 [other +0.00 pattern] (earlier) வாக்காளர் திருத்த பட்டியல் நாளை 3வது சிறப்பு முகாம்
-12:27:57          7.   6.0 [other +0.00 pattern] (earlier) நாளை வாக்காளா் பட்டியலில் பெயா் சோ்த்தல், நீக்கம், திருத்தம
-12:27:57          8.   5.5 [other +0.00 pattern] (earlier) உதயநிதி பிறந்தநாள் தி.மு.க., கொண்டாட்டம்
-12:27:57          9.   3.8 [temple -0.06 page] (earlier) நாளை ஒருக்காமலை தென்செந்தூா் சுப்பிரமணியா் கோயில் குடமுழுக்க
-12:27:57         10.   3.8 [temple -0.06 page] (earlier) வேட்டி, சேலை உற்பத்திக்கு அனுமதி வழங்காததால் நெசவாளா்கள் பாத
-12:27:57         11.   3.8 [temple -0.06 page] (earlier) “இப்படியொரு அசிங்கம் தமிழகத்துக்கு தேவையா?”.. விஜய் அரசை வெள
-12:27:57         12.   3.5 [politics -0.37 page] (earlier) தவெக அரசை கண்டித்து 2ம் தேதி அதிமுக ஆர்ப்பாட்டம்; தலைமையேற்ப
-12:27:57         13.   3.5 [civic -0.50 page] (earlier) நெடுஞ்சாலையில் தீப்பற்றி எரிந்த கார்
-12:27:57         14.   3.5 [other +0.00 pattern] (earlier) சுப்ரமணியர் கோவிலில் நாளை கும்பாபிஷேகம்
-12:27:57         15.   3.0 [civic -0.50 page] (earlier) சேலம் - சென்னை தேசிய நெடுஞ்சாலையில் சென்ற காா் தீப்பிடித்து 
-12:27:57         16.   2.5 [other +0.00 pattern] (earlier) அரசு வக்கீல் பணிக்கு 100 பேரிடம் நேர்காணல்
-12:27:57         17.   2.5 [other +0.00 pattern] (earlier) காகங்கள் நடமாட்டம் ஆய்வு
-12:27:57         18.   2.5 [other +0.00 pattern] (earlier) மலைப்பாம்பு பிடிப்பு
-12:27:57         19.   1.5 [poultry_agri -0.26 page] (earlier) தொழிற்கூடங்களாக மாறும் விளைநிலம் குறைதீர் கூட்டத்தில் விவசாய
-12:27:57 decided: automatic: top 3 of 19 by insights -> 3 news to write and post
-PICK_URLS=https://www.dinamalar.com/news/tamil-nadu-district-news-namakkal/plea-to-stop-discharge-of-sewage-into-mettur-east-bank-channel/4388267 https://www.dinamalar.com/news/tamil-nadu-district-news-salem/chief-minister-to-be-removed-from-chair-vale-murugan-interview/4388249 https://www.dinamalar.com/news/tamil-nadu-district-news-salem/book-fair-begins-7000-students-to-visit-daily/4388251
-12:29:46 3 listed news now in the Sheet
-12:29:53 instagram duplicate check salem: 50 recent posts read
-12:29:53 verify 2026-11-28_12: 0 of 3 picked news posted, 0 skipped on purpose, 0 waiting for their posting start
-12:29:53    NOT POSTED C2a4f617: queued RN-358 (Queued) - புத்தக திருவிழா கண்காட்சி தொடக்கம் தினமும் 7,000 மாணவர் பார்
-12:29:53    NOT POSTED Ca95cb2f: queued RN-359 (Queued) - முதல்வர் நாற்காலியில் இருந்து அகற்றப்படுவார்: வேல்முருகன் பே
-12:29:53    NOT POSTED Cbdcd600: queued RN-357 (Queued) - மேட்டூர் கிழக்கு கரை வாய்க்காலில் கழிவுநீர் கலப்பதை தடுக்க க
-12:35:00 instagram duplicate check salem: 50 recent posts read
-12:35:00 verify 2026-11-28_12: 0 of 3 picked news posted, 0 skipped on purpose, 0 waiting for their posting start
-12:35:00    NOT POSTED C2a4f617: queued RN-358 (Queued) - புத்தக திருவிழா கண்காட்சி தொடக்கம் தினமும் 7,000 மாணவர் பார்
-12:35:00    NOT POSTED Ca95cb2f: queued RN-359 (Queued) - முதல்வர் நாற்காலியில் இருந்து அகற்றப்படுவார்: வேல்முருகன் பே
-12:35:00    NOT POSTED Cbdcd600: queued RN-357 (Queued) - மேட்டூர் கிழக்கு கரை வாய்க்காலில் கழிவுநீர் கலப்பதை தடுக்க க
-12:40:06 instagram duplicate check salem: 50 recent posts read
-12:40:06 verify 2026-11-28_12: 1 of 3 picked news posted, 0 skipped on purpose, 0 waiting for their posting start
-12:40:06    NOT POSTED C2a4f617: queued RN-358 (Queued) - புத்தக திருவிழா கண்காட்சி தொடக்கம் தினமும் 7,000 மாணவர் பார்
-12:40:06    NOT POSTED Ca95cb2f: queued RN-359 (Queued) - முதல்வர் நாற்காலியில் இருந்து அகற்றப்படுவார்: வேல்முருகன் பே
-12:45:12 instagram duplicate check salem: 50 recent posts read
-12:45:12 verify 2026-11-28_12: 1 of 3 picked news posted, 0 skipped on purpose, 0 waiting for their posting start
-12:45:12    NOT POSTED C2a4f617: queued RN-358 (Queued) - புத்தக திருவிழா கண்காட்சி தொடக்கம் தினமும் 7,000 மாணவர் பார்
-12:45:12    NOT POSTED Ca95cb2f: queued RN-359 (Queued) - முதல்வர் நாற்காலியில் இருந்து அகற்றப்படுவார்: வேல்முருகன் பே
-12:50:16 verify 2026-11-28_12: 3 of 3 picked news posted, 0 skipped on purpose, 0 waiting for their posting start
+14:26:34 round 2026-11-28_14: news published 28 Nov 12:26 -> 28 Nov 14:26 (ஒன்இந்தியா, தினமலர், தினமணி, தினகரன், தினத்தந்தி, மாலைமலர், இந்து தமிழ், பாலிமர், விகடன், ஏபிபி நாடு, நியூஸ்18 தமிழ், இந்தியன் எக்ஸ்பிரஸ் தமிழ், புதிய தலைமுறை, தந்தி டிவி, சமயம் தமிழ் - Salem)
+14:26:34    + news published since 27 Nov 14:26 that no earlier round found (listed / indexed late) - never one already listed or posted
+14:26:34 insights 2026-11-28T14:26+05:30 (340 reels): topic weights {'crime': 1.5, 'poultry_agri': -0.28, 'education': -0.45, 'accident': 0.71, 'temple': -0.02, 'civic': -0.5, 'weather': -0.5, 'sports_culture': -0.41, 'politics': -0.38, 'power_cut': 0.59}; best openings ['🏫 அழகப்பம்பாளையம் புதூரில் மாணவிகளிடம் அநாகரிகம்: ஆசிரியர் பணியிடை நீக்கம்', '🚨 மேட்டூர் அருகே ரூ.77 லட்சம் நகை கடன் மோசடி: கிளை மேலாளர் கைது']
+14:27:44 open search 'சேலம்' (from_google): 30 links from our outlets
+14:27:44 town searches (மேட்டூர், ஆத்தூர், ஓமலூர், எடப்பாடி, சங்ககிரி, வாழப்பாடி, ஏற்காடு (+Google), கெங்கவல்லி (+Google)): 19 links from our outlets
+14:27:44 search links: 25 Google links decoded, 0 not decoded, 116 known from an earlier round, 0 left for the next round, 36 of another district by their headline (not opened)
+14:27:44 100 links on the two papers' Salem pages
+14:28:23 skipped: published before this window=35, not Salem district=17, already posted=15, checked in an earlier round=6, same event already posted=5, only a headline=3, could not open (403 Client Error: Forbidden for url: https://tamil)=3, state-wide / other district=1, no title=1
+14:28:23    drop [already posted] மழையின்றி கருகும் மானாவாரி கொள்ளு | dinamalar.com/news/tamil-nad...salem/take-a-rain-free-drizzle/4388255
+14:28:23    drop [already posted] பஸ் சக்கரத்தில் சிக்கி பெண் சாவு | dinamalar.com/news/tamil-nad.../woman-crushed-to-death-by-bus/4388258
+14:28:23    drop [already posted] புத்தக திருவிழா கண்காட்சி தொடக்கம் தினமும் 7,000 மாணவர் பார் | dinamalar.com/news/kalvimala...for-7000-students-to-visit-daily/83951
+14:28:23    drop [only a headline] Yercaud child | சடலமாக மீட்கப்பட்ட சிறுமி - ஏற்காட்டையே சல்ல | thanthitv.com/news/breaking/...tensive-thorough-search-across-yercaud
+14:28:23    drop [already posted] ஏற்காட்டில் அடையாளம் தெரியாத சிறுமியின் உடல் கண்டெடுப்பு - த | dailythanthi.com/amp/story/n...-conducting-an-intensive-investigation
+14:28:23    drop [not Salem district] தொகுதி மறுவரையறையின் மூலம் தமிழ்நாட்டு மக்களவை எம்.பி.க்கள்  | dinakaran.com/news/number-lo...e-to-59-unionminister-meghwal-explains
+14:28:23    drop [not Salem district] கால்நடைப் பயிற்சி மற்றும் ஆராய்ச்சி மையத்தில் வேளாண் மாணவர்க | dinamalar.com/news/kalvimala...ary-training-and-research-centre/83944
+14:28:23    drop [not Salem district] அரசுப் பள்ளி ஆசிரியர்களுக்கு போக்சோ குறித்த விழிப்புணர்வு | dinamalar.com/news/kalvimala...areness-for-govt-school-teachers/83948
+14:28:23    drop [not Salem district] இன்று மாலை 5 மணிக்கு தீபத்தூணில் ஏற்றப்படுகிறது தீபம்! | polimernews.com/districtnews...-the-deepathoon-at-5-pm-today-12848624
+14:28:23    drop [not Salem district] ஸ்தானிக பட்டர் என்றால் யார்? திருப்பெருங்குன்றத்தில் மட்டும் | tamil.oneindia.com/news/madu...usive-to-thiruparankundram-848985.html
+14:28:23    drop [not Salem district] 2024-ஆம் ஆண்டுமுதல் தி.மு.க மேற்கொண்ட தொடர் போராட்டங்களுக்கா | dinakaran.com/news/dmk-suppo...ill-demands-fair-delimitation-mkstalin
+14:28:23    drop [not Salem district] ஆற்றில் குளிக்கச் சென்ற 4 பேர் நீரில் மூழ்கி உயிரிழப்பு..! | polimernews.com/latestnews/4...-drown-while-bathing-in-river-12848504
+14:28:23    drop [not Salem district] தொகுதி மறுவரையறை மசோதாவுக்கு திமுக ஆதரவு..! | polimernews.com/politicsnews...upports-the-delimitation-bill-12848409
+14:28:23    drop [not Salem district] அம்பை இடைத்தேர்தலில் நான் வெல்வதை யாராலும் தடுக்க முடியாது - | polimernews.com/politicsnews...basamudram-by-election-seeman-12848328
+14:28:23    drop [not Salem district] Fair Delimitation: தொகுதி மறுவரையறை மசோதா! காங்கிரஸ் பல்டி!  | tamil.oneindia.com/news/chen...ress-in-delimitation-issue-848953.html
+14:28:23    drop [not Salem district] முதலில் கெமிக்கல்.. இப்போ பாக்டீரியா.. மீண்டும் சிக்கலில் பி | tamil.oneindia.com/news/delh...bengal-plants-water-sample-848931.html
+14:28:23    drop [not Salem district] திமுகவிடம் கெஞ்சும் காங்கிரஸ்? மம்தா பானர்ஜியை தூது அனுப்பிய | tamil.oneindia.com/news/delh...alin-ahead-of-delimitation-848897.html
+14:28:23    drop [not Salem district] காங்கிரஸை கை கழுவும் சரத் பவார்! மோடி அமைச்சரவையில் இடம்? கூ | tamil.oneindia.com/news/mumb...conditions-for-nda-support-848895.html
+14:28:23    drop [not Salem district] சனாதன தர்மத்துக்கு கிடைத்த பெரும் வெற்றி! | dinamalar.com/news/tamil-nad...eat-victory-for-sanatan-dharma/4388329
+14:28:23    drop [not Salem district] இறைவனுக்கு எதையும் இணையாக்காதே..! - Dinakaran - Dinakaran | dinakaran.com/spirtual_aanmeegam/do-not-associate-anything-with-god
+14:28:23 list: 0 new + 17 earlier news not posted yet
+14:28:23    1. [பொது] கூட்டுறவு தொடக்க வேளாண்மை வங்கி, செல்போன் கடையில் கொள்ளை முயற்சி (மாலைமலர்) (earlier)
+14:28:23    2. [சாலை] ஊரக வேலை திட்டத்தில் குளறுபடி நாவலூர் மக்கள் சாலை மறியல் (தினமலர்) (earlier)
+14:28:23    3. [பொது] நாளை வாக்காளா் பட்டியலில் பெயா் சோ்த்தல், நீக்கம், திருத்தம் முகாம் (தினமணி) (earlier)
+14:28:23    4. [பொது] வாக்காளர் திருத்த பட்டியல் நாளை 3வது சிறப்பு முகாம் (தினமலர்) (earlier)
+14:28:23    5. [பொது] கொள்முதல் டெண்டர் ரத்தால் அரசு பஸ்களுக்கு டயர் இல்லை; பல இடங்களில் இயக (தினகரன்) (earlier)
+14:28:23    6. [பொது] உதயநிதி பிறந்தநாள் தி.மு.க., கொண்டாட்டம் (தினமலர்) (earlier)
+14:28:23    7. [பொது] தவெக அரசை கண்டித்து 2ம் தேதி அதிமுக ஆர்ப்பாட்டம்; தலைமையேற்போர் பட்டிய (தினகரன்) (earlier)
+14:28:23    8. [விபத்து] சேலம் - சென்னை தேசிய நெடுஞ்சாலையில் சென்ற காா் தீப்பிடித்து சேதம் (தினமணி) (earlier)
+14:28:23    9. [விபத்து] நெடுஞ்சாலையில் தீப்பற்றி எரிந்த கார் (தினமலர்) (earlier)
+14:28:23   10. [ஆன்மிகம்] நாளை ஒருக்காமலை தென்செந்தூா் சுப்பிரமணியா் கோயில் குடமுழுக்கு (தினமணி) (earlier)
+14:28:23   11. [பொது] வேட்டி, சேலை உற்பத்திக்கு அனுமதி வழங்காததால் நெசவாளா்கள் பாதிப்பு: எடப (தினமணி) (earlier)
+14:28:23   12. [பொது] சுப்ரமணியர் கோவிலில் நாளை கும்பாபிஷேகம் (தினமலர்) (earlier)
+14:28:23   13. [பொது] “இப்படியொரு அசிங்கம் தமிழகத்துக்கு தேவையா?”.. விஜய் அரசை வெளுத்து வாங் (ஒன்இந்தியா + சமயம் தமிழ்) (earlier)
+14:28:23   14. [பொது] அரசு வக்கீல் பணிக்கு 100 பேரிடம் நேர்காணல் (தினமலர்) (earlier)
+14:28:23   15. [பொது] காகங்கள் நடமாட்டம் ஆய்வு (தினமலர்) (earlier)
+14:28:23   16. [பொது] மலைப்பாம்பு பிடிப்பு (தினமலர்) (earlier)
+14:28:23   17. [பொது] தொழிற்கூடங்களாக மாறும் விளைநிலம் குறைதீர் கூட்டத்தில் விவசாயி வேதனை (தினமலர்) (earlier)
+14:28:23 automatic pick (owner 2 Nov): no e-mail - the top 4 are written at once
+ROUND=2026-11-28_14
