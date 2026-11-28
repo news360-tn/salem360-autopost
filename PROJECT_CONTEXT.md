@@ -85,34 +85,34 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 <!-- recent-changes:start (updated automatically by .github/workflows/context.yml - do not edit by hand) -->
 | Date | Commit | Change |
 |---|---|---|
-| 2026-11-28 | `0c837fc` | Top 5: headline at most 3 lines (never over the 5-4-3-2-1 row), the row a little lower, 'nettru' for yesterday's news |
-| 2026-11-28 | `837c451` | stories shared / Instagram pause |
-| 2026-11-28 | `b8fb2ec` | stories shared / Instagram pause |
-| 2026-11-28 | `35d9b1d` | stories shared / Instagram pause |
-| 2026-11-28 | `cb17542` | stories shared / Instagram pause |
-| 2026-11-28 | `0b59867` | stories shared / Instagram pause |
-| 2026-11-28 | `c085608` | stories shared / Instagram pause |
-| 2026-11-28 | `1c147b6` | stories shared / Instagram pause |
-| 2026-11-28 | `602cc17` | stories shared / Instagram pause |
-| 2026-11-28 | `489755d` | stories shared / Instagram pause |
-| 2026-11-28 | `74ec152` | stories shared / Instagram pause |
-| 2026-11-28 | `0cb034f` | stories shared / Instagram pause |
-| 2026-11-28 | `eea8175` | Rasipalan and top 5: the page's real Instagram username as the fallback (never a made-up Tamil name on the follow card) |
-| 2026-11-28 | `cf47251` | stories shared / Instagram pause |
-| 2026-11-28 | `b240732` | pick: written and posted |
-| 2026-11-28 | `a28cfd2` | stories shared / Instagram pause |
-| 2026-11-28 | `383c5f0` | facebook RN-355 |
-| 2026-11-28 | `6fb445c` | posted RN-355 |
-| 2026-11-28 | `edaf345` | New reels: parrot rasipalan (kili josiyam) with panchangam, rasi times and first comment; evening top 5 |
-| 2026-11-28 | `0924df7` | stories shared / Instagram pause |
-| 2026-11-28 | `52fe48e` | stories shared / Instagram pause |
-| 2026-11-28 | `ec4857d` | facebook RN-356 |
-| 2026-11-28 | `1e44f41` | posted RN-356 |
-| 2026-11-28 | `4fb0f2d` | stories shared / Instagram pause |
-| 2026-11-28 | `03c2fa5` | stories shared / Instagram pause |
-| 2026-11-28 | `80978e1` | facebook RN-354 |
-| 2026-11-28 | `07ca91e` | posted RN-354 |
-| 2026-11-28 | `3adb522` | pick: picked news saved |
-| 2026-11-28 | `8113405` | stories shared / Instagram pause |
-| 2026-11-28 | `6d3aaf4` | autofix: corrected held news |
+| 2026-11-28 | `688970a` | YouTube: 40 hashtags on every Short (owner 28 Nov) - 25 for the video, 5 page, 5 district, 5 area (poster/yt_hashtags.py); title, first line, hidden tags, Instagram and Facebook unchanged |
+| 2026-11-28 | `469efd7` | stories shared / Instagram pause |
+| 2026-11-28 | `485fee9` | stories shared / Instagram pause |
+| 2026-11-28 | `0f0c61f` | stories shared / Instagram pause |
+| 2026-11-28 | `58b04c9` | stories shared / Instagram pause |
+| 2026-11-28 | `3e318dd` | stories shared / Instagram pause |
+| 2026-11-28 | `36e3418` | stories shared / Instagram pause |
+| 2026-11-28 | `260d159` | stories shared / Instagram pause |
+| 2026-11-28 | `4c18327` | stories shared / Instagram pause |
+| 2026-11-28 | `2a850b4` | stories shared / Instagram pause |
+| 2026-11-28 | `37e10e6` | stories shared / Instagram pause |
+| 2026-11-28 | `febf9ca` | stories shared / Instagram pause |
+| 2026-11-28 | `1ce415e` | stories shared / Instagram pause |
+| 2026-11-28 | `8dcf9c1` | pick: written and posted |
+| 2026-11-28 | `0e7f0ac` | facebook RN-359 |
+| 2026-11-28 | `56e81e6` | posted RN-359 |
+| 2026-11-28 | `dee25d7` | facebook RN-358 |
+| 2026-11-28 | `0bbcc5d` | posted RN-358 |
+| 2026-11-28 | `240d7bb` | stories shared / Instagram pause |
+| 2026-11-28 | `94c1a01` | facebook RN-357 |
+| 2026-11-28 | `bb2b180` | posted RN-357 |
+| 2026-11-28 | `0a6cfad` | pick: picked news saved |
+| 2026-11-28 | `a8208a0` | stories shared / Instagram pause |
+| 2026-11-28 | `c88951d` | pick: picked news saved |
+| 2026-11-28 | `10bd7a7` | pick: list sent |
+| 2026-11-28 | `433c48a` | stories shared / Instagram pause |
+| 2026-11-28 | `32e68e0` | stories shared / Instagram pause |
+| 2026-11-28 | `eadf4cc` | stories shared / Instagram pause |
+| 2026-11-28 | `e6e7de6` | stories shared / Instagram pause |
+| 2026-11-28 | `b45c6fa` | stories shared / Instagram pause |
 <!-- recent-changes:end -->
