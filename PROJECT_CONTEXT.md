@@ -85,6 +85,11 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 <!-- recent-changes:start (updated automatically by .github/workflows/context.yml - do not edit by hand) -->
 | Date | Commit | Change |
 |---|---|---|
+| 2026-11-28 | `504af7d` | reel: design A + improvements on every page (owner 28 Nov, the sample the owner chose) - with 2+ pictures they take turns every second cut, a BREAKING tag only on serious news, a place card with the district map and the town pin after the headline; no clock-hand line across the picture (soft dissolve). One layer over the finished page (reel/live360.py), inside the area that is free on Instagram, Facebook and YouTube Shorts; it never fails the reel |
+| 2026-11-28 | `f3f8eda` | powercut: notices written |
+| 2026-11-28 | `096df72` | stories shared / Instagram pause |
+| 2026-11-28 | `94faf3d` | stories shared / Instagram pause |
+| 2026-11-28 | `884845e` | autofix: corrected held news |
 | 2026-11-28 | `688970a` | YouTube: 40 hashtags on every Short (owner 28 Nov) - 25 for the video, 5 page, 5 district, 5 area (poster/yt_hashtags.py); title, first line, hidden tags, Instagram and Facebook unchanged |
 | 2026-11-28 | `469efd7` | stories shared / Instagram pause |
 | 2026-11-28 | `485fee9` | stories shared / Instagram pause |
@@ -110,9 +115,4 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 | 2026-11-28 | `a8208a0` | stories shared / Instagram pause |
 | 2026-11-28 | `c88951d` | pick: picked news saved |
 | 2026-11-28 | `10bd7a7` | pick: list sent |
-| 2026-11-28 | `433c48a` | stories shared / Instagram pause |
-| 2026-11-28 | `32e68e0` | stories shared / Instagram pause |
-| 2026-11-28 | `eadf4cc` | stories shared / Instagram pause |
-| 2026-11-28 | `e6e7de6` | stories shared / Instagram pause |
-| 2026-11-28 | `b45c6fa` | stories shared / Instagram pause |
 <!-- recent-changes:end -->
