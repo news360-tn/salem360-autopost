@@ -1,27 +1,37 @@
-writing [N]: ஓய்வு கண்டக்டர் விபத்தில் சாவு
-writing [N]: பஸ் சக்கரத்தில் சிக்கி பெண் சாவு
-writing [N]: மழையின்றி கருகும் மானாவாரி கொள்ளு
+writing [N]: முதல்வர் நாற்காலியில் இருந்து அகற்றப்படுவார்: வேல்முருகன் பே
+writing [N]: புத்தக திருவிழா கண்காட்சி தொடக்கம் தினமும் 7,000 மாணவர் பார்
 gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
 gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
 groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
 groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
+writing [N]: மேட்டூர் கிழக்கு கரை வாய்க்காலில் கழிவுநீர் கலப்பதை தடுக்க க
 fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 429: {
   "error": {
     "code": 429,
     "message": "You exceeded your current quota, please che
 dead for this round: gemini/gemini-3.6-flash
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
 fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 429: {
   "error": {
     "code": 429,
     "message": "You exceeded your current quota, please che
 dead for this round: gemini/gemini-3.6-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
 fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {
   "error": {
     "code": 429,
     "message": "You exceeded your current quota, please che
 dead for this round: gemini/gemini-3.5-flash
+fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {
+  "error": {
+    "code": 429,
+    "message": "You exceeded your current quota, please che
+dead for this round: gemini/gemini-3.5-flash
+fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 429: {
+  "error": {
+    "code": 429,
+    "message": "You exceeded your current quota, plea
+dead for this round: gemini/gemini-3-flash-preview
 fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {
   "error": {
     "code": 429,
@@ -34,130 +44,140 @@ fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 429: {
 dead for this round: gemini/gemini-3-flash-preview
 fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {"error":{"message":"Rate limit reached for model `openai/gpt-oss-120b` in organization `o
 dead for this round: groq/openai/gpt-oss-120b
-fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 429: {
-  "error": {
-    "code": 429,
-    "message": "You exceeded your current quota, plea
-dead for this round: gemini/gemini-3-flash-preview
-fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {"error":{"message":"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m
-ok groq/qwen/qwen3.8-27b (5s)
-attempt 1 groq/qwen/qwen3.8-27b: 1 problems
-  slides must have 3 or 4 items
+fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {"error":{"message":"Rate limit reached for model `openai/gpt-oss-120b` in organization `o
+dead for this round: groq/openai/gpt-oss-120b
+fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 413: {"error":{"message":"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7
+free models unavailable: no free model answered: groq qwen/qwen3.8-27b 413: {"error":{"message":"Request too large for model `qwen/qwen3.8-27b` i
+ok groq/qwen/qwen3.8-27b (3s)
+attempt 1 groq/qwen/qwen3.8-27b: 3 problems
+  hl1 is 48 characters (max 40) - write a SHORTER COMPLETE phrase with fewer words that still ends with its key word (what happened: e.g. 'X அருகே வீட்டில் கொள்ளை'); never stop a phrase in the middle
+  sentence 1 (one-line story) has 13 words; make it 6-9 words (about 2-3 seconds), the details follow in the next sentences
+  hl1 (the first headline on screen) must name the place 'சேலம் நகர்', e.g. 'சேலம் நகர்: ...' or 'சேலம் நகர்-இல் ...' - viewers share news of their own area
 gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
 fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {"error":{"message":"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m
+fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 400: {"error":{"message":"Failed to validate JSON. Please adjust your prompt. See 'failed_gener
 fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {"error":{"message":"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m
-switching away from groq/qwen/qwen3.8-27b for 10 min
-free models unavailable: no free model answered: groq qwen/qwen3.8-27b 429: {"error":{"message":"Rate limit reached for model `qwen/qwen3.8-27b` 
+ok anthropic/claude-haiku-5-5
+claude rewrite 1 anthropic/claude-haiku-5-5: 1 problems
+  sentence 1 (one-line story) has 14 words; make it 6-9 words (about 2-3 seconds), the details follow in the next sentences
 fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {"error":{"message":"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m
 switching away from groq/qwen/qwen3.8-27b for 10 min
 free models unavailable: no free model answered: groq qwen/qwen3.8-27b 429: {"error":{"message":"Rate limit reached for model `qwen/qwen3.8-27b` 
 ok anthropic/claude-haiku-5-5
-claude rewrite 1 anthropic/claude-haiku-5-5: 1 problems
-  hl1 is 43 characters (max 40) - write a SHORTER COMPLETE phrase with fewer words that still ends with its key word (what happened: e.g. 'X அருகே வீட்டில் கொள்ளை'); never stop a phrase in the middle
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
+free fact-check unavailable, using Claude: no free model answered: None
+fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 413: {"error":{"message":"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7
+free models unavailable: no free model answered: groq qwen/qwen3.8-27b 413: {"error":{"message":"Request too large for model `qwen/qwen3.8-27b` i
+ok anthropic/claude-haiku-5-5
+factcheck by anthropic/claude-haiku-5-5: 5 problems
+  Caption says the complaint was filed 'அமாணி கிராமத்தின் காத்தவராயன்' and that the sewage is in Kallangattuvalasu, which mixes two places; the article says Amani village for the farmland issue and Kallangattuvalasu for the sewage, but the caption presents Kallangattuvalasu as the location where Kathavarayan's complaint was made, which is not stated.
+  Reel_script says the sewage is discharged in 'அமாணி கிராமத்தில்... கல்லாங்காட்டுவலசு பகுதியில்' combining two locations into one sentence; the article places the sewage in Kallangattuvalasu area, not explicitly in Amani village.
+  Slide 1 says 'குமாரபாளையம் அருகே அமாணி கிராமம் பகுதி' as the location of the sewage problem, which conflates Amani village with the sewage location (Kallangattuvalasu) and is not stated in the article.
+  Caption describes the sewage canal as 'வாய்க்காலில்' and the headline/slide says 'கழிவுநீர் கலப்பு' without the detail that it is canal water; minor, but the reel_script's 'கழிவுநீர் கலப்பதைத் தடுக்க' is accurate. (Not a problem on its own.)
+  Caption states the 'நாள்: நேற்று' (yesterday) for the meeting date, which the article supports ('நேற்று நடந்தது'), so no issue here; however the reel_script omits the key result that the Kathavarayan complaint was about farmland turned barren by a village administrative officer, which is partially covered but the caption adds 'நடவடிக்கை' as an action by 'கலெக்டர் மற்றும் மாவட்ட அதிகாரிகள்', which is accurate.
+claude rewrite 2 anthropic/claude-haiku-5-5: 5 problems
+  fact-check: Caption says the complaint was filed 'அமாணி கிராமத்தின் காத்தவராயன்' and that the sewage is in Kallangattuvalasu, which mixes two places; the article says Amani village for the farmland issue and Kallangattuvalasu for the sewage, but the caption presents Kallangattuvalasu as the location where Kathavarayan's complaint was made, which is not stated.
+  fact-check: Reel_script says the sewage is discharged in 'அமாணி கிராமத்தில்... கல்லாங்காட்டுவலசு பகுதியில்' combining two locations into one sentence; the article places the sewage in Kallangattuvalasu area, not explicitly in Amani village.
+  fact-check: Slide 1 says 'குமாரபாளையம் அருகே அமாணி கிராமம் பகுதி' as the location of the sewage problem, which conflates Amani village with the sewage location (Kallangattuvalasu) and is not stated in the article.
+  fact-check: Caption describes the sewage canal as 'வாய்க்காலில்' and the headline/slide says 'கழிவுநீர் கலப்பு' without the detail that it is canal water; minor, but the reel_script's 'கழிவுநீர் கலப்பதைத் தடுக்க' is accurate. (Not a problem on its own.)
+  fact-check: Caption states the 'நாள்: நேற்று' (yesterday) for the meeting date, which the article supports ('நேற்று நடந்தது'), so no issue here; however the reel_script omits the key result that the Kathavarayan complaint was about farmland turned barren by a village administrative officer, which is partially covered but the caption adds 'நடவடிக்கை' as an action by 'கலெக்டர் மற்றும் மாவட்ட அதிகாரிகள்', which is accurate.
+ok anthropic/claude-haiku-5-5
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
+free fact-check unavailable, using Claude: no free model answered: None
 ok anthropic/claude-haiku-5-5
 claude rewrite 1 anthropic/claude-haiku-5-5: 1 problems
   hl1 (the first headline on screen) must name the place 'சேலம்', e.g. 'சேலம்: ...' or 'சேலம்-இல் ...' - viewers share news of their own area
 ok anthropic/claude-haiku-5-5
-gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
-free fact-check unavailable, using Claude: no free model answered: None
+factcheck by anthropic/claude-haiku-5-5: 4 problems
+  reel_script says Velmurugan warned that CM Vijay 'will be removed' (பதவியிலிருந்து அகற்றப்படுவார்), which is consistent with the article, but the reel_script also says 'முதல்வர் விஜய் பதவியிலிருந்து அகற்றப்படுவார்' inserting the name Vijay into the warning sentence in a way that is ambiguous between the party leader and CM; the article names Vijay as both party leader and CM, so this is a minor clarity point rather than an error, but it should be checked
+  reel_script states Arul Vignesh was arrested (கைது செய்யப்பட்டது) and describes him as 'சட்டமன்ற உறுப்பினர்' while the article says 'எம்.எல்.ஏ.' which is consistent; however the reel_script omits that the arrest is of a T.V.K. MLA by the police, a key fact of the article's first paragraph
+  caption wording 'முதல்வர் நாற்காலியில் இருந்து அகற்றப்படுவார்' in the headline and the sentence 'இல்லையென்றால் முதல்வர் நாற்காலியில் இருந்து அகற்றப்படுவார்' is faithful, but the caption and slides say 'முதல்வர் விஜய் கட்சியினரை அழைத்து' whereas the article says 'சொந்த கட்சியினரை' which is equivalent; no substantive problem
+  slides_spec line 'சேலம் நகர்: முதல்வர் அகற்றப்படுவார்' and cat/loc labels add 'சேலம் நகர்' as location, which the article gives only as the datelines 'சேலம்' with the interview taken in Salem; acceptable
+claude rewrite 1 anthropic/claude-haiku-5-5: 4 problems
+  fact-check: reel_script says Velmurugan warned that CM Vijay 'will be removed' (பதவியிலிருந்து அகற்றப்படுவார்), which is consistent with the article, but the reel_script also says 'முதல்வர் விஜய் பதவியிலிருந்து அகற்றப்படுவார்' inserting the name Vijay into the warning sentence in a way that is ambiguous between the party leader and CM; the article names Vijay as both party leader and CM, so this is a minor clarity point rather than an error, but it should be checked
+  fact-check: reel_script states Arul Vignesh was arrested (கைது செய்யப்பட்டது) and describes him as 'சட்டமன்ற உறுப்பினர்' while the article says 'எம்.எல்.ஏ.' which is consistent; however the reel_script omits that the arrest is of a T.V.K. MLA by the police, a key fact of the article's first paragraph
+  fact-check: caption wording 'முதல்வர் நாற்காலியில் இருந்து அகற்றப்படுவார்' in the headline and the sentence 'இல்லையென்றால் முதல்வர் நாற்காலியில் இருந்து அகற்றப்படுவார்' is faithful, but the caption and slides say 'முதல்வர் விஜய் கட்சியினரை அழைத்து' whereas the article says 'சொந்த கட்சியினரை' which is equivalent; no substantive problem
+  fact-check: slides_spec line 'சேலம் நகர்: முதல்வர் அகற்றப்படுவார்' and cat/loc labels add 'சேலம் நகர்' as location, which the article gives only as the datelines 'சேலம்' with the interview taken in Salem; acceptable
 ok anthropic/claude-haiku-5-5
-factcheck by anthropic/claude-haiku-5-5: 0 problems
-claude rewrite 2 anthropic/claude-haiku-5-5: 0 problems
-gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
-proofread skipped: no free model answered: None
+claude rewrite 3 anthropic/claude-haiku-5-5: 3 problems
+  hl1 is 44 characters (max 40) - write a SHORTER COMPLETE phrase with fewer words that still ends with its key word (what happened: e.g. 'X அருகே வீட்டில் கொள்ளை'); never stop a phrase in the middle
+  reel_script has 99 words; need 100-160 (the key facts once each, in at most 90 seconds; every other detail goes in the caption's 📰 முழு விவரம் block)
+  sentence 1 (one-line story) has 14 words; make it 6-9 words (about 2-3 seconds), the details follow in the next sentences
 gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
 groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
+proofread skipped: no free model answered: None
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
 ok anthropic/claude-haiku-5-5
+real photo: no picture on the source page -> AI pictures
+ok anthropic/claude-haiku-5-5
+claude rewrite 2 anthropic/claude-haiku-5-5: 1 problems
+  hl1 (the first headline on screen) must name the place 'சேலம்', e.g. 'சேலம்: ...' or 'சேலம்-இல் ...' - viewers share news of their own area
 ok anthropic/claude-haiku-5-5
 claude rewrite 2 anthropic/claude-haiku-5-5: 2 problems
-  reel_script sentence 1 (heard in the first 3 seconds) must name the place 'சேலம்' and the news itself, e.g. 'சேலம்-இல் ... 3 பேர் கைது.' - viewers decide in 3 seconds whether the news is about their area
-  caption misses facts of the article (put every one in 📰 முழு விவரம்): சின்னதிருப்பதி ('இவரது உறவினர்கள், சின்னதிருப்பதியை சேர்ந்த தனம், 60, ஓமலூர்,')
+  sentence 1 (one-line story) has 12 words; make it 6-9 words (about 2-3 seconds), the details follow in the next sentences
+  hl1 (the first headline on screen) must name the place 'சேலம்', e.g. 'சேலம்: ...' or 'சேலம்-இல் ...' - viewers share news of their own area
 gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-real photo: vision check unavailable: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-3.6-flash:ge
-real photo: vision check out of free quota
 image match check unavailable: gemini-3.5-flash: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/g
-ok gemini/gemini-3.6-flash (44s)
-attempt 1 gemini/gemini-3.6-flash: 1 problems
-  sentence 1 (one-line story) has 14 words; make it 6-9 words (about 2-3 seconds), the details follow in the next sentences
+ok anthropic/claude-haiku-5-5
+claude rewrite 3 anthropic/claude-haiku-5-5: 2 problems
+  hl1 is 51 characters (max 40) - write a SHORTER COMPLETE phrase with fewer words that still ends with its key word (what happened: e.g. 'X அருகே வீட்டில் கொள்ளை'); never stop a phrase in the middle
+  reel_script sentence 1 (heard in the first 3 seconds) must name the place 'சேலம்' and the news itself, e.g. 'சேலம்-இல் ... 3 பேர் கைது.' - viewers decide in 3 seconds whether the news is about their area
+hl1 shortened at a natural break: 'சேலம்: முதல்வர் நாற்காலியில் இருந்து அகற்றப்படுவார்' -> 'சேலம்: முதல்வர் இருந்து அகற்றப்படுவார்'
 gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
-free models unavailable: no free model answered: None
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
+proofread skipped: no free model answered: None
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
 ok anthropic/claude-haiku-5-5
 claude rewrite 3 anthropic/claude-haiku-5-5: 1 problems
-  reel_script sentence 1 (heard in the first 3 seconds) must name the place 'அஸ்தம்பட்டி' and the news itself, e.g. 'அஸ்தம்பட்டி-இல் ... 3 பேர் கைது.' - viewers decide in 3 seconds whether the news is about their area
+  hl1 (the first headline on screen) must name the place 'சேலம்', e.g. 'சேலம்: ...' or 'சேலம்-இல் ...' - viewers share news of their own area
 gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-image match check unavailable: gemini-3.5-flash: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/g
 groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
 proofread skipped: no free model answered: None
 gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
 groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
-images made: 2 for 'Rain-fed horse gram wilting in Panamarat'
-bridge: 200 {"ok":true,"added":1,"auto_queued":1,"emailed":0,"reoffered":0,"batch":"B20261128-1030","first":"RN-354"}
+image match check unavailable: gemini-3.5-flash: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/g
+images made: 2 for 'Farmers urge action to stop sewage mixin'
+ok anthropic/claude-haiku-5-5
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
+bridge: 200 {"ok":true,"added":1,"auto_queued":1,"emailed":0,"reoffered":0,"batch":"B20261128-1229","first":"RN-357"}
 ok anthropic/claude-haiku-5-5
 posting job started at once
+real photo: vision check unavailable: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-3.6-flash:ge
+real photo: vision check out of free quota
+ok anthropic/claude-haiku-5-5
+image match check unavailable: gemini-3.5-flash: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/g
+image match check unavailable: gemini-3.5-flash: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/g
+images made: 2 for 'Book festival exhibition opens in Salem;'
+bridge: 200 {"ok":true,"added":1,"auto_queued":1,"emailed":0,"reoffered":0,"batch":"B20261128-1229","first":"RN-358"}
 real photo: no picture on the source page -> AI pictures
-ok anthropic/claude-haiku-5-5
-claude rewrite 1 anthropic/claude-haiku-5-5: 3 problems
-  caption talks about the article instead of the news (கட்டுரை) - if the article has no real news, return an empty reel_script
-  hl1 is 51 characters (max 40) - write a SHORTER COMPLETE phrase with fewer words that still ends with its key word (what happened: e.g. 'X அருகே வீட்டில் கொள்ளை'); never stop a phrase in the middle
-  known issue meta_article: caption talks about the article instead of the news ('கட்டுரை') - rewrite so it does not happen again
 image match check unavailable: gemini-3.5-flash: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/g
-ok anthropic/claude-haiku-5-5
-claude rewrite 2 anthropic/claude-haiku-5-5: 3 problems
-  hl1 is 43 characters (max 40) - write a SHORTER COMPLETE phrase with fewer words that still ends with its key word (what happened: e.g. 'X அருகே வீட்டில் கொள்ளை'); never stop a phrase in the middle
-  sentence 1 (one-line story) has 14 words; make it 6-9 words (about 2-3 seconds), the details follow in the next sentences
-  caption misses facts of the article (put every one in 📰 முழு விவரம்): கொங்கணாபுரம் ('இவர்கள் கடந்த, 24ல் 'ஜூபிடர்' மொபட்டில் கொங்கணாபுரம், சுண்டம')
+image match: False The image is a generic/AI-generated photo of microphones at a press conference table and does not show Velmurugan, CM Vi
 image match check unavailable: gemini-3.5-flash: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/g
-images made: 2 for 'Woman dies after being run over by priva'
-bridge: 200 {"ok":true,"added":1,"auto_queued":1,"emailed":0,"reoffered":0,"batch":"B20261128-1031","first":"RN-355"}
-ok anthropic/claude-haiku-5-5
-gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
-free fact-check unavailable, using Claude: no free model answered: None
-ok anthropic/claude-haiku-5-5
-factcheck by anthropic/claude-haiku-5-5: 5 problems
-  reel_script says the 66-year-old Azhagarasan and his wife 'Malarkodi, 55' travelled on the Jupiter moped; the article says Malarkodi is 55 but the draft's grammar attaches the age awkwardly ('55 வயதும்') — minor, but the age phrase 'மலர்கொடி, 55 வயதும்' is ungrammatical in Tamil context
-  reel_script says the couple 'பின்னர் அங்கிருந்து வீடு திரும்பினர்' and 'மூலக்கடையில் வந்தபோது' — 'மூலக்கடையில்' is a locative of a place name that was given as 'மூலக்கடைக்கு'; acceptable, but the sentence 'மொபட் மோதியது' omits that the road barrier was on the left side with clarity; not a fact error
-  slides_spec 'பின்னணி' slide says Jupiter moped return journey caused the accident, but it merges the trip origin, the temple visit and the accident location into one sentence ('பின்னர் ஜூபிடர் மொபட்டில் வீடு திரும்பியபோது விபத்து'), mixing two facts
-  slides_spec 'யார்?' slide lists the wife's age as '55 வயது' while the reel_script states her age only in an ungrammatical clause, so the two places are inconsistent in phrasing
-  reel_script omits the article's note that the couple were first taken to a private hospital in Salem and then moved to Coimbatore for further treatment — it does mention both, so no omission; however it omits that the death occurred at Coimbatore hospital specifically (article says 'நேற்று முன்தினம் அழகரசன் உயிரிழந்தார்' without place), so no problem
-claude rewrite 3 anthropic/claude-haiku-5-5: 5 problems
-  fact-check: reel_script says the 66-year-old Azhagarasan and his wife 'Malarkodi, 55' travelled on the Jupiter moped; the article says Malarkodi is 55 but the draft's grammar attaches the age awkwardly ('55 வயதும்') — minor, but the age phrase 'மலர்கொடி, 55 வயதும்' is ungrammatical in Tamil context
-  fact-check: reel_script says the couple 'பின்னர் அங்கிருந்து வீடு திரும்பினர்' and 'மூலக்கடையில் வந்தபோது' — 'மூலக்கடையில்' is a locative of a place name that was given as 'மூலக்கடைக்கு'; acceptable, but the sentence 'மொபட் மோதியது' omits that the road barrier was on the left side with clarity; not a fact error
-  fact-check: slides_spec 'பின்னணி' slide says Jupiter moped return journey caused the accident, but it merges the trip origin, the temple visit and the accident location into one sentence ('பின்னர் ஜூபிடர் மொபட்டில் வீடு திரும்பியபோது விபத்து'), mixing two facts
-  fact-check: slides_spec 'யார்?' slide lists the wife's age as '55 வயது' while the reel_script states her age only in an ungrammatical clause, so the two places are inconsistent in phrasing
-  fact-check: reel_script omits the article's note that the couple were first taken to a private hospital in Salem and then moved to Coimbatore for further treatment — it does mention both, so no omission; however it omits that the death occurred at Coimbatore hospital specifically (article says 'நேற்று முன்தினம் அழகரசன் உயிரிழந்தார்' without place), so no problem
-gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
-proofread skipped: no free model answered: None
-gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
-ok anthropic/claude-haiku-5-5
-real photo: no picture on the source page -> AI pictures
-image match: True The photo shows a red moped lying damaged next to a concrete road barrier, with police officers present at the accident 
-image match check unavailable: gemini-3.5-flash: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/g
-images made: 2 for 'Retired government bus conductor dies af'
-bridge: 200 {"ok":true,"added":1,"auto_queued":1,"emailed":0,"reoffered":0,"batch":"B20261128-1031","first":"RN-356"}
+images made: 2 for 'Velmurugan says CM Vijay will be removed'
+bridge: 200 {"ok":true,"added":1,"auto_queued":1,"emailed":0,"reoffered":0,"batch":"B20261128-1229","first":"RN-359"}
 earlier stories still waiting for images: []
 instagram check: 50 recent posts read from the page
 pick round: only the picked links are written (research_free/pick.py)
-manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-salem/retired-conductor-dies-in-accident/4388242
-manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-salem/take-a-rain-free-drizzle/4388255
-manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-salem/woman-crushed-to-death-by-bus/4388258
+manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-namakkal/plea-to-stop-discharge-of-sewage-into-mettur-east-bank-channel/4388267
+manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-salem/chief-minister-to-be-removed-from-chair-vale-murugan-interview/4388249
+manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-salem/book-fair-begins-7000-students-to-visit-daily/4388251
 candidate filter: collected=3
 to write: 3 Salem district candidates (max 3 stories)
 round: top 3 of 3 candidates
 candidates waiting: 3 Salem; time left 79 min
 try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-sale
 try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-sale
-try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-sale
+try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-nama
 auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 2})
 posting job started at once
 auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 4})
-auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 6})
+auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 7})
 candidate loop ended: left 0, tried={'N': 3}, done={'N': 3}, time left 78 min
 filed: 3 Salem district stories (target 3), reels only
 queue: 0 news waiting to be written
