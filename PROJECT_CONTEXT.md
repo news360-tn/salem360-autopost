@@ -85,6 +85,15 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 <!-- recent-changes:start (updated automatically by .github/workflows/context.yml - do not edit by hand) -->
 | Date | Commit | Change |
 |---|---|---|
+| 2026-11-28 | `2ae4f55` | Hashtag fixes (owner 28 Nov): a source link's #part is no longer a hidden YouTube tag (district-section); a Facebook hashtag is never repeated and the top 5 reel gets topic + district + page tag |
+| 2026-11-28 | `63fd725` | stories shared / Instagram pause |
+| 2026-11-28 | `784d14f` | stories shared / Instagram pause |
+| 2026-11-28 | `d934a8d` | stories shared / Instagram pause |
+| 2026-11-28 | `4c0ac03` | stories shared / Instagram pause |
+| 2026-11-28 | `df76052` | stories shared / Instagram pause |
+| 2026-11-28 | `c84d4f5` | stories shared / Instagram pause |
+| 2026-11-28 | `bb48be5` | stories shared / Instagram pause |
+| 2026-11-28 | `6fb2d70` | stories shared / Instagram pause |
 | 2026-11-28 | `504af7d` | reel: design A + improvements on every page (owner 28 Nov, the sample the owner chose) - with 2+ pictures they take turns every second cut, a BREAKING tag only on serious news, a place card with the district map and the town pin after the headline; no clock-hand line across the picture (soft dissolve). One layer over the finished page (reel/live360.py), inside the area that is free on Instagram, Facebook and YouTube Shorts; it never fails the reel |
 | 2026-11-28 | `f3f8eda` | powercut: notices written |
 | 2026-11-28 | `096df72` | stories shared / Instagram pause |
@@ -106,13 +115,4 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 | 2026-11-28 | `8dcf9c1` | pick: written and posted |
 | 2026-11-28 | `0e7f0ac` | facebook RN-359 |
 | 2026-11-28 | `56e81e6` | posted RN-359 |
-| 2026-11-28 | `dee25d7` | facebook RN-358 |
-| 2026-11-28 | `0bbcc5d` | posted RN-358 |
-| 2026-11-28 | `240d7bb` | stories shared / Instagram pause |
-| 2026-11-28 | `94c1a01` | facebook RN-357 |
-| 2026-11-28 | `bb2b180` | posted RN-357 |
-| 2026-11-28 | `0a6cfad` | pick: picked news saved |
-| 2026-11-28 | `a8208a0` | stories shared / Instagram pause |
-| 2026-11-28 | `c88951d` | pick: picked news saved |
-| 2026-11-28 | `10bd7a7` | pick: list sent |
 <!-- recent-changes:end -->
