@@ -3,209 +3,205 @@
   "earlier stories still waiting for images: []",
   "instagram check: 50 recent posts read from the page",
   "pick round: only the picked links are written (research_free/pick.py)",
-  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-salem/young-man-who-attacked-guards-arrested/4388105",
-  "manual link added: https://www.dinamani.com/all-editions/edition-dharmapuri/salem/2026/Nov/27/மாநகராட்சியில்-மேயா்-அதிகாரம்-பறிக்கப்படுகிறது",
-  "manual link added: https://www.thanthitv.com/amp/story/special-report/special-report-yercaud-girls-body-shocks-tamil-nadu-who-is-behind-this-brutal-crime",
+  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-salem/real-estate-worker-killed-as-truck-rams-into-bike/4388243",
+  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-salem/labourer-electrocuted-to-death/4388259",
+  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-salem/tipper-truck-with-6-units-of-soil-seized/4388244",
   "candidate filter: collected=3",
   "to write: 3 Salem district candidates (max 3 stories)",
   "round: top 3 of 3 candidates",
   "candidates waiting: 3 Salem; time left 79 min",
-  "try (N) manual=True: https://www.thanthitv.com/amp/story/special-report/special-r",
-  "try (N) manual=True: https://www.dinamani.com/all-editions/edition-dharmapuri/sal",
   "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-sale",
-  "NOT filed (N) Special Report | தமிழகத்தையே உலுக்கிய ஏற்காடு சிறு: duplicate after write",
-  "auto images: 1 of 1 stories ({'pollinations': 2})",
+  "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-sale",
+  "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-sale",
+  "NOT filed (N) மின்சாரம் பாய்ந்து தொழிலாளி பலி: not Salem district news (the story's first lines name another place and no Salem place)",
+  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 2})",
   "posting job started at once",
-  "auto images: 1 of 1 stories ({'pollinations': 4})",
-  "candidate loop ended: left 0, tried={'N': 3}, done={'N': 2}, time left 77 min",
+  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 4})",
+  "candidate loop ended: left 0, tried={'N': 3}, done={'N': 2}, time left 78 min",
   "filed: 2 Salem district stories (target 3), reels only",
   "queue: 0 news waiting to be written",
   "All News sheet: {\"ok\":true,\"added\":3,\"updated\":0}"
  ],
  "llm": [
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
+  "dead for this round: gemini/gemini-3.6-flash",
   "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
   "dead for this round: gemini/gemini-3.6-flash",
   "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
   "dead for this round: gemini/gemini-3.5-flash",
-  "ok gemini/gemini-3-flash-preview (9s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok gemini/gemini-3.6-flash (33s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
+  "dead for this round: gemini/gemini-3.5-flash",
   "fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, plea",
   "dead for this round: gemini/gemini-3-flash-preview",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 400: {\"error\":{\"message\":\"Failed to validate JSON. Please adjust your prompt. See 'failed_gener",
-  "ok groq/qwen/qwen3.8-27b (3s)",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
+  "dead for this round: groq/openai/gpt-oss-120b",
+  "ok groq/qwen/qwen3.8-27b (4s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
-  "fail gemini/gemini-3.6-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=60)",
-  "poor answer - skipped for 30 min: gemini/gemini-3.6-flash",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
-  "dead for this round: groq/openai/gpt-oss-120b",
+  "ok gemini/gemini-3-flash-preview (14s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
+  "ok gemini/gemini-3.6-flash (19s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
+  "switching away from groq/qwen/qwen3.8-27b for 10 min",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok anthropic/claude-haiku-5-5",
   "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
   "switching away from groq/qwen/qwen3.8-27b for 10 min",
   "ok anthropic/claude-haiku-5-5",
   "ok anthropic/claude-haiku-5-5",
-  "fail gemini/gemini-3-flash-preview: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=60)",
-  "poor answer - skipped for 30 min: gemini/gemini-3-flash-preview",
   "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "ok anthropic/claude-haiku-5-5",
   "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "ok anthropic/claude-haiku-5-5"
  ],
  "stories": [
   {
-   "tamil_headline": "சேலம் மாநகராட்சி மேயர் அதிகாரம் பறிக்கப்படுகிறது என குற்றச்சாட்டு",
-   "english_headline": "Salem Corporation Mayor alleges her powers are being taken away, says city works have stalled",
-   "category": "Government & Services",
-   "location": "Salem city, Salem district",
-   "importance": "Medium",
-   "scope": "district",
-   "post_to": "Salem 360",
-   "slides_spec": {
-    "v": 3,
-    "cat": "மாநகராட்சி",
-    "loc": "சேலம் மாநகராட்சி",
-    "hl1": "சேலம் மேயர் பறிப்பு குற்றச்சாட்டு",
-    "hl2": "பணிகள் பாதிப்பு என மேயர்",
-    "slides": [
-     {
-      "title": "மேயரின்",
-      "lines": [
-       "சேலம் மேயர் ராமச்சந்திரன் அதிகாரம்",
-       "இதனால் உள்ளாட்சிப் பணிகள் நடைபெறவில்லை என்றார்",
-       "வெள்ளிக்கிழமை செய்தியாளர்களிடம் பேசினார்"
-      ]
-     },
-     {
-      "title": "ஆணையர் மீது புகார்",
-      "lines": [
-       "ஆகஸ்ட் கூட்டத் தகராறு நடவடிக்கை இன்னும் இல்லை",
-       "கவுன்சிலர் கூட்டத்தில் கலந்துகொள்ளக் கூடாது என தீர்மானம்",
-       "ஆணையர் அதை ஏற்க மறுப்பதாக மேயர் கூறினார்"
-      ]
-     },
-     {
-      "title": "மேயரின் மற்ற",
-      "lines": [
-       "சாலையோரக் கடைகளில் ஒப்பந்தம் முடிந்தும் வசூல் நடக்கிறது",
-       "5 மாவட்டக் குப்பைகளை சேலத்தில் கொட்டும் திட்டம் உள்ளது",
-       "முதல்வர் 110-ஆவது விதியின் கீழ் அறிவித்துள்ளார்"
-      ]
-     }
-    ],
-    "carousel": false
-   },
-   "reel_script": "சேலம் மாநகராட்சியில் மேயர் அதிகாரம் பறிக்கப்படுவதாக மேயர் ராமச்சந்திரன் குற்றம்சாட்டியுள்ளார். இதனால் உள்ளாட்சிகளில் அனைத்துப் பணிகளும் பாதிக்கப்பட்டுள்ளதாக அவர் கூறினார். கடந்த ஆகஸ்ட் மாதக் கூட்டத்தில் தகராறில் ஈடுபட்ட கவுன்சிலர் மீது இதுவரை நடவடிக்கை எடுக்கவில்லை என்றார். அந்தக் கவுன்சிலர் 2 கூட்டங்களில் கலந்துகொள்லக் கூடாது என 36 கவுன்சிலர்களின் ஆதரவுடன் தீர்மானம் நிறைவேற்றப்பட்டதாகவும் அவர் தெரிவித்தார். ஆனால் அந்தத் தீர்மானத்தை ஏற்க ஆணையர் மறுப்பதாக மேயர் குற்றம்சாட்டினார். சாலையோரக் கடைகளில் ஒப்பந்தம் முடிந்த பின்னரும் வசூல் நடைபெறுவதாகவும் அவர் கூறினார். 5 மாவட்டக் குப்பைகளை சேலத்தில் கொட்டும் திட்டத்தையும் அவர் எதிர்த்தார். இதுகுறித்து முதல்வர் 110-ஆவது விதியின் கீழ் அறிவித்துள்ளார். மேலும் செய்திகளுக்கு சேலம் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🏛️ சேலம் மாநகராட்சியில் மேயர் அதிகாரம் பறிக்கப்படுவதாக குற்றச்சாட்டு\n\n📰 முழு விவரம்:\nசேலம் மேயர் ராமச்சந்திரன் வெள்ளிக்கிழமை செய்தியாளர்களிடம் பேசினார். மேயர் அதிகாரம் பறிக்கப்படுவதால் உள்ளாட்சிகளில் பணிகள் நடைபெறவில்லை என அவர் குற்றம்சாட்டினார். ஆகஸ்ட் மாதக் கூட்டத் தகராறில் ஈடுபட்ட கவுன்சிலர் மற்றும் ஆதரவாளர்கள் மீது இதுவரை நடவடிக்கை இல்லை என்றார். அந்தக் கவுன்சிலர் 2 கூட்டங்களில் கலந்துகொள்ளக் கூடாது என 36 கவுன்சிலர்களின் ஆதரவுடன் தீர்மானம் நிறைவேற்றப்பட்டதாகவும், அதை ஆணையர் ஏற்க மறுப்பதாகவும் கூறினார். சாலையோரக் கடைகளில் ஒப்பந்தம் முடிந்த பின்னரும் வசூல் நடைபெறுவதாகவும், 5 மாவட்டக் குப்பைகளை சேலத்தில் கொட்டும் திட்டம் குறித்தும் அவர் புகார் தெரிவித்தார். இத்திட்டத்தை முதல்வர் 110-ஆவது விதியின் கீழ் அறிவித்துள்ளார்.\n\nSalem Mayor alleges powers taken away, city works stalled | Salem news\n📍 சேலம் மாநகராட்சி, சேலம் மாவட்டம் | 27 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Salem360 #Salem #SalemNews #சேலம்",
-   "prompts": "The Salem Corporation Mayor stands in front of a cluster of reporters' microphones outside the corporation office in Salem city, speaking while three councillors stand close behind him. The setting is a plain government office compound with a concrete pillared verandah, a tiled roof and a Tamil Nadu government office look, with a few parked two-wheelers and a corporation tractor at the edge. The mayor is seen from behind and slightly to the side, wearing a white shirt and veshti, while the councillors, in shirts and trousers, face the reporters with serious expressions. Daylight, mid-morning, soft even light with no harsh shadows. Shot at eye level on a 35 mm lens, wide enough to show the verandah, the group and the office entrance. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up of a stack of official corporation files and a typed council resolution sheet placed on a wooden table in a Salem Corporation meeting hall, with a microphone and a glass of water beside them. Behind the table, out of focus, a row of empty chairs and a faded wall, suggesting a stalled council meeting. The papers are shown without any readable text or signatures. Natural daylight from a high window falls across the table. Shot at slightly high angle on a 35 mm lens to focus on the documents and the empty seats behind. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamani.com/all-editions/edition-dharmapuri/salem/2026/Nov/27/மாநகராட்சியில்-மேயா்-அதிகாரம்-பறிக்கப்படுகிறது",
-   "published": "2026-11-27T20:01:08.680Z",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5) - fact-check: no problems found",
-   "note": "free-model draft anthropic/claude-haiku-5-5, 11 attempt(s), 0 validator problem(s)",
-   "post_time": "right after your reply, same day",
-   "_area": "N",
-   "_score": 999,
-   "images": [
-    "https://pub-ec316fa6a94f404c993596355ad19128.r2.dev/salem360/20261128/0eb3bed212057e86.jpg",
-    "https://pub-ec316fa6a94f404c993596355ad19128.r2.dev/salem360/20261128/f6c5d4408015222a.jpg"
-   ]
-  },
-  {
-   "tamil_headline": "ஆத்தூரில் காவலாளிகளை தாக்கிய புதுக்கோட்டை வாலிபர் கைது",
-   "english_headline": "Puthukottai man arrested for attacking security guards in Attur",
+   "tamil_headline": "கொங்கணாபுரத்தில் 6 யூனிட் மண்ணுடன் டிப்பர் லாரி பறிமுதல்",
+   "english_headline": "Tipper lorry seized with 6 units of soil near Konganapuram, Salem district",
    "category": "Crime & Safety",
-   "location": "Attur town, Salem district",
+   "location": "Konganapuram, Salem district",
    "importance": "Medium",
    "scope": "local",
    "post_to": "Salem 360",
    "slides_spec": {
     "v": 3,
-    "cat": "குற்றம்",
-    "loc": "ஆத்தூர்",
-    "hl1": "ஆத்தூரில் காவலாளிகளை வாலிபர் கைது",
-    "hl2": "இருவர் மீது கல்வீச்சு",
+    "cat": "கனிம வள விதிமீறல்",
+    "loc": "கொங்கணாபுரம்",
+    "hl1": "கொங்கணாபுரத்தில் லாரி பறிமுதல்",
+    "hl2": "6 யூனிட் மண் கடத்தல்",
     "slides": [
      {
       "title": "என்ன நடந்தது?",
       "lines": [
-       "ஆத்தூர் நகராட்சி பூங்கா அருகே கூட்டுறவு வங்கி காவலாளி",
-       "நேற்று அதிகாலை <b>2:30 மணிக்கு</b> மர்ம நபர் கல்லால் தாக்கினார்",
-       "கூச்சலிட்டதும் அந்த நபர் ஓடிவிட்டார்"
+       "சேலம் கனிம வளத்துறையினர் வாகனத் தணிக்கை நடத்தினர்",
+       "கொங்கணாபுரம் சக்தி பேக்கரி சந்திப்பு அருகே நடந்தது",
+       "டிப்பர் லாரி நிறுத்தப்பட்டது"
       ]
      },
      {
-      "title": "அடுத்து நடந்தது",
+      "title": "எப்போது?",
       "lines": [
-       "நான்கு முனை சந்திப்பில் மொபைல் கடை காவலாளியையும் தாக்கினார்",
-       "தாக்கப்பட்டவர்கள் <b>59</b> மற்றும் <b>65</b> வயது முதியவர்கள்",
-       "ஆத்தூர் போலீசார் விசாரணை நடத்தினர்"
+       "நேற்று அதிகாலை <b>2:30 மணி</b>க்கு",
+       "உதவி புவியியலாளர் பிரேம், தனி வருவாய் ஆய்வாளர் கோபி",
+       "டிரைவர் லாரியை நிறுத்திவிட்டு ஓடிவிட்டார்"
       ]
      },
      {
-      "title": "கைது",
+      "title": "எவ்வளவு மண்?",
       "lines": [
-       "தாக்கியவர் புதுக்கோட்டை மாவட்டம் காடம்பட்டியைச் சேர்ந்த",
-       "நாமக்கல் பஸ் ஸ்டாண்டில் இருந்த அவரை போலீசார் கைது செய்தனர்",
-       "மனநலம் பாதிக்கப்பட்டவர் போல் தெரிவதாக போலீசார் கூறினர்"
+       "லாரியில் <b>6 யூனிட்</b> மண் கடத்தப்பட்டது",
+       "மண்ணின் மதிப்பு <b>ரூ.5,500</b>",
+       "லாரி மண்ணுடன் பறிமுதல் செய்யப்பட்டது"
       ]
      }
     ],
     "carousel": false
    },
-   "reel_script": "ஆத்தூரில் இரண்டு காவலாளிகளை கல்லால் தாக்கிய வாலிபர் கைது செய்யப்பட்டார். நேற்று அதிகாலை 2:30 மணிக்கு ஆத்தூர் நகராட்சி பூங்கா அருகே உள்ள கூட்டுறவு தொடக்க வங்கியின் காவலாளி முத்துசாமிக்கு 59 வயது. பணியில் இருந்த அவரை மர்ம நபர் கல்லால் தாக்கினார். கூச்சலிட்டதும் அந்த நபர் ஓடிவிட்டார். பின்னர் நான்கு முனை சந்திப்பில் உள்ள தனியார் மொபைல் கடை காவலாளி ராஜாவையும் அவர் தாக்கிவிட்டு தப்பினார். ராஜாவுக்கு 65 வயது. ஆத்தூர் போலீசார் விசாரணை நடத்தினர். தாக்கியவர் புதுக்கோட்டை மாவட்டம் காடம்பட்டியைச் சேர்ந்த 36 வயது ராஜேஷ்குமார் என தெரியவந்தது. அவர் நாமக்கல் பஸ் ஸ்டாண்டில் இருந்தபோது போலீசார் அங்கு சென்று அவரை கைது செய்தனர். ராஜேஷ்குமார் மனநலம் பாதிக்கப்பட்டவர் போல் தெரிவதாக போலீசார் கூறினர். போலீசார் தொடர்ந்து விசாரிக்கின்றனர். மேலும் செய்திகளுக்கு சேலம் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🚨 ஆத்தூரில் காவலாளிகளை தாக்கிய வாலிபர் கைது\n\n📰 முழு விவரம்:\nஆத்தூர் நகராட்சி பூங்கா அருகே உள்ள கூட்டுறவு தொடக்க வங்கியின் காவலாளி முத்துசாமி (59 வயது), நேற்று அதிகாலை 2:30 மணிக்கு மர்ம நபரால் கல்லால் தாக்கப்பட்டார். கூச்சலிட்டதும் அந்த நபர் ஓடிவிட்டார். பின்னர் நான்கு முனை சந்திப்பில் உள்ள மொபைல் கடை காவலாளி ராஜா (65 வயது), என்பவரையும் அதே நபர் தாக்கினார். ஆத்தூர் போலீசார் விசாரணை நடத்தியதில், தாக்கியவர் புதுக்கோட்டை மாவட்டம் காடம்பட்டியைச் சேர்ந்த ராஜேஷ்குமார் (36 வயது), என தெரியவந்தது. நாமக்கல் பஸ் ஸ்டாண்டில் இருந்த அவரை போலீசார் கைது செய்தனர். மனநலம் பாதிக்கப்பட்டவர் போல் தெரிவதாகவும், விசாரணை தொடர்வதாகவும் போலீசார் தெரிவித்தனர்.\n\n📍 இடம்: ஆத்தூர், சேலம் மாவட்டம்\n🗓️ நாள்: 27 நவம்பர் 2026\n🕘 நேரம்: அதிகாலை 2:30 மணி\n👮 நடவடிக்கை: ராஜேஷ்குமார் கைது\n\nAttur guard attacked, accused arrested | Salem news\n📍 ஆத்தூர், சேலம் மாவட்டம் | 28 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Salem360 #Salem #Attur #SalemNews #சேலம்",
-   "prompts": "A Tamil Nadu police constable in khaki uniform escorts a man seen from behind into a police jeep parked at the edge of a bus stand in Attur, Salem district. The bus stand is busy with private buses and town buses parked in a row, and a few passengers stand with their bags at a distance. The arrested man wears a plain shirt and trousers, his hands held in front, and he walks with his head lowered. Behind them a few onlookers watch from a distance. It is daylight, with a clear sky and warm light falling across the bus stand. The camera is at eye level, 35 mm lens, wide enough to show the bus stand and the police jeep. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up of a single grey stone lying on the pavement beside a low concrete wall, outside a co-operative bank building in Attur town. Next to it sits a plastic chair and a folded wooden stick, the usual gear of a night watchman, with a dusty tiled pavement and a municipal park's green hedge blurred in the background. Early morning light is soft and pale, with a few dew patches on the concrete. The camera is at a slightly high angle, 35 mm lens, focused on the stone and chair with the bank wall behind them. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-salem/young-man-who-attacked-guards-arrested/4388105",
-   "published": "2026-11-27T23:48:42+05:30",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5) - fact-check: no problems found",
-   "note": "free-model draft anthropic/claude-haiku-5-5, 11 attempt(s), 0 validator problem(s)",
+   "reel_script": "கொங்கணாபுரத்தில் 6 யூனிட் மண் கடத்தி வந்த டிப்பர் லாரி பறிமுதல் செய்யப்பட்டது. நேற்று அதிகாலை 2:30 மணிக்கு கொங்கணாபுரம் சக்தி பேக்கரி சந்திப்பு அருகே வாகனத் தணிக்கை நடைபெற்றது. சேலம் கனிம வளத்துறை சார்பில் உதவி புவியியலாளர் பிரேம், தனி வருவாய் ஆய்வாளர் கோபி ஆகியோர் இந்தத் தணிக்கையில் ஈடுபட்டனர். அதிகாரிகள் வந்த டிப்பர் லாரியை நிறுத்தும்படி சைகை காட்டினர். ஆனால் லாரியின் டிரைவர், சற்று முன்னதாக லாரியை நிறுத்திவிட்டு இறங்கி ஓடிவிட்டார். லாரியைச் சோதனை செய்தபோது, 6 யூனிட் மண் கடத்தி வந்தது தெரியவந்தது. அந்த மண்ணின் மதிப்பு ரூபாய் 5,500. அதிகாரிகள் மண்ணுடன் லாரியைப் பறிமுதல் செய்து, கொங்கணாபுரம் போலீசில் ஒப்படைத்து புகார் அளித்தனர். தற்போது போலீசார் டிரைவர் மற்றும் லாரி உரிமையாளர் குறித்து விசாரணை நடத்தி வருகின்றனர். மேலும் செய்திகளுக்கு சேலம் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🚨 கொங்கணாபுரத்தில் 6 யூனிட் மண்ணுடன் டிப்பர் லாரி பறிமுதல்\n\n📰 முழு விவரம்:\nநேற்று அதிகாலை 2:30 மணிக்கு கொங்கணாபுரம் சக்தி பேக்கரி சந்திப்பு அருகே சேலம் கனிம வளத்துறை அதிகாரிகள் வாகனத் தணிக்கை நடத்தினர். உதவி புவியியலாளர் பிரேம், தனி வருவாய் ஆய்வாளர் கோபி ஆகியோர் இதில் ஈடுபட்டனர். அதிகாரிகள் நிறுத்தச் சைகை காட்டிய டிப்பர் லாரியின் டிரைவர், லாரியை முன்கூட்டியே நிறுத்திவிட்டு இறங்கி ஓடிவிட்டார். லாரியைச் சோதனை செய்ததில் 6 யூனிட் மண் கடத்தி வந்தது தெரியவந்தது. அந்த மண்ணின் மதிப்பு ரூபாய் 5,500. மண்ணுடன் லாரியைப் பறிமுதல் செய்த அதிகாரிகள், கொங்கணாபுரம் போலீசில் ஒப்படைத்து புகார் அளித்தனர். போலீசார் டிரைவர் மற்றும் லாரி உரிமையாளர் குறித்து விசாரித்து வருகின்றனர்.\n\n📍 இடம்: கொங்கணாபுரம் சக்தி பேக்கரி சந்திப்பு அருகே, சேலம் மாவட்டம்\n🗓️ நாள்: 28 நவம்பர் 2026 (நேற்று அதிகாலை)\n🕘 நேரம்: அதிகாலை 2:30 மணி\n👮 நடவடிக்கை: லாரி பறிமுதல், கொங்கணாபுரம் போலீசில் ஒப்படைப்பு, புகார் அளிப்பு\n\nTipper lorry seized with 6 units of soil, Konganapuram | Salem news\n📍 கொங்கணாபுரம், சேலம் மாவட்டம் | 28 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Salem360 #Salem #Konganapuram #SalemNews #சேலம்",
+   "prompts": "A tipper lorry loaded with soil stands stopped on the roadside at a junction in Konganapuram town, Salem district, as two Tamil Nadu mineral resources officials in shirts and trousers check its papers from a distance. The road is a quiet semi-urban stretch with a bakery signboard-free shop front, a few parked two-wheelers and streetlights glowing in the pre-dawn dark, around 2:30 am. The lorry's tipper body is heaped with six units of brown soil, its rear raised slightly, while the two officials, seen from behind and far away, stand beside its cab with a torch beam on the load. Beyond them the empty road and shuttered shops fade into darkness, and a single police vehicle is parked at the edge of the frame. Camera at eye level, 35 mm, wide enough to show the lorry, the junction and the empty road under the night sky. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up of the soil heaped in the open tipper body of a dark lorry parked on a Konganapuram roadside at night, the brown mound of earth lit by a torch beam held by an official whose arm and khaki-free shirt sleeve are visible at the edge of the frame. Wet soil clumps and tyre tracks show on the road surface beneath the tipper, and a faint streetlight glows in the background of the pre-dawn scene. The lorry's raised tipper and the spilled earth on the tarmac tell the story of illegal soil transport, with no people's faces shown. Camera slightly high, 35 mm, shallow depth of field so the soil is sharp and the background softly blurred. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-salem/tipper-truck-with-6-units-of-soil-seized/4388244",
+   "published": "2026-11-28T06:44:00+05:30",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: reel_script has numbers without their meaning (5,500); write what each number is: '15 வயது', '30 பாட்டில்கள்', 'அக்டோபர் 26ஆம் தேதி'",
+   "note": "free-model draft anthropic/claude-haiku-5-5, 12 attempt(s), 1 validator problem(s)",
    "post_time": "right after your reply, same day",
    "_area": "N",
    "_score": 999,
    "images": [
-    "https://pub-ec316fa6a94f404c993596355ad19128.r2.dev/salem360/20261128/798575d5780a2379.jpg",
-    "https://pub-ec316fa6a94f404c993596355ad19128.r2.dev/salem360/20261128/1e9df17152901db9.jpg"
+    "https://pub-ec316fa6a94f404c993596355ad19128.r2.dev/salem360/20261128/9778e0813333573d.jpg",
+    "https://pub-ec316fa6a94f404c993596355ad19128.r2.dev/salem360/20261128/2a0fc12373867e0e.jpg"
+   ]
+  },
+  {
+   "tamil_headline": "மேச்சேரியில் பைக் மீது லாரி மோதல்: ரியல் எஸ்டேட் ஊழியர் பலி",
+   "english_headline": "Lorry hits bike in Mecheri; real estate worker dies on way to Mettur hospital",
+   "category": "Crime & Safety",
+   "location": "Mecheri, Mettur taluk, Salem district",
+   "importance": "Medium",
+   "scope": "local",
+   "post_to": "Salem 360",
+   "slides_spec": {
+    "v": 3,
+    "cat": "சாலை விபத்து",
+    "loc": "மேச்சேரி, மேட்டூர்",
+    "hl1": "மேச்சேரியில் லாரி மோதி ஒருவர் உயிரிழப்பு",
+    "hl2": "ரியல் எஸ்டேட் ஊழியர் மரணம்",
+    "slides": [
+     {
+      "title": "என்ன நடந்தது?",
+      "lines": [
+       "மேச்சேரியில் பைக் மீது காஸ் சிலிண்டர் லாரி மோதியது",
+       "பைக்கில் சென்றவர் மதியழகன், 51 வயது",
+       "ஹெல்மெட் அணியாமல் சென்றார்"
+      ]
+     },
+     {
+      "title": "எங்கே, எப்போது?",
+      "lines": [
+       "மேட்டூரில் இருந்து மேச்சேரி நோக்கி வந்த லாரி",
+       "நேற்று முன்தினம் மாலை <b>5:50</b> மணிக்கு",
+       "மேச்சேரி, பொட்டனேரி, விநாயகர் நகர் பகுதி"
+      ]
+     },
+     {
+      "title": "அடுத்து என்ன?",
+      "lines": [
+       "படுகாயமடைந்த மதியழகன் மேட்டூர் அரசு மருத்துவமனைக்கு",
+       "வழியில் உயிரிழந்தார்",
+       "மனைவி மணிமேகலை புகார்; லாரி டிரைவரை போலீசார் தேடுகின்றனர்"
+      ]
+     }
+    ],
+    "carousel": false
+   },
+   "reel_script": "மேச்சேரியில் பைக் மீது லாரி மோதியதில் ஒருவர் உயிரிழந்தார். நேற்று முன்தினம் மாலை 5:50 மணிக்கு, மேச்சேரி, பொட்டனேரி, விநாயகர் நகரைச் சேர்ந்த மதியழகன், 51 வயது, ரியல் எஸ்டேட் ஊழியர், மேச்சேரியில் இருந்து வீட்டுக்கு ஸ்பிளண்டர் பைக்கில் சென்றுகொண்டிருந்தார். அவர் ஹெல்மெட் அணியவில்லை. மேட்டூரில் இருந்து மேச்சேரி நோக்கி வந்த காஸ் சிலிண்டர் லாரி எதிர்பாராத விதமாக பைக் மீது மோதியது. படுகாயமடைந்த மதியழகனை மக்கள் மீட்டு மேட்டூர் அரசு மருத்துவமனைக்கு அனுப்பினர். ஆனால் வழியில் அவர் உயிரிழந்தார். அவருடைய மனைவி மணிமேகலை அளித்த புகாரின்படி, மேச்சேரி போலீசார் லாரி டிரைவரைத் தேடி வருகின்றனர். மேலும் செய்திகளுக்கு சேலம் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🚨 மேச்சேரியில் பைக் மீது லாரி மோதல்: ரியல் எஸ்டேட் ஊழியர் பலி\n\n📰 முழு விவரம்:\nமேச்சேரி, பொட்டனேரி, விநாயகர் நகரைச் சேர்ந்த மதியழகன், 51 வயது, ரியல் எஸ்டேட் ஊழியர், நேற்று முன்தினம் மாலை 5:50 மணிக்கு மேச்சேரியில் இருந்து வீட்டுக்கு ஸ்பிளண்டர் பைக்கில் ஹெல்மெட் அணியாமல் சென்றுகொண்டிருந்தார்.\nமேட்டூரில் இருந்து மேச்சேரி நோக்கி வந்த காஸ் சிலிண்டர் லாரி எதிர்பாராத விதமாக பைக் மீது மோதியது. படுகாயமடைந்த மதியழகனை மக்கள் மீட்டு மேட்டூர் அரசு மருத்துவமனைக்கு அனுப்பினர். வழியில் அவர் உயிரிழந்தார்.\nஅவருடைய மனைவி மணிமேகலை அளித்த புகாரின்படி, மேச்சேரி போலீசார் லாரி டிரைவரைத் தேடி வருகின்றனர்.\n\n📍 இடம்: மேச்சேரி, மேட்டூர் வட்டம், சேலம் மாவட்டம்\n🗓️ நாள்: நேற்று முன்தினம் (நவம்பர் 26, 2026)\n🕘 நேரம்: மாலை 5:50 மணி\n👮 நடவடிக்கை: லாரி டிரைவரை மேச்சேரி போலீசார் தேடுகின்றனர்\nℹ️ மக்கள் கவனத்திற்கு: வாகனம் ஓட்டும்போது ஹெல்மெட் அணியுங்கள்.\n\nMecheri bike accident lorry death | Salem news\n📍 மேச்சேரி, சேலம் மாவட்டம் | 28 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Salem360 #Salem #Mettur #SalemNews #சேலம்",
+   "prompts": "A gas cylinder lorry stands at an angle on a Mecheri town road while a Splendor motorcycle lies crushed on the tarmac beside it, the bike's front wheel bent under the lorry's side. Mettur-Mecheri road in Mecheri town, Mettur taluk, Salem district: a narrow tar road lined with small shops with shutters half down, a few two-wheelers parked at the kerb, and a mango grove edge in the far background under a plain sky. Onlookers in shirts and veshti stand a distance back from the scene, seen from behind, and two Tamil Nadu police in khaki are visible near the lorry's cab door. Evening, around 6 pm, soft fading daylight with shop lights just starting to glow. Camera at eye level, 35 mm, wide enough to show the whole road and the lorry with the bike beneath its wheel, no faces visible. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up of the crushed Splendor motorcycle at the roadside, its front forks buckled, the mudguard torn and the fuel tank dented, with a single black helmet-less rear seat and scattered broken mirror glass on dark tarmac. Behind it, the wheel of a gas cylinder lorry is blurred, and a few feet of a khaki-trousered police leg and a pair of slippers from a bystander are visible at the frame edge. Evening light, low sun slanting across the road, a shop's shutter behind in soft focus. Camera low, 50 mm, shallow depth of field, no readable text, no injured person, no body. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-salem/real-estate-worker-killed-as-truck-rams-into-bike/4388243",
+   "published": "2026-11-28T06:43:00+05:30",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: reel_script must tell how the story ENDED, as the article's last lines say ('பைக் மீது லாரி மோதல் ரியல் எஸ்டேட் ஊழியர் பலி') - say what finally happened (complaint, action promised, released, arrested, case filed, how long it lasted); never write that details are unknown",
+   "note": "free-model draft anthropic/claude-haiku-5-5, 13 attempt(s), 1 validator problem(s)",
+   "post_time": "right after your reply, same day",
+   "_area": "N",
+   "_score": 999,
+   "images": [
+    "https://pub-ec316fa6a94f404c993596355ad19128.r2.dev/salem360/20261128/d7495d767f58c741.jpg",
+    "https://pub-ec316fa6a94f404c993596355ad19128.r2.dev/salem360/20261128/0ebcec116e3262b1.jpg"
    ]
   }
  ]
