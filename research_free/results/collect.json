@@ -3,9 +3,9 @@
   "earlier stories still waiting for images: []",
   "instagram check: 50 recent posts read from the page",
   "pick round: only the picked links are written (research_free/pick.py)",
-  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-salem/gundas-to-the-rowdy-involved-in-human-trafficking/4388239",
-  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-salem/teenager-escapes-from-hospital/4388245",
-  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-salem/bomb-disposal-drill/4388260",
+  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-salem/retired-conductor-dies-in-accident/4388242",
+  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-salem/take-a-rain-free-drizzle/4388255",
+  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-salem/woman-crushed-to-death-by-bus/4388258",
   "candidate filter: collected=3",
   "to write: 3 Salem district candidates (max 3 stories)",
   "round: top 3 of 3 candidates",
@@ -25,7 +25,9 @@
  "llm": [
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
   "dead for this round: gemini/gemini-3.6-flash",
@@ -37,228 +39,223 @@
   "dead for this round: gemini/gemini-3.5-flash",
   "fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, plea",
   "dead for this round: gemini/gemini-3-flash-preview",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
+  "dead for this round: groq/openai/gpt-oss-120b",
   "fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, plea",
   "dead for this round: gemini/gemini-3-flash-preview",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
-  "dead for this round: groq/openai/gpt-oss-120b",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
-  "dead for this round: groq/openai/gpt-oss-120b",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
-  "ok groq/qwen/qwen3.8-27b (4s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
+  "ok groq/qwen/qwen3.8-27b (5s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
+  "switching away from groq/qwen/qwen3.8-27b for 10 min",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
+  "switching away from groq/qwen/qwen3.8-27b for 10 min",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
-  "ok groq/qwen/qwen3.8-27b (1s)",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "ok gemini/gemini-3.6-flash (44s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "ok anthropic/claude-haiku-5-5"
  ],
  "stories": [
   {
-   "tamil_headline": "ஓமலூர் அரசு மருத்துவமனையில் இருந்து சில்மிஷ வாலிபர் தப்பி ஓட்டம்",
-   "english_headline": "Molester escapes from Omalur government hospital; police search for him after case registered",
-   "category": "Crime & Safety",
-   "location": "Omalur bus stand and Omalur government hospital, Omalur, Salem district",
-   "importance": "Medium",
-   "scope": "",
-   "post_to": "Salem 360",
-   "slides_spec": {
-    "v": 3,
-    "cat": "குற்றச் செய்தி",
-    "loc": "ஓமலூர்",
-    "hl1": "ஓமலூர் மருத்துவமனையில் தப்பி ஓட்டம்",
-    "hl2": "போலீஸ் தேடுதல் தீவிரம்",
-    "slides": [
-     {
-      "title": "என்ன நடந்தது?",
-      "lines": [
-       "ஓமலூர் பஸ் ஸ்டாண்டில் பெண்ணிடம் சில்மிஷம்",
-       "காடையாம்பட்டியை சேர்ந்த திவ்யா, <b>24</b> வயது புகார்",
-       "மக்கள் பிடித்து தாக்கினர், போலீசார் மீட்டனர்"
-      ]
-     },
-     {
-      "title": "எங்கே, எப்போது?",
-      "lines": [
-       "நேற்று முன்தினம் இரவு <b>7:30 மணிக்கு</b> சம்பவம்",
-       "ஓமலூர் பஸ் ஸ்டாண்ட், பாத்திமா பள்ளி அருகே",
-       "போதையில் இருந்த பிரபு, <b>31</b> வயது"
-      ]
-     },
-     {
-      "title": "தப்பியது எப்படி?",
-      "lines": [
-       "காயத்தால் ஓமலூர் அரசு மருத்துவமனையில் அனுமதி",
-       "நேற்று காலை யாருக்கும் தெரியாமல் தப்பி ஓட்டம்",
-       "பிரபு மீது வழக்கு பதிவு, போலீசார் தேடுகின்றனர்"
-      ]
-     }
-    ],
-    "carousel": false
-   },
-   "reel_script": "ஓமலூரில் மருத்துவமனையில் இருந்து சில்மிஷ வாலிபர் தப்பி ஓட்டம். ஓமலூர் பஸ் ஸ்டாண்டில் நேற்று முன்தினம் இரவு 7:30 மணிக்கு இந்தச் சம்பவம் நடந்தது. காடையாம்பட்டியை சேர்ந்த திவ்யா, 24 வயது, தனியார் ஓட்டலில் பணிபுரிகிறார். அவர் நடந்து சென்றபோது எதிரே வந்த நபர் சில்மிஷம் செய்தார். திவ்யா கூச்சலிட்டதும் அந்த நபர் ஓடினார். மக்கள் சிலர் விரட்டிச் சென்று பாத்திமா பள்ளி அருகே அவரைப் பிடித்துத் தாக்கினர். அங்கு வந்த ஓமலூர் போலீசார் அவரை மீட்டனர். அவர் போதையில் இருந்தது தெரியவந்தது. விசாரணையில் அவர் காடையாம்பட்டி, நடுப்பட்டியை சேர்ந்த பிரபு, 31 வயது என்பதும், நாமக்கலில் கூலி வேலை செய்வதும் தெரியவந்தது. காயம் அடைந்ததால் ஓமலூர் அரசு மருத்துவமனையில் அனுமதிக்கப்பட்டார். நேற்று காலை யாருக்கும் தெரியாமல் அவர் மருத்துவமனையில் இருந்து தப்பிவிட்டார். திவ்யாவின் புகாரின்படி, போலீசார் பிரபு மீது வழக்குப் பதிவு செய்து அவரைத் தேடி வருகின்றனர். மேலும் செய்திகளுக்கு சேலம் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🚨 ஓமலூரில் மருத்துவமனையில் இருந்து சில்மிஷ வாலிபர் தப்பி ஓட்டம்\n\n📰 முழு விவரம்:\nகாடையாம்பட்டியை சேர்ந்த திவ்யா, 24 வயது, தனியார் ஓட்டலில் பணிபுரிகிறார். நேற்று முன்தினம் இரவு 7:30 மணிக்கு ஓமலூர் பஸ் ஸ்டாண்டில் நடந்து சென்றபோது எதிரே வந்த நபர் அவரிடம் சில்மிஷம் செய்தார். திவ்யா கூச்சலிட்டதும் அந்த நபர் ஓடினார்.\nமக்கள் சிலர் விரட்டிச் சென்று பாத்திமா பள்ளி அருகே அவரைப் பிடித்துத் தாக்கினர். வந்த ஓமலூர் போலீசார் அவரை மீட்டனர். அவர் போதையில் இருந்தது தெரியவந்தது.\nவிசாரணையில் அவர் காடையாம்பட்டி, நடுப்பட்டியை சேர்ந்த பிரபு, 31 வயது என்றும், நாமக்கலில் கூலி வேலை செய்து வருவதும் தெரியவந்தது. காயம் அடைந்ததால் ஓமலூர் அரசு மருத்துவமனையில் அனுமதிக்கப்பட்டார். நேற்று காலை யாருக்கும் தெரியாமல் அவர் தப்பிவிட்டார்.\n👮 நடவடிக்கை: திவ்யாவின் புகாரின்படி ஓமலூர் போலீசார் நேற்று பிரபு மீது வழக்குப் பதிவு செய்து அவரைத் தேடி வருகின்றனர்.\n\nOmalur man escapes from hospital after molestation case | Salem news\n📍 ஓமலூர், சேலம் மாவட்டம் | 28 நவம்பர் 2026\n\nதேவைப்படுவோருக்கு Share செய்யுங்கள்.\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Salem360 #Salem #Omalur #SalemNews #சேலம்",
-   "prompts": "A Tamil Nadu police constable in khaki stands at the entrance of the Omalur government hospital, looking toward the road as a police jeep is parked at the gate and two hospital attendants in white talk near the doorway. The hospital is a low, plain government building with pale walls and a few ward windows, set on a roadside in Omalur town, Salem district. Several people in shirts, veshti and sarees pass by at a distance, seen from behind, and a few two-wheelers are parked by the boundary wall. It is early morning with soft daylight, the sky pale and the street lightly busy. The camera sits at eye level about 20 metres back, using a 35 mm lens wide enough to show the gate, the police jeep and the road so the scene reads as a hospital where a suspect was held and then gone. No faces, no readable signboards or text. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up of a bare hospital bed in a plain government ward at Omalur, its white sheet crumpled and pushed aside, with a folded khaki police cap and a wooden stool beside it, and a steel water jug on a small side table. Through an open window behind the bed, a view of the Omalur street with a town bus passing at a distance, slightly blurred. The light is soft daylight coming through the window onto the cool tiled floor. The camera is at about waist height, shooting from the doorway with a 35 mm lens, emphasising the empty bed that tells the story of the escape. No people visible, no readable text, no signboards or logos. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-salem/teenager-escapes-from-hospital/4388245",
-   "published": "2026-11-28T06:45:00+05:30",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: reel_script must tell how the story ENDED, as the article's last lines say ('மருத்துவமனையில் இருந்து சில்மிஷ வாலிபர் தப்பி ஓட்டம்') - say what finally happened (complaint, action promised, released, arrested, case filed, how long it lasted); never write that details are unknown",
-   "note": "free-model draft anthropic/claude-haiku-5-5, 13 attempt(s), 1 validator problem(s)",
-   "post_time": "right after your reply, same day",
-   "_area": "N",
-   "_score": 999,
-   "images": [
-    "https://pub-ec316fa6a94f404c993596355ad19128.r2.dev/salem360/20261128/318cd1d17826636a.jpg",
-    "https://pub-ec316fa6a94f404c993596355ad19128.r2.dev/salem360/20261128/7b9da045ffc8551d.jpg"
-   ]
-  },
-  {
-   "tamil_headline": "ஆத்தூர்: ஆள்கடத்தல் வழக்கில் ரவுடிக்கு குண்டர் சட்டம்",
-   "english_headline": "Attur: Rowdy involved in kidnapping case booked under Goondas Act",
-   "category": "Crime & Safety",
-   "location": "Attur, Salem district",
-   "importance": "High",
-   "scope": "local",
-   "post_to": "Salem 360",
-   "slides_spec": {
-    "v": 3,
-    "cat": "குற்றச் செய்தி",
-    "loc": "ஆத்தூர்",
-    "hl1": "ஆத்தூர்: ரவுடிக்கு குண்டர் சட்டம்",
-    "hl2": "ஓராண்டு சிறை",
-    "slides": [
-     {
-      "title": "என்ன நடந்தது?",
-      "lines": [
-       "நரசிங்கபுரம் விமல் (29 வயது), <b>செப். 11</b>ல் கடத்தப்பட்டார்",
-       "கடத்தலில் தொடர்புடைய சுரேஷ் (34 வயது), <b>அக். 28</b>ல் சேலம்",
-       "ஆத்தூர் டவுன் போலீசார் சுரேஷை கைது செய்தனர்"
-      ]
-     },
-     {
-      "title": "குண்டர் சட்டம்",
-      "lines": [
-       "சுரேஷ் மீது கொலை முயற்சி, ஆள் கடத்தல் வழக்குகள் உள்ளன",
-       "சேலம் கலெக்டர் இளம் பகவத் குண்டர் சட்ட உத்தரவிட்டார்",
-       "சுரேஷ் <b>ஓராண்டுக்கு</b> சேலம் மத்திய சிறையில் அடைக்கப்பட்டார்"
-      ]
-     },
-     {
-      "title": "மேலும் 2 பேர்",
-      "lines": [
-       "ரவுடி கார்த்திக் (36 வயது), <b>1,000 ரூபாய்</b> பறித்ததாக வீராணம்",
-       "ரவுடி பூபாலன் (34 வயது), தங்க மோதிரம் பறித்ததாக கிச்சிப்பாளையம்",
-       "இருவர் மீதும் குண்டர் சட்டம் பாய்ந்தது"
-      ]
-     }
-    ],
-    "carousel": false
-   },
-   "reel_script": "ஆத்தூர் பகுதியில் ஆள்கடத்தலில் ஈடுபட்ட ரவுடி சுரேஷ் ஓராண்டுக்கு குண்டர் சட்டத்தில் சிறையில் அடைக்கப்பட்டார். நரசிங்கபுரத்தைச் சேர்ந்த விமல் (29 வயது), என்பவர் செப்டம்பர் 11ஆம் தேதி ஒரு கும்பலால் கடத்தப்பட்டார். இந்தக் கடத்தலில் தொடர்புடைய இடையப்பட்டியைச் சேர்ந்த சுரேஷ் (34 வயது), அக்டோபர் 28ஆம் தேதி சேலம் நீதிமன்றத்தில் சரணடைந்தார். ஆத்தூர் டவுன் போலீசார் அவரைக் கைது செய்து சிறையில் அடைத்தனர். சுரேஷ் மீது கொலை முயற்சி, ஆள் கடத்தல் உள்ளிட்ட வழக்குகள் உள்ளன. இதனால் அவரை குண்டர் சட்டத்தில் கைது செய்ய சேலம் கலெக்டர் இளம் பகவத் உத்தரவிட்டார். அதன்படி சுரேஷ் ஓராண்டுக்கு சேலம் மத்திய சிறையில் அடைக்கப்பட்டார். மேலும், அல்லிக்குட்டையைச் சேர்ந்த ரவுடி கார்த்திக் (36 வயது), நவம்பர் 8ஆம் தேதி கத்தியைக் காட்டி மிரட்டி 1,000 ரூபாய் பறித்ததாக வீராணம் போலீசார் கைது செய்தனர். கிச்சிப்பாளையத்தைச் சேர்ந்த ரவுடி பூபாலன் (34 வயது), நவம்பர் 3ஆம் தேதி தங்க மோதிரத்தைப் பறித்ததாக கிச்சிப்பாளையம் போலீசார் கைது செய்தனர். இருவர் மீதும் குண்டர் சட்டம் பாய்ந்தது. மேலும் செய்திகளுக்கு சேலம் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🚨 ஆத்தூர்: ஆள்கடத்தல் ரவுடி சுரேஷுக்கு குண்டர் சட்டம், ஓராண்டு சிறை\n\n📰 முழு விவரம்:\nநரசிங்கபுரத்தைச் சேர்ந்த விமல் (29 வயது), செப். 11ஆம் தேதி ஒரு கும்பலால் கடத்தப்பட்டார். இதில் தொடர்புடைய பெத்தநாயக்கன்பாளையம், இடையப்பட்டியைச் சேர்ந்த சுரேஷ் (34 வயது), அக். 28ஆம் தேதி சேலம் நீதிமன்றத்தில் சரணடைந்தார். ஆத்தூர் டவுன் போலீசார் அவரைக் கைது செய்து சிறையில் அடைத்தனர்.\nசுரேஷ் மீது கொலை முயற்சி, ஆள் கடத்தல் உள்ளிட்ட வழக்குகள் உள்ளன. சேலம் கலெக்டர் இளம் பகவத் குண்டர் சட்டத்தில் கைது செய்ய உத்தரவிட்டதை அடுத்து, சுரேஷ் ஓராண்டுக்கு சேலம் மத்திய சிறையில் அடைக்கப்பட்டார்.\nஅல்லிக்குட்டையைச் சேர்ந்த ரவுடி கார்த்திக் (36 வயது), நவ. 8ஆம் தேதி பள்ளிப்பட்டியைச் சேர்ந்த கண்ணனிடம் கத்தியைக் காட்டி மிரட்டி 1,000 ரூபாய் பறித்தார். மக்களுக்கு கொலை மிரட்டல் விடுத்ததாக வீராணம் போலீசார் அவரைக் கைது செய்தனர். கார்த்திக் மீது 4 கொலை வழக்குகள், பல வழிப்பறி வழக்குகள் உள்ளன.\nகிச்சிப்பாளையத்தைச் சேர்ந்த ரவுடி பூபாலன் (34 வயது), நவ. 3ஆம் தேதி ஜீவாவிடம் 1,000 ரூபாய், தங்க மோதிரத்தைப் பறித்தார். கிச்சிப்பாளையம் போலீசார் அவரைக் கைது செய்தனர். பூபாலன் மீது கொலை, வழிப்பறி வழக்குகள் உள்ளன.\nஇருவரையும் குண்டர் சட்டத்தில் கைது செய்ய போலீஸ் கமிஷனர் பாபு உத்தரவிட்டார். கார்த்திக் மீது 3ஆம் முறையாகவும், பூபாலன் மீது 4ஆம் முறையாகவும் குண்டர் சட்டம் பாய்ந்தது.\n\nAttur rowdy booked under Goondas Act | Salem news\n📍 ஆத்தூர், சேலம் மாவட்டம் | 28 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Salem360 #Salem #Attur #குற்றம் #SalemNews",
-   "prompts": "A Tamil Nadu police officer in khaki uniform stands at the entrance of the Attur Town Police Station, holding a file, while three suspects in plain clothes are escorted away from the gate, seen from behind. The location is a typical police station building in Attur, Salem district, with a concrete facade and a metal gate. The police officer is writing in a notebook, documenting the booking under the Goondas Act. The suspects are walking towards a police jeep parked nearby, their faces blurred. The scene captures the formal action of law enforcement processing the individuals. Daylight illuminates the street, casting shadows from the building. The camera is at eye level, 35 mm, wide enough to show the police station gate and the street in front. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up of a table inside the police station where seized items are laid out: a small knife, a stack of 1,000 rupee notes, and a gold ring. Behind the table, two police officers in khaki uniforms stand with their backs to the camera, reviewing documents. The table is simple, with a white cloth. The items are clearly visible, representing the evidence from the kidnapping and robbery cases. The lighting is bright, typical of an indoor office. The camera is slightly high, 35 mm, focusing on the objects and the officers' hands, ensuring no faces are visible. This detail shot highlights the specific crimes that led to the Goondas Act booking. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-salem/gundas-to-the-rowdy-involved-in-human-trafficking/4388239",
-   "published": "2026-11-28T06:40:00+05:30",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: slide 3 line 2 longer than 60 characters; caption misses facts of the article (put every one in 📰 முழு விவரம்): 2 ('இதனால் சுரேஷ், ஓராண்டுக்கு சேலம் மத்திய சிறையில் அடைக்கப்பட்')",
-   "note": "free-model draft anthropic/claude-haiku-5-5, 12 attempt(s), 2 validator problem(s)",
-   "post_time": "right after your reply, same day",
-   "_area": "N",
-   "_score": 999,
-   "images": [
-    "https://pub-ec316fa6a94f404c993596355ad19128.r2.dev/salem360/20261128/16af42e235fa4ee2.jpg",
-    "https://pub-ec316fa6a94f404c993596355ad19128.r2.dev/salem360/20261128/52261dcb903ab876.jpg"
-   ]
-  },
-  {
-   "tamil_headline": "சேலம் விமான நிலையத்தில் வெடிகுண்டு செயலிழப்பு ஒத்திகை",
-   "english_headline": "Bomb disposal mock drill held at Salem airport",
-   "category": "Government & Services",
-   "location": "Salem airport, Omalur, Salem district",
+   "tamil_headline": "பனமரத்துப்பட்டியில் மழையின்றி கருகும் மானாவாரி கொள்ளு",
+   "english_headline": "Rain-fed horse gram wilting in Panamarathupatti hill villages as no rain falls",
+   "category": "Weather & Agriculture",
+   "location": "Thumbalpatti panchayat, Panamarathupatti, Salem district",
    "importance": "Medium",
    "scope": "local",
    "post_to": "Salem 360",
    "slides_spec": {
     "v": 3,
-    "cat": "பாதுகாப்பு ஒத்திகை",
-    "loc": "சேலம் விமான நிலையம்",
-    "hl1": "சேலம் விமான நிலையத்தில் ஒத்திகை",
-    "hl2": "வெடிகுண்டு செயலிழப்பு",
+    "cat": "விவசாயம்",
+    "loc": "பனமரத்துப்பட்டி",
+    "hl1": "பனமரத்துப்பட்டியில் கொள்ளு கருகல்",
+    "hl2": "மழையின்றி பயிர்கள் வாடின",
     "slides": [
      {
       "title": "என்ன நடந்தது?",
       "lines": [
-       "சேலம் விமான நிலையத்தில் வெடிபொருள் செயலிழப்பு ஒத்திகை",
-       "விமான நிலைய இயக்குனர் நவ்ஷாத் தலைமை வகித்தார்",
-       "நேற்று நடந்த ஒத்திகை"
+       "தும்பல்பட்டி ஊராட்சியில் கொள்ளு பயிர் வாடியது",
+       "மழை பெய்யாததால் பயிர் வாடி வதங்கியது",
+       "செம்மண் நிலத்தில் முளைத்த பயிர்கள் பாதிப்பு"
       ]
      },
      {
-      "title": "போலீசார் செய்தது",
+      "title": "எந்தப் பகுதிகள்?",
       "lines": [
-       "வெடிகுண்டு தடுப்பு பிரிவு போலீசார் ஒத்திகை செய்தனர்",
-       "ஒரு பையில் வெடிகுண்டு இருப்பதைக் கண்டறிந்தனர்",
-       "பயணியர், ஊழியர்களைப் பாதுகாப்பாக வெளியேற்றினர்"
+       "அடிமலைப்பட்டி, வேடப்பட்டி, கோம்பை கிராமங்கள்",
+       "மலை கிராமங்களில் மானாவாரி சாகுபடி",
+       "விவசாயிகள் புரட்டாசியில் கொள்ளு விதைத்தனர்"
       ]
      },
      {
-      "title": "செயலிழப்பு",
+      "title": "விவசாயிகள் கூறியது",
       "lines": [
-       "வெடிகுண்டை அதிநவீன பாதுகாப்புப் பெட்டியில் வைத்தனர்",
-       "திறந்தவெளிக்கு கொண்டு சென்று செயலிழக்கச் செய்தனர்",
-       "ஒத்திகை முடிந்தது"
+       "ஆண்டுதோறும் வீட்டுத் தேவைக்கு கொள்ளு பயிரிடுவோம்",
+       "பருவமழையை எதிர்பார்த்து விதைத்தோம்",
+       "வயலை உழுத புழுதி அடங்கும் அளவுகூட மழை இல்லை"
       ]
      }
     ],
     "carousel": false
    },
-   "reel_script": "சேலம் விமான நிலையத்தில் வெடிகுண்டு செயலிழப்பு ஒத்திகை நேற்று நடைபெற்றது. விமான நிலைய இயக்குனர் நவ்ஷாத் தலைமை வகித்தார். வெடிகுண்டு தடுப்புப் பிரிவு போலீசார் இந்த ஒத்திகையில் பங்கேற்றனர். ஒரு பையில் வெடிகுண்டு இருப்பதைக் கண்டறிந்ததுபோல் அவர்கள் செய்து காட்டினர். உடனே பயணியர் மற்றும் ஊழியர்களைப் பாதுகாப்பாக வெளியேற்றினர். பின்னர் வெடிகுண்டை அதிநவீன பாதுகாப்புப் பெட்டியில் வைத்து, திறந்தவெளிக்கு கொண்டு சென்றனர். அங்கு அதனைச் செயலிழக்கச் செய்து ஒத்திகையை நிறைவு செய்தனர். மேலும் செய்திகளுக்கு சேலம் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🛫 சேலம் விமான நிலையத்தில் வெடிகுண்டு செயலிழப்பு ஒத்திகை\n\n📰 முழு விவரம்:\nசேலம் விமான நிலையத்தில் வெடிபொருள் செயலிழப்பு ஒத்திகை நேற்று நடைபெற்றது. விமான நிலைய இயக்குனர் நவ்ஷாத் தலைமை வகித்தார்.\nவெடிகுண்டு தடுப்புப் பிரிவு போலீசார், ஒரு பையில் வெடிகுண்டு இருப்பதைக் கண்டறிவது போலவும், உடனே பயணியர், ஊழியர்களைப் பாதுகாப்பாக வெளியேற்றுவது போலவும் செய்து காட்டினர்.\nதொடர்ந்து வெடிகுண்டை அதிநவீன பாதுகாப்புப் பெட்டியில் வைத்து, திறந்தவெளிக்கு கொண்டு சென்று செயலிழக்கச் செய்து ஒத்திகை அளித்தனர்.\n\nSalem airport bomb disposal mock drill | Salem news\n📍 சேலம் விமான நிலையம், ஓமலூர் | 28 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Salem360 #Salem #Omalur #SalemNews #சேலம்",
-   "prompts": "A bomb disposal squad of Tamil Nadu police in khaki uniform carries a heavy high-security protective box across the open apron of Salem airport at Omalur, as airport staff and passengers are moved to safety behind a cordon in the distance. The scene is a mock drill, so the atmosphere is calm and procedural rather than panicked. Behind the police, the airport terminal building with its glass front and a few parked airport service vehicles can be seen on the tarmac. A row of officers in khaki walks in a line, one of them holding the grey-black protective container with both hands, while a few airport ground staff in uniform stand back near the terminal edge, seen from behind. The area is open and flat with tarmac, low boundary greenery and a clear sky, and the Shevaroy hills faintly visible far in the background. Daylight, bright and even. Shot from eye level or slightly high, 35 mm lens, wide enough to show the airport terminal, the apron and the full police line, with the people small and seen from behind or far away. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up of a heavy, high-security protective bomb disposal container, dark grey metal with thick shielded walls and a handle, set down on open ground at the edge of an airport apron in Omalur, Salem. Beside it, a pair of khaki-clad police boots and the hem of a uniform are visible, the officer blurred and out of focus. A faint strip of tarmac and a low fence line run behind, with a small patch of dry grass and gravel in the foreground. The container is the single clear object that tells the story of the disposal drill, lit by bright daylight from the side, showing its ribbed surface and reinforced hinges. No text, labels or markings are visible. Shot close with a 35 mm lens at slightly high eye level, shallow depth of field, the container sharp and the background softly blurred. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-salem/bomb-disposal-drill/4388260",
-   "published": "2026-11-28T06:52:00+05:30",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: reel_script has 58 words; need 60-160 (the key facts once each, in at most 90 seconds; every other detail goes in the caption's 📰 முழு விவரம் block)",
+   "reel_script": "பனமரத்துப்பட்டி அருகே மழை இல்லாததால் மானாவாரி கொள்ளு பயிர்கள் கருகி வருகின்றன. தும்பல்பட்டி ஊராட்சியில் உள்ள அடிமலைப்பட்டி, வேடப்பட்டி, கோம்பை உள்ளிட்ட மலைக் கிராமங்களில் விவசாயிகள் கொள்ளு பயிரிட்டுள்ளனர். புரட்டாசி மாதத்தில் பருவமழையை எதிர்பார்த்து கொள்ளு விதைக்கப்பட்டது. பயிர் முளைத்த நிலையில் மழை பெய்யாததால் செம்மண் நிலத்தில் கொள்ளு பயிர்கள் வாடி வதங்கியுள்ளன. ஆண்டுதோறும் வீட்டுத் தேவைக்காக கொள்ளு, தட்டைப்பயறு, மொச்சை, குத்து அவரை ஆகியவற்றை மானாவாரியாகப் பயிரிடுவது வழக்கம் என விவசாயிகள் தெரிவித்தனர். வயலை உழுத புழுதி அடங்கும் அளவுக்குக்கூட மழை பெய்யவில்லை என விவசாயிகள் கவலை தெரிவித்தனர். மேலும் செய்திகளுக்கு சேலம் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🌾 பனமரத்துப்பட்டியில் மழையின்றி கருகும் மானாவாரி கொள்ளு\n\n📰 முழு விவரம்:\nபனமரத்துப்பட்டி, தும்பல்பட்டி ஊராட்சியில் உள்ள அடிமலைப்பட்டி, வேடப்பட்டி, கோம்பை உள்ளிட்ட மலைக் கிராமங்களில் விவசாயிகள் மானாவாரியாக கொள்ளு பயிரிட்டுள்ளனர்.\nபருவமழையை எதிர்பார்த்து புரட்டாசி மாதத்தில் கொள்ளு விதைக்கப்பட்டது. பயிர் முளைத்த நிலையில் மழை பெய்யாததால் செம்மண் நிலத்தில் பயிர்கள் வாடி வதங்கியுள்ளன.\nவயலை உழுத புழுதி அடங்கும் அளவுகூட மழை பெய்யவில்லை என விவசாயிகள் தெரிவித்தனர்.\n\n📍 இடம்: தும்பல்பட்டி ஊராட்சி, பனமரத்துப்பட்டி, சேலம் மாவட்டம்\n\nRain-fed horse gram wilting Panamarathupatti Salem | Salem news\n📍 பனமரத்துப்பட்டி, சேலம் மாவட்டம் | 28 நவம்பர் 2026\n\nதேவைப்படுவோருக்கு Share செய்யுங்கள்\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Salem360 #Salem #SalemNews #சேலம்",
+   "prompts": "Withered horse gram seedlings droop and dry out in a red-soil rain-fed field on a hill village in Panamarathupatti, Salem district, Tamil Nadu. In the foreground, rows of small kollu pulse plants that had sprouted in the monsoon season have yellowed, curled and wilted in the dusty, cracked semmann earth. Behind them a few farmers in shirts and veshti stand at the edge of the plot, seen from behind, looking over the dry field. The background shows a low green hill and a few scattered trees under a pale, hazy daylight sky with no clouds or rain. The ground is ploughed but dry and dusty, with no water in sight. Camera at eye level, 35 mm lens, wide enough to show the hill-village farmland and the withered crop rows. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up of withered horse gram (kollu) seedlings in cracked red semmann soil in a rain-fed field in the Panamarathupatti hill villages, Salem district, Tamil Nadu. The thin pulse stems and small leaves have dried, turned brown and curled, lying flat on the dust-covered earth. Fine red dust and dry clods surround the plants, with no moisture on the soil surface. In the blurred background, a farmer's bare feet and the edge of a ploughed furrow are visible under bright daylight. No rain, no water, no people's faces in frame. Camera at low angle, 50 mm macro-style close-up, shallow depth of field to focus on the wilted plants. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-salem/take-a-rain-free-drizzle/4388255",
+   "published": "2026-11-28T06:50:00+05:30",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - fact-check: no problems found",
+   "note": "free-model draft anthropic/claude-haiku-5-5, 12 attempt(s), 0 validator problem(s)",
+   "post_time": "right after your reply, same day",
+   "_area": "N",
+   "_score": 999,
+   "images": [
+    "https://pub-ec316fa6a94f404c993596355ad19128.r2.dev/salem360/20261128/af5066f2efb5e25d.jpg",
+    "https://pub-ec316fa6a94f404c993596355ad19128.r2.dev/salem360/20261128/7540571bd2012ff3.jpg"
+   ]
+  },
+  {
+   "tamil_headline": "சேலம் அஸ்தம்பட்டி அருகே பஸ் சக்கரத்தில் சிக்கி பெண் உயிரிழப்பு",
+   "english_headline": "Woman dies after being run over by private bus wheel near Salem's Asthampatti",
+   "category": "Roads & Transport",
+   "location": "Asthampatti, Salem city, Salem district",
+   "importance": "Medium",
+   "scope": "local",
+   "post_to": "Salem 360",
+   "slides_spec": {
+    "v": 3,
+    "cat": "விபத்து",
+    "loc": "அஸ்தம்பட்டி, சேலம்",
+    "hl1": "சேலத்தில் பஸ் மோதி பெண் உயிரிழப்பு",
+    "hl2": "5 ரோடு - அஸ்தம்பட்டி சாலை",
+    "slides": [
+     {
+      "title": "எங்கே?",
+      "lines": [
+       "சேலம் 5 ரோடில் இருந்து அஸ்தம்பட்டி நோக்கி",
+       "நேற்று காலை <b>9:45 மணிக்கு</b> நடந்த விபத்து",
+       "தனியார் பஸ் மொபட் மீது மோதியது"
+      ]
+     },
+     {
+      "title": "யார் யார்?",
+      "lines": [
+       "கட்டட மேஸ்திரி முருகன், <b>58 வயது</b>",
+       "சின்னதிருப்பதி தனம், <b>60 வயது</b>",
+       "ஓமலூர் லலிதா, <b>45 வயது</b>, உயிரிழந்தார்"
+      ]
+     },
+     {
+      "title": "என்ன நடந்தது?",
+      "lines": [
+       "பஸ் முந்த முயன்றபோது மொபட் மீது மோதியது",
+       "லலிதா தடுமாறி விழுந்தார்",
+       "பஸ் சக்கரத்தில் சிக்கி சம்பவ இடத்தில் உயிரிழந்தார்"
+      ]
+     }
+    ],
+    "carousel": false
+   },
+   "reel_script": "சேலத்தில் தனியார் பஸ் சக்கரத்தில் சிக்கி ஒரு பெண் உயிரிழந்தார். நேற்று காலை 9 மணி 45 நிமிடத்துக்கு 5 ரோடில் இருந்து அஸ்தம்பட்டி நோக்கி சென்ற மொபட் மீது விபத்து நடந்தது. முருகன், 58 வயது, தனம், 60 வயது, லலிதா, 45 வயது ஆகியோர் மொபட்டில் பயணம் செய்தனர். முருகன், ஜாகீர் அம்மாபாளையத்தைச் சேர்ந்த கட்டட மேஸ்திரி. தனம், சின்னதிருப்பதியைச் சேர்ந்தவர். லலிதா, ஓமலூர் செல்லப்பிள்ளை குட்டையைச் சேர்ந்தவர். தனியார் பஸ் ஒன்று மொபட்டை முந்த முயன்றபோது மொபட் மீது மோதியது. இதில் லலிதா தடுமாறி விழுந்தார். அவர் பஸ் சக்கரத்தில் சிக்கி சம்பவ இடத்திலேயே உயிரிழந்தார். அஸ்தம்பட்டி போலீசார் விசாரணை நடத்தி வருகின்றனர். மேலும் செய்திகளுக்கு சேலம் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🚨 சேலம் அஸ்தம்பட்டி அருகே பஸ் மோதி பெண் உயிரிழப்பு\n\n📰 முழு விவரம்:\nசேலம் 5 ரோடில் இருந்து அஸ்தம்பட்டி நோக்கி நேற்று காலை 9:45 மணிக்கு மொபட்டில் சென்றவர்கள் விபத்தில் சிக்கினர். தனியார் பஸ் மொபட்டை முந்த முயன்றபோது மொபட் மீது மோதியது. இதில் ஓமலூர், செல்லப்பிள்ளை குட்டையைச் சேர்ந்த லலிதா, 45 வயது, தடுமாறி விழுந்து பஸ் சக்கரத்தில் சிக்கி சம்பவ இடத்திலேயே உயிரிழந்தார். மொபட்டில் பயணித்த கட்டட மேஸ்திரி முருகன், 58 வயது, ஜாகீர் அம்மாபாளையத்தைச் சேர்ந்தவர். மற்றொருவர் சின்னதிருப்பதியைச் சேர்ந்த தனம், 60 வயது. அஸ்தம்பட்டி போலீசார் விசாரணை நடத்தி வருகின்றனர்.\n📍 இடம்: சேலம் 5 ரோடு - அஸ்தம்பட்டி சாலை\n🗓️ நாள்: நவம்பர் 27, 2026\n🕘 நேரம்: காலை 9:45 மணி\n👮 நடவடிக்கை: அஸ்தம்பட்டி போலீசார் விசாரணை\n\nSalem Asthampatti bus accident woman dies | Salem news\n📍 அஸ்தம்பட்டி, சேலம் | 28 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Salem360 #Salem #Asthampatti #விபத்து #SalemNews",
+   "prompts": "A private bus stands stopped on a busy Salem city road in Asthampatti after an accident, its front wheel close to a overturned moped lying on the tarmac. Around the bus, a few onlookers stand at a distance, seen from behind, and Tamil Nadu police in khaki are gathered near the spot, looking down at the road. The place is a busy two-lane city road in Asthampatti, with a row of small shops, a concrete electric pole and other two-wheelers and autorickshaws parked along the side, and a bus stop shelter visible further down. It is mid-morning in bright daylight with a clear sky, and the scene is quiet and solemn. Shot at eye level with a 35 mm lens, wide enough to show the road, the stopped bus, the fallen moped and the police presence. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up of the bus's front wheel on the wet tarmac beside a fallen moped, with its handlebar bent and its footrest scratched, placed on a road in Asthampatti, Salem. Behind the wheel, the road surface shows a dark skid mark and a few scattered slippers left on the road. Blurred figures of police in khaki and onlookers stand far in the background, seen from behind. Daylight, morning, a few parked autorickshaws and a low concrete roadside wall visible at the edge of the frame. Shot at slightly high angle with a 35 mm lens, focused on the wheel and moped, with the background softly out of focus. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-salem/woman-crushed-to-death-by-bus/4388258",
+   "published": "2026-11-28T06:51:00+05:30",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: reel_script sentence 1 (heard in the first 3 seconds) must name the place 'அஸ்தம்பட்டி' and the news itself, e.g. 'அஸ்தம்பட்டி-இல் ... 3 பேர் கைது.' - viewers decide in 3 seconds whether the news is about their area",
    "note": "free-model draft anthropic/claude-haiku-5-5, 13 attempt(s), 1 validator problem(s)",
    "post_time": "right after your reply, same day",
    "_area": "N",
    "_score": 999,
    "images": [
-    "https://pub-ec316fa6a94f404c993596355ad19128.r2.dev/salem360/20261128/c04a2d640ca5b24d.jpg",
-    "https://pub-ec316fa6a94f404c993596355ad19128.r2.dev/salem360/20261128/1d55512a3e6369a5.jpg"
+    "https://pub-ec316fa6a94f404c993596355ad19128.r2.dev/salem360/20261128/bf7e26bec01027ea.jpg",
+    "https://pub-ec316fa6a94f404c993596355ad19128.r2.dev/salem360/20261128/8742f63386480a87.jpg"
+   ]
+  },
+  {
+   "tamil_headline": "சின்னப்பம்பட்டியில் மோபெட் விபத்து: சிகிச்சை பலனின்றி ஓய்வுபெற்ற அரசு பஸ் கண்டக்டர் உயிரிழப்பு",
+   "english_headline": "Retired government bus conductor dies after moped hits road barrier near Chinnappampatti",
+   "category": "Roads & Transport",
+   "location": "Chinnappampatti, Tharamangalam area, Salem district",
+   "importance": "Medium",
+   "scope": "local",
+   "post_to": "Salem 360",
+   "slides_spec": {
+    "v": 3,
+    "cat": "விபத்து செய்தி",
+    "loc": "சின்னப்பம்பட்டி, சேலம்",
+    "hl1": "சின்னப்பம்பட்டியில் மோபெட் விபத்து",
+    "hl2": "முதியவர் உயிரிழப்பு",
+    "slides": [
+     {
+      "title": "எங்கு நடந்தது?",
+      "lines": [
+       "சின்னப்பம்பட்டி <b>மூலக்கடை</b> அருகே விபத்து",
+       "<b>24ம் தேதி</b> காலை 11:50 மணிக்கு நடந்தது",
+       "சாலையோரத் தடுப்பில் மோபெட் மோதியது"
+      ]
+     },
+     {
+      "title": "யார்",
+      "lines": [
+       "மேட்டூரை சேர்ந்த <b>66 வயது</b> ஓய்வுபெற்ற கண்டக்டர்",
+       "உடன் சென்ற <b>55 வயது</b> மனைவி காயமடைந்தார்",
+       "கோவிலுக்குச் சென்றுவிட்டு திரும்பும்போது விபத்து"
+      ]
+     },
+     {
+      "title": "சிகிச்சை & விசாரணை",
+      "lines": [
+       "சேலம் மற்றும் கோவை மருத்துவமனைகளில் சிகிச்சை",
+       "சிகிச்சை பலனின்றி <b>66 வயது</b> முதியவர் உயிரிழப்பு",
+       "தாரமங்கலம் போலீசார் விசாரணை நடத்துகின்றனர்"
+      ]
+     }
+    ],
+    "carousel": false
+   },
+   "reel_script": "சின்னப்பம்பட்டி அருகே மோபெட் விபத்தில் காயமடைந்த 66 வயது ஓய்வுபெற்ற அரசு பஸ் கண்டக்டர் சிகிச்சை பலனின்றி உயிரிழந்தார். மேட்டூர் ராமன் நகரைச் சேர்ந்த 66 வயது முதியவரும், அவரது 55 வயது மனைவியும் கடந்த 24ஆம் தேதி ஜூபிடர் மோபெட்டில் கொங்கணாபுரம் சுண்டமேட்டூரில் உள்ள குலதெய்வ கோவிலுக்குச் சென்றனர். சுவாமி தரிசனம் முடித்துவிட்டு அவர்கள் மீண்டும் வீட்டிற்குத் திரும்பிக் கொண்டிருந்தனர். காலை 11:50 மணிக்கு சின்னப்பம்பட்டி மூலக்கடை பகுதிக்கு வந்தபோது, மோபெட் கட்டுப்பாட்டை இழந்து சாலையின் இடதுபுறத் தடுப்பில் மோதியது. இதில் இருவரும் மோபெட்டிலிருந்து கீழே விழுந்து பலத்த காயமடைந்தனர். அங்கிருந்த பொதுமக்கள் இருவரையும் மீட்டு சேலத்தில் உள்ள தனியார் மருத்துவமனைக்கு அனுப்பி வைத்தனர். பின்னர் மேல் சிகிச்சைக்காக கோவை தனியார் மருத்துவமனையில் அனுமதிக்கப்பட்டனர். அங்கு சிகிச்சை பலனின்றி 66 வயது முதியவர் உயிரிழந்தார். இச்சம்பவம் குறித்து தாரமங்கலம் போலீசார் வழக்குப் பதிவு செய்து விசாரணை நடத்தி வருகின்றனர். மேலும் செய்திகளுக்கு சேலம் த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🚨 சின்னப்பம்பட்டியில் மோபெட் விபத்து: ஓய்வுபெற்ற அரசு பஸ் கண்டக்டர் உயிரிழப்பு\n\n📰 முழு விவரம்:\nமேட்டூர் ராமன் நகரைச் சேர்ந்த 66 வயது ஓய்வுபெற்ற அரசு பஸ் கண்டக்டர், அவரது 55 வயது மனைவியுடன் கடந்த 24ஆம் தேதி கொங்கணாபுரம் சுண்டமேட்டூர் குலதெய்வ கோவிலுக்கு மோபெட்டில் சென்றார். சாமி கும்பிட்டுவிட்டு திரும்பியபோது, காலை 11:50 மணிக்கு சின்னப்பம்பட்டி மூலக்கடை அருகே மோபெட் சாலையோரத் தடுப்பில் மோதி விபத்துக்குள்ளானது.\n🏥 காயமடைந்த இருவரும் சேலம் மற்றும் கோவை தனியார் மருத்துவமனைகளில் சிகிச்சைக்காக சேர்க்கப்பட்டனர். அங்கு சிகிச்சை பலனின்றி 66 வயது முதியவர் உயிரிழந்தார்.\n\n📍 இடம்: சின்னப்பம்பட்டி மூலக்கடை, சேலம் மாவட்டம்\n🗓️ நாள்: 24 நவம்பர் 2026 (காலை 11:50 மணி)\n👮 நடவடிக்கை: தாரமங்கலம் போலீசார் விசாரணை நடத்தி வருகின்றனர்.\n\nவாகனம் ஓட்டும்போது கவனமாக செல்ல விழிப்புணர்வாக Share செய்யுங்கள்.\n\nChinnappampatti road accident Mettur conductor dies | Salem news\n📍 சின்னப்பம்பட்டி, சேலம் மாவட்டம் | 28 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Salem360 #Salem #Tharamangalam #SalemAccident #சேலம்",
+   "prompts": "A red-brown two-wheeler moped lies on its side against a low grey concrete road divider at the edge of a rural road in Chinnappampatti, Tharamangalam area, Salem district, Tamil Nadu. The moped's front wheel is bent and its handlebar is twisted, with a few villagers standing at a distance on the far side of the road. The scene is set at a small junction with a roadside tea shack and a few shops, dry roadside dust, and a stretch of tarred road curving into the distance. A few two-wheelers and an autorickshaw are parked slightly away. Tamil Nadu police in khaki stand near the barrier, seen from behind. Men in shirts and veshti and a woman in a cotton saree stand in small groups, their backs to the camera. It is late morning, under bright daylight with clear skies and soft shadows. Camera at eye level, 35 mm, wide enough to show the barrier, the moped and the road. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up of a damaged concrete road barrier on the left side of a rural road in Chinnappampatti, Salem district. A chipped and broken corner of the grey concrete divider shows a fresh scrape mark, with a twisted piece of a moped's footrest and a crumpled side panel lying on the tarred road beside it. Dust and a few scattered pebbles surround the damage, and a faint tyre skid mark runs across the black road surface. In the soft background, a blurred figure in a shirt stands far away, seen from behind. It is bright late-morning daylight with clear, even light. Camera at a low angle, 50 mm, shallow depth of field so the damaged barrier is sharp and the background is softly blurred. Photorealistic press photograph from Salem city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-salem/retired-conductor-dies-in-accident/4388242",
+   "published": "2026-11-28T06:43:00+05:30",
+   "verification": "DRAFT (gemini/gemini-3.6-flash) - NOT CLEAN, held from posting - problems: sentence 1 (one-line story) has 14 words; make it 6-9 words (about 2-3 seconds), the details follow in the next sentences",
+   "note": "free-model draft gemini/gemini-3.6-flash, 1 attempt(s), 1 validator problem(s)",
+   "post_time": "right after your reply, same day",
+   "_area": "N",
+   "_score": 999,
+   "images": [
+    "https://pub-ec316fa6a94f404c993596355ad19128.r2.dev/salem360/20261128/2e10e42655bd3251.jpg",
+    "https://pub-ec316fa6a94f404c993596355ad19128.r2.dev/salem360/20261128/04863aa57bdfe6c4.jpg"
    ]
   }
  ]
