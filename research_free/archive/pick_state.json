@@ -54,7 +54,8 @@
    "score": 7.0,
    "power_cut": false,
    "listed_at": "2026-11-28T02:28:17.871748+05:30",
-   "picked_at": "2026-11-28T16:26:37.739859+05:30"
+   "picked_at": "2026-11-28T16:26:37.739859+05:30",
+   "refused": "not filed: duplicate after write"
   },
   "Cf3b1d14": {
    "id": "Cf3b1d14",
@@ -91,7 +92,8 @@
    "score": 4.96,
    "power_cut": false,
    "listed_at": "2026-11-28T02:28:17.871748+05:30",
-   "picked_at": "2026-11-28T16:26:37.739862+05:30"
+   "picked_at": "2026-11-28T16:26:37.739862+05:30",
+   "posted": true
   },
   "C019ca85": {
    "id": "C019ca85",
@@ -145,7 +147,8 @@
    "score": 6.0,
    "power_cut": false,
    "listed_at": "2026-11-28T07:22:25.923672+05:30",
-   "picked_at": "2026-11-28T16:26:37.739861+05:30"
+   "picked_at": "2026-11-28T16:26:37.739861+05:30",
+   "posted": true
   },
   "Cff73eaa": {
    "id": "Cff73eaa",
@@ -970,7 +973,10 @@
     "C1463255",
     "Cd13a41e",
     "Cd4722cc"
-   ]
+   ],
+   "refused": {
+    "Cd4722cc": "not filed: duplicate after write"
+   }
   }
  },
  "retry": {
